@@ -9,9 +9,16 @@
       "source_url": "https://example.com/openai-azure-2030",
       "source_name": "The Information",
       "impact": 1,
-      "checklist_items_affected": ["B1", "B2"],
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
       "confidence": "high",
-      "tags": ["partnership", "microsoft", "infrastructure"]
+      "tags": [
+        "partnership",
+        "microsoft",
+        "infrastructure"
+      ]
     },
     {
       "id": "evt-002",
@@ -22,9 +29,15 @@
       "source_url": "https://example.com/openai-nvidia-h100",
       "source_name": "Reuters",
       "impact": 1,
-      "checklist_items_affected": ["A1"],
+      "checklist_items_affected": [
+        "A1"
+      ],
       "confidence": "high",
-      "tags": ["nvidia", "gpu", "supply"]
+      "tags": [
+        "nvidia",
+        "gpu",
+        "supply"
+      ]
     },
     {
       "id": "evt-003",
@@ -35,9 +48,14 @@
       "source_url": "https://example.com/anthropic-multicloud",
       "source_name": "TechCrunch",
       "impact": -1,
-      "checklist_items_affected": ["E1"],
+      "checklist_items_affected": [
+        "E1"
+      ],
       "confidence": "high",
-      "tags": ["multi-cloud", "diversification"]
+      "tags": [
+        "multi-cloud",
+        "diversification"
+      ]
     },
     {
       "id": "evt-004",
@@ -48,9 +66,14 @@
       "source_url": "https://example.com/anthropic-funding",
       "source_name": "WSJ",
       "impact": -1,
-      "checklist_items_affected": ["E2"],
+      "checklist_items_affected": [
+        "E2"
+      ],
       "confidence": "high",
-      "tags": ["funding", "valuation"]
+      "tags": [
+        "funding",
+        "valuation"
+      ]
     },
     {
       "id": "evt-005",
@@ -61,9 +84,15 @@
       "source_url": "https://example.com/deepmind-eu-compliance",
       "source_name": "Financial Times",
       "impact": 1,
-      "checklist_items_affected": ["C2"],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "medium",
-      "tags": ["regulation", "eu", "compliance"]
+      "tags": [
+        "regulation",
+        "eu",
+        "compliance"
+      ]
     },
     {
       "id": "evt-006",
@@ -74,9 +103,15 @@
       "source_url": "https://example.com/google-tpu-v6",
       "source_name": "Ars Technica",
       "impact": -1,
-      "checklist_items_affected": ["E1"],
+      "checklist_items_affected": [
+        "E1"
+      ],
       "confidence": "high",
-      "tags": ["tpu", "custom silicon", "diversification"]
+      "tags": [
+        "tpu",
+        "custom silicon",
+        "diversification"
+      ]
     },
     {
       "id": "evt-007",
@@ -87,9 +122,15 @@
       "source_url": "https://example.com/xai-colossus",
       "source_name": "Wired",
       "impact": 1,
-      "checklist_items_affected": ["A1"],
+      "checklist_items_affected": [
+        "A1"
+      ],
       "confidence": "high",
-      "tags": ["nvidia", "infrastructure", "colossus"]
+      "tags": [
+        "nvidia",
+        "infrastructure",
+        "colossus"
+      ]
     },
     {
       "id": "evt-008",
@@ -100,9 +141,14 @@
       "source_url": "https://example.com/xai-monetization",
       "source_name": "Bloomberg",
       "impact": 1,
-      "checklist_items_affected": ["D1"],
+      "checklist_items_affected": [
+        "D1"
+      ],
       "confidence": "medium",
-      "tags": ["revenue", "monetization"]
+      "tags": [
+        "revenue",
+        "monetization"
+      ]
     },
     {
       "id": "evt-009",
@@ -113,9 +159,15 @@
       "source_url": "https://example.com/meta-amd-support",
       "source_name": "AnandTech",
       "impact": -1,
-      "checklist_items_affected": ["E1"],
+      "checklist_items_affected": [
+        "E1"
+      ],
       "confidence": "high",
-      "tags": ["amd", "diversification", "llama"]
+      "tags": [
+        "amd",
+        "diversification",
+        "llama"
+      ]
     },
     {
       "id": "evt-010",
@@ -126,9 +178,15 @@
       "source_url": "https://example.com/meta-ftc-ai",
       "source_name": "NYT",
       "impact": 1,
-      "checklist_items_affected": ["C2"],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "medium",
-      "tags": ["ftc", "regulation", "data"]
+      "tags": [
+        "ftc",
+        "regulation",
+        "data"
+      ]
     },
     {
       "id": "evt-011",
@@ -139,9 +197,15 @@
       "source_url": "https://example.com/openai-lobbying",
       "source_name": "Politico",
       "impact": 1,
-      "checklist_items_affected": ["C2"],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "medium",
-      "tags": ["regulation", "lobbying", "congress"]
+      "tags": [
+        "regulation",
+        "lobbying",
+        "congress"
+      ]
     },
     {
       "id": "evt-012",
@@ -152,9 +216,15 @@
       "source_url": "https://example.com/anthropic-asic",
       "source_name": "The Information",
       "impact": -1,
-      "checklist_items_affected": ["E1"],
+      "checklist_items_affected": [
+        "E1"
+      ],
       "confidence": "low",
-      "tags": ["custom silicon", "google", "asic"]
+      "tags": [
+        "custom silicon",
+        "google",
+        "asic"
+      ]
     },
     {
       "id": "evt-013",
@@ -165,9 +235,16 @@
       "source_url": "https://example.com/gemini-gcp-exclusive",
       "source_name": "CNBC",
       "impact": 1,
-      "checklist_items_affected": ["B1", "B2"],
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
       "confidence": "high",
-      "tags": ["gcp", "exclusive", "gemini"]
+      "tags": [
+        "gcp",
+        "exclusive",
+        "gemini"
+      ]
     },
     {
       "id": "evt-014",
@@ -178,9 +255,14 @@
       "source_url": "https://example.com/xai-funding",
       "source_name": "Reuters",
       "impact": -1,
-      "checklist_items_affected": ["E2"],
+      "checklist_items_affected": [
+        "E2"
+      ],
       "confidence": "high",
-      "tags": ["funding", "runway"]
+      "tags": [
+        "funding",
+        "runway"
+      ]
     },
     {
       "id": "evt-015",
@@ -191,9 +273,15 @@
       "source_url": "https://example.com/meta-nvidia-oracle",
       "source_name": "The Verge",
       "impact": 1,
-      "checklist_items_affected": ["A1"],
+      "checklist_items_affected": [
+        "A1"
+      ],
       "confidence": "high",
-      "tags": ["nvidia", "oracle", "infrastructure"]
+      "tags": [
+        "nvidia",
+        "oracle",
+        "infrastructure"
+      ]
     },
     {
       "id": "evt-016",
@@ -204,9 +292,15 @@
       "source_url": "https://example.com/chatgpt-growth",
       "source_name": "The Information",
       "impact": 1,
-      "checklist_items_affected": ["D1"],
+      "checklist_items_affected": [
+        "D1"
+      ],
       "confidence": "medium",
-      "tags": ["subscribers", "competition", "growth"]
+      "tags": [
+        "subscribers",
+        "competition",
+        "growth"
+      ]
     },
     {
       "id": "evt-017",
@@ -217,9 +311,15 @@
       "source_url": "https://example.com/anthropic-uk-safety",
       "source_name": "Guardian",
       "impact": -1,
-      "checklist_items_affected": ["E2"],
+      "checklist_items_affected": [
+        "E2"
+      ],
       "confidence": "medium",
-      "tags": ["safety", "uk", "compliance"]
+      "tags": [
+        "safety",
+        "uk",
+        "compliance"
+      ]
     },
     {
       "id": "evt-018",
@@ -230,9 +330,15 @@
       "source_url": "https://example.com/deepmind-tpu-efficiency",
       "source_name": "VentureBeat",
       "impact": -1,
-      "checklist_items_affected": ["E1"],
+      "checklist_items_affected": [
+        "E1"
+      ],
       "confidence": "high",
-      "tags": ["tpu", "efficiency", "research"]
+      "tags": [
+        "tpu",
+        "efficiency",
+        "research"
+      ]
     },
     {
       "id": "evt-019",
@@ -243,9 +349,14 @@
       "source_url": "https://example.com/xai-regulation",
       "source_name": "Axios",
       "impact": -1,
-      "checklist_items_affected": ["E2"],
+      "checklist_items_affected": [
+        "E2"
+      ],
       "confidence": "low",
-      "tags": ["regulation", "startup"]
+      "tags": [
+        "regulation",
+        "startup"
+      ]
     },
     {
       "id": "evt-020",
@@ -256,9 +367,52 @@
       "source_url": "https://example.com/meta-llama-revenue",
       "source_name": "Bloomberg",
       "impact": 1,
-      "checklist_items_affected": ["D1"],
+      "checklist_items_affected": [
+        "D1"
+      ],
       "confidence": "medium",
-      "tags": ["revenue", "llama", "adoption"]
+      "tags": [
+        "revenue",
+        "llama",
+        "adoption"
+      ]
+    },
+    {
+      "id": "evt-272e4fc8",
+      "date": "2026-01-12",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "Google\u2019s Gemini to power Apple\u2019s AI features like Siri",
+      "source_url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "partnership"
+      ],
+      "auto_classified": true
+    },
+    {
+      "id": "evt-ae9bfbe7",
+      "date": "2026-01-07",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "source_url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source_name": "VentureBeat AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "auto_classified": true
     }
   ]
 }
