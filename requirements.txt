@@ -1,4 +1,4 @@
-# AI Systemic Fragility Tracker - Python Dependencies
+# Fault Line - Python Dependencies
 
 # RSS feed parsing
 feedparser>=6.0.10

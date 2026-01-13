@@ -1,4 +1,4 @@
-# AI Systemic Fragility Tracker
+# Fault Line
 
 A public dashboard for monitoring systemic fragility across frontier AI labs, powered by transparent methodology and continuous news ingestion.
 
@@ -6,7 +6,7 @@ A public dashboard for monitoring systemic fragility across frontier AI labs, po
 
 ## 🎯 What This Is
 
-The AI Systemic Fragility Tracker converts fragmented AI industry news into a coherent monitoring dashboard. It tracks **5 frontier AI labs** across **5 fragility dimensions**, producing a **0-10 fragility score** based on publicly verifiable signals.
+The Fault Line converts fragmented AI industry news into a coherent monitoring dashboard. It tracks **5 frontier AI labs** across **5 fragility dimensions**, producing a **0-10 fragility score** based on publicly verifiable signals.
 
 ### Tracked Labs
 - **OpenAI** - GPT/ChatGPT
@@ -24,7 +24,7 @@ The AI Systemic Fragility Tracker converts fragmented AI industry news into a co
 
 ## 📊 Live Dashboard
 
-**[View the Dashboard →](https://yourusername.github.io/ai-fragility-tracker/)**
+**[View the Dashboard →](https://yourusername.github.io/fault-line/)**
 
 Features:
 - Ranked table of labs by fragility score
@@ -63,7 +63,7 @@ Click "Fork" in the top right corner of this page.
 3. Select **Branch**: `main`, **Folder**: `/docs`
 4. Click **Save**
 
-Your site will be live at `https://yourusername.github.io/ai-fragility-tracker/`
+Your site will be live at `https://yourusername.github.io/fault-line/`
 
 ### 3. Enable GitHub Actions
 
@@ -76,8 +76,8 @@ Your site will be live at `https://yourusername.github.io/ai-fragility-tracker/`
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/ai-fragility-tracker.git
-cd ai-fragility-tracker
+git clone https://github.com/yourusername/fault-line.git
+cd fault-line
 
 # Install dependencies
 pip install -r requirements.txt
@@ -94,7 +94,7 @@ cd docs && python -m http.server 8000
 ## 📁 Project Structure
 
 ```
-ai-fragility-tracker/
+fault-line/
 ├── docs/                      # GitHub Pages root
 │   ├── index.html            # Dashboard
 │   ├── lab.html              # Lab detail view
@@ -243,4 +243,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-**Questions?** [Open an issue](../../issues/new) or check the [methodology page](https://yourusername.github.io/ai-fragility-tracker/methodology.html).
+**Questions?** [Open an issue](../../issues/new) or check the [methodology page](https://yourusername.github.io/fault-line/methodology.html).
