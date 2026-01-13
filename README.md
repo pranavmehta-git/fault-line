@@ -115,12 +115,12 @@ fault-line/
 │   └── overrides.yaml        # Manual corrections
 │
 ├── .github/
-│   ├── workflows/
-│   │   └── update-data.yml   # Scheduled pipeline
-│   └── ISSUE_TEMPLATE/
-│       └── submit-event.yml  # Event submission form
+│   └── workflows/
+│       └── update-data.yml   # Scheduled pipeline
 │
+├── .gitignore                # Git ignore rules
 ├── requirements.txt          # Python dependencies
+├── LICENSE                   # MIT License
 └── README.md
 ```
 
@@ -197,9 +197,8 @@ overrides:
 ### Submit an Event
 
 1. Click **Issues** → **New Issue**
-2. Select "📰 Submit Event" template
-3. Fill in the event details
-4. A maintainer will review and include it
+2. Provide the event URL, affected lab, and relevant dimension
+3. A maintainer will review and include it
 
 ### Improve the Code
 
