@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fault Line</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="noise-overlay"></div>
+    
+    <header class="main-header">
+        <div class="header-left">
+            <div class="logo">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">FAULT<span class="logo-accent">LINE</span></span>
+            </div>
+            <div class="tagline">Systemic Risk Monitor for Frontier AI Labs</div>
+        </div>
+        <nav class="main-nav">
+            <a href="index.html" class="nav-link active">Dashboard</a>
+            <a href="events.html" class="nav-link">Events</a>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+        </nav>
+        <div class="header-right">
+            <div class="last-updated" id="lastUpdated">
+                <span class="update-label">LAST SYNC</span>
+                <span class="update-time">—</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="dashboard">
+        <section class="summary-strip">
+            <div class="summary-card">
+                <div class="summary-label">LABS TRACKED</div>
+                <div class="summary-value" id="labsCount">—</div>
+            </div>
+            <div class="summary-card">
+                <div class="summary-label">EVENTS INDEXED</div>
+                <div class="summary-value" id="eventsCount">—</div>
+            </div>
+            <div class="summary-card">
+                <div class="summary-label">AVG FRAGILITY</div>
+                <div class="summary-value" id="avgFragility">—</div>
+            </div>
+            <div class="summary-card highlight">
+                <div class="summary-label">HIGHEST RISK</div>
+                <div class="summary-value" id="highestRisk">—</div>
+            </div>
+        </section>
+
+        <section class="rankings-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">▣</span>
+                    Lab Rankings
+                </h2>
+                <div class="section-controls">
+                    <button class="control-btn active" data-sort="score">By Score</button>
+                    <button class="control-btn" data-sort="name">By Name</button>
+                    <button class="control-btn" data-sort="trend">By Trend</button>
+                </div>
+            </div>
+            
+            <div class="rankings-table" id="rankingsTable">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <section class="dimensions-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">◫</span>
+                    Dimension Overview
+                </h2>
+            </div>
+            <div class="dimensions-grid" id="dimensionsGrid">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <section class="recent-events-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">◧</span>
+                    Recent Events
+                </h2>
+                <a href="events.html" class="view-all-link">View All →</a>
+            </div>
+            <div class="events-list" id="recentEvents">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <span class="footer-brand">⚡ FaultLine</span>
+                <span class="footer-version">v1.0.0</span>
+            </div>
+            <div class="footer-center">
+                Open source • <a href="methodology.html">Transparent methodology</a> • Data-driven analysis
+            </div>
+            <div class="footer-right">
+                <a href="https://github.com" class="footer-link">GitHub</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+</body>
+</html>
