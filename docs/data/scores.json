@@ -1,0 +1,81 @@
+{
+  "last_updated": "2025-01-13T12:00:00Z",
+  "scoring_version": "1.0.0",
+  "scores": [
+    {
+      "lab_id": "openai",
+      "total_score": 6,
+      "rank": 1,
+      "trend": "stable",
+      "breakdown": {
+        "compute_chips": { "score": 1, "max": 2, "items_triggered": ["A1"] },
+        "cloud": { "score": 2, "max": 2, "items_triggered": ["B1", "B2"] },
+        "policy": { "score": 1, "max": 2, "items_triggered": ["C2"] },
+        "demand": { "score": 1, "max": 2, "items_triggered": ["D1"] },
+        "resilience": { "score": 0, "max": 2, "items_triggered": [] }
+      },
+      "events_count": 4,
+      "last_event_date": "2025-01-10"
+    },
+    {
+      "lab_id": "xai",
+      "total_score": 4,
+      "rank": 2,
+      "trend": "improving",
+      "breakdown": {
+        "compute_chips": { "score": 1, "max": 2, "items_triggered": ["A1"] },
+        "cloud": { "score": 0, "max": 2, "items_triggered": [] },
+        "policy": { "score": 0, "max": 2, "items_triggered": [] },
+        "demand": { "score": 1, "max": 2, "items_triggered": ["D1"] },
+        "resilience": { "score": 2, "max": 2, "items_triggered": ["E2"] }
+      },
+      "events_count": 4,
+      "last_event_date": "2024-12-15"
+    },
+    {
+      "lab_id": "deepmind",
+      "total_score": 3,
+      "rank": 3,
+      "trend": "stable",
+      "breakdown": {
+        "compute_chips": { "score": 0, "max": 2, "items_triggered": [] },
+        "cloud": { "score": 2, "max": 2, "items_triggered": ["B1", "B2"] },
+        "policy": { "score": 1, "max": 2, "items_triggered": ["C2"] },
+        "demand": { "score": 0, "max": 2, "items_triggered": [] },
+        "resilience": { "score": 2, "max": 2, "items_triggered": ["E1"] }
+      },
+      "events_count": 4,
+      "last_event_date": "2024-12-28"
+    },
+    {
+      "lab_id": "meta",
+      "total_score": 3,
+      "rank": 4,
+      "trend": "worsening",
+      "breakdown": {
+        "compute_chips": { "score": 1, "max": 2, "items_triggered": ["A1"] },
+        "cloud": { "score": 0, "max": 2, "items_triggered": [] },
+        "policy": { "score": 1, "max": 2, "items_triggered": ["C2"] },
+        "demand": { "score": 1, "max": 2, "items_triggered": ["D1"] },
+        "resilience": { "score": 1, "max": 2, "items_triggered": ["E1"] }
+      },
+      "events_count": 4,
+      "last_event_date": "2024-12-05"
+    },
+    {
+      "lab_id": "anthropic",
+      "total_score": 0,
+      "rank": 5,
+      "trend": "improving",
+      "breakdown": {
+        "compute_chips": { "score": 0, "max": 2, "items_triggered": [] },
+        "cloud": { "score": 0, "max": 2, "items_triggered": [] },
+        "policy": { "score": 0, "max": 2, "items_triggered": [] },
+        "demand": { "score": 0, "max": 2, "items_triggered": [] },
+        "resilience": { "score": 2, "max": 2, "items_triggered": ["E1", "E2"] }
+      },
+      "events_count": 4,
+      "last_event_date": "2025-01-05"
+    }
+  ]
+}

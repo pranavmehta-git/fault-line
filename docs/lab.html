@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Detail - Fault Line</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="noise-overlay"></div>
+    
+    <header class="main-header">
+        <div class="header-left">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">FAULT<span class="logo-accent">LINE</span></span>
+            </a>
+            <div class="tagline">Systemic Risk Monitor for Frontier AI Labs</div>
+        </div>
+        <nav class="main-nav">
+            <a href="index.html" class="nav-link">Dashboard</a>
+            <a href="events.html" class="nav-link">Events</a>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+        </nav>
+    </header>
+
+    <main class="lab-detail">
+        <a href="index.html" class="back-link" style="display: inline-flex; align-items: center; gap: 8px; margin-bottom: 24px; font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted);">
+            ← Back to Dashboard
+        </a>
+
+        <div class="lab-header" id="labHeader">
+            <div class="loading">Loading lab data...</div>
+        </div>
+
+        <section class="checklist-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">☑</span>
+                    Fragility Checklist
+                </h2>
+            </div>
+            <div class="checklist-grid" id="checklistGrid">
+                <div class="loading">Loading checklist...</div>
+            </div>
+        </section>
+
+        <section class="events-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">◧</span>
+                    Related Events
+                </h2>
+            </div>
+            <div class="events-list" id="labEvents">
+                <div class="loading">Loading events...</div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <span class="footer-brand">⚡ FaultLine</span>
+                <span class="footer-version">v1.0.0</span>
+            </div>
+            <div class="footer-center">
+                Open source • <a href="methodology.html">Transparent methodology</a> • Data-driven analysis
+            </div>
+            <div class="footer-right">
+                <a href="https://github.com" class="footer-link">GitHub</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+# Manual Classification Overrides
+# ================================
+# Use this file to correct or pin classifications for specific events.
+# The pipeline will apply these overrides after automatic classification.
+#
+# Format:
+#   - url: <exact article URL>
+#     lab: <lab_id>           # Optional: override detected lab
+#     dimension: <dimension>  # Optional: override detected dimension
+#     impact: <+1|-1|0>       # Optional: override impact direction
+#     checklist_items: [...]  # Optional: override affected items
+#     exclude: true           # Optional: exclude from processing entirely
+#     notes: <reason>         # Optional: explanation for override
+
+overrides:
+
+  # Example: Correct a misclassified article
+  # - url: "https://example.com/article-about-openai"
+  #   lab: "openai"
+  #   dimension: "cloud"
+  #   impact: 1
+  #   checklist_items: ["B1"]
+  #   notes: "Article discusses Azure dependency, not chips"
+
+  # Example: Exclude irrelevant article
+  # - url: "https://example.com/off-topic-article"
+  #   exclude: true
+  #   notes: "Not about frontier AI labs"
+
+# Pinned Events
+# =============
+# Manually curated events that should always be included regardless of RSS feeds.
+# These are typically significant events from reliable sources.
+
+pinned_events:
+
+  # Example format:
+  # - url: "https://example.com/important-article"
+  #   date: "2025-01-10"
+  #   lab: "openai"
+  #   dimension: "policy"
+  #   summary: "Brief description of the event"
+  #   impact: 1
+  #   checklist_items: ["C1", "C2"]
+  #   source_name: "Example News"
+  #   confidence: "high"
+
+# Lab Aliases
+# ===========
+# Map variant names to canonical lab IDs
+
+lab_aliases:
+  "open ai": "openai"
+  "openai inc": "openai"
+  "google deepmind": "deepmind"
+  "google ai": "deepmind"
+  "meta ai": "meta"
+  "facebook ai": "meta"
+  "fair": "meta"
+  "x.ai": "xai"
+  "elon musk ai": "xai"
+
+# Excluded Domains
+# ================
+# Domains to skip during ingestion (low quality, paywalled, etc.)
+
+excluded_domains:
+  - "reddit.com"
+  - "twitter.com"
+  - "x.com"
+  - "linkedin.com"
+  - "medium.com"  # Too much noise
