@@ -146,7 +146,7 @@ class NewsIngester:
                 date = datetime.fromisoformat(article["date"].replace("Z", "+00:00"))
                 if date.replace(tzinfo=None) >= cutoff:
                     recent.append(article)
-            except:
+            except (ValueError, TypeError, KeyError):
                 # Keep articles with unparseable dates
                 recent.append(article)
                 
