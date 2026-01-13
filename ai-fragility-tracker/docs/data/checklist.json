@@ -1,0 +1,124 @@
+{
+  "version": "1.0.0",
+  "decay_window_days": 180,
+  "dimensions": [
+    {
+      "id": "compute_chips",
+      "name": "Compute & Chips Dependence",
+      "description": "Measures reliance on specific hardware vendors and supply chain vulnerabilities",
+      "icon": "💾",
+      "max_score": 2
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud Concentration",
+      "description": "Measures dependency on hyperscaler partnerships and infrastructure lock-in",
+      "icon": "☁️",
+      "max_score": 2
+    },
+    {
+      "id": "policy",
+      "name": "Policy & Geopolitical Exposure",
+      "description": "Measures sensitivity to regulatory action, export controls, and political shifts",
+      "icon": "🏛️",
+      "max_score": 2
+    },
+    {
+      "id": "demand",
+      "name": "Demand & Commercialization",
+      "description": "Measures revenue sustainability, customer concentration, and market position",
+      "icon": "📈",
+      "max_score": 2
+    },
+    {
+      "id": "resilience",
+      "name": "Resilience Moves",
+      "description": "Measures proactive risk mitigation, diversification, and strategic hedging",
+      "icon": "🛡️",
+      "max_score": 2,
+      "inverted": true
+    }
+  ],
+  "checklist_items": [
+    {
+      "id": "A1",
+      "dimension": "compute_chips",
+      "name": "Single GPU Vendor Lock-in",
+      "description": "Evidence of tight coupling to a single GPU vendor (e.g., NVIDIA-only strategy)",
+      "points": 1,
+      "keywords": ["nvidia", "gpu", "h100", "b200", "blackwell", "hopper", "accelerator", "chip"]
+    },
+    {
+      "id": "A2",
+      "dimension": "compute_chips",
+      "name": "Supply Constraints Impact",
+      "description": "Evidence of supply constraints or delivery risk impacting roadmap",
+      "points": 1,
+      "keywords": ["shortage", "allocation", "delivery", "supply chain", "lead time", "backlog"]
+    },
+    {
+      "id": "B1",
+      "dimension": "cloud",
+      "name": "Single Hyperscaler Dependence",
+      "description": "Primary dependence on one hyperscaler for training/inference infrastructure",
+      "points": 1,
+      "keywords": ["azure", "aws", "gcp", "google cloud", "microsoft", "amazon", "hyperscaler"]
+    },
+    {
+      "id": "B2",
+      "dimension": "cloud",
+      "name": "Platform Lock-in Signals",
+      "description": "Switching costs, exclusivity signals, or deep integration with single provider",
+      "points": 1,
+      "keywords": ["exclusive", "partnership", "integration", "lock-in", "commitment", "deal"]
+    },
+    {
+      "id": "C1",
+      "dimension": "policy",
+      "name": "Export Control Exposure",
+      "description": "Exposure to export controls or cross-border restrictions affecting compute/chips",
+      "points": 1,
+      "keywords": ["export", "restriction", "ban", "sanctions", "china", "bea", "commerce department"]
+    },
+    {
+      "id": "C2",
+      "dimension": "policy",
+      "name": "Regulatory Sensitivity",
+      "description": "High sensitivity to regulatory action (antitrust, safety regulation, procurement bans)",
+      "points": 1,
+      "keywords": ["antitrust", "regulation", "ftc", "doj", "investigation", "compliance", "eu ai act"]
+    },
+    {
+      "id": "D1",
+      "dimension": "demand",
+      "name": "Demand Weakness Signals",
+      "description": "Credible signals of demand weakness or monetization challenges",
+      "points": 1,
+      "keywords": ["churn", "revenue", "pricing pressure", "competition", "market share", "customer loss"]
+    },
+    {
+      "id": "D2",
+      "dimension": "demand",
+      "name": "Capex/Opex Overhang",
+      "description": "Evidence of capex/opex overhang relative to adoption (overbuild, runway strain)",
+      "points": 1,
+      "keywords": ["capex", "spending", "burn rate", "funding", "valuation", "overbuild", "utilization"]
+    },
+    {
+      "id": "E1",
+      "dimension": "resilience",
+      "name": "Multi-sourcing Demonstrated",
+      "description": "Demonstrated multi-sourcing or diversification (multi-cloud, alternative accelerators)",
+      "points": -1,
+      "keywords": ["diversif", "multi-cloud", "alternative", "tpu", "custom silicon", "redundan"]
+    },
+    {
+      "id": "E2",
+      "dimension": "resilience",
+      "name": "Risk Reduction Actions",
+      "description": "Concrete risk-reduction actions (long-term contracts, redundancy, modular deployment)",
+      "points": -1,
+      "keywords": ["contract", "hedge", "backup", "contingency", "mitigation", "strategic reserve"]
+    }
+  ]
+}

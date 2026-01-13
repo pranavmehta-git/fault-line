@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Methodology - AI Fragility Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="noise-overlay"></div>
+    
+    <header class="main-header">
+        <div class="header-left">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">FRAGILITY<span class="logo-accent">TRACKER</span></span>
+            </a>
+            <div class="tagline">Systemic Risk Monitor for Frontier AI Labs</div>
+        </div>
+        <nav class="main-nav">
+            <a href="index.html" class="nav-link">Dashboard</a>
+            <a href="events.html" class="nav-link">Events</a>
+            <a href="methodology.html" class="nav-link active">Methodology</a>
+        </nav>
+    </header>
+
+    <main class="methodology-page">
+        <div class="section-header" style="margin-bottom: 32px;">
+            <h1 class="section-title" style="font-size: 1.2rem;">
+                <span class="title-icon">📐</span>
+                Methodology
+            </h1>
+        </div>
+
+        <section class="methodology-section">
+            <h2>Overview</h2>
+            <p>
+                The AI Systemic Fragility Tracker provides a transparent, evidence-based assessment of structural vulnerabilities facing frontier AI laboratories. Rather than predicting outcomes, it monitors and quantifies dependencies and risk factors that could affect an organization's ability to operate, scale, or adapt.
+            </p>
+            <p>
+                Each lab receives a <strong>Fragility Score</strong> from 0–10, where higher scores indicate greater systemic fragility. Scores are derived from a simple checklist of binary indicators, each supported by publicly verifiable news events and sources.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Scoring Formula</h2>
+            <p>The total fragility score is calculated as:</p>
+            <div class="methodology-formula">
+                Total Score = (Compute + Cloud + Policy + Demand) − Resilience
+            </div>
+            <p>
+                Each dimension contributes 0–2 points of fragility, except <strong>Resilience</strong> which <em>reduces</em> the total score by demonstrating risk mitigation.
+            </p>
+            <p>
+                The final score is clamped to the range 0–10.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Dimensions Explained</h2>
+
+            <h3>💾 Compute & Chips Dependence (0–2 pts)</h3>
+            <p>
+                Measures reliance on specific hardware vendors and exposure to supply chain disruptions. Labs with single-vendor GPU strategies or documented supply constraints score higher.
+            </p>
+
+            <h3>☁️ Cloud Concentration (0–2 pts)</h3>
+            <p>
+                Measures dependency on hyperscaler partnerships for training and inference infrastructure. Exclusive partnerships, deep integrations, and high switching costs contribute to fragility.
+            </p>
+
+            <h3>🏛️ Policy & Geopolitical Exposure (0–2 pts)</h3>
+            <p>
+                Measures sensitivity to regulatory action, export controls, and political shifts. Labs operating across jurisdictions with pending regulations or active investigations score higher.
+            </p>
+
+            <h3>📈 Demand & Commercialization (0–2 pts)</h3>
+            <p>
+                Measures revenue sustainability and market position risks. Signals of demand weakness, customer churn, or capex/opex overhang relative to adoption increase this score.
+            </p>
+
+            <h3>🛡️ Resilience Moves (0–2 pts, inverted)</h3>
+            <p>
+                Measures proactive risk mitigation. Multi-sourcing strategies, diversified infrastructure, long-term contracts, and demonstrated redundancy <em>reduce</em> the total fragility score.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Checklist Items</h2>
+            <p>Each dimension is scored based on specific, observable indicators:</p>
+
+            <h3>A) Compute & Chips Dependence</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">A1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Single GPU Vendor Lock-in</div>
+                    <div class="checklist-def-desc">Evidence of tight coupling to a single GPU vendor (e.g., NVIDIA-only training strategy)</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">A2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Supply Constraints Impact</div>
+                    <div class="checklist-def-desc">Evidence of supply constraints or delivery risk impacting roadmap or operations</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+
+            <h3>B) Cloud Concentration</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">B1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Single Hyperscaler Dependence</div>
+                    <div class="checklist-def-desc">Primary dependence on one hyperscaler for training/inference infrastructure</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">B2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Platform Lock-in Signals</div>
+                    <div class="checklist-def-desc">Switching costs, exclusivity signals, or deep integration with single provider</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+
+            <h3>C) Policy & Geopolitical Exposure</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">C1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Export Control Exposure</div>
+                    <div class="checklist-def-desc">Exposure to export controls or cross-border restrictions affecting compute/chips</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">C2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Regulatory Sensitivity</div>
+                    <div class="checklist-def-desc">High sensitivity to regulatory action (antitrust, safety regulation, procurement bans)</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+
+            <h3>D) Demand & Commercialization</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">D1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Demand Weakness Signals</div>
+                    <div class="checklist-def-desc">Credible signals of demand weakness or monetization challenges</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">D2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Capex/Opex Overhang</div>
+                    <div class="checklist-def-desc">Evidence of capex/opex overhang relative to adoption (overbuild, runway strain)</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+
+            <h3>E) Resilience Moves (Mitigations)</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">E1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Multi-sourcing Demonstrated</div>
+                    <div class="checklist-def-desc">Demonstrated multi-sourcing or diversification (multi-cloud, alternative accelerators)</div>
+                </div>
+                <span class="checklist-def-points">−1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">E2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Risk Reduction Actions</div>
+                    <div class="checklist-def-desc">Concrete risk-reduction actions (long-term contracts, redundancy, modular deployment)</div>
+                </div>
+                <span class="checklist-def-points">−1 pt</span>
+            </div>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Evidence Requirements</h2>
+            <p>Each checklist item must be supported by:</p>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>At least one verifiable news event</strong> with a source URL</li>
+                <li><strong>Date within the decay window</strong> (default: 180 days)</li>
+                <li><strong>Confidence rating</strong> (low/medium/high) based on source reliability</li>
+            </ul>
+            <p>
+                Items without recent supporting evidence automatically expire and are no longer counted in the score.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Decay Window</h2>
+            <p>
+                Evidence expires after <strong>180 days</strong> by default unless reaffirmed by a new event. This ensures the tracker reflects current conditions rather than historical snapshots.
+            </p>
+            <p>
+                When an item is supported by multiple events, the most recent event date determines the expiration.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Contested Items</h2>
+            <p>
+                If contradictory evidence exists for a checklist item (e.g., both signals of lock-in and diversification), the item is marked as <strong>"contested"</strong> and requires manual review before affecting the score.
+            </p>
+            <p>
+                Contested items are displayed in the UI with both supporting and contradicting evidence visible.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Data Pipeline</h2>
+            <p>The tracker updates automatically via the following process:</p>
+            <ol style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>Ingestion:</strong> RSS feeds and curated sources are checked for new articles</li>
+                <li><strong>Classification:</strong> Articles are mapped to labs, dimensions, and checklist items</li>
+                <li><strong>Deduplication:</strong> Duplicate events are detected and merged</li>
+                <li><strong>Scoring:</strong> Checklist states are updated and scores recalculated</li>
+                <li><strong>Publication:</strong> JSON data files are committed to the repository</li>
+            </ol>
+            <p>
+                The pipeline runs daily via GitHub Actions. Manual event submissions are accepted via GitHub Issues.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Limitations & Caveats</h2>
+            <p>This tracker has important limitations:</p>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>Public information only:</strong> Private deals, internal metrics, and unreported events are not captured</li>
+                <li><strong>Binary indicators:</strong> Nuance and degree are not well represented by pass/fail items</li>
+                <li><strong>Lag:</strong> News may lag actual events by days or weeks</li>
+                <li><strong>Selection bias:</strong> Source selection affects what events are captured</li>
+                <li><strong>Not predictive:</strong> Fragility scores measure exposure, not likelihood of negative outcomes</li>
+            </ul>
+            <p>
+                Users should treat scores as a starting point for analysis, not definitive assessments.
+            </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Contributing</h2>
+            <p>
+                This project welcomes contributions. You can help by:
+            </p>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li>Submitting news events via GitHub Issues</li>
+                <li>Proposing new checklist items or methodology improvements</li>
+                <li>Reviewing and validating existing event classifications</li>
+                <li>Improving the data pipeline or frontend code</li>
+            </ul>
+            <p>
+                All contributions are subject to review to maintain data quality and methodological consistency.
+            </p>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <span class="footer-brand">◈ FragilityTracker</span>
+                <span class="footer-version">v1.0.0</span>
+            </div>
+            <div class="footer-center">
+                Open source • Transparent methodology • Data-driven analysis
+            </div>
+            <div class="footer-right">
+                <a href="https://github.com" class="footer-link">GitHub</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
