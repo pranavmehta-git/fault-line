@@ -106,6 +106,7 @@ class FragilityTracker {
                 <div class="score-display">
                     <span class="score-value ${this.getScoreClass(lab.total_score)}">${lab.total_score}</span>
                     <span class="score-max">/10</span>
+                    ${this.getScoreTooltipHTML()}
                 </div>
                 <div class="dimension-bars">
                     ${this.renderDimensionBars(lab.breakdown)}
@@ -239,6 +240,39 @@ class FragilityTracker {
     }
 
     // Utility methods
+    getScoreTooltipHTML() {
+        return `
+            <div class="score-tooltip-wrapper">
+                <span class="score-tooltip-trigger" aria-label="Score explanation">?</span>
+                <div class="score-tooltip-content" role="tooltip">
+                    <div class="score-tooltip-title">Fragility Score</div>
+                    <div class="score-tooltip-scale">
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator high">8-10</span>
+                            <span class="score-tooltip-text">Critical systemic risk</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator high">6-7</span>
+                            <span class="score-tooltip-text">High vulnerability</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator low">4-5</span>
+                            <span class="score-tooltip-text">Moderate exposure</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator low">0-3</span>
+                            <span class="score-tooltip-text">Low fragility</span>
+                        </div>
+                    </div>
+                    <div class="score-tooltip-note">
+                        Higher scores indicate greater dependency on concentrated resources,
+                        policy uncertainty, or limited resilience factors.
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+
     getScoreClass(score) {
         if (score >= 8) return 'score-critical';
         if (score >= 6) return 'score-high';
@@ -382,7 +416,7 @@ class LabDetailPage {
                 <p class="lab-header-desc">${this.lab.description}</p>
             </div>
             <div class="lab-score-card">
-                <div class="lab-score-label">Fragility Score</div>
+                <div class="lab-score-label">Fragility Score ${this.getScoreTooltipHTML()}</div>
                 <div class="lab-score-value ${this.getScoreClass(this.score.total_score)}">${this.score.total_score}</div>
                 <div class="lab-score-trend trend-indicator ${this.score.trend}">
                     ${this.getTrendIcon(this.score.trend)} ${this.score.trend}
@@ -458,6 +492,39 @@ class LabDetailPage {
     }
 
     // Utility methods (same as main tracker)
+    getScoreTooltipHTML() {
+        return `
+            <div class="score-tooltip-wrapper">
+                <span class="score-tooltip-trigger" aria-label="Score explanation">?</span>
+                <div class="score-tooltip-content" role="tooltip">
+                    <div class="score-tooltip-title">Fragility Score</div>
+                    <div class="score-tooltip-scale">
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator high">8-10</span>
+                            <span class="score-tooltip-text">Critical systemic risk</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator high">6-7</span>
+                            <span class="score-tooltip-text">High vulnerability</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator low">4-5</span>
+                            <span class="score-tooltip-text">Moderate exposure</span>
+                        </div>
+                        <div class="score-tooltip-item">
+                            <span class="score-tooltip-indicator low">0-3</span>
+                            <span class="score-tooltip-text">Low fragility</span>
+                        </div>
+                    </div>
+                    <div class="score-tooltip-note">
+                        Higher scores indicate greater dependency on concentrated resources,
+                        policy uncertainty, or limited resilience factors.
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+
     getScoreClass(score) {
         if (score >= 8) return 'score-critical';
         if (score >= 6) return 'score-high';
