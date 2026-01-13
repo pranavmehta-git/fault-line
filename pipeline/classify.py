@@ -250,17 +250,22 @@ class ArticleClassifier:
 
 def main():
     """Run the classification pipeline."""
-    classifier = ArticleClassifier()
+    # Get the directory where this script is located
+    script_dir = Path(__file__).parent
+    config_path = script_dir / "sources.yaml"
+    articles_path = script_dir / "raw_articles.json"
+    
+    classifier = ArticleClassifier(config_path=str(config_path))
     
     print("=" * 50)
     print("Fault Line - Classification")
     print("=" * 50)
     
     # Process new articles
-    new_events = classifier.process_articles()
+    new_events = classifier.process_articles(articles_path=str(articles_path))
     
     # Merge with existing
-    events_path = Path(__file__).parent.parent / "docs" / "data" / "events.json"
+    events_path = script_dir.parent / "docs" / "data" / "events.json"
     all_events = classifier.merge_with_existing(new_events, str(events_path))
     
     # Save
