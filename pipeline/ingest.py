@@ -166,7 +166,12 @@ class NewsIngester:
 
 def main():
     """Run the ingestion pipeline."""
-    ingester = NewsIngester()
+    # Get the directory where this script is located
+    script_dir = Path(__file__).parent
+    config_path = script_dir / "sources.yaml"
+    output_path = script_dir / "raw_articles.json"
+    
+    ingester = NewsIngester(config_path=str(config_path))
     
     print("=" * 50)
     print("Fault Line - News Ingestion")
@@ -180,12 +185,11 @@ def main():
     ingester.filter_recent(days=30)
     
     # Save
-    ingester.save()
+    ingester.save(output_path=str(output_path))
     
     print("=" * 50)
     print(f"Total articles: {len(ingester.articles)}")
     print("=" * 50)
-
 
 if __name__ == "__main__":
     main()
