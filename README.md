@@ -2,8 +2,6 @@
 
 A public dashboard for monitoring systemic fragility across frontier AI labs, powered by transparent methodology and continuous news ingestion.
 
-![Dashboard Preview](docs/assets/preview.png)
-
 ## 🎯 What This Is
 
 The Fault Line converts fragmented AI industry news into a coherent monitoring dashboard. It tracks **5 frontier AI labs** across **5 fragility dimensions**, producing a **0-10 fragility score** based on publicly verifiable signals.
@@ -24,7 +22,7 @@ The Fault Line converts fragmented AI industry news into a coherent monitoring d
 
 ## 📊 Live Dashboard
 
-**[View the Dashboard →](https://yourusername.github.io/fault-line/)**
+**[View the Dashboard →](https://pranavmehta-git.github.io/fault-line/)**
 
 Features:
 - Ranked table of labs by fragility score
