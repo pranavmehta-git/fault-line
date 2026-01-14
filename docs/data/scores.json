@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T07:31:49Z",
+  "last_updated": "2026-01-14T12:32:18Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -44,7 +44,7 @@
       },
       "events_count": 11,
       "last_event_date": "2026-01-10",
-      "trend": "improving",
+      "trend": "stable",
       "rank": 1
     },
     {
@@ -86,7 +86,7 @@
       },
       "events_count": 5,
       "last_event_date": "2026-01-12",
-      "trend": "improving",
+      "trend": "stable",
       "rank": 2
     },
     {
@@ -130,7 +130,7 @@
       },
       "events_count": 8,
       "last_event_date": "2026-01-05",
-      "trend": "improving",
+      "trend": "stable",
       "rank": 3
     },
     {
@@ -209,7 +209,7 @@
       },
       "events_count": 11,
       "last_event_date": "2026-01-10",
-      "trend": "improving",
+      "trend": "stable",
       "rank": 5
     }
   ]
