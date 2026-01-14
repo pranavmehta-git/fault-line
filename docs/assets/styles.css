@@ -201,6 +201,7 @@ a:hover {
 .update-time {
     font-size: 0.8rem;
     color: var(--accent-success);
+    cursor: help;
 }
 
 /* Dashboard Main */
