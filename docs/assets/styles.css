@@ -2001,16 +2001,48 @@ a:hover {
 .trend-stat-value.worsening { color: var(--risk-critical); }
 .trend-stat-value.stable { color: var(--text-secondary); }
 
+.recent-milestones-header {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    margin-bottom: var(--space-sm);
+    padding-bottom: var(--space-xs);
+    border-bottom: 1px solid var(--border-primary);
+}
+
 .recent-milestone {
     padding: var(--space-md);
     background: var(--bg-secondary);
     border-radius: 8px;
-    margin-bottom: var(--space-md);
+    margin-bottom: var(--space-sm);
+    border-left: 3px solid var(--border-primary);
+    transition: all 0.2s ease;
+}
+
+.recent-milestone:hover {
+    background: var(--bg-hover);
+}
+
+.recent-milestone.impact-positive {
+    border-left-color: var(--accent-success);
+}
+
+.recent-milestone.impact-negative {
+    border-left-color: var(--risk-critical);
+}
+
+.recent-milestone-date {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    margin-bottom: var(--space-xs);
 }
 
 .recent-milestone-lab {
     font-size: 0.75rem;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--text-secondary);
     margin-bottom: var(--space-xs);
 }
@@ -2018,6 +2050,7 @@ a:hover {
 .recent-milestone-text {
     font-size: 0.85rem;
     color: var(--text-primary);
+    line-height: 1.4;
 }
 
 .view-timeline-link {
