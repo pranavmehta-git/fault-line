@@ -217,28 +217,48 @@ class ArticleClassifier:
         return events
     
     def merge_with_existing(self, new_events: list[dict], existing_path: str) -> list[dict]:
-        """Merge new events with existing events, avoiding duplicates."""
+        """Merge new events with existing events, avoiding duplicates.
+
+        Preserves historical events and their 'historical: true' flag.
+        New live-ingested events get 'historical: false' flag.
+        """
         existing_path = Path(existing_path)
-        
+
         if existing_path.exists():
             with open(existing_path) as f:
                 existing_data = json.load(f)
             existing_events = existing_data.get("events", [])
         else:
             existing_events = []
-        
+
         # Create set of existing URLs to avoid duplicates
+        # Include both source_url and id to avoid overwriting historical events
         existing_urls = {e.get("source_url") for e in existing_events}
-        
-        # Add only truly new events
+        existing_ids = {e.get("id") for e in existing_events}
+
+        # Add only truly new events (not historical events)
         added = 0
         for event in new_events:
-            if event.get("source_url") not in existing_urls:
-                existing_events.append(event)
-                existing_urls.add(event.get("source_url"))
-                added += 1
-        
+            # Skip if URL already exists
+            if event.get("source_url") in existing_urls:
+                continue
+            # Skip if ID already exists (shouldn't happen with UUIDs but safety check)
+            if event.get("id") in existing_ids:
+                continue
+
+            # Mark live-ingested events explicitly as not historical
+            event["historical"] = False
+
+            existing_events.append(event)
+            existing_urls.add(event.get("source_url"))
+            existing_ids.add(event.get("id"))
+            added += 1
+
         print(f"Added {added} new events")
+
+        # Sort by date for consistency
+        existing_events.sort(key=lambda x: x.get("date", ""))
+
         return existing_events
     
     def save_events(self, events: list[dict], output_path: str):

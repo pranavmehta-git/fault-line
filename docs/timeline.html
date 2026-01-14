@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Story So Far - Fault Line</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <div class="noise-overlay"></div>
+
+    <header class="main-header">
+        <div class="header-left">
+            <div class="logo">
+                <span class="logo-icon">&#9889;</span>
+                <span class="logo-text">FAULT<span class="logo-accent">LINE</span></span>
+            </div>
+            <div class="tagline">Systemic Risk Monitor for Frontier AI Labs</div>
+        </div>
+        <nav class="main-nav">
+            <a href="index.html" class="nav-link">Dashboard</a>
+            <a href="timeline.html" class="nav-link active">Timeline</a>
+            <a href="events.html" class="nav-link">Events</a>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+        </nav>
+        <div class="header-right">
+            <div class="last-updated" id="lastUpdated">
+                <span class="update-label">LAST SYNC</span>
+                <span class="update-time">-</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="timeline-page">
+        <section class="timeline-hero">
+            <h1 class="timeline-title">The Story So Far</h1>
+            <p class="timeline-subtitle">Historical timeline of frontier AI labs from founding through present</p>
+        </section>
+
+        <section class="timeline-filters">
+            <div class="filter-group">
+                <label class="filter-label">Labs</label>
+                <div class="filter-chips" id="labFilters">
+                    <button class="filter-chip active" data-lab="all">All</button>
+                    <button class="filter-chip" data-lab="openai">OpenAI</button>
+                    <button class="filter-chip" data-lab="anthropic">Anthropic</button>
+                    <button class="filter-chip" data-lab="deepmind">DeepMind</button>
+                    <button class="filter-chip" data-lab="xai">xAI</button>
+                    <button class="filter-chip" data-lab="meta">Meta</button>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">Dimension</label>
+                <select class="filter-select" id="filterDimension">
+                    <option value="all">All Dimensions</option>
+                    <option value="compute_chips">Compute & Chips</option>
+                    <option value="cloud">Cloud</option>
+                    <option value="policy">Policy</option>
+                    <option value="demand">Demand</option>
+                    <option value="resilience">Resilience</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">Impact</label>
+                <select class="filter-select" id="filterImpact">
+                    <option value="all">All Impacts</option>
+                    <option value="positive">Increases Fragility (+)</option>
+                    <option value="negative">Decreases Fragility (-)</option>
+                    <option value="neutral">Neutral</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label class="filter-label">Search</label>
+                <input type="text" class="filter-input" id="filterSearch" placeholder="Search events...">
+            </div>
+        </section>
+
+        <section class="chart-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">&#9644;</span>
+                    Fragility Score Trends
+                </h2>
+                <div class="section-controls">
+                    <button class="control-btn active" data-view="all">All Labs</button>
+                    <button class="control-btn" data-view="stacked">Stacked</button>
+                </div>
+            </div>
+            <div class="chart-container" id="scoreChart">
+                <canvas id="trendCanvas"></canvas>
+            </div>
+            <div class="chart-legend" id="chartLegend"></div>
+        </section>
+
+        <section class="timeline-section">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">&#9644;</span>
+                    Event Timeline
+                </h2>
+                <div class="timeline-zoom-controls">
+                    <button class="zoom-btn" data-zoom="decade">Decade</button>
+                    <button class="zoom-btn active" data-zoom="year">Year</button>
+                    <button class="zoom-btn" data-zoom="quarter">Quarter</button>
+                    <button class="zoom-btn" data-zoom="month">Month</button>
+                </div>
+            </div>
+            <div class="timeline-stats" id="timelineStats">
+                <span class="stat-item">Showing <span id="eventCount">0</span> events</span>
+                <span class="stat-item">From <span id="dateRange">-</span></span>
+            </div>
+            <div class="timeline-container" id="timelineContainer">
+                <!-- Timeline will be rendered here -->
+            </div>
+        </section>
+
+        <aside class="event-detail-panel" id="eventDetailPanel">
+            <button class="panel-close" id="panelClose" aria-label="Close panel">&times;</button>
+            <div class="panel-content" id="panelContent">
+                <!-- Event details will be rendered here -->
+            </div>
+        </aside>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <span class="footer-brand">&#9889; FaultLine</span>
+                <span class="footer-version">v1.0.0</span>
+            </div>
+            <div class="footer-center">
+                Open source - <a href="methodology.html">Transparent methodology</a> - Data-driven analysis
+            </div>
+            <div class="footer-right">
+                <a href="https://github.com" class="footer-link">GitHub</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+</body>
+</html>
