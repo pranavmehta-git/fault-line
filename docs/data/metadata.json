@@ -1,16 +1,51 @@
 {
-  "last_run": "2025-01-13T12:00:00Z",
+  "last_run": "2026-01-14T06:25:12Z",
   "run_status": "success",
   "sources_checked": [
-    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "status": "ok", "articles_found": 12 },
-    { "name": "The Information", "url": "https://www.theinformation.com/feed", "status": "ok", "articles_found": 5 },
-    { "name": "Reuters Tech", "url": "https://www.reuters.com/technology/rss", "status": "ok", "articles_found": 8 },
-    { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "status": "ok", "articles_found": 15 }
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "status": "ok",
+      "articles_found": 20
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "status": "ok",
+      "articles_found": 4
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "status": "ok",
+      "articles_found": 18
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "status": "ok",
+      "articles_found": 10
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss",
+      "status": "ok",
+      "articles_found": 50
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "status": "ok",
+      "articles_found": 10
+    }
   ],
-  "events_processed": 20,
+  "events_processed": 22,
   "events_added": 2,
   "events_updated": 0,
-  "scores_changed": ["openai", "anthropic"],
-  "next_scheduled_run": "2025-01-14T12:00:00Z",
+  "scores_changed": [
+    "openai",
+    "anthropic"
+  ],
+  "next_scheduled_run": "2026-01-14T12:00:00Z",
   "pipeline_version": "1.0.0"
 }
