@@ -21,9 +21,11 @@ jobs:
       - run: pip install -r requirements.txt
       
       - run: python pipeline/ingest.py
-      
+
       - run: python pipeline/classify.py
-      
+
+      - run: python pipeline/update_metadata.py
+
       - name: Commit updates
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
