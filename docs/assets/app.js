@@ -191,23 +191,34 @@ class FragilityTracker {
             </div>
         `;
 
-        // Get most significant recent historical events
+        // Get most significant recent events (high impact, sorted by date)
         if (milestonesContainer) {
-            const recentHistorical = this.events
-                .filter(e => e.historical === true)
-                .sort((a, b) => new Date(b.date) - new Date(a.date))
-                .slice(0, 2);
+            // Sort by date descending and prioritize high-impact events
+            const recentSignificant = [...this.events]
+                .sort((a, b) => {
+                    // First by date (most recent first)
+                    const dateDiff = new Date(b.date) - new Date(a.date);
+                    if (dateDiff !== 0) return dateDiff;
+                    // Then by absolute impact (higher impact first)
+                    return Math.abs(b.impact) - Math.abs(a.impact);
+                })
+                .slice(0, 3);
 
-            if (recentHistorical.length > 0) {
-                milestonesContainer.innerHTML = recentHistorical.map(event => {
-                    const lab = this.labs.find(l => l.lab_id === event.lab);
-                    return `
-                        <div class="recent-milestone">
-                            <div class="recent-milestone-lab">${lab?.name || event.lab}</div>
-                            <div class="recent-milestone-text">${event.summary}</div>
-                        </div>
-                    `;
-                }).join('');
+            if (recentSignificant.length > 0) {
+                milestonesContainer.innerHTML = `
+                    <div class="recent-milestones-header">Recent Highlights</div>
+                    ${recentSignificant.map(event => {
+                        const lab = this.labs.find(l => l.lab_id === event.lab);
+                        const impactClass = event.impact > 0 ? 'impact-positive' : event.impact < 0 ? 'impact-negative' : '';
+                        return `
+                            <div class="recent-milestone ${impactClass}">
+                                <div class="recent-milestone-date">${this.formatDate(event.date)}</div>
+                                <div class="recent-milestone-lab">${lab?.name || event.lab}</div>
+                                <div class="recent-milestone-text">${event.summary}</div>
+                            </div>
+                        `;
+                    }).join('')}
+                `;
             }
         }
     }
