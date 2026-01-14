@@ -360,8 +360,16 @@ a:hover {
     gap: var(--space-md);
 }
 
-.lab-emoji {
-    font-size: 1.5rem;
+.lab-icon-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lab-icon {
+    width: 28px;
+    height: 28px;
+    color: var(--accent-primary);
 }
 
 .lab-details {
@@ -576,8 +584,16 @@ a:hover {
     font-weight: 500;
 }
 
-.event-lab-emoji {
-    font-size: 1rem;
+.event-lab-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lab-icon-sm {
+    width: 18px;
+    height: 18px;
+    color: var(--accent-primary);
 }
 
 .event-content {
@@ -709,7 +725,41 @@ a:hover {
 }
 
 .lab-header-icon {
-    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lab-icon-lg {
+    width: 64px;
+    height: 64px;
+    color: var(--accent-primary);
+}
+
+.meta-icon {
+    width: 16px;
+    height: 16px;
+    color: var(--text-muted);
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+.status-icon {
+    width: 20px;
+    height: 20px;
+    color: var(--text-muted);
+}
+
+.status-icon.warning {
+    color: var(--risk-high);
+}
+
+.evidence-icon {
+    width: 14px;
+    height: 14px;
+    color: var(--accent-primary);
+    vertical-align: middle;
+    margin-right: 4px;
 }
 
 .lab-header-content {

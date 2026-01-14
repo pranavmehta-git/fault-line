@@ -3,6 +3,63 @@
  * Loads JSON data and renders the dashboard
  */
 
+// SVG Icon helper function - maps icon identifiers to inline SVGs
+function getLabIcon(iconName, className = 'lab-icon') {
+    const icons = {
+        robot: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="11" width="18" height="10" rx="2"/>
+            <circle cx="12" cy="5" r="2"/>
+            <path d="M12 7v4"/>
+            <line x1="8" y1="16" x2="8" y2="16"/>
+            <line x1="16" y1="16" x2="16" y2="16"/>
+        </svg>`,
+        microscope: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 18h8"/>
+            <path d="M3 22h18"/>
+            <path d="M14 22a7 7 0 1 0 0-14h-1"/>
+            <path d="M9 14h2"/>
+            <path d="M9 12a2 2 0 0 1-2-2V6h6v4a2 2 0 0 1-2 2Z"/>
+            <path d="M12 6V3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3"/>
+        </svg>`,
+        brain: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96.44 2.5 2.5 0 0 1-2.96-3.08 3 3 0 0 1-.34-5.58 2.5 2.5 0 0 1 1.32-4.24 2.5 2.5 0 0 1 4.44-2.54"/>
+            <path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-4.44-2.54"/>
+        </svg>`,
+        bolt: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+        </svg>`,
+        infinity: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 12c-2-2.67-4-4-6-4a4 4 0 1 0 0 8c2 0 4-1.33 6-4Zm0 0c2 2.67 4 4 6 4a4 4 0 0 0 0-8c-2 0-4 1.33-6 4Z"/>
+        </svg>`,
+        location: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/>
+            <circle cx="12" cy="10" r="3"/>
+        </svg>`,
+        calendar: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="8" y1="2" x2="8" y2="6"/>
+            <line x1="3" y1="10" x2="21" y2="10"/>
+        </svg>`,
+        link: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+        </svg>`,
+        warning: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+            <line x1="12" y1="9" x2="12" y2="13"/>
+            <line x1="12" y1="17" x2="12.01" y2="17"/>
+        </svg>`,
+        circle: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+        </svg>`,
+        paperclip: `<svg class="${className}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"/>
+        </svg>`
+    };
+    return icons[iconName] || icons.microscope;
+}
+
 class FragilityTracker {
     constructor() {
         this.labs = [];
@@ -97,7 +154,7 @@ class FragilityTracker {
             <a href="lab.html?lab=${lab.lab_id}" class="ranking-row">
                 <div class="rank-badge rank-${lab.rank}">#${lab.rank}</div>
                 <div class="lab-info">
-                    <span class="lab-emoji">${lab.logo_emoji}</span>
+                    <span class="lab-icon-wrapper">${getLabIcon(lab.logo_icon)}</span>
                     <div class="lab-details">
                         <div class="lab-name">${lab.name}</div>
                         <div class="lab-hq">${lab.hq}</div>
@@ -180,7 +237,7 @@ class FragilityTracker {
                 <div class="event-card">
                     <div class="event-date">${this.formatDate(event.date)}</div>
                     <div class="event-lab">
-                        <span class="event-lab-emoji">${lab?.logo_emoji || '🔬'}</span>
+                        <span class="event-lab-icon">${getLabIcon(lab?.logo_icon || 'microscope', 'lab-icon-sm')}</span>
                         <span>${lab?.name || event.lab}</span>
                     </div>
                     <div class="event-content">
@@ -405,13 +462,13 @@ class LabDetailPage {
         if (!header) return;
 
         header.innerHTML = `
-            <span class="lab-header-icon">${this.lab.logo_emoji}</span>
+            <span class="lab-header-icon">${getLabIcon(this.lab.logo_icon, 'lab-icon-lg')}</span>
             <div class="lab-header-content">
                 <h1 class="lab-header-title">${this.lab.name}</h1>
                 <div class="lab-header-meta">
-                    <span>📍 ${this.lab.hq}</span>
-                    <span>🗓 Founded ${this.lab.founded}</span>
-                    <a href="${this.lab.website}" target="_blank">🔗 Website</a>
+                    <span>${getLabIcon('location', 'meta-icon')} ${this.lab.hq}</span>
+                    <span>${getLabIcon('calendar', 'meta-icon')} Founded ${this.lab.founded}</span>
+                    <a href="${this.lab.website}" target="_blank">${getLabIcon('link', 'meta-icon')} Website</a>
                 </div>
                 <p class="lab-header-desc">${this.lab.description}</p>
             </div>
@@ -443,7 +500,7 @@ class LabDetailPage {
 
             return `
                 <div class="checklist-item ${isTriggered ? 'triggered' : 'not-triggered'}">
-                    <div class="checklist-status">${isTriggered ? '⚠️' : '○'}</div>
+                    <div class="checklist-status">${isTriggered ? getLabIcon('warning', 'status-icon warning') : getLabIcon('circle', 'status-icon')}</div>
                     <div class="checklist-content">
                         <div class="checklist-name">${item.id}: ${item.name}</div>
                         <div class="checklist-desc">${item.description}</div>
@@ -451,7 +508,7 @@ class LabDetailPage {
                             <div class="checklist-evidence">
                                 ${relatedEvents.slice(0, 2).map(e => `
                                     <a href="${e.source_url}" target="_blank" class="evidence-link">
-                                        📎 ${e.source_name}: ${e.summary.slice(0, 60)}...
+                                        ${getLabIcon('paperclip', 'evidence-icon')} ${e.source_name}: ${e.summary.slice(0, 60)}...
                                     </a>
                                 `).join('')}
                             </div>
@@ -646,7 +703,7 @@ class EventsPage {
                 <div class="event-card">
                     <div class="event-date">${this.formatDate(event.date)}</div>
                     <div class="event-lab">
-                        <span class="event-lab-emoji">${lab?.logo_emoji || '🔬'}</span>
+                        <span class="event-lab-icon">${getLabIcon(lab?.logo_icon || 'microscope', 'lab-icon-sm')}</span>
                         <span>${lab?.name || event.lab}</span>
                     </div>
                     <div class="event-content">
