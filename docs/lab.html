@@ -22,6 +22,7 @@
         </div>
         <nav class="main-nav">
             <a href="index.html" class="nav-link">Dashboard</a>
+            <a href="timeline.html" class="nav-link">Timeline</a>
             <a href="events.html" class="nav-link">Events</a>
             <a href="methodology.html" class="nav-link">Methodology</a>
         </nav>
@@ -36,10 +37,16 @@
             <div class="loading">Loading lab data...</div>
         </div>
 
-        <section class="checklist-section">
+        <div class="lab-tabs">
+            <button class="lab-tab active" data-tab="checklist">Checklist</button>
+            <button class="lab-tab" data-tab="events">Events</button>
+            <button class="lab-tab" data-tab="history">History</button>
+        </div>
+
+        <section class="checklist-section lab-tab-content active" id="checklistTab">
             <div class="section-header">
                 <h2 class="section-title">
-                    <span class="title-icon">☑</span>
+                    <span class="title-icon">&#9745;</span>
                     Fragility Checklist
                 </h2>
             </div>
@@ -48,15 +55,34 @@
             </div>
         </section>
 
-        <section class="events-section">
+        <section class="events-section lab-tab-content" id="eventsTab">
             <div class="section-header">
                 <h2 class="section-title">
-                    <span class="title-icon">◧</span>
+                    <span class="title-icon">&#9639;</span>
                     Related Events
                 </h2>
             </div>
             <div class="events-list" id="labEvents">
                 <div class="loading">Loading events...</div>
+            </div>
+        </section>
+
+        <section class="history-section lab-tab-content" id="historyTab">
+            <div class="section-header">
+                <h2 class="section-title">
+                    <span class="title-icon">&#9644;</span>
+                    Historical Timeline
+                </h2>
+                <a href="timeline.html" class="view-all-link" id="viewFullTimeline">View Full Timeline &rarr;</a>
+            </div>
+            <div class="lab-history-chart" id="labHistoryChart">
+                <canvas id="labTrendCanvas"></canvas>
+            </div>
+            <div class="section-header" style="margin-top: 24px;">
+                <h3 class="section-title" style="font-size: 0.8rem;">Key Milestones</h3>
+            </div>
+            <div class="lab-milestones" id="labMilestones">
+                <div class="loading">Loading history...</div>
             </div>
         </section>
     </main>
