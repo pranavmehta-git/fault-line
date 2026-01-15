@@ -4657,6 +4657,57 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4061eef2",
+      "date": "2026-01-15",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI invests in Sam Altman\u2019s brain computer interface startup Merge Labs",
+      "source_url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0aabd72f",
+      "date": "2026-01-15",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Invests in Sam Altman\u2019s New Brain Tech Startup Merge Labs",
+      "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a0e8bdb",
+      "date": "2026-01-15",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Hands On With Anthropic\u2019s Claude Cowork, an AI Agent That Actually Works",
+      "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
