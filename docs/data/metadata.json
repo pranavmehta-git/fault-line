@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-01-15T06:24:27Z",
+  "last_run": "2026-01-15T12:32:06Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -46,6 +46,6 @@
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-01-15T12:00:00Z",
+  "next_scheduled_run": "2026-01-15T18:00:00Z",
   "pipeline_version": "1.0.0"
 }
