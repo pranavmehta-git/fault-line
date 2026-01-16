@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-01-16T12:31:01Z",
+  "last_run": "2026-01-16T18:23:06Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -12,7 +12,7 @@
       "name": "VentureBeat AI",
       "url": "https://venturebeat.com/category/ai/feed/",
       "status": "ok",
-      "articles_found": 4
+      "articles_found": 5
     },
     {
       "name": "Ars Technica",
@@ -39,13 +39,13 @@
       "articles_found": 10
     }
   ],
-  "events_processed": 238,
-  "events_added": 0,
+  "events_processed": 239,
+  "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-01-16T18:00:00Z",
+  "next_scheduled_run": "2026-01-17T00:00:00Z",
   "pipeline_version": "1.0.0"
 }

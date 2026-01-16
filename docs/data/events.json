@@ -4708,6 +4708,25 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-572d6f1b",
+      "date": "2026-01-16",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI and Anthropic are making their play for healthcare, and we\u2019re not surprised",
+      "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
