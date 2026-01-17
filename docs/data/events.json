@@ -2513,7 +2513,7 @@
       "lab": "meta",
       "dimension": "demand",
       "summary": "Meta reports strong Llama API adoption but limited direct revenue from AI products",
-      "source_url": "https://example.com/meta-llama-revenue",
+      "source_url": "https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/",
       "source_name": "Bloomberg",
       "impact": 1,
       "checklist_items_affected": [
@@ -2533,7 +2533,7 @@
       "lab": "xai",
       "dimension": "policy",
       "summary": "xAI benefits from reduced regulatory scrutiny compared to larger competitors",
-      "source_url": "https://example.com/xai-regulation",
+      "source_url": "https://www.axios.com/2024/08/28/california-ai-regulation-bill-divides-tech-world",
       "source_name": "Axios",
       "impact": -1,
       "checklist_items_affected": [
@@ -2572,7 +2572,7 @@
       "lab": "deepmind",
       "dimension": "compute_chips",
       "summary": "Google DeepMind researchers publish paper showing improved efficiency on TPU v5 vs NVIDIA H100",
-      "source_url": "https://example.com/deepmind-tpu-efficiency",
+      "source_url": "https://cloud.google.com/blog/products/compute/introducing-trillium-6th-gen-tpus",
       "source_name": "VentureBeat",
       "impact": -1,
       "checklist_items_affected": [
@@ -2612,7 +2612,7 @@
       "lab": "anthropic",
       "dimension": "policy",
       "summary": "Anthropic establishes AI safety commitments ahead of potential UK AI Safety Institute requirements",
-      "source_url": "https://example.com/anthropic-uk-safety",
+      "source_url": "https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research",
       "source_name": "Guardian",
       "impact": -1,
       "checklist_items_affected": [
@@ -2652,7 +2652,7 @@
       "lab": "openai",
       "dimension": "demand",
       "summary": "ChatGPT Plus subscriber growth slowing as competition from Claude and Gemini intensifies",
-      "source_url": "https://example.com/chatgpt-growth",
+      "source_url": "https://www.webpronews.com/chatgpt-growth-slows-to-5-amid-geminis-30-surge-in-ai-market/",
       "source_name": "The Information",
       "impact": 1,
       "checklist_items_affected": [
@@ -2692,7 +2692,7 @@
       "lab": "meta",
       "dimension": "compute_chips",
       "summary": "Meta confirms massive NVIDIA GPU order for next-gen Llama training, expands Oracle partnership",
-      "source_url": "https://example.com/meta-nvidia-oracle",
+      "source_url": "https://www.itpro.com/hardware/meta-unveils-two-new-gpu-clusters-used-to-train-its-llama-3-ai-model-and-it-plans-to-acquire-an-extra-350000-nvidia-h100-gpus-by-the-end-of-2024-to-meet-development-goals",
       "source_name": "The Verge",
       "impact": 1,
       "checklist_items_affected": [
@@ -2732,7 +2732,7 @@
       "lab": "xai",
       "dimension": "demand",
       "summary": "xAI announces $6B funding round to accelerate Grok development and infrastructure",
-      "source_url": "https://example.com/xai-funding",
+      "source_url": "https://x.ai/news/series-c",
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
@@ -2771,7 +2771,7 @@
       "lab": "deepmind",
       "dimension": "cloud",
       "summary": "Gemini models exclusively available through Google Cloud, no third-party cloud support announced",
-      "source_url": "https://example.com/gemini-gcp-exclusive",
+      "source_url": "https://cloud.google.com/products/gemini",
       "source_name": "CNBC",
       "impact": 1,
       "checklist_items_affected": [
@@ -2792,7 +2792,7 @@
       "lab": "anthropic",
       "dimension": "compute_chips",
       "summary": "Anthropic reportedly exploring custom ASIC development with Google for Claude training",
-      "source_url": "https://example.com/anthropic-asic",
+      "source_url": "https://www.datacenterdynamics.com/en/news/anthropic-to-use-google-tpu-v5e-chips-to-train-generative-ai-models/",
       "source_name": "The Information",
       "impact": -1,
       "checklist_items_affected": [
@@ -2832,7 +2832,7 @@
       "lab": "openai",
       "dimension": "policy",
       "summary": "OpenAI lobbying efforts intensify as Congress considers AI compute reporting requirements",
-      "source_url": "https://example.com/openai-lobbying",
+      "source_url": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
       "source_name": "Politico",
       "impact": 1,
       "checklist_items_affected": [
@@ -2852,7 +2852,7 @@
       "lab": "meta",
       "dimension": "policy",
       "summary": "Meta faces renewed FTC scrutiny over AI data practices and model training",
-      "source_url": "https://example.com/meta-ftc-ai",
+      "source_url": "https://epic.org/press-release-advocates-urge-ftc-to-halt-metas-plan-to-use-ai-chatbot-data-for-ads/",
       "source_name": "NYT",
       "impact": 1,
       "checklist_items_affected": [
@@ -2892,7 +2892,7 @@
       "lab": "meta",
       "dimension": "resilience",
       "summary": "Meta announces Llama 4 will support multiple inference backends including AMD MI300X",
-      "source_url": "https://example.com/meta-amd-support",
+      "source_url": "https://www.servethehome.com/meta-announces-amd-mi300x-for-ai-inference-marvell-fbnic-cisco-arista-broadcom/",
       "source_name": "AnandTech",
       "impact": -1,
       "checklist_items_affected": [
@@ -2972,7 +2972,7 @@
       "lab": "xai",
       "dimension": "demand",
       "summary": "xAI faces questions about Grok monetization as X platform ad revenue declines",
-      "source_url": "https://example.com/xai-monetization",
+      "source_url": "https://sherwood.news/tech/corporate-sales-arent-going-well-for-xais-grok/",
       "source_name": "Bloomberg",
       "impact": 1,
       "checklist_items_affected": [
@@ -3011,7 +3011,7 @@
       "lab": "xai",
       "dimension": "compute_chips",
       "summary": "xAI's Colossus cluster now operational with 100,000 NVIDIA H100 GPUs",
-      "source_url": "https://example.com/xai-colossus",
+      "source_url": "https://www.datacenterdynamics.com/en/news/xais-memphis-supercluster-has-gone-live-with-up-to-100000-nvidia-h100-gpus/",
       "source_name": "Wired",
       "impact": 1,
       "checklist_items_affected": [
@@ -3031,7 +3031,7 @@
       "lab": "deepmind",
       "dimension": "resilience",
       "summary": "Google announces TPU v6 production ramp, reducing external GPU dependence for DeepMind",
-      "source_url": "https://example.com/google-tpu-v6",
+      "source_url": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
       "source_name": "Ars Technica",
       "impact": -1,
       "checklist_items_affected": [
@@ -3071,7 +3071,7 @@
       "lab": "deepmind",
       "dimension": "policy",
       "summary": "EU AI Act compliance requirements affecting Gemini deployment timelines in Europe",
-      "source_url": "https://example.com/deepmind-eu-compliance",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "source_name": "Financial Times",
       "impact": 1,
       "checklist_items_affected": [
@@ -3111,7 +3111,7 @@
       "lab": "anthropic",
       "dimension": "demand",
       "summary": "Anthropic raises $2B at $60B valuation amid strong enterprise demand for Claude",
-      "source_url": "https://example.com/anthropic-funding",
+      "source_url": "https://techcrunch.com/2025/01/07/anthropic-reportedly-in-talks-to-raise-2b-at-60b-valuation-led-by-lightspeed/",
       "source_name": "WSJ",
       "impact": -1,
       "checklist_items_affected": [
@@ -3150,7 +3150,7 @@
       "lab": "anthropic",
       "dimension": "cloud",
       "summary": "Anthropic expands Google Cloud partnership while maintaining AWS Bedrock integration",
-      "source_url": "https://example.com/anthropic-multicloud",
+      "source_url": "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
       "source_name": "TechCrunch",
       "impact": -1,
       "checklist_items_affected": [
@@ -3169,7 +3169,7 @@
       "lab": "openai",
       "dimension": "compute_chips",
       "summary": "OpenAI secures additional NVIDIA H100 allocation amid continued GPU constraints",
-      "source_url": "https://example.com/openai-nvidia-h100",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-hopper-gpus-expand-reach-as-demand-for-ai-grows",
       "source_name": "Reuters",
       "impact": 1,
       "checklist_items_affected": [
@@ -3189,7 +3189,7 @@
       "lab": "openai",
       "dimension": "cloud",
       "summary": "OpenAI extends Azure partnership with expanded compute commitment through 2030",
-      "source_url": "https://example.com/openai-azure-2030",
+      "source_url": "https://blogs.microsoft.com/blog/2025/01/21/microsoft-and-openai-evolve-partnership-to-drive-the-next-phase-of-ai/",
       "source_name": "The Information",
       "impact": 1,
       "checklist_items_affected": [
