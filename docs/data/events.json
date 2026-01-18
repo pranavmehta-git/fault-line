@@ -26,6 +26,7 @@
       "source_name": "TechCrunch",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -62,6 +63,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -121,6 +123,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -181,6 +184,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -296,6 +300,7 @@
       "source_name": "DeepMind",
       "impact": -1,
       "checklist_items_affected": [
+        "D1",
         "E2"
       ],
       "confidence": "high",
@@ -436,6 +441,7 @@
       "source_name": "Microsoft Blog",
       "impact": 1,
       "checklist_items_affected": [
+        "B1",
         "B2"
       ],
       "confidence": "high",
@@ -511,6 +517,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -750,7 +757,8 @@
       "source_name": "The Information",
       "impact": 1,
       "checklist_items_affected": [
-        "A2"
+        "A2",
+        "B1"
       ],
       "confidence": "medium",
       "tags": [
@@ -891,6 +899,7 @@
       "source_name": "Microsoft Blog",
       "impact": 1,
       "checklist_items_affected": [
+        "B1",
         "B2"
       ],
       "confidence": "high",
@@ -931,7 +940,8 @@
       "source_name": "Financial Times",
       "impact": 1,
       "checklist_items_affected": [
-        "B1"
+        "B1",
+        "B2"
       ],
       "confidence": "high",
       "tags": [
@@ -1026,6 +1036,7 @@
       "source_name": "Reuters",
       "impact": 1,
       "checklist_items_affected": [
+        "C1",
         "C2"
       ],
       "confidence": "high",
@@ -1067,6 +1078,7 @@
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
+        "C1",
         "E2"
       ],
       "confidence": "high",
@@ -1087,6 +1099,7 @@
       "source_name": "Anthropic",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -1106,7 +1119,9 @@
       "source_url": "https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html",
       "source_name": "New York Times",
       "impact": 0,
-      "checklist_items_affected": [],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "high",
       "tags": [
         "congress",
@@ -1125,6 +1140,7 @@
       "source_name": "Meta AI Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -1263,6 +1279,7 @@
       "source_name": "The Information",
       "impact": 1,
       "checklist_items_affected": [
+        "A1",
         "A2"
       ],
       "confidence": "high",
@@ -1283,6 +1300,7 @@
       "source_name": "OpenAI Blog",
       "impact": 1,
       "checklist_items_affected": [
+        "B1",
         "B2"
       ],
       "confidence": "high",
@@ -1523,6 +1541,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -1883,7 +1902,9 @@
       "source_url": "https://www.nytimes.com/2024/05/28/technology/openai-board-altman-firing.html",
       "source_name": "New York Times",
       "impact": 0,
-      "checklist_items_affected": [],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "medium",
       "tags": [
         "investigation",
@@ -1922,6 +1943,8 @@
       "source_name": "The Information",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
+        "B2",
         "E1"
       ],
       "confidence": "medium",
@@ -1942,6 +1965,7 @@
       "source_name": "Meta AI Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -2062,6 +2086,7 @@
       "source_name": "xAI",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -2098,7 +2123,9 @@
       "source_url": "https://memphischamber.com/news/xai-memphis/",
       "source_name": "Memphis Chamber",
       "impact": 0,
-      "checklist_items_affected": [],
+      "checklist_items_affected": [
+        "A1"
+      ],
       "confidence": "high",
       "tags": [
         "colossus",
@@ -2117,6 +2144,8 @@
       "source_name": "OpenAI Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
+        "B2",
         "E1"
       ],
       "confidence": "high",
@@ -2157,7 +2186,8 @@
       "source_name": "NVIDIA Blog",
       "impact": 1,
       "checklist_items_affected": [
-        "A1"
+        "A1",
+        "A2"
       ],
       "confidence": "high",
       "tags": [
@@ -2177,6 +2207,7 @@
       "source_name": "AWS Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
         "E1"
       ],
       "confidence": "high",
@@ -2237,6 +2268,7 @@
       "source_name": "Meta AI Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "medium",
@@ -2297,6 +2329,7 @@
       "source_name": "The Information",
       "impact": 1,
       "checklist_items_affected": [
+        "A1",
         "C2"
       ],
       "confidence": "medium",
@@ -2317,6 +2350,7 @@
       "source_name": "Google Cloud Blog",
       "impact": 1,
       "checklist_items_affected": [
+        "B1",
         "B2"
       ],
       "confidence": "high",
@@ -2337,6 +2371,7 @@
       "source_name": "Oracle",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
         "E1"
       ],
       "confidence": "high",
@@ -2357,6 +2392,7 @@
       "source_name": "xAI",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E2"
       ],
       "confidence": "high",
@@ -2477,6 +2513,7 @@
       "source_name": "OpenAI",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -2537,6 +2574,7 @@
       "source_name": "Axios",
       "impact": -1,
       "checklist_items_affected": [
+        "C2",
         "E2"
       ],
       "confidence": "low",
@@ -2576,6 +2614,7 @@
       "source_name": "VentureBeat",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -2736,6 +2775,7 @@
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -2936,6 +2976,7 @@
       "source_name": "xAI",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -3115,6 +3156,7 @@
       "source_name": "WSJ",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -3154,6 +3196,8 @@
       "source_name": "TechCrunch",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
+        "B2",
         "E1"
       ],
       "confidence": "high",
@@ -3173,7 +3217,8 @@
       "source_name": "Reuters",
       "impact": 1,
       "checklist_items_affected": [
-        "A1"
+        "A1",
+        "A2"
       ],
       "confidence": "high",
       "tags": [
@@ -3276,7 +3321,8 @@
       "source_name": "Bloomberg",
       "impact": 1,
       "checklist_items_affected": [
-        "D1"
+        "D1",
+        "D2"
       ],
       "confidence": "high",
       "tags": [
@@ -3336,6 +3382,8 @@
       "source_name": "Microsoft Azure Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "B1",
+        "B2",
         "E1"
       ],
       "confidence": "high",
@@ -3376,6 +3424,7 @@
       "source_name": "The Information",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -3396,6 +3445,7 @@
       "source_name": "Anthropic",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -3416,6 +3466,7 @@
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
+        "C2",
         "E2"
       ],
       "confidence": "high",
@@ -3836,6 +3887,7 @@
       "source_name": "Google Cloud Blog",
       "impact": -1,
       "checklist_items_affected": [
+        "E1",
         "E2"
       ],
       "confidence": "high",
@@ -3936,6 +3988,7 @@
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
+        "C2",
         "E2"
       ],
       "confidence": "high",
@@ -3956,6 +4009,7 @@
       "source_name": "Anthropic",
       "impact": -1,
       "checklist_items_affected": [
+        "C1",
         "E2"
       ],
       "confidence": "high",
@@ -3976,6 +4030,7 @@
       "source_name": "Anthropic",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -4056,6 +4111,7 @@
       "source_name": "Reuters",
       "impact": -1,
       "checklist_items_affected": [
+        "A1",
         "E1"
       ],
       "confidence": "high",
@@ -4096,6 +4152,7 @@
       "source_name": "Bloomberg",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -4454,7 +4511,9 @@
       "source_url": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
       "source_name": "TechCrunch",
       "impact": 0,
-      "checklist_items_affected": [],
+      "checklist_items_affected": [
+        "D2"
+      ],
       "confidence": "medium",
       "tags": [
         "funding",
@@ -4493,6 +4552,7 @@
       "source_name": "Where's Your Ed At",
       "impact": 1,
       "checklist_items_affected": [
+        "B1",
         "B2"
       ],
       "confidence": "medium",
@@ -4513,6 +4573,7 @@
       "source_name": "The Information",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -4572,7 +4633,8 @@
       "source_name": "Reuters",
       "impact": 1,
       "checklist_items_affected": [
-        "A1"
+        "A1",
+        "A2"
       ],
       "confidence": "high",
       "tags": [
@@ -4592,6 +4654,7 @@
       "source_name": "xAI",
       "impact": -1,
       "checklist_items_affected": [
+        "D2",
         "E2"
       ],
       "confidence": "high",
@@ -4737,7 +4800,9 @@
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
       "source_name": "TechCrunch AI",
       "impact": 1,
-      "checklist_items_affected": [],
+      "checklist_items_affected": [
+        "C2"
+      ],
       "confidence": "low",
       "tags": [],
       "auto_classified": true,

@@ -46,7 +46,7 @@
       "name": "Single GPU Vendor Lock-in",
       "description": "Evidence of tight coupling to a single GPU vendor (e.g., NVIDIA-only strategy)",
       "points": 1,
-      "keywords": ["nvidia", "gpu", "h100", "b200", "blackwell", "hopper", "accelerator", "chip"]
+      "keywords": ["nvidia", "gpu", "h100", "b200", "blackwell", "hopper", "accelerator", "chip", "a100", "dgx", "cuda", "supercomputer", "training cluster", "compute cluster"]
     },
     {
       "id": "A2",
@@ -54,7 +54,7 @@
       "name": "Supply Constraints Impact",
       "description": "Evidence of supply constraints or delivery risk impacting roadmap",
       "points": 1,
-      "keywords": ["shortage", "allocation", "delivery", "supply chain", "lead time", "backlog"]
+      "keywords": ["shortage", "allocation", "delivery", "supply chain", "lead time", "backlog", "constraint", "capacity limit", "wait list", "queue", "delayed shipment"]
     },
     {
       "id": "B1",
@@ -62,7 +62,7 @@
       "name": "Single Hyperscaler Dependence",
       "description": "Primary dependence on one hyperscaler for training/inference infrastructure",
       "points": 1,
-      "keywords": ["azure", "aws", "gcp", "google cloud", "microsoft", "amazon", "hyperscaler"]
+      "keywords": ["azure", "aws", "gcp", "google cloud", "microsoft", "amazon", "hyperscaler", "oracle cloud", "coreweave", "lambda labs", "cloud provider"]
     },
     {
       "id": "B2",
@@ -70,7 +70,7 @@
       "name": "Platform Lock-in Signals",
       "description": "Switching costs, exclusivity signals, or deep integration with single provider",
       "points": 1,
-      "keywords": ["exclusive", "partnership", "integration", "lock-in", "commitment", "deal"]
+      "keywords": ["exclusive", "partnership", "integration", "lock-in", "commitment", "deal", "sole provider", "preferred partner", "strategic alliance", "billion dollar"]
     },
     {
       "id": "C1",
@@ -78,7 +78,7 @@
       "name": "Export Control Exposure",
       "description": "Exposure to export controls or cross-border restrictions affecting compute/chips",
       "points": 1,
-      "keywords": ["export", "restriction", "ban", "sanctions", "china", "bea", "commerce department"]
+      "keywords": ["export", "restriction", "ban", "sanctions", "china", "bea", "commerce department", "tariff", "trade war", "embargo", "foreign entity", "geopolitic", "national security"]
     },
     {
       "id": "C2",
@@ -86,7 +86,7 @@
       "name": "Regulatory Sensitivity",
       "description": "High sensitivity to regulatory action (antitrust, safety regulation, procurement bans)",
       "points": 1,
-      "keywords": ["antitrust", "regulation", "ftc", "doj", "investigation", "compliance", "eu ai act"]
+      "keywords": ["antitrust", "regulation", "ftc", "doj", "investigation", "compliance", "eu ai act", "cease-and-desist", "cease and desist", "attorney general", "lawsuit", "legal action", "sued", "enforcement", "subpoena", "penalty", "fine", "court order", "ruling", "senate", "hearing", "testif", "legislation", "bill", "state regulator", "probe", "scrutiny"]
     },
     {
       "id": "D1",
@@ -94,7 +94,7 @@
       "name": "Demand Weakness Signals",
       "description": "Credible signals of demand weakness or monetization challenges",
       "points": 1,
-      "keywords": ["churn", "revenue", "pricing pressure", "competition", "market share", "customer loss"]
+      "keywords": ["churn", "revenue decline", "pricing pressure", "competition", "market share loss", "customer loss", "subscriber drop", "cancellation", "downturn", "slowdown", "miss target", "below expectation", "disappointing"]
     },
     {
       "id": "D2",
@@ -102,7 +102,7 @@
       "name": "Capex/Opex Overhang",
       "description": "Evidence of capex/opex overhang relative to adoption (overbuild, runway strain)",
       "points": 1,
-      "keywords": ["capex", "spending", "burn rate", "funding", "valuation", "overbuild", "utilization"]
+      "keywords": ["capex", "spending", "burn rate", "funding", "valuation", "overbuild", "utilization", "runway", "cost overrun", "expense", "infrastructure spend", "cash burn", "operating loss"]
     },
     {
       "id": "E1",
@@ -110,7 +110,7 @@
       "name": "Multi-sourcing Demonstrated",
       "description": "Demonstrated multi-sourcing or diversification (multi-cloud, alternative accelerators)",
       "points": -1,
-      "keywords": ["diversif", "multi-cloud", "alternative", "tpu", "custom silicon", "redundan"]
+      "keywords": ["diversif", "multi-cloud", "alternative", "tpu", "custom silicon", "redundan", "trainium", "inferentia", "gaudi", "amd", "second source", "multiple vendor", "cerebras", "groq", "sambanova"]
     },
     {
       "id": "E2",
@@ -118,7 +118,7 @@
       "name": "Risk Reduction Actions",
       "description": "Concrete risk-reduction actions (long-term contracts, redundancy, modular deployment)",
       "points": -1,
-      "keywords": ["contract", "hedge", "backup", "contingency", "mitigation", "strategic reserve"]
+      "keywords": ["contract", "hedge", "backup", "contingency", "mitigation", "strategic reserve", "long-term agreement", "multi-year", "guarantee", "secure supply", "capacity reservation"]
     }
   ]
 }
