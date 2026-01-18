@@ -4826,6 +4826,25 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-663546ed",
+      "date": "2026-01-17",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "source_url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
