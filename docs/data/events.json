@@ -4845,6 +4845,38 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-18db0c46",
+      "date": "2026-01-18",
+      "lab": "openai",
+      "dimension": "resilience",
+      "summary": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "source_url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b1a524fd",
+      "date": "2026-01-18",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Under Musk, the Grok disaster was inevitable",
+      "source_url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
