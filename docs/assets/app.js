@@ -787,7 +787,7 @@ class LabDetailPage {
 
             // Y-axis labels
             ctx.fillStyle = '#5f6368';
-            ctx.font = '10px JetBrains Mono';
+            ctx.font = '10px Open Sans';
             ctx.textAlign = 'right';
             ctx.fillText(i.toString(), padding.left - 8, y + 4);
         }
@@ -803,12 +803,12 @@ class LabDetailPage {
 
         // Draw line for this lab
         const labColor = {
-            openai: '#f28b82',
-            anthropic: '#81c995',
-            deepmind: '#8ab4f8',
-            xai: '#fdd663',
-            meta: '#bb86fc'
-        }[this.labId] || '#8ab4f8';
+            openai: '#10a37f',
+            anthropic: '#d4a574',
+            deepmind: '#4285f4',
+            xai: '#202124',
+            meta: '#0668e1'
+        }[this.labId] || '#202124';
 
         ctx.strokeStyle = labColor;
         ctx.lineWidth = 2;
@@ -1117,11 +1117,11 @@ class TimelinePage {
         this.zoomLevel = 'year';
         this.chartView = 'all';
         this.labColors = {
-            openai: '#f28b82',
-            anthropic: '#81c995',
-            deepmind: '#8ab4f8',
-            xai: '#fdd663',
-            meta: '#bb86fc'
+            openai: '#10a37f',
+            anthropic: '#d4a574',
+            deepmind: '#4285f4',
+            xai: '#202124',
+            meta: '#0668e1'
         };
     }
 
@@ -1282,7 +1282,7 @@ class TimelinePage {
 
             // Y-axis labels
             ctx.fillStyle = '#5f6368';
-            ctx.font = '10px JetBrains Mono';
+            ctx.font = '10px Open Sans';
             ctx.textAlign = 'right';
             ctx.fillText(i.toString(), padding.left - 8, y + 4);
         }
