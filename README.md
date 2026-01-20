@@ -241,3 +241,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 ---
 
 **Questions?** [Open an issue](../../issues/new) or check the [methodology page](https://yourusername.github.io/fault-line/methodology.html).
+
+---
+
+© 2026 Pranav Mehta. This project is developed as part of MATS.
