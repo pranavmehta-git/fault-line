@@ -4877,6 +4877,40 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cb2917ab",
+      "date": "2026-01-19",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source_name": "VentureBeat AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7b3b5285",
+      "date": "2026-01-20",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Humans&, a \u2018human-centric\u2019 AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
+      "source_url": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
