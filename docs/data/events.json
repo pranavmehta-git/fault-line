@@ -4964,6 +4964,25 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-84d3ec5e",
+      "date": "2026-01-23",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "The Download: chatbots for health, and US fights over AI regulation",
+      "source_url": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "regulation"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
