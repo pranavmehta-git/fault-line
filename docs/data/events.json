@@ -5019,6 +5019,25 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-704e4c5e",
+      "date": "2026-01-28",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "What AI \u201cremembers\u201d about you is privacy\u2019s next frontier",
+      "source_url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
