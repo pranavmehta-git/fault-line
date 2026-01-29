@@ -5038,6 +5038,21 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-320e0c9b",
+      "date": "2026-01-28",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google adds Gemini AI-powered \u2018auto browse\u2019 to Chrome",
+      "source_url": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
