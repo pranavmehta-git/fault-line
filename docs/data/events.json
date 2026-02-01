@@ -5087,6 +5087,44 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a2a2b7b4",
+      "date": "2026-01-31",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia CEO pushes back against report that his company\u2019s $100B OpenAI investment has stalled",
+      "source_url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6af46940",
+      "date": "2026-01-31",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia CEO denies he\u2019s \u2018unhappy\u2019 with OpenAI",
+      "source_url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
