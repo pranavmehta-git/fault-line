@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T12:41:57Z",
+  "last_updated": "2026-02-02T18:34:19Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -99,6 +99,50 @@
       "rank": 2
     },
     {
+      "lab_id": "xai",
+      "total_score": 3,
+      "breakdown": {
+        "compute_chips": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
+        },
+        "cloud": {
+          "score": 1,
+          "max": 2,
+          "items_triggered": [
+            "B1"
+          ]
+        },
+        "policy": {
+          "score": 2,
+          "max": 2,
+          "items_triggered": [
+            "C1",
+            "C2"
+          ]
+        },
+        "demand": {
+          "score": 1,
+          "max": 2,
+          "items_triggered": [
+            "D2"
+          ]
+        },
+        "resilience": {
+          "score": 1,
+          "max": 2,
+          "items_triggered": [
+            "E2"
+          ]
+        }
+      },
+      "events_count": 12,
+      "last_event_date": "2026-02-02",
+      "trend": "worsening",
+      "rank": 3
+    },
+    {
       "lab_id": "deepmind",
       "total_score": 1,
       "breakdown": {
@@ -139,7 +183,7 @@
       "events_count": 8,
       "last_event_date": "2026-01-29",
       "trend": "stable",
-      "rank": 3
+      "rank": 4
     },
     {
       "lab_id": "meta",
@@ -182,47 +226,6 @@
       },
       "events_count": 8,
       "last_event_date": "2026-01-05",
-      "trend": "stable",
-      "rank": 4
-    },
-    {
-      "lab_id": "xai",
-      "total_score": 1,
-      "breakdown": {
-        "compute_chips": {
-          "score": 0,
-          "max": 2,
-          "items_triggered": []
-        },
-        "cloud": {
-          "score": 0,
-          "max": 2,
-          "items_triggered": []
-        },
-        "policy": {
-          "score": 1,
-          "max": 2,
-          "items_triggered": [
-            "C2"
-          ]
-        },
-        "demand": {
-          "score": 1,
-          "max": 2,
-          "items_triggered": [
-            "D2"
-          ]
-        },
-        "resilience": {
-          "score": 1,
-          "max": 2,
-          "items_triggered": [
-            "E2"
-          ]
-        }
-      },
-      "events_count": 10,
-      "last_event_date": "2026-01-27",
       "trend": "stable",
       "rank": 5
     }
