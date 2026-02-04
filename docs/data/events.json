@@ -5197,6 +5197,21 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7b702cc4",
+      "date": "2026-02-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "GitHub adds Claude and Codex AI coding agents",
+      "source_url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
