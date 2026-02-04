@@ -5178,6 +5178,25 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1963fce8",
+      "date": "2026-02-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+      "source_url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
