@@ -5212,6 +5212,46 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f19732b4",
+      "date": "2026-02-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "A16z just raised $1.7B for AI infrastructure. Here\u2019s where it\u2019s going.",
+      "source_url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding",
+        "infrastructure"
+      ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cd1e2773",
+      "date": "2026-02-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "What a16z is actually funding (and what it\u2019s ignoring) when it comes to AI infra",
+      "source_url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding",
+        "infrastructure"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
