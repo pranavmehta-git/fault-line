@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T18:39:41Z",
+  "last_updated": "2026-02-06T01:24:06Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -93,8 +93,8 @@
           ]
         }
       },
-      "events_count": 17,
-      "last_event_date": "2026-01-29",
+      "events_count": 18,
+      "last_event_date": "2026-02-05",
       "trend": "stable",
       "rank": 2
     },
@@ -144,7 +144,7 @@
     },
     {
       "lab_id": "deepmind",
-      "total_score": 1,
+      "total_score": 2,
       "breakdown": {
         "compute_chips": {
           "score": 0,
@@ -172,17 +172,16 @@
           "items_triggered": []
         },
         "resilience": {
-          "score": 2,
+          "score": 1,
           "max": 2,
           "items_triggered": [
-            "E1",
             "E2"
           ]
         }
       },
-      "events_count": 8,
+      "events_count": 7,
       "last_event_date": "2026-01-29",
-      "trend": "stable",
+      "trend": "worsening",
       "rank": 4
     },
     {

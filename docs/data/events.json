@@ -5267,6 +5267,21 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0eae28a6",
+      "date": "2026-02-05",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic releases Opus 4.6 with new \u2018agent teams\u2019",
+      "source_url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
