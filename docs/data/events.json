@@ -5282,6 +5282,40 @@
       "tags": [],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d657f5ed",
+      "date": "2026-02-09",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic closes in on $20B round",
+      "source_url": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-56073419",
+      "date": "2026-02-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI will reportedly start testing ads in ChatGPT today",
+      "source_url": "https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
