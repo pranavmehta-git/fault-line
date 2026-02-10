@@ -5333,6 +5333,25 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-49f679d3",
+      "date": "2026-02-10",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI Abandons \u2018io\u2019 Branding for Its AI Hardware",
+      "source_url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
