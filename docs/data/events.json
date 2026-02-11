@@ -4707,6 +4707,22 @@
       "historical": false
     },
     {
+      "id": "evt-84075826",
+      "date": "2026-01-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "source_url": "https://openai.com/index/zenken",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-358a3ae5",
       "date": "2026-01-14",
       "lab": "openai",
@@ -4718,6 +4734,22 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5a07852f",
+      "date": "2026-01-14",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI partners with Cerebras",
+      "source_url": "https://openai.com/index/cerebras-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -4769,6 +4801,38 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f1405154",
+      "date": "2026-01-15",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Investing in Merge Labs",
+      "source_url": "https://openai.com/index/investing-in-merge-labs",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-435704bf",
+      "date": "2026-01-15",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+      "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -4828,6 +4892,24 @@
       "historical": false
     },
     {
+      "id": "evt-1c687cf5",
+      "date": "2026-01-16",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Our approach to advertising and expanding access to ChatGPT",
+      "source_url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-663546ed",
       "date": "2026-01-17",
       "lab": "openai",
@@ -4879,6 +4961,22 @@
       "historical": false
     },
     {
+      "id": "evt-0db278bb",
+      "date": "2026-01-18",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "A business that scales with the value of intelligence",
+      "source_url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-cb2917ab",
       "date": "2026-01-19",
       "lab": "anthropic",
@@ -4913,6 +5011,58 @@
       "historical": false
     },
     {
+      "id": "evt-40f561d2",
+      "date": "2026-01-20",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Stargate Community",
+      "source_url": "https://openai.com/index/stargate-community",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6ef5467c",
+      "date": "2026-01-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "source_url": "https://openai.com/index/cisco",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7214764b",
+      "date": "2026-01-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "source_url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-2fb218a0",
       "date": "2026-01-21",
       "lab": "anthropic",
@@ -4928,6 +5078,42 @@
       "tags": [
         "nvidia"
       ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2fbce850",
+      "date": "2026-01-21",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "How Higgsfield turns simple ideas into cinematic social videos",
+      "source_url": "https://openai.com/index/higgsfield",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dd8d093c",
+      "date": "2026-01-21",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Introducing Edu for Countries",
+      "source_url": "https://openai.com/index/edu-for-countries",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -5021,6 +5207,22 @@
       "historical": false
     },
     {
+      "id": "evt-a1ab4a67",
+      "date": "2026-01-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "PVH reimagines the future of fashion with OpenAI",
+      "source_url": "https://openai.com/index/pvh-future-of-fashion",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-704e4c5e",
       "date": "2026-01-28",
       "lab": "deepmind",
@@ -5055,6 +5257,25 @@
       "historical": false
     },
     {
+      "id": "evt-57184e88",
+      "date": "2026-01-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "EMEA Youth & Wellbeing Grant",
+      "source_url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-9acee7e2",
       "date": "2026-01-29",
       "lab": "deepmind",
@@ -5085,6 +5306,22 @@
       "tags": [
         "aws"
       ],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-de04f00f",
+      "date": "2026-01-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "source_url": "https://openai.com/index/taisei",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -5176,6 +5413,40 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c9370a6f",
+      "date": "2026-02-02",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "source_url": "https://openai.com/index/snowflake-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a3fdd48f",
+      "date": "2026-02-02",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Advancing AI benchmarking with Game Arena",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -5284,6 +5555,97 @@
       "historical": false
     },
     {
+      "id": "evt-5ae01ea2",
+      "date": "2026-02-05",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "source_url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82b812b9",
+      "date": "2026-02-05",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Introducing Trusted Access for Cyber",
+      "source_url": "https://openai.com/index/trusted-access-for-cyber",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4fb3a3b7",
+      "date": "2026-02-05",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Introducing OpenAI Frontier",
+      "source_url": "https://openai.com/index/introducing-openai-frontier",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6df25ff7",
+      "date": "2026-02-05",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "How Google Cloud is helping Team USA elevate their tricks with AI",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8639c4d1",
+      "date": "2026-02-06",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Making AI work for everyone, everywhere: our approach to localization",
+      "source_url": "https://openai.com/index/our-approach-to-localization",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-d657f5ed",
       "date": "2026-02-09",
       "lab": "anthropic",
@@ -5335,6 +5697,42 @@
       "historical": false
     },
     {
+      "id": "evt-17066025",
+      "date": "2026-02-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Bringing ChatGPT to GenAI.mil",
+      "source_url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b5afe0b8",
+      "date": "2026-02-09",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Testing ads in ChatGPT",
+      "source_url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-49f679d3",
       "date": "2026-02-10",
       "lab": "openai",
@@ -5367,6 +5765,24 @@
       ],
       "confidence": "low",
       "tags": [],
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8deefa24",
+      "date": "2026-02-11",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI policy exec who opposed chatbot\u2019s \u2018adult mode\u2019 reportedly fired on discrimination claim",
+      "source_url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
       "auto_classified": true,
       "historical": false
     }

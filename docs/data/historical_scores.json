@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-11T17:24:19.088686Z",
+  "generated_at": "2026-02-11T18:54:47.789245Z",
   "decay_window_days": 180,
   "snapshots": [
     {
@@ -23359,7 +23359,7 @@
       "date": "2026-01-31",
       "scores": {
         "openai": {
-          "total_score": 6,
+          "total_score": 7,
           "breakdown": {
             "compute_chips": {
               "score": 2,
@@ -23400,12 +23400,14 @@
               ]
             },
             "societal_impact": {
-              "score": 0,
+              "score": 1,
               "max": 2,
-              "items_triggered": []
+              "items_triggered": [
+                "F1"
+              ]
             }
           },
-          "events_count": 22,
+          "events_count": 35,
           "last_event_date": "2026-01-31",
           "trend": "worsening",
           "rank": 1
@@ -23503,7 +23505,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 8,
+          "events_count": 9,
           "last_event_date": "2026-01-29",
           "trend": "worsening",
           "rank": 3
