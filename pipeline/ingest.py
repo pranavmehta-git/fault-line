@@ -96,6 +96,9 @@ class NewsIngester:
                 "date": date,
                 "source_name": source["name"],
                 "source_url": source["url"],
+                "source_type": source.get("source_type", "news"),
+                "source_priority": source.get("priority", 2),
+                "lab_id": source.get("lab_id"),
                 "fetched_at": datetime.now().isoformat(),
             }
             

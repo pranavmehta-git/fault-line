@@ -39,6 +39,84 @@ sources:
     enabled: true
     priority: 1
 
+  # Authoritative / institutional sources
+  - name: "Reuters Technology"
+    url: "https://www.reutersagency.com/feed/?best-topics=tech"
+    type: "rss"
+    enabled: true
+    priority: 1
+
+  - name: "Nature News"
+    url: "https://www.nature.com/nature.rss"
+    type: "rss"
+    enabled: true
+    priority: 1
+
+  - name: "Science Magazine"
+    url: "https://www.science.org/rss/news_current.xml"
+    type: "rss"
+    enabled: true
+    priority: 2
+
+  # Government / regulatory sources
+  - name: "FTC Press Releases"
+    url: "https://www.ftc.gov/feeds/press-release.xml"
+    type: "rss"
+    enabled: true
+    priority: 1
+
+  - name: "DOJ Press Releases"
+    url: "https://www.justice.gov/feeds/opa/justice-news.xml"
+    type: "rss"
+    enabled: true
+    priority: 1
+
+  # Paywalled sources (disabled - no public RSS)
+  - name: "Bloomberg Technology"
+    url: "https://www.bloomberg.com/feed/technology"
+    type: "rss"
+    enabled: false
+    priority: 1
+
+  - name: "Financial Times"
+    url: "https://www.ft.com/technology?format=rss"
+    type: "rss"
+    enabled: false
+    priority: 1
+
+  # Official AI Lab Sources
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    type: "rss"
+    source_type: "lab_blog"
+    lab_id: "openai"
+    enabled: true
+    priority: 1
+
+  - name: "Anthropic News"
+    url: "https://www.anthropic.com/rss.xml"
+    type: "rss"
+    source_type: "lab_blog"
+    lab_id: "anthropic"
+    enabled: true
+    priority: 1
+
+  - name: "Google DeepMind Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    type: "rss"
+    source_type: "lab_blog"
+    lab_id: "deepmind"
+    enabled: true
+    priority: 1
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    type: "rss"
+    source_type: "lab_blog"
+    lab_id: "meta"
+    enabled: true
+    priority: 1
+
 # Lab name patterns for classification
 lab_patterns:
   openai:
@@ -136,6 +214,25 @@ dimension_patterns:
     - "hedge"
     - "alternative"
     - "mitigation"
+
+  societal_impact:
+    - "layoff"
+    - "job loss"
+    - "workforce"
+    - "displacement"
+    - "automat"
+    - "deepfake"
+    - "misinformation"
+    - "disinformation"
+    - "surveillance"
+    - "privacy"
+    - "bias"
+    - "discriminat"
+    - "safety incident"
+    - "monopol"
+    - "concentration of power"
+    - "misuse"
+    - "harm"
 
 # Impact signal keywords
 impact_patterns:

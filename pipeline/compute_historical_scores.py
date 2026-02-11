@@ -16,7 +16,7 @@ class HistoricalScoreCalculator:
 
     DECAY_WINDOW_DAYS = 180
     LABS = ["openai", "anthropic", "deepmind", "xai", "meta"]
-    DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience"]
+    DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact"]
 
     # Lab founding dates for score calculation start
     LAB_FOUNDING_DATES = {
@@ -130,12 +130,13 @@ class HistoricalScoreCalculator:
             breakdown[dim] = self._calculate_dimension_score(events, dim)
 
         # Calculate total score
-        # Formula: (Compute + Cloud + Policy + Demand) - Resilience
+        # Formula: (Compute + Cloud + Policy + Demand + Societal Impact) - Resilience
         fragility_sum = (
             breakdown["compute_chips"]["score"] +
             breakdown["cloud"]["score"] +
             breakdown["policy"]["score"] +
-            breakdown["demand"]["score"]
+            breakdown["demand"]["score"] +
+            breakdown["societal_impact"]["score"]
         )
         resilience = breakdown["resilience"]["score"]
         total_score = max(0, min(10, fragility_sum - resilience))
