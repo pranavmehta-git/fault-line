@@ -5352,6 +5352,23 @@
       ],
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7abd1017",
+      "date": "2026-02-11",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+      "source_url": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
