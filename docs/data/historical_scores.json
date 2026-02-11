@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-11T12:54:09.572238Z",
+  "generated_at": "2026-02-11T17:24:19.088686Z",
   "decay_window_days": 180,
   "snapshots": [
     {
@@ -32,6 +32,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -78,6 +83,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -118,6 +128,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -164,6 +179,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -204,6 +224,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -250,6 +275,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -290,6 +320,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -336,6 +371,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -376,6 +416,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -424,6 +469,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -466,6 +516,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -514,6 +569,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -556,6 +616,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -604,6 +669,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -644,6 +714,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -690,6 +765,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -730,6 +810,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -776,6 +861,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -816,6 +906,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -862,6 +957,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -902,6 +1002,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -948,6 +1053,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -988,6 +1098,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1034,6 +1149,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1074,6 +1194,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1120,6 +1245,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1160,6 +1290,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1206,6 +1341,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1246,6 +1386,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1292,6 +1437,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1332,6 +1482,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1378,6 +1533,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1418,6 +1578,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1464,6 +1629,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1504,6 +1674,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1550,6 +1725,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1590,6 +1770,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1636,6 +1821,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1668,6 +1858,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1712,6 +1907,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1744,6 +1944,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1788,6 +1993,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1820,6 +2030,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1864,6 +2079,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1896,6 +2116,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -1940,6 +2165,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -1972,6 +2202,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2016,6 +2251,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2048,6 +2288,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2092,6 +2337,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2124,6 +2374,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2168,6 +2423,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2200,6 +2460,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2244,6 +2509,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2276,6 +2546,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2320,6 +2595,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2352,6 +2632,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2396,6 +2681,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2428,6 +2718,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2472,6 +2767,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2504,6 +2804,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2548,6 +2853,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2580,6 +2890,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2624,6 +2939,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2656,6 +2976,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2700,6 +3025,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2732,6 +3062,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2776,6 +3111,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2808,6 +3148,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2852,6 +3197,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -2884,6 +3234,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -2930,6 +3285,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -2962,6 +3322,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3008,6 +3373,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3040,6 +3410,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3086,6 +3461,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3118,6 +3498,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3164,6 +3549,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3196,6 +3586,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3242,6 +3637,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3274,6 +3674,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3318,6 +3723,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -3350,6 +3760,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3394,6 +3809,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -3426,6 +3846,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3468,6 +3893,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3503,6 +3933,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -3535,6 +3970,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3577,6 +4017,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3612,6 +4057,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -3644,6 +4094,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3686,6 +4141,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3721,6 +4181,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -3753,6 +4218,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3795,6 +4265,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3830,6 +4305,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3862,6 +4342,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -3904,6 +4389,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3939,6 +4429,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -3971,6 +4466,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4013,6 +4513,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4050,6 +4555,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -4082,6 +4592,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4124,6 +4639,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -4161,6 +4681,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -4193,6 +4718,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4235,6 +4765,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -4272,6 +4807,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -4304,6 +4844,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4346,6 +4891,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -4383,6 +4933,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -4415,6 +4970,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4459,6 +5019,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4496,6 +5061,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4528,6 +5098,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4572,6 +5147,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4609,6 +5189,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4641,6 +5226,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4685,6 +5275,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4720,6 +5315,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -4752,6 +5352,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4796,6 +5401,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4831,6 +5441,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -4863,6 +5478,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4907,6 +5527,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -4939,6 +5564,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -4979,6 +5609,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5020,6 +5655,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5052,6 +5692,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5092,6 +5737,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5131,6 +5781,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5163,6 +5818,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5203,6 +5863,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5242,6 +5907,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5276,6 +5946,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5316,6 +5991,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5355,6 +6035,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5389,6 +6074,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5429,6 +6119,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5468,6 +6163,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5502,6 +6202,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5542,6 +6247,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5578,6 +6288,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5618,6 +6333,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5650,6 +6370,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5692,6 +6417,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5729,6 +6459,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5761,6 +6496,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5803,6 +6543,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5840,6 +6585,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -5872,6 +6622,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -5914,6 +6669,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5949,6 +6709,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -5981,6 +6746,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6023,6 +6793,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6058,6 +6833,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6090,6 +6870,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6132,6 +6917,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6167,6 +6957,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6199,6 +6994,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6241,6 +7041,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6276,6 +7081,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6308,6 +7118,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6352,6 +7167,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6387,6 +7207,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6419,6 +7244,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6463,6 +7293,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6498,6 +7333,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6530,6 +7370,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6574,6 +7419,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6609,6 +7459,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -6641,6 +7496,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6685,6 +7545,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6720,6 +7585,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6752,6 +7622,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6796,6 +7671,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -6831,6 +7711,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6863,6 +7748,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -6907,6 +7797,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -6942,6 +7837,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -6974,6 +7874,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7016,6 +7921,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7051,6 +7961,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7083,6 +7998,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7125,6 +8045,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7160,6 +8085,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7192,6 +8122,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7234,6 +8169,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7269,6 +8209,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7301,6 +8246,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7343,6 +8293,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7378,6 +8333,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -7410,6 +8370,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7452,6 +8417,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -7489,6 +8459,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7521,6 +8496,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7563,6 +8543,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -7600,6 +8585,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7632,6 +8622,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7674,6 +8669,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7711,6 +8711,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7743,6 +8748,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7785,6 +8795,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -7822,6 +8837,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7854,6 +8874,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -7896,6 +8921,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -7933,6 +8963,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -7965,6 +9000,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8007,6 +9047,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8042,6 +9087,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8074,6 +9124,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8116,6 +9171,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8151,6 +9211,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8183,6 +9248,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8228,6 +9298,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -8263,6 +9338,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8295,6 +9375,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8340,6 +9425,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8375,6 +9465,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8407,6 +9502,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8452,6 +9552,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8487,6 +9592,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8519,6 +9629,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8564,6 +9679,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8599,6 +9719,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8631,6 +9756,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8676,6 +9806,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8711,6 +9846,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8743,6 +9883,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8788,6 +9933,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -8823,6 +9973,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8855,6 +10010,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -8897,6 +10057,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -8932,6 +10097,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -8964,6 +10134,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9006,6 +10181,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -9041,6 +10221,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9073,6 +10258,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9115,6 +10305,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9150,6 +10345,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9182,6 +10382,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9224,6 +10429,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9259,6 +10469,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9291,6 +10506,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9333,6 +10553,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9368,6 +10593,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9400,6 +10630,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9442,6 +10677,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -9477,6 +10717,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9509,6 +10754,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9551,6 +10801,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -9586,6 +10841,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9618,6 +10878,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9660,6 +10925,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -9695,6 +10965,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9727,6 +11002,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9772,6 +11052,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -9807,6 +11092,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9839,6 +11129,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9884,6 +11179,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -9919,6 +11219,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -9951,6 +11256,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -9996,6 +11306,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -10031,6 +11346,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10063,6 +11383,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10108,6 +11433,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10143,6 +11473,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10175,6 +11510,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10220,6 +11560,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -10251,6 +11596,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10288,6 +11638,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10320,6 +11675,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10365,6 +11725,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -10396,6 +11761,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10433,6 +11803,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10465,6 +11840,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10507,6 +11887,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10538,6 +11923,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10575,6 +11965,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10607,6 +12002,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10649,6 +12049,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10680,6 +12085,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10717,6 +12127,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -10749,6 +12164,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10791,6 +12211,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10822,6 +12247,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10861,6 +12291,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10893,6 +12328,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -10935,6 +12375,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -10966,6 +12411,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11005,6 +12455,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11037,6 +12492,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11079,6 +12539,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -11110,6 +12575,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11149,6 +12619,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11181,6 +12656,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11223,6 +12703,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11254,6 +12739,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11293,6 +12783,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11325,6 +12820,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11367,6 +12867,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11398,6 +12903,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11437,6 +12947,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11469,6 +12984,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11511,6 +13031,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11542,6 +13067,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11581,6 +13111,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11613,6 +13148,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11655,6 +13195,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11686,6 +13231,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11723,6 +13273,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -11755,6 +13310,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11797,6 +13357,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11828,6 +13393,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11867,6 +13437,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11899,6 +13474,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -11941,6 +13521,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -11972,6 +13557,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12011,6 +13601,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -12045,6 +13640,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12087,6 +13687,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -12118,6 +13723,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12157,6 +13767,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -12191,6 +13806,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12233,6 +13853,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -12264,6 +13889,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12303,6 +13933,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12337,6 +13972,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12379,6 +14019,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -12410,6 +14055,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12449,6 +14099,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12483,6 +14138,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12525,6 +14185,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -12556,6 +14221,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12595,6 +14265,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12629,6 +14304,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12673,6 +14353,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12704,6 +14389,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12741,6 +14431,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -12775,6 +14470,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12819,6 +14519,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12850,6 +14555,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12887,6 +14597,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12919,6 +14634,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -12963,6 +14683,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -12994,6 +14719,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13031,6 +14761,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -13063,6 +14798,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13107,6 +14847,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -13141,6 +14886,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13172,6 +14922,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13212,6 +14967,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13254,6 +15014,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -13288,6 +15053,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 0,
@@ -13319,6 +15089,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13359,6 +15134,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13402,6 +15182,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -13438,6 +15223,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13469,6 +15259,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13509,6 +15304,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13552,6 +15352,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -13590,6 +15395,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -13621,6 +15431,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13661,6 +15476,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13705,6 +15525,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -13743,6 +15568,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -13774,6 +15604,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13814,6 +15649,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -13858,6 +15698,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -13899,6 +15744,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -13932,6 +15782,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -13972,6 +15827,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -14017,6 +15877,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -14058,6 +15923,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14091,6 +15961,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14131,6 +16006,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -14176,6 +16056,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -14217,6 +16102,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14252,6 +16142,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14292,6 +16187,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 1,
@@ -14337,6 +16237,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -14378,6 +16283,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14413,6 +16323,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14455,6 +16370,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -14500,6 +16420,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -14536,6 +16461,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14579,6 +16509,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14618,6 +16553,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -14663,6 +16603,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -14699,6 +16644,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14742,6 +16692,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14773,6 +16728,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14814,6 +16774,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -14856,6 +16821,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -14889,6 +16859,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -14930,6 +16905,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -14961,6 +16941,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15003,6 +16988,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15048,6 +17038,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -15088,6 +17083,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -15126,6 +17126,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15157,6 +17162,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15199,6 +17209,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15243,6 +17258,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -15281,6 +17301,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -15317,6 +17342,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15348,6 +17378,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15390,6 +17425,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15434,6 +17474,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -15472,6 +17517,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -15508,6 +17558,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -15539,6 +17594,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15581,6 +17641,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -15625,6 +17690,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -15663,6 +17733,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -15704,6 +17779,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -15735,6 +17815,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15777,6 +17862,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -15821,6 +17911,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -15859,6 +17954,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -15900,6 +18000,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -15931,6 +18036,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -15968,6 +18078,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16015,6 +18130,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 12,
@@ -16053,6 +18173,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -16096,6 +18221,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -16127,6 +18257,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16165,6 +18300,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16209,6 +18349,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 12,
@@ -16242,6 +18387,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16288,6 +18438,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -16324,6 +18479,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -16359,6 +18519,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16406,6 +18571,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 12,
@@ -16439,6 +18609,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16485,6 +18660,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -16521,6 +18701,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 2,
@@ -16561,6 +18746,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -16605,6 +18795,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 12,
@@ -16638,6 +18833,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16684,6 +18884,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -16722,6 +18927,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -16762,6 +18972,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -16806,6 +19021,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -16839,6 +19059,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -16880,6 +19105,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -16921,6 +19151,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -16961,6 +19196,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -17005,6 +19245,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -17038,6 +19283,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17079,6 +19329,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -17120,6 +19375,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -17160,6 +19420,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -17204,6 +19469,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -17237,6 +19507,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17276,6 +19551,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17320,6 +19600,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -17360,6 +19645,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -17404,6 +19694,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -17437,6 +19732,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17476,6 +19776,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17520,6 +19825,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -17560,6 +19870,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -17606,6 +19921,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -17639,6 +19959,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17680,6 +20005,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17726,6 +20056,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -17768,6 +20103,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -17815,6 +20155,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -17848,6 +20193,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17889,6 +20239,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -17935,6 +20290,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -17977,6 +20337,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -18021,6 +20386,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -18054,6 +20424,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18100,6 +20475,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -18140,6 +20520,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18185,6 +20570,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -18235,6 +20625,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 13,
@@ -18271,6 +20666,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18319,6 +20719,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -18359,6 +20764,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18404,6 +20814,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -18454,6 +20869,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 13,
@@ -18490,6 +20910,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18538,6 +20963,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -18579,6 +21009,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18624,6 +21059,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -18674,6 +21114,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -18710,6 +21155,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18758,6 +21208,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -18799,6 +21254,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18844,6 +21304,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -18894,6 +21359,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -18930,6 +21400,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -18976,6 +21451,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -19020,6 +21500,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -19060,6 +21545,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -19108,6 +21598,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -19144,6 +21639,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19187,6 +21687,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -19226,6 +21731,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19269,6 +21779,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -19317,6 +21832,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -19353,6 +21873,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19394,6 +21919,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -19430,6 +21960,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19473,6 +22008,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -19514,6 +22054,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -19550,6 +22095,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -19583,6 +22133,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19627,6 +22182,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -19665,6 +22225,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -19706,6 +22271,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -19739,6 +22309,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19781,6 +22356,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -19816,6 +22396,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19857,6 +22442,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -19893,6 +22483,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -19935,6 +22530,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -19974,6 +22574,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -20009,6 +22614,11 @@
               "items_triggered": []
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -20052,6 +22662,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -20094,6 +22709,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -20130,6 +22750,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -20172,6 +22797,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -20210,6 +22840,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -20245,6 +22880,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -20290,6 +22930,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 5,
@@ -20326,6 +22971,11 @@
               ]
             },
             "resilience": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
               "score": 0,
               "max": 2,
               "items_triggered": []
@@ -20368,6 +23018,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 3,
@@ -20408,6 +23063,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 10,
@@ -20450,6 +23110,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 6,
@@ -20495,6 +23160,11 @@
               "score": 0,
               "max": 2,
               "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -20537,6 +23207,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 9,
@@ -20576,6 +23251,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 4,
@@ -20614,6 +23294,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 12,
@@ -20656,6 +23341,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 7,
@@ -20708,6 +23398,11 @@
               "items_triggered": [
                 "E1"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 22,
@@ -20754,6 +23449,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 17,
@@ -20796,6 +23496,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,
@@ -20836,6 +23541,11 @@
               "items_triggered": [
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 11,
@@ -20879,6 +23589,11 @@
                 "E1",
                 "E2"
               ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
             }
           },
           "events_count": 8,

@@ -249,7 +249,7 @@ class FragilityTracker {
 
         container.innerHTML = this.scores.map(lab => `
             <a href="lab.html?lab=${lab.lab_id}" class="ranking-row">
-                <div class="rank-badge rank-${lab.rank}">#${lab.rank}</div>
+                <div class="risk-level-badge ${this.getScoreClass(lab.total_score)}">${this.getRiskLabel(lab.total_score)}</div>
                 <div class="lab-info">
                     <span class="lab-icon-wrapper">${getLabIcon(lab.logo_icon)}</span>
                     <div class="lab-details">
@@ -263,7 +263,7 @@ class FragilityTracker {
                     ${this.getScoreTooltipHTML()}
                 </div>
                 <div class="dimension-bars">
-                    ${this.renderDimensionBars(lab.breakdown)}
+                    ${this.renderDimensionBars(lab.breakdown, lab.lab_id)}
                 </div>
                 <div class="trend-indicator ${lab.trend}">
                     <span class="trend-icon">${this.getTrendIcon(lab.trend)}</span>
@@ -273,20 +273,24 @@ class FragilityTracker {
         `).join('');
     }
 
-    renderDimensionBars(breakdown) {
+    renderDimensionBars(breakdown, labId) {
         const dimensions = [
             { key: 'compute_chips', label: 'Compute', class: 'compute' },
             { key: 'cloud', label: 'Cloud', class: 'cloud' },
             { key: 'policy', label: 'Policy', class: 'policy' },
             { key: 'demand', label: 'Demand', class: 'demand' },
-            { key: 'resilience', label: 'Resil.', class: 'resilience' }
+            { key: 'resilience', label: 'Resil.', class: 'resilience' },
+            { key: 'societal_impact', label: 'Societal', class: 'societal' }
         ];
 
         return dimensions.map(dim => {
             const data = breakdown[dim.key];
+            if (!data) return '';
             const percent = (data.score / data.max) * 100;
             return `
-                <div class="dim-bar">
+                <div class="dim-bar dim-bar-clickable"
+                     data-lab="${labId || ''}" data-dim="${dim.key}"
+                     title="View ${dim.label} detail">
                     <span class="dim-bar-label">${dim.label}</span>
                     <div class="dim-bar-track">
                         <div class="dim-bar-fill ${dim.class}" style="width: ${percent}%"></div>
@@ -300,33 +304,74 @@ class FragilityTracker {
         const container = document.getElementById('dimensionsGrid');
         if (!container || !this.checklist) return;
 
+        const maxPerLab = 2; // each dimension has 2 checklist items per lab
+
         container.innerHTML = this.checklist.dimensions.map(dim => {
             // Calculate total triggered across all labs
             const totalTriggered = this.scores.reduce((sum, lab) => {
                 return sum + (lab.breakdown[dim.id]?.items_triggered?.length || 0);
             }, 0);
+            const totalPossible = this.scores.length * maxPerLab;
 
             return `
-                <div class="dimension-card ${dim.id.replace('_', '')}">
+                <a href="events.html?dimension=${dim.id}" class="dimension-card ${dim.id.replace('_', '')}">
                     <div class="dimension-header">
                         <span class="dimension-icon">${dim.icon}</span>
-                        <span class="dimension-score">${totalTriggered} triggers</span>
+                        <span class="dimension-score">${totalTriggered} of ${totalPossible} indicators active</span>
                     </div>
                     <div class="dimension-name">${dim.name}</div>
                     <div class="dimension-desc">${dim.description}</div>
-                </div>
+                    <div class="dimension-labs-summary">
+                        ${this.renderDimensionLabSummary(dim.id)}
+                    </div>
+                </a>
             `;
         }).join('');
     }
 
+    renderDimensionLabSummary(dimId) {
+        const labTriggers = this.scores
+            .filter(lab => lab.breakdown[dimId]?.items_triggered?.length > 0)
+            .map(lab => `<span class="dim-lab-chip">${lab.name}: ${lab.breakdown[dimId].items_triggered.join(', ')}</span>`);
+
+        if (labTriggers.length === 0) return '<span class="dim-no-triggers">No active indicators</span>';
+        return labTriggers.join('');
+    }
+
     renderRecentEvents() {
         const container = document.getElementById('recentEvents');
+        const sentimentContainer = document.getElementById('sentimentSummary');
         if (!container) return;
 
-        // Sort events by date descending and take first 5
+        // Sort events by date descending and take first 8
         const recentEvents = [...this.events]
             .sort((a, b) => new Date(b.date) - new Date(a.date))
-            .slice(0, 5);
+            .slice(0, 8);
+
+        // Calculate sentiment summary from last 7 days
+        if (sentimentContainer) {
+            const last7days = recentEvents.filter(e => {
+                const daysDiff = (Date.now() - new Date(e.date)) / (1000 * 60 * 60 * 24);
+                return daysDiff <= 7;
+            });
+            const positive = last7days.filter(e => e.impact > 0).length;
+            const negative = last7days.filter(e => e.impact < 0).length;
+
+            const mood = positive > negative ? 'Increasing Fragility' :
+                         negative > positive ? 'Decreasing Fragility' : 'Stable';
+            const moodClass = positive > negative ? 'worsening' :
+                              negative > positive ? 'improving' : 'stable';
+
+            sentimentContainer.innerHTML = `
+                <div class="sentiment-bar">
+                    <div class="sentiment-label">7-day signal: <span class="${moodClass}">${mood}</span></div>
+                    <div class="sentiment-counts">
+                        <span class="sentiment-up">+${positive} risk</span>
+                        <span class="sentiment-down">${negative} resilience</span>
+                    </div>
+                </div>
+            `;
+        }
 
         container.innerHTML = recentEvents.map(event => {
             const lab = this.labs.find(l => l.lab_id === event.lab);
@@ -341,7 +386,10 @@ class FragilityTracker {
                         <div class="event-summary">${event.summary}</div>
                         <div class="event-meta">
                             <span class="event-dimension ${event.dimension}">${this.formatDimension(event.dimension)}</span>
-                            <span class="event-source">${event.source_name}</span>
+                            <span class="event-source">
+                                ${event.source_type === 'lab_blog' ? '<span class="source-badge official">OFFICIAL</span>' : ''}
+                                ${event.source_name}
+                            </span>
                         </div>
                     </div>
                     <div class="event-impact ${this.getImpactClass(event.impact)}">
@@ -382,11 +430,23 @@ class FragilityTracker {
             btn.addEventListener('click', (e) => {
                 const sortType = e.target.dataset.sort;
                 this.sortRankings(sortType);
-                
+
                 // Update active state
                 document.querySelectorAll('.control-btn[data-sort]').forEach(b => b.classList.remove('active'));
                 e.target.classList.add('active');
             });
+        });
+
+        // Dimension bar clicks (drill-down to lab detail)
+        document.getElementById('rankingsTable')?.addEventListener('click', (e) => {
+            const dimBar = e.target.closest('.dim-bar-clickable');
+            if (dimBar) {
+                e.preventDefault();
+                e.stopPropagation();
+                const labId = dimBar.dataset.lab;
+                const dim = dimBar.dataset.dim;
+                window.location.href = `lab.html?lab=${labId}&dim=${dim}`;
+            }
         });
     }
 
@@ -407,6 +467,14 @@ class FragilityTracker {
     }
 
     // Utility methods
+    getRiskLabel(score) {
+        if (score >= 8) return 'CRITICAL';
+        if (score >= 6) return 'HIGH';
+        if (score >= 4) return 'ELEVATED';
+        if (score >= 2) return 'MODERATE';
+        return 'LOW';
+    }
+
     getScoreTooltipHTML() {
         return `
             <div class="score-tooltip-wrapper">
@@ -503,7 +571,8 @@ class FragilityTracker {
             cloud: 'Cloud',
             policy: 'Policy',
             demand: 'Demand',
-            resilience: 'Resilience'
+            resilience: 'Resilience',
+            societal_impact: 'Societal'
         };
         return labels[dim] || dim;
     }
@@ -523,7 +592,9 @@ class FragilityTracker {
 // Lab Detail Page Controller
 class LabDetailPage {
     constructor() {
-        this.labId = new URLSearchParams(window.location.search).get('lab');
+        const params = new URLSearchParams(window.location.search);
+        this.labId = params.get('lab');
+        this.activeDimension = params.get('dim');
         this.lab = null;
         this.score = null;
         this.events = [];
@@ -656,31 +727,60 @@ class LabDetailPage {
             dim.items_triggered?.forEach(item => triggeredItems.add(item));
         });
 
-        container.innerHTML = this.checklist.checklist_items.map(item => {
-            const isTriggered = triggeredItems.has(item.id);
-            const relatedEvents = this.events.filter(e => 
-                e.checklist_items_affected?.includes(item.id)
-            );
+        // Group checklist items by dimension
+        const dimensions = this.checklist.dimensions;
+
+        container.innerHTML = dimensions.map(dim => {
+            const dimBreakdown = this.score.breakdown[dim.id];
+            const dimItems = this.checklist.checklist_items.filter(i => i.dimension === dim.id);
+            const isActive = this.activeDimension === dim.id;
+            const isFiltered = this.activeDimension && !isActive;
 
             return `
-                <div class="checklist-item ${isTriggered ? 'triggered' : 'not-triggered'}">
-                    <div class="checklist-status">${isTriggered ? getLabIcon('warning', 'status-icon warning') : getLabIcon('circle', 'status-icon')}</div>
-                    <div class="checklist-content">
-                        <div class="checklist-name">${item.id}: ${item.name}</div>
-                        <div class="checklist-desc">${item.description}</div>
-                        ${isTriggered && relatedEvents.length > 0 ? `
-                            <div class="checklist-evidence">
-                                ${relatedEvents.slice(0, 2).map(e => `
-                                    <a href="${e.source_url}" target="_blank" class="evidence-link">
-                                        ${getLabIcon('paperclip', 'evidence-icon')} ${e.source_name}: ${e.summary.slice(0, 60)}...
-                                    </a>
-                                `).join('')}
-                            </div>
-                        ` : ''}
+                <div class="checklist-dimension-group ${isActive ? 'highlighted' : ''} ${isFiltered ? 'dimmed' : ''}"
+                     id="dim-${dim.id}">
+                    <div class="checklist-dim-header">
+                        <span>${dim.icon}</span>
+                        <span>${dim.name}</span>
+                        <span class="checklist-dim-score">${dimBreakdown?.score || 0}/${dimBreakdown?.max || 2}</span>
+                    </div>
+                    <div class="checklist-dim-items">
+                        ${dimItems.map(item => {
+                            const isTriggered = triggeredItems.has(item.id);
+                            const relatedEvents = this.events.filter(e =>
+                                e.checklist_items_affected?.includes(item.id)
+                            );
+                            return `
+                                <div class="checklist-item ${isTriggered ? 'triggered' : 'not-triggered'}">
+                                    <div class="checklist-status">${isTriggered ? getLabIcon('warning', 'status-icon warning') : getLabIcon('circle', 'status-icon')}</div>
+                                    <div class="checklist-content">
+                                        <div class="checklist-name">${item.id}: ${item.name}</div>
+                                        <div class="checklist-desc">${item.description}</div>
+                                        ${isTriggered && relatedEvents.length > 0 ? `
+                                            <div class="checklist-evidence">
+                                                ${relatedEvents.slice(0, 3).map(e => `
+                                                    <a href="${e.source_url}" target="_blank" class="evidence-link">
+                                                        ${getLabIcon('paperclip', 'evidence-icon')} ${e.source_name}: ${e.summary.slice(0, 80)}...
+                                                    </a>
+                                                `).join('')}
+                                            </div>
+                                        ` : ''}
+                                    </div>
+                                </div>
+                            `;
+                        }).join('')}
                     </div>
                 </div>
             `;
         }).join('');
+
+        // Scroll to active dimension if specified
+        if (this.activeDimension) {
+            const target = document.getElementById(`dim-${this.activeDimension}`);
+            if (target) {
+                setTimeout(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }), 100);
+            }
+        }
     }
 
     renderEvents() {
@@ -701,6 +801,7 @@ class LabDetailPage {
                     <div class="event-summary">${event.summary}</div>
                     <div class="event-meta">
                         <a href="${event.source_url}" target="_blank" class="event-source">
+                            ${event.source_type === 'lab_blog' ? '<span class="source-badge official">OFFICIAL</span>' : ''}
                             ${event.source_name} →
                         </a>
                     </div>
@@ -913,7 +1014,8 @@ class LabDetailPage {
             cloud: 'Cloud',
             policy: 'Policy',
             demand: 'Demand',
-            resilience: 'Resilience'
+            resilience: 'Resilience',
+            societal_impact: 'Societal'
         };
         return labels[dim] || dim;
     }
@@ -937,15 +1039,36 @@ class EventsPage {
         try {
             await this.loadData();
             this.render();
+            this.parseURLFilters();
             this.bindEvents();
         } catch (error) {
             console.error('Failed to load events:', error);
         }
     }
 
+    parseURLFilters() {
+        const params = new URLSearchParams(window.location.search);
+        let needsFilter = false;
+        if (params.has('dimension')) {
+            this.filters.dimension = params.get('dimension');
+            const dimSelect = document.getElementById('filterDimension');
+            if (dimSelect) dimSelect.value = this.filters.dimension;
+            needsFilter = true;
+        }
+        if (params.has('lab')) {
+            this.filters.lab = params.get('lab');
+            const labSelect = document.getElementById('filterLab');
+            if (labSelect) labSelect.value = this.filters.lab;
+            needsFilter = true;
+        }
+        if (needsFilter) {
+            this.applyFilters();
+        }
+    }
+
     async loadData() {
         const basePath = window.location.pathname.includes('/docs/') ? '/docs/' : './';
-        
+
         const [labsRes, eventsRes] = await Promise.all([
             fetch(`${basePath}data/labs.json`),
             fetch(`${basePath}data/events.json`)
@@ -977,11 +1100,11 @@ class EventsPage {
     renderEvents() {
         const container = document.getElementById('eventsGrid');
         const countEl = document.getElementById('eventsResultsCount');
-        
+
         if (!container) return;
 
         // Sort by date descending
-        const sortedEvents = [...this.filteredEvents].sort((a, b) => 
+        const sortedEvents = [...this.filteredEvents].sort((a, b) =>
             new Date(b.date) - new Date(a.date)
         );
 
@@ -1002,7 +1125,10 @@ class EventsPage {
                         <div class="event-summary">${event.summary}</div>
                         <div class="event-meta">
                             <span class="event-dimension ${event.dimension}">${this.formatDimension(event.dimension)}</span>
-                            <a href="${event.source_url}" target="_blank" class="event-source">${event.source_name} →</a>
+                            <a href="${event.source_url}" target="_blank" class="event-source">
+                                ${event.source_type === 'lab_blog' ? '<span class="source-badge official">OFFICIAL</span>' : ''}
+                                ${event.source_name} →
+                            </a>
                         </div>
                     </div>
                     <div class="event-impact ${this.getImpactClass(event.impact)}">
@@ -1093,7 +1219,8 @@ class EventsPage {
             cloud: 'Cloud',
             policy: 'Policy',
             demand: 'Demand',
-            resilience: 'Resilience'
+            resilience: 'Resilience',
+            societal_impact: 'Societal'
         };
         return labels[dim] || dim;
     }
@@ -1492,6 +1619,7 @@ class TimelinePage {
                 ` : ''}
             </div>
             <a href="${event.source_url}" target="_blank" class="panel-source-link">
+                ${event.source_type === 'lab_blog' ? '<span class="source-badge official">OFFICIAL</span>' : ''}
                 ${event.source_name} &rarr;
             </a>
         `;
@@ -1709,7 +1837,8 @@ class TimelinePage {
             cloud: 'Cloud',
             policy: 'Policy',
             demand: 'Demand',
-            resilience: 'Resilience'
+            resilience: 'Resilience',
+            societal_impact: 'Societal'
         };
         return labels[dim] || dim;
     }

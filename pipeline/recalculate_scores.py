@@ -11,7 +11,7 @@ from pathlib import Path
 # Configuration
 DECAY_WINDOW_DAYS = 180
 LABS = ["openai", "anthropic", "deepmind", "xai", "meta"]
-DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience"]
+DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact"]
 
 # Checklist item definitions
 CHECKLIST_ITEMS = {
@@ -25,6 +25,8 @@ CHECKLIST_ITEMS = {
     "D2": {"dimension": "demand", "points": 1},
     "E1": {"dimension": "resilience", "points": -1},
     "E2": {"dimension": "resilience", "points": -1},
+    "F1": {"dimension": "societal_impact", "points": 1},
+    "F2": {"dimension": "societal_impact", "points": 1},
 }
 
 
@@ -91,12 +93,13 @@ def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
             "items_triggered": triggered_in_dim
         }
 
-    # Calculate total: (compute + cloud + policy + demand) - resilience
+    # Calculate total: (compute + cloud + policy + demand + societal_impact) - resilience
     raw_total = (
         breakdown["compute_chips"]["score"] +
         breakdown["cloud"]["score"] +
         breakdown["policy"]["score"] +
-        breakdown["demand"]["score"] -
+        breakdown["demand"]["score"] +
+        breakdown["societal_impact"]["score"] -
         breakdown["resilience"]["score"]
     )
 

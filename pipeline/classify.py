@@ -38,11 +38,15 @@ class ArticleClassifier:
     def classify_article(self, article: dict) -> Optional[dict]:
         """Classify a single article into an event."""
         text = f"{article.get('title', '')} {article.get('summary', '')}".lower()
-        
-        # Identify lab(s)
-        labs = self._identify_labs(text)
-        if not labs:
-            return None  # Skip articles not about our tracked labs
+
+        # If source specifies lab directly (e.g., lab blogs), use that
+        if article.get("source_type") == "lab_blog" and article.get("lab_id"):
+            labs = [article["lab_id"]]
+        else:
+            # Identify lab(s)
+            labs = self._identify_labs(text)
+            if not labs:
+                return None  # Skip articles not about our tracked labs
         
         # Identify dimension
         dimension = self._identify_dimension(text)
@@ -68,8 +72,9 @@ class ArticleClassifier:
                 "source_name": article.get("source_name", "Unknown"),
                 "impact": impact,
                 "checklist_items_affected": checklist_items,
-                "confidence": self._assess_confidence(text, labs, dimension),
+                "confidence": self._assess_confidence(text, labs, dimension, article.get("source_priority", 2)),
                 "tags": self._extract_tags(text),
+                "source_type": article.get("source_type", "news"),
                 "auto_classified": True,
             }
             events.append(event)
@@ -163,20 +168,29 @@ class ArticleClassifier:
         
         return summary
     
-    def _assess_confidence(self, text: str, labs: list, dimension: str) -> str:
+    def _assess_confidence(self, text: str, labs: list, dimension: str, source_priority: int = 2) -> str:
         """Assess classification confidence."""
         # Simple heuristic: more keyword matches = higher confidence
         lab_matches = len(labs)
-        
+
         dim_patterns = self.config.get("dimension_patterns", {}).get(dimension, [])
         dim_matches = sum(1 for k in dim_patterns if k.lower() in text)
-        
+
         if lab_matches >= 2 and dim_matches >= 3:
-            return "high"
+            confidence = "high"
         elif lab_matches >= 1 and dim_matches >= 2:
-            return "medium"
+            confidence = "medium"
         else:
-            return "low"
+            confidence = "low"
+
+        # Bump confidence one level for high-priority sources
+        if source_priority == 1:
+            if confidence == "low":
+                confidence = "medium"
+            elif confidence == "medium":
+                confidence = "high"
+
+        return confidence
     
     def _extract_tags(self, text: str) -> list[str]:
         """Extract relevant tags from text."""

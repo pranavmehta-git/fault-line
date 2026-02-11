@@ -37,6 +37,13 @@
       "icon": "🛡️",
       "max_score": 2,
       "inverted": true
+    },
+    {
+      "id": "societal_impact",
+      "name": "Societal Impact",
+      "description": "Measures signals of workforce displacement, misinformation risks, privacy concerns, and concentration of power",
+      "icon": "🌍",
+      "max_score": 2
     }
   ],
   "checklist_items": [
@@ -119,6 +126,22 @@
       "description": "Concrete risk-reduction actions (long-term contracts, redundancy, modular deployment)",
       "points": -1,
       "keywords": ["contract", "hedge", "backup", "contingency", "mitigation", "strategic reserve", "long-term agreement", "multi-year", "guarantee", "secure supply", "capacity reservation"]
+    },
+    {
+      "id": "F1",
+      "dimension": "societal_impact",
+      "name": "Workforce & Societal Disruption",
+      "description": "Evidence of significant workforce displacement, misinformation amplification, or privacy/surveillance concerns attributed to AI deployment",
+      "points": 1,
+      "keywords": ["layoff", "job loss", "workforce", "displacement", "automat", "deepfake", "misinformation", "disinformation", "surveillance", "privacy", "bias", "discriminat"]
+    },
+    {
+      "id": "F2",
+      "dimension": "societal_impact",
+      "name": "Power Concentration & Safety Incidents",
+      "description": "Evidence of market power concentration, safety incidents, or actions increasing centralization without oversight",
+      "points": 1,
+      "keywords": ["monopol", "concentration", "safety incident", "accident", "harm", "misuse", "abuse", "manipulation", "exploit", "centraliz", "dominan"]
     }
   ]
 }

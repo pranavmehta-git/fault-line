@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T12:54:09Z",
+  "last_updated": "2026-02-11T17:23:59Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -44,6 +44,11 @@
             "E1",
             "E2"
           ]
+        },
+        "societal_impact": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
         }
       },
       "events_count": 32,
@@ -91,6 +96,11 @@
             "E1",
             "E2"
           ]
+        },
+        "societal_impact": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
         }
       },
       "events_count": 18,
@@ -135,6 +145,11 @@
           "items_triggered": [
             "E2"
           ]
+        },
+        "societal_impact": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
         }
       },
       "events_count": 12,
@@ -177,6 +192,11 @@
           "items_triggered": [
             "E2"
           ]
+        },
+        "societal_impact": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
         }
       },
       "events_count": 7,
@@ -221,6 +241,11 @@
             "E1",
             "E2"
           ]
+        },
+        "societal_impact": {
+          "score": 0,
+          "max": 2,
+          "items_triggered": []
         }
       },
       "events_count": 8,
