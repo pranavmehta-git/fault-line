@@ -5805,6 +5805,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0fbd660d",
+      "date": "2026-02-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "A new version of OpenAI\u2019s Codex is powered by a new dedicated chip",
+      "source_url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
