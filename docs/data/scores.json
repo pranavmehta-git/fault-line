@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T18:54:47Z",
+  "last_updated": "2026-02-12T01:29:32Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -56,7 +56,7 @@
       },
       "events_count": 53,
       "last_event_date": "2026-02-11",
-      "trend": "worsening",
+      "trend": "stable",
       "rank": 1
     },
     {
@@ -157,7 +157,7 @@
       },
       "events_count": 10,
       "last_event_date": "2026-02-05",
-      "trend": "worsening",
+      "trend": "stable",
       "rank": 3
     },
     {
@@ -204,8 +204,8 @@
           "items_triggered": []
         }
       },
-      "events_count": 12,
-      "last_event_date": "2026-02-02",
+      "events_count": 13,
+      "last_event_date": "2026-02-11",
       "trend": "stable",
       "rank": 4
     },

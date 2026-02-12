@@ -5785,6 +5785,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e5bd475b",
+      "date": "2026-02-11",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
