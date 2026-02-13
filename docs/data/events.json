@@ -5863,6 +5863,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3457fcf0",
+      "date": "2026-02-13",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "source_url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3e5f801c",
+      "date": "2026-02-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Cohere\u2019s $240M year sets stage for IPO",
+      "source_url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
