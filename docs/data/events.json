@@ -5823,6 +5823,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b3b96e70",
+      "date": "2026-02-12",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "source_url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-77369dde",
+      "date": "2026-02-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "source_url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
