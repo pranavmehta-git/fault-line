@@ -5921,6 +5921,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4b8459ac",
+      "date": "2026-02-15",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "source_url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
