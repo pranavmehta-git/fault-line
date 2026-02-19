@@ -5997,6 +5997,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a7e41bcd",
+      "date": "2026-02-18",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Introducing OpenAI for India",
+      "source_url": "https://openai.com/index/openai-for-india",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e2d4279",
+      "date": "2026-02-19",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI deepens India push with Pine Labs fintech partnership",
+      "source_url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
