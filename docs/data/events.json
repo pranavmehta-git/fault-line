@@ -6033,6 +6033,45 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6f0b40bc",
+      "date": "2026-02-19",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+      "source_url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5b59aa97",
+      "date": "2026-02-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Advancing independent research on AI alignment",
+      "source_url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
