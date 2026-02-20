@@ -6072,6 +6072,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-830ae36f",
+      "date": "2026-02-19",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "All the important news from the ongoing India AI Impact Summit",
+      "source_url": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
