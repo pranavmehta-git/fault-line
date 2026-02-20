@@ -6092,6 +6092,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-33c36922",
+      "date": "2026-02-20",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "AI Safety Meets the War Machine",
+      "source_url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
