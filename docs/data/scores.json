@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T18:37:00Z",
+  "last_updated": "2026-02-21T01:22:27Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -108,7 +108,7 @@
           ]
         }
       },
-      "events_count": 21,
+      "events_count": 22,
       "last_event_date": "2026-02-20",
       "trend": "stable",
       "rank": 2

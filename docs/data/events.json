@@ -6110,6 +6110,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3222d431",
+      "date": "2026-02-20",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "source_url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
