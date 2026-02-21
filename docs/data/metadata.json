@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-21T12:32:48Z",
+  "last_run": "2026-02-21T18:25:14Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -7,12 +7,6 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "status": "ok",
       "articles_found": 20
-    },
-    {
-      "name": "VentureBeat AI",
-      "url": "https://venturebeat.com/category/ai/feed/",
-      "status": "ok",
-      "articles_found": 1
     },
     {
       "name": "Ars Technica",
@@ -63,13 +57,13 @@
       "articles_found": 20
     }
   ],
-  "events_processed": 314,
-  "events_added": 0,
+  "events_processed": 316,
+  "events_added": 2,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-02-21T18:00:00Z",
+  "next_scheduled_run": "2026-02-22T00:00:00Z",
   "pipeline_version": "1.0.0"
 }
