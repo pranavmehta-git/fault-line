@@ -6184,6 +6184,38 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-50ae3ebd",
+      "date": "2026-02-23",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI calls in the consultants for its enterprise push",
+      "source_url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e9b36a74",
+      "date": "2026-02-23",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI announces Frontier Alliance Partners",
+      "source_url": "https://openai.com/index/frontier-alliance-partners",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
