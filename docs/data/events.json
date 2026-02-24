@@ -6216,6 +6216,42 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ac895dc3",
+      "date": "2026-02-23",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "source_url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-576134cf",
+      "date": "2026-02-23",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
