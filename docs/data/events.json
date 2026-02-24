@@ -6252,6 +6252,54 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-69d5700a",
+      "date": "2026-02-24",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI COO says \u2018we have not yet really seen AI penetrate enterprise business processes\u2019",
+      "source_url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d0c08fea",
+      "date": "2026-02-24",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+      "source_url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ea57226a",
+      "date": "2026-02-24",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic&#8217;s Claude Cowork is plugging AI into more boring enterprise stuff",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
