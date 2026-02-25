@@ -6300,6 +6300,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4251ceca",
+      "date": "2026-02-24",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI defeats xAI\u2019s trade secrets lawsuit",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
