@@ -6320,6 +6320,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b9696435",
+      "date": "2026-02-25",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "India\u2019s AI boom pushes firms to trade near-term revenue for users",
+      "source_url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
