@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T12:48:09Z",
+  "last_updated": "2026-02-26T18:42:36Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -116,7 +116,7 @@
     },
     {
       "lab_id": "deepmind",
-      "total_score": 4,
+      "total_score": 3,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -146,9 +146,10 @@
           "items_triggered": []
         },
         "resilience": {
-          "score": 1,
+          "score": 2,
           "max": 2,
           "items_triggered": [
+            "E1",
             "E2"
           ]
         },
@@ -160,9 +161,9 @@
           ]
         }
       },
-      "events_count": 13,
-      "last_event_date": "2026-02-25",
-      "trend": "stable",
+      "events_count": 14,
+      "last_event_date": "2026-02-26",
+      "trend": "improving",
       "rank": 3
     },
     {

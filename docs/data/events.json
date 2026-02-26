@@ -6424,6 +6424,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-de2e4b92",
+      "date": "2026-02-26",
+      "lab": "deepmind",
+      "dimension": "resilience",
+      "summary": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "source_url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
