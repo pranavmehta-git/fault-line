@@ -6460,6 +6460,189 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-33474828",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT reaches 900M weekly active users",
+      "source_url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-16ee0f20",
+      "date": "2026-02-27",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Who\u2019s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+      "source_url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-afefb715",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Employees at Google and OpenAI support Anthropic\u2019s Pentagon stand in open letter",
+      "source_url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-007d54d8",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "source_url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding",
+        "valuation",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-948f28f4",
+      "date": "2026-02-27",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dc2ae571",
+      "date": "2026-02-27",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "We don&#8217;t have to have unsupervised killer robots",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bd9a4471",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2a8b902d",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI and Amazon announce strategic partnership",
+      "source_url": "https://openai.com/index/amazon-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "aws",
+        "infrastructure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-78565f28",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Scaling AI for everyone",
+      "source_url": "https://openai.com/index/scaling-ai-for-everyone",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "nvidia"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
