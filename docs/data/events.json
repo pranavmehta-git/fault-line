@@ -6643,6 +6643,63 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8ddf307c",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Musk bashes OpenAI in deposition, saying \u2018nobody committed suicide because of Grok\u2019",
+      "source_url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-36d69adf",
+      "date": "2026-02-27",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic vs. the Pentagon: What\u2019s actually at stake?",
+      "source_url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-07bb6dd2",
+      "date": "2026-02-27",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "An update on our mental health-related work",
+      "source_url": "https://openai.com/index/update-on-mental-health-related-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

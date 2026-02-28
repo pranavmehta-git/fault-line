@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-02-27T18:33:06.884026Z",
+  "generated_at": "2026-02-28T01:17:28.947084Z",
   "decay_window_days": 180,
   "snapshots": [
     {
@@ -23553,6 +23553,266 @@
           "events_count": 11,
           "last_event_date": "2026-01-27",
           "trend": "stable",
+          "rank": 4
+        },
+        "meta": {
+          "total_score": 1,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "policy": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "E1",
+                "E2"
+              ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            }
+          },
+          "events_count": 8,
+          "last_event_date": "2026-01-05",
+          "trend": "improving",
+          "rank": 5
+        }
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "scores": {
+        "openai": {
+          "total_score": 8,
+          "breakdown": {
+            "compute_chips": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "A1",
+                "A2"
+              ]
+            },
+            "cloud": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "B1",
+                "B2"
+              ]
+            },
+            "policy": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "D1",
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "E1"
+              ]
+            },
+            "societal_impact": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "F1",
+                "F2"
+              ]
+            }
+          },
+          "events_count": 82,
+          "last_event_date": "2026-02-27",
+          "trend": "worsening",
+          "rank": 1
+        },
+        "anthropic": {
+          "total_score": 5,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "B1"
+              ]
+            },
+            "policy": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "C1",
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "E1",
+                "E2"
+              ]
+            },
+            "societal_impact": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "F1",
+                "F2"
+              ]
+            }
+          },
+          "events_count": 32,
+          "last_event_date": "2026-02-27",
+          "trend": "worsening",
+          "rank": 2
+        },
+        "deepmind": {
+          "total_score": 4,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "B1",
+                "B2"
+              ]
+            },
+            "policy": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "resilience": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "E1"
+              ]
+            },
+            "societal_impact": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "F1"
+              ]
+            }
+          },
+          "events_count": 14,
+          "last_event_date": "2026-02-26",
+          "trend": "worsening",
+          "rank": 3
+        },
+        "xai": {
+          "total_score": 3,
+          "breakdown": {
+            "compute_chips": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "cloud": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "B1"
+              ]
+            },
+            "policy": {
+              "score": 2,
+              "max": 2,
+              "items_triggered": [
+                "C1",
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 1,
+              "max": 2,
+              "items_triggered": [
+                "E2"
+              ]
+            },
+            "societal_impact": {
+              "score": 0,
+              "max": 2,
+              "items_triggered": []
+            }
+          },
+          "events_count": 14,
+          "last_event_date": "2026-02-14",
+          "trend": "worsening",
           "rank": 4
         },
         "meta": {
