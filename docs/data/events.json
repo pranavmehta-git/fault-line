@@ -6700,6 +6700,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6f02d9a4",
+      "date": "2026-02-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Our agreement with the Department of War",
+      "source_url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
