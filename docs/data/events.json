@@ -6718,6 +6718,22 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9b50647a",
+      "date": "2026-03-02",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+      "source_url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
