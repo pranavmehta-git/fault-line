@@ -6734,6 +6734,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2c24a564",
+      "date": "2026-03-02",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "source_url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
