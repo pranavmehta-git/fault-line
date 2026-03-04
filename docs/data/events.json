@@ -6752,6 +6752,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f0f66e2f",
+      "date": "2026-03-04",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+      "source_url": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
