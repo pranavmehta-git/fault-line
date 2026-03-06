@@ -6914,6 +6914,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-34b22839",
+      "date": "2026-03-06",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Anthropic\u2019s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "source_url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e4299a3e",
+      "date": "2026-03-06",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+      "source_url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9708b7b7",
+      "date": "2026-03-06",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Balyasny Asset Management built an AI research engine for investing",
+      "source_url": "https://openai.com/index/balyasny-asset-management",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
