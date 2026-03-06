@@ -6860,6 +6860,44 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bc72df6b",
+      "date": "2026-03-05",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6818fad3",
+      "date": "2026-03-05",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "The five AI value models driving business reinvention",
+      "source_url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
