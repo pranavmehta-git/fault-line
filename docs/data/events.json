@@ -7004,6 +7004,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-edd4bb8d",
+      "date": "2026-03-09",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+      "source_url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ee98d253",
+      "date": "2026-03-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI to acquire Promptfoo",
+      "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
