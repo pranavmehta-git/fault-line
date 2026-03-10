@@ -7134,6 +7134,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-60bbcdd8",
+      "date": "2026-03-10",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Improving instruction hierarchy in frontier LLMs",
+      "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-29386dd5",
+      "date": "2026-03-10",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
