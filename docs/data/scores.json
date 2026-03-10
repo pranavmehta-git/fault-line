@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T01:21:18Z",
+  "last_updated": "2026-03-10T06:39:48Z",
   "scoring_version": "1.0.0",
   "scores": [
     {
@@ -217,7 +217,7 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 0,
+      "total_score": 1,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -239,9 +239,11 @@
           ]
         },
         "demand": {
-          "score": 0,
+          "score": 1,
           "max": 2,
-          "items_triggered": []
+          "items_triggered": [
+            "D2"
+          ]
         },
         "resilience": {
           "score": 2,
@@ -257,9 +259,9 @@
           "items_triggered": []
         }
       },
-      "events_count": 7,
-      "last_event_date": "2026-01-05",
-      "trend": "stable",
+      "events_count": 8,
+      "last_event_date": "2026-03-10",
+      "trend": "worsening",
       "rank": 5
     }
   ]
