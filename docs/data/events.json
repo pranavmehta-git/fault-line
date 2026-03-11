@@ -7188,6 +7188,61 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-279f10ba",
+      "date": "2026-03-11",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "source_url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia",
+        "infrastructure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2758fe5d",
+      "date": "2026-03-11",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "source_url": "https://openai.com/index/wayfair",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a20dd2b0",
+      "date": "2026-03-11",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "From model to agent: Equipping the Responses API with a computer environment",
+      "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
