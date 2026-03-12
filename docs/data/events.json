@@ -7243,6 +7243,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-75f65eed",
+      "date": "2026-03-11",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Rakuten fixes issues twice as fast with Codex",
+      "source_url": "https://openai.com/index/rakuten",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
