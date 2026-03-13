@@ -71,6 +71,21 @@ sources:
     enabled: true
     priority: 1
 
+  # Tier 1 regulatory / institutional sources
+  - name: "SEC EDGAR Filings"
+    url: "https://efts.sec.gov/LATEST/search-index?q=%22artificial+intelligence%22&dateRange=custom&startdt=2024-01-01&forms=10-K,10-Q,8-K&rss_url=/cgi-bin/browse-edgar?action=getcompany&type=&dateb=&owner=include&count=40&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "EU AI Office Publications"
+    url: "https://digital-strategy.ec.europa.eu/en/rss.xml"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
   # Paywalled sources (disabled - no public RSS)
   - name: "Bloomberg Technology"
     url: "https://www.bloomberg.com/feed/technology"
@@ -233,6 +248,28 @@ dimension_patterns:
     - "concentration of power"
     - "misuse"
     - "harm"
+
+  talent_governance:
+    - "depart"
+    - "resign"
+    - "fired"
+    - "ousted"
+    - "stepping down"
+    - "ceo"
+    - "cto"
+    - "chief scientist"
+    - "board"
+    - "governance"
+    - "restructur"
+    - "reorg"
+    - "leadership"
+    - "succession"
+    - "talent exodus"
+    - "brain drain"
+    - "whistleblow"
+    - "nonprofit"
+    - "for-profit"
+    - "corporate structure"
 
 # Impact signal keywords
 impact_patterns:
