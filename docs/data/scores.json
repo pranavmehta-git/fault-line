@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T06:42:45Z",
+  "last_updated": "2026-03-13T12:41:10Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -81,8 +81,8 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 5,
-      "weighted_score": 3.8,
+      "total_score": 6,
+      "weighted_score": 4.5,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -136,15 +136,17 @@
           ]
         },
         "talent_governance": {
-          "score": 0,
-          "weighted_score": 0.0,
+          "score": 1,
+          "weighted_score": 0.75,
           "max": 2,
-          "items_triggered": []
+          "items_triggered": [
+            "G1"
+          ]
         }
       },
-      "events_count": 42,
-      "last_event_date": "2026-03-12",
-      "trend": "stable",
+      "events_count": 43,
+      "last_event_date": "2026-03-13",
+      "trend": "worsening",
       "rank": 2
     },
     {

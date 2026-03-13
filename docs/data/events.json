@@ -7389,6 +7389,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6f8f13a1",
+      "date": "2026-03-13",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
+      "source_url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
