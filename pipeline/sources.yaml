@@ -71,9 +71,25 @@ sources:
     enabled: true
     priority: 1
 
-  # Tier 1 regulatory / institutional sources
-  - name: "SEC EDGAR Filings"
-    url: "https://efts.sec.gov/LATEST/search-index?q=%22artificial+intelligence%22&dateRange=custom&startdt=2024-01-01&forms=10-K,10-Q,8-K&rss_url=/cgi-bin/browse-edgar?action=getcompany&type=&dateb=&owner=include&count=40&search_text=&action=getcompany&output=atom"
+  # Tier 1 regulatory / institutional sources — SEC EDGAR
+  # EDGAR XBRL RSS feeds are per-company. These track filings (10-K, 10-Q, 8-K)
+  # for the parent companies of tracked labs.
+  - name: "SEC EDGAR - Microsoft (OpenAI partner)"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "SEC EDGAR - Alphabet (DeepMind parent)"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "SEC EDGAR - Meta Platforms"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
     type: "rss"
     source_type: "regulatory"
     enabled: true
