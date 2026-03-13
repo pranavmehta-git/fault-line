@@ -7315,6 +7315,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b025cb45",
+      "date": "2026-03-12",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "\u2018Uncanny Valley\u2019: Anthropic\u2019s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
