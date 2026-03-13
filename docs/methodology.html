@@ -50,13 +50,18 @@
             <h2>Scoring Formula</h2>
             <p>The total fragility score is calculated as:</p>
             <div class="methodology-formula">
-                Total Score = (Compute + Cloud + Policy + Demand + Societal Impact) − Resilience
+                Total Score = (Compute + Cloud + Policy + Demand + Societal Impact + Talent &amp; Governance) − Resilience
             </div>
             <p>
                 Each dimension contributes 0–2 points of fragility, except <strong>Resilience</strong> which <em>reduces</em> the total score by demonstrating risk mitigation.
             </p>
             <p>
                 The final score is clamped to the range 0–10.
+            </p>
+
+            <h3>Confidence-Weighted Variant</h3>
+            <p>
+                Alongside the binary score, Fault Line displays a <strong>confidence-weighted score</strong>. Events classified with low confidence carry <strong>0.5&times;</strong> weight; medium confidence carries <strong>0.75&times;</strong>; high confidence carries full weight. This variant helps users understand the uncertainty range — if the weighted score diverges significantly from the binary score, many indicators rest on weaker evidence.
             </p>
         </section>
 
@@ -91,6 +96,11 @@
             <h3>🌍 Societal Impact (0–2 pts)</h3>
             <p>
                 Measures signals of workforce displacement, misinformation amplification, privacy/surveillance concerns, power concentration, and safety incidents attributed to AI deployment.
+            </p>
+
+            <h3>👥 Talent &amp; Governance (0–2 pts)</h3>
+            <p>
+                Measures leadership instability, key departures, board dysfunction, and organizational governance risks. The historical record contains 15+ high-impact events of this type — the Altman firing, Leike departure, Sutskever exit, and similar episodes — that the original five-dimension checklist could not score.
             </p>
         </section>
 
@@ -205,6 +215,24 @@
                 </div>
                 <span class="checklist-def-points">+1 pt</span>
             </div>
+
+            <h3>G) Talent & Governance</h3>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">G1</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Key Leadership Departure</div>
+                    <div class="checklist-def-desc">Departure of CEO, CTO, chief scientist, or other critical leadership figure creating organizational instability</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
+            <div class="checklist-definition">
+                <span class="checklist-def-id">G2</span>
+                <div class="checklist-def-content">
+                    <div class="checklist-def-name">Board & Governance Instability</div>
+                    <div class="checklist-def-desc">Board dysfunction, governance disputes, organizational restructuring, or mass talent exodus signaling instability</div>
+                </div>
+                <span class="checklist-def-points">+1 pt</span>
+            </div>
         </section>
 
         <section class="methodology-section">
@@ -238,6 +266,16 @@
             <p>
                 Contested items are displayed in the UI with both supporting and contradicting evidence visible.
             </p>
+        </section>
+
+        <section class="methodology-section">
+            <h2>Data Sources</h2>
+            <p>Fault Line ingests from multiple source tiers to catch signals at different stages:</p>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>Tier 1 — Regulatory &amp; Institutional:</strong> SEC EDGAR company filings (Microsoft, Alphabet, Meta), FTC press releases, DOJ press releases, EU AI Office publications. These catch regulatory signals before they reach mainstream news.</li>
+                <li><strong>Tier 1 — Lab Blogs:</strong> Official blogs from OpenAI, Anthropic, Google DeepMind, and Meta AI.</li>
+                <li><strong>Tier 1–2 — Tech &amp; Science News:</strong> TechCrunch, VentureBeat, Reuters, MIT Technology Review, Nature, Ars Technica, The Verge, Wired, and Science Magazine.</li>
+            </ul>
         </section>
 
         <section class="methodology-section">
@@ -291,7 +329,7 @@
         <div class="footer-content">
             <div class="footer-left">
                 <span class="footer-brand">⚡ FaultLine</span>
-                <span class="footer-version">v1.0.0</span>
+                <span class="footer-version">v2.0.0</span>
             </div>
             <div class="footer-center">
                 Open source • Transparent methodology • Data-driven analysis

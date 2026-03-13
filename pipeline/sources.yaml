@@ -71,6 +71,37 @@ sources:
     enabled: true
     priority: 1
 
+  # Tier 1 regulatory / institutional sources — SEC EDGAR
+  # EDGAR XBRL RSS feeds are per-company. These track filings (10-K, 10-Q, 8-K)
+  # for the parent companies of tracked labs.
+  - name: "SEC EDGAR - Microsoft (OpenAI partner)"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "SEC EDGAR - Alphabet (DeepMind parent)"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "SEC EDGAR - Meta Platforms"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=&dateb=&owner=include&count=20&search_text=&action=getcompany&output=atom"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
+  - name: "EU AI Office Publications"
+    url: "https://digital-strategy.ec.europa.eu/en/rss.xml"
+    type: "rss"
+    source_type: "regulatory"
+    enabled: true
+    priority: 1
+
   # Paywalled sources (disabled - no public RSS)
   - name: "Bloomberg Technology"
     url: "https://www.bloomberg.com/feed/technology"
@@ -233,6 +264,28 @@ dimension_patterns:
     - "concentration of power"
     - "misuse"
     - "harm"
+
+  talent_governance:
+    - "depart"
+    - "resign"
+    - "fired"
+    - "ousted"
+    - "stepping down"
+    - "ceo"
+    - "cto"
+    - "chief scientist"
+    - "board"
+    - "governance"
+    - "restructur"
+    - "reorg"
+    - "leadership"
+    - "succession"
+    - "talent exodus"
+    - "brain drain"
+    - "whistleblow"
+    - "nonprofit"
+    - "for-profit"
+    - "corporate structure"
 
 # Impact signal keywords
 impact_patterns:

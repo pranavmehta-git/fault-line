@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "decay_window_days": 180,
   "dimensions": [
     {
@@ -43,6 +43,13 @@
       "name": "Societal Impact",
       "description": "Measures signals of workforce displacement, misinformation risks, privacy concerns, and concentration of power",
       "icon": "🌍",
+      "max_score": 2
+    },
+    {
+      "id": "talent_governance",
+      "name": "Talent & Governance",
+      "description": "Measures leadership instability, key departures, board dysfunction, and organizational governance risks",
+      "icon": "👥",
       "max_score": 2
     }
   ],
@@ -142,6 +149,22 @@
       "description": "Evidence of market power concentration, safety incidents, or actions increasing centralization without oversight",
       "points": 1,
       "keywords": ["monopol", "concentration", "safety incident", "accident", "harm", "misuse", "abuse", "manipulation", "exploit", "centraliz", "dominan"]
+    },
+    {
+      "id": "G1",
+      "dimension": "talent_governance",
+      "name": "Key Leadership Departure",
+      "description": "Departure of CEO, CTO, chief scientist, or other critical leadership figure creating organizational instability",
+      "points": 1,
+      "keywords": ["depart", "resign", "fired", "ousted", "left the company", "stepping down", "exit", "leaving", "replacement", "interim", "succession", "ceo", "cto", "chief scientist", "co-founder", "board member", "leadership change"]
+    },
+    {
+      "id": "G2",
+      "dimension": "talent_governance",
+      "name": "Board & Governance Instability",
+      "description": "Board dysfunction, governance disputes, organizational restructuring, or mass talent exodus signaling instability",
+      "points": 1,
+      "keywords": ["board", "governance", "restructur", "reorg", "mass departure", "talent exodus", "brain drain", "internal conflict", "power struggle", "coup", "nonprofit", "for-profit", "corporate structure", "fiduciary", "oversight", "whistleblow"]
     }
   ]
 }

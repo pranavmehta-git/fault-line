@@ -258,8 +258,18 @@ class FragilityTracker {
                     </div>
                 </div>
                 <div class="score-display">
-                    <span class="score-value ${this.getScoreClass(lab.total_score)}">${lab.total_score}</span>
-                    <span class="score-max">/10</span>
+                    <div class="score-dual">
+                        <div class="score-primary">
+                            <span class="score-value ${this.getScoreClass(lab.total_score)}">${lab.total_score}</span>
+                            <span class="score-max">/10</span>
+                        </div>
+                        ${lab.weighted_score !== undefined ? `
+                            <div class="score-weighted" title="Confidence-weighted score: low=0.5x, medium=0.75x, high=1.0x">
+                                <span class="score-weighted-value">${lab.weighted_score}</span>
+                                <span class="score-weighted-label">weighted</span>
+                            </div>
+                        ` : ''}
+                    </div>
                     ${this.getScoreTooltipHTML()}
                 </div>
                 <div class="dimension-bars">
@@ -280,7 +290,8 @@ class FragilityTracker {
             { key: 'policy', label: 'Policy', class: 'policy' },
             { key: 'demand', label: 'Demand', class: 'demand' },
             { key: 'resilience', label: 'Resil.', class: 'resilience' },
-            { key: 'societal_impact', label: 'Societal', class: 'societal' }
+            { key: 'societal_impact', label: 'Societal', class: 'societal' },
+            { key: 'talent_governance', label: 'Talent', class: 'talent' }
         ];
 
         return dimensions.map(dim => {
@@ -572,7 +583,8 @@ class FragilityTracker {
             policy: 'Policy',
             demand: 'Demand',
             resilience: 'Resilience',
-            societal_impact: 'Societal'
+            societal_impact: 'Societal',
+            talent_governance: 'Talent'
         };
         return labels[dim] || dim;
     }
@@ -710,6 +722,12 @@ class LabDetailPage {
             <div class="lab-score-card">
                 <div class="lab-score-label">Fragility Score ${this.getScoreTooltipHTML()}</div>
                 <div class="lab-score-value ${this.getScoreClass(this.score.total_score)}">${this.score.total_score}</div>
+                ${this.score.weighted_score !== undefined ? `
+                    <div class="lab-score-weighted" title="Confidence-weighted: low=0.5x, medium=0.75x, high=1.0x">
+                        <span class="lab-weighted-value">${this.score.weighted_score}</span>
+                        <span class="lab-weighted-label">weighted</span>
+                    </div>
+                ` : ''}
                 <div class="lab-score-trend trend-indicator ${this.score.trend}">
                     ${this.getTrendIcon(this.score.trend)} ${this.score.trend}
                 </div>
@@ -1015,7 +1033,8 @@ class LabDetailPage {
             policy: 'Policy',
             demand: 'Demand',
             resilience: 'Resilience',
-            societal_impact: 'Societal'
+            societal_impact: 'Societal',
+            talent_governance: 'Talent'
         };
         return labels[dim] || dim;
     }
@@ -1220,7 +1239,8 @@ class EventsPage {
             policy: 'Policy',
             demand: 'Demand',
             resilience: 'Resilience',
-            societal_impact: 'Societal'
+            societal_impact: 'Societal',
+            talent_governance: 'Talent'
         };
         return labels[dim] || dim;
     }
@@ -1838,7 +1858,8 @@ class TimelinePage {
             policy: 'Policy',
             demand: 'Demand',
             resilience: 'Resilience',
-            societal_impact: 'Societal'
+            societal_impact: 'Societal',
+            talent_governance: 'Talent'
         };
         return labels[dim] || dim;
     }

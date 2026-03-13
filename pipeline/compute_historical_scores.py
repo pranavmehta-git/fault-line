@@ -16,7 +16,13 @@ class HistoricalScoreCalculator:
 
     DECAY_WINDOW_DAYS = 180
     LABS = ["openai", "anthropic", "deepmind", "xai", "meta"]
-    DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact"]
+    DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact", "talent_governance"]
+
+    CONFIDENCE_WEIGHTS = {
+        "high": 1.0,
+        "medium": 0.75,
+        "low": 0.5,
+    }
 
     # Lab founding dates for score calculation start
     LAB_FOUNDING_DATES = {
@@ -83,6 +89,17 @@ class HistoricalScoreCalculator:
 
         return events_in_window
 
+    def _best_confidence_for_item(self, item_id: str, events: list) -> str:
+        """Find the highest confidence level among events triggering a given checklist item."""
+        best = "low"
+        priority = {"low": 0, "medium": 1, "high": 2}
+        for event in events:
+            if item_id in event.get("checklist_items_affected", []):
+                conf = event.get("confidence", "low")
+                if priority.get(conf, 0) > priority.get(best, 0):
+                    best = conf
+        return best
+
     def _calculate_dimension_score(self, events: list, dimension: str) -> dict:
         """Calculate score for a single dimension from events."""
         # Get checklist items for this dimension
@@ -102,7 +119,7 @@ class HistoricalScoreCalculator:
                         items_triggered.add(item_id)
                         break
 
-        # Calculate score based on triggered items
+        # Calculate binary score based on triggered items
         score = 0
         for item_id in items_triggered:
             for item in dim_items:
@@ -110,8 +127,19 @@ class HistoricalScoreCalculator:
                     score += abs(item.get("points", 1))
                     break
 
+        # Calculate confidence-weighted score
+        weighted = 0.0
+        for item_id in items_triggered:
+            conf = self._best_confidence_for_item(item_id, events)
+            weight = self.CONFIDENCE_WEIGHTS.get(conf, 0.5)
+            for item in dim_items:
+                if item.get("id") == item_id:
+                    weighted += abs(item.get("points", 1)) * weight
+                    break
+
         return {
             "score": min(score, 2),  # Cap at max 2 per dimension
+            "weighted_score": round(min(weighted, 2.0), 2),
             "max": 2,
             "items_triggered": sorted(list(items_triggered))
         }
@@ -130,16 +158,29 @@ class HistoricalScoreCalculator:
             breakdown[dim] = self._calculate_dimension_score(events, dim)
 
         # Calculate total score
-        # Formula: (Compute + Cloud + Policy + Demand + Societal Impact) - Resilience
+        # Formula: (Compute + Cloud + Policy + Demand + Societal Impact + Talent & Governance) - Resilience
         fragility_sum = (
             breakdown["compute_chips"]["score"] +
             breakdown["cloud"]["score"] +
             breakdown["policy"]["score"] +
             breakdown["demand"]["score"] +
-            breakdown["societal_impact"]["score"]
+            breakdown["societal_impact"]["score"] +
+            breakdown["talent_governance"]["score"]
         )
         resilience = breakdown["resilience"]["score"]
         total_score = max(0, min(10, fragility_sum - resilience))
+
+        # Weighted variant
+        weighted_sum = (
+            breakdown["compute_chips"]["weighted_score"] +
+            breakdown["cloud"]["weighted_score"] +
+            breakdown["policy"]["weighted_score"] +
+            breakdown["demand"]["weighted_score"] +
+            breakdown["societal_impact"]["weighted_score"] +
+            breakdown["talent_governance"]["weighted_score"]
+        )
+        weighted_resilience = breakdown["resilience"]["weighted_score"]
+        weighted_score = round(max(0, min(10, weighted_sum - weighted_resilience)), 1)
 
         # Count events and get last event date
         events_count = len(events)
@@ -149,6 +190,7 @@ class HistoricalScoreCalculator:
 
         return {
             "total_score": total_score,
+            "weighted_score": weighted_score,
             "breakdown": breakdown,
             "events_count": events_count,
             "last_event_date": last_event_date
@@ -245,7 +287,7 @@ class HistoricalScoreCalculator:
         print(f"Computed {len(snapshots)} snapshots")
 
         return {
-            "version": "1.0.0",
+            "version": "2.0.0",
             "generated_at": datetime.now().isoformat() + "Z",
             "decay_window_days": self.DECAY_WINDOW_DAYS,
             "snapshots": snapshots

@@ -2,16 +2,28 @@
 """
 Recalculate current fragility scores based on events within the 180-day decay window.
 This script reads events.json and updates scores.json to be consistent.
+
+Produces two score variants per lab:
+  - total_score: Binary checklist score (original methodology)
+  - weighted_score: Confidence-weighted variant (low=0.5x, medium=0.75x, high=1.0x)
 """
 
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
+from collections import defaultdict
 
 # Configuration
 DECAY_WINDOW_DAYS = 180
 LABS = ["openai", "anthropic", "deepmind", "xai", "meta"]
-DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact"]
+DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact", "talent_governance"]
+
+# Confidence weights for the weighted scoring variant
+CONFIDENCE_WEIGHTS = {
+    "high": 1.0,
+    "medium": 0.75,
+    "low": 0.5,
+}
 
 # Checklist item definitions
 CHECKLIST_ITEMS = {
@@ -27,6 +39,8 @@ CHECKLIST_ITEMS = {
     "E2": {"dimension": "resilience", "points": -1},
     "F1": {"dimension": "societal_impact", "points": 1},
     "F2": {"dimension": "societal_impact", "points": 1},
+    "G1": {"dimension": "talent_governance", "points": 1},
+    "G2": {"dimension": "talent_governance", "points": 1},
 }
 
 
@@ -59,8 +73,23 @@ def get_events_in_window(events: list[dict], reference_date: datetime, window_da
     return in_window
 
 
+def _best_confidence_for_item(item_id: str, lab_events: list[dict]) -> str:
+    """Find the highest confidence level among events triggering a given checklist item."""
+    best = "low"
+    priority = {"low": 0, "medium": 1, "high": 2}
+    for event in lab_events:
+        if item_id in event.get("checklist_items_affected", []):
+            conf = event.get("confidence", "low")
+            if priority.get(conf, 0) > priority.get(best, 0):
+                best = conf
+    return best
+
+
 def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
-    """Calculate fragility score for a single lab based on events."""
+    """Calculate fragility score for a single lab based on events.
+
+    Returns both the binary total_score and the confidence-weighted weighted_score.
+    """
     # Filter events for this lab
     lab_events = [e for e in events if e.get("lab") == lab_id]
 
@@ -72,7 +101,7 @@ def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
         for item in items:
             triggered_items.add(item)
 
-    # Calculate dimension scores
+    # Calculate dimension scores (binary + weighted)
     breakdown = {}
     for dimension in DIMENSIONS:
         dim_items = [item_id for item_id, info in CHECKLIST_ITEMS.items()
@@ -81,30 +110,52 @@ def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
         triggered_in_dim = [item for item in dim_items if item in triggered_items]
 
         if dimension == "resilience":
-            # Resilience items have negative points (reduce fragility)
-            # Score represents how many resilience items are triggered (max 2)
             score = len(triggered_in_dim)
         else:
             score = sum(CHECKLIST_ITEMS[item]["points"] for item in triggered_in_dim)
 
+        # Confidence-weighted score for this dimension
+        weighted = 0.0
+        for item in triggered_in_dim:
+            conf = _best_confidence_for_item(item, lab_events)
+            weight = CONFIDENCE_WEIGHTS.get(conf, 0.5)
+            if dimension == "resilience":
+                weighted += 1 * weight
+            else:
+                weighted += CHECKLIST_ITEMS[item]["points"] * weight
+
         breakdown[dimension] = {
             "score": score,
+            "weighted_score": round(weighted, 2),
             "max": 2,
             "items_triggered": triggered_in_dim
         }
 
-    # Calculate total: (compute + cloud + policy + demand + societal_impact) - resilience
+    # Calculate total: (compute + cloud + policy + demand + societal_impact + talent_governance) - resilience
     raw_total = (
         breakdown["compute_chips"]["score"] +
         breakdown["cloud"]["score"] +
         breakdown["policy"]["score"] +
         breakdown["demand"]["score"] +
-        breakdown["societal_impact"]["score"] -
+        breakdown["societal_impact"]["score"] +
+        breakdown["talent_governance"]["score"] -
         breakdown["resilience"]["score"]
     )
 
     # Clamp to 0-10
     total_score = max(0, min(10, raw_total))
+
+    # Weighted variant
+    raw_weighted = (
+        breakdown["compute_chips"]["weighted_score"] +
+        breakdown["cloud"]["weighted_score"] +
+        breakdown["policy"]["weighted_score"] +
+        breakdown["demand"]["weighted_score"] +
+        breakdown["societal_impact"]["weighted_score"] +
+        breakdown["talent_governance"]["weighted_score"] -
+        breakdown["resilience"]["weighted_score"]
+    )
+    weighted_score = round(max(0, min(10, raw_weighted)), 1)
 
     # Get last event date
     if lab_events:
@@ -116,6 +167,7 @@ def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
     return {
         "lab_id": lab_id,
         "total_score": total_score,
+        "weighted_score": weighted_score,
         "breakdown": breakdown,
         "events_count": len(lab_events),
         "last_event_date": last_event_date,
@@ -172,7 +224,8 @@ def main():
         lab_scores.append(score_data)
 
         print(f"{lab_id}:")
-        print(f"  Score: {score_data['total_score']} (was {previous_score})")
+        print(f"  Binary Score: {score_data['total_score']} (was {previous_score})")
+        print(f"  Weighted Score: {score_data['weighted_score']}")
         print(f"  Trend: {score_data['trend']}")
         print(f"  Triggered items: {score_data['triggered_items']}")
         print(f"  Events in window: {score_data['events_count']}")
@@ -190,7 +243,8 @@ def main():
     # Build output
     output = {
         "last_updated": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "scoring_version": "1.0.0",
+        "scoring_version": "2.0.0",
+        "confidence_weights": CONFIDENCE_WEIGHTS,
         "scores": lab_scores
     }
 
@@ -202,7 +256,7 @@ def main():
     print("Updated scores.json")
     print("\nFinal Rankings:")
     for score_data in lab_scores:
-        print(f"  {score_data['rank']}. {score_data['lab_id']}: {score_data['total_score']}")
+        print(f"  {score_data['rank']}. {score_data['lab_id']}: {score_data['total_score']} (weighted: {score_data['weighted_score']})")
 
 
 if __name__ == "__main__":
