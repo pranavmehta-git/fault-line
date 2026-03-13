@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FaultLine — 6-Month Roadmap</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:       #0b0d0f;
+      --surface:  #111418;
+      --border:   #1e2328;
+      --border2:  #2a3040;
+      --dim:      #3a4455;
+      --muted:    #5a6a82;
+      --text:     #c8d4e3;
+      --heading:  #e8f0fb;
+      --green:    #39d98a;
+      --green-dim:#1a5c40;
+      --amber:    #f5a623;
+      --amber-dim:#5a3d0a;
+      --red:      #ff5a5a;
+      --red-dim:  #4a1818;
+      --blue:     #4d9ef7;
+      --blue-dim: #1a3060;
+      --purple:   #a78bfa;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ─── TOPBAR ─── */
+    .topbar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 52px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .topbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--heading);
+      text-decoration: none;
+    }
+    .topbar-brand .logo-mark {
+      width: 22px; height: 22px;
+      background: var(--red);
+      clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+      flex-shrink: 0;
+    }
+    .topbar-brand span { color: var(--muted); }
+    .topbar-nav { display: flex; gap: 0.25rem; }
+    .topbar-nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      padding: 0.3rem 0.7rem;
+      border-radius: 3px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .topbar-nav a:hover { color: var(--text); background: var(--border); }
+    .topbar-nav a.active { color: var(--amber); }
+
+    /* ─── LAYOUT ─── */
+    .page { max-width: 1000px; margin: 0 auto; padding: 2.5rem 2rem 6rem; }
+
+    /* ─── PAGE HEADER ─── */
+    .page-header { margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+    .page-header .eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--amber);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 0.5rem;
+    }
+    .page-header h1 {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--heading);
+      margin-bottom: 0.5rem;
+    }
+    .page-header .subtitle { color: var(--muted); font-size: 13px; }
+
+    /* ─── GLOBAL PROGRESS ─── */
+    .progress-bar-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 2rem;
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+    .progress-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      white-space: nowrap;
+    }
+    .progress-track {
+      flex: 1;
+      height: 6px;
+      background: var(--border);
+      border-radius: 3px;
+      overflow: hidden;
+      min-width: 120px;
+    }
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--green), var(--blue));
+      border-radius: 3px;
+      transition: width 0.5s ease;
+    }
+    .progress-pct {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--heading);
+      white-space: nowrap;
+    }
+    .progress-stats {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .stat-pill {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+    }
+    .stat-pill .dot {
+      width: 7px; height: 7px; border-radius: 50%;
+    }
+    .dot-green { background: var(--green); }
+    .dot-amber { background: var(--amber); }
+    .dot-red   { background: var(--red); }
+
+    /* ─── MONTH BLOCK ─── */
+    .month-block { margin-bottom: 2rem; }
+    .month-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.9rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px 6px 0 0;
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+    }
+    .month-header:hover { border-color: var(--border2); }
+
+    .month-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      color: var(--muted);
+      background: var(--border);
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      white-space: nowrap;
+    }
+    .month-title {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--heading);
+      flex: 1;
+    }
+    .month-badge {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      padding: 0.2rem 0.6rem;
+      border-radius: 3px;
+      white-space: nowrap;
+    }
+    .badge-missed    { background: var(--red-dim);   color: var(--red);   }
+    .badge-active    { background: var(--amber-dim);  color: var(--amber); }
+    .badge-upcoming  { background: var(--blue-dim);   color: var(--blue);  }
+    .badge-complete  { background: var(--green-dim);  color: var(--green); }
+
+    .month-mini-progress {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .month-chevron {
+      color: var(--dim);
+      font-size: 12px;
+      transition: transform 0.2s;
+    }
+    .month-block.open .month-chevron { transform: rotate(90deg); }
+
+    .month-body {
+      border: 1px solid var(--border);
+      border-top: none;
+      border-radius: 0 0 6px 6px;
+      overflow: hidden;
+      display: none;
+    }
+    .month-block.open .month-body { display: block; }
+
+    .month-goal {
+      padding: 0.85rem 1.25rem;
+      background: #0d1014;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+    }
+    .month-goal strong { color: var(--text); font-style: normal; }
+
+    /* ─── TASK GROUPS ─── */
+    .task-group { border-bottom: 1px solid var(--border); }
+    .task-group:last-child { border-bottom: none; }
+    .group-label {
+      padding: 0.6rem 1.25rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--dim);
+      background: #0e1115;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ─── TASK ITEM ─── */
+    .task-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.85rem;
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid #13171b;
+      transition: background 0.12s;
+      cursor: pointer;
+    }
+    .task-item:last-child { border-bottom: none; }
+    .task-item:hover { background: #0f1318; }
+    .task-item.done { opacity: 0.55; }
+    .task-item.done .task-text { text-decoration: line-through; color: var(--dim); }
+    .task-item.overdue .task-text { color: var(--text); }
+
+    .task-checkbox {
+      flex-shrink: 0;
+      width: 16px; height: 16px;
+      border: 1.5px solid var(--dim);
+      border-radius: 3px;
+      margin-top: 2px;
+      display: flex; align-items: center; justify-content: center;
+      transition: border-color 0.15s, background 0.15s;
+      position: relative;
+    }
+    .task-item:hover .task-checkbox { border-color: var(--muted); }
+    .task-item.done .task-checkbox {
+      background: var(--green-dim);
+      border-color: var(--green);
+    }
+    .task-item.done .task-checkbox::after {
+      content: '✓';
+      font-size: 10px;
+      color: var(--green);
+      font-weight: 700;
+    }
+    .task-item.overdue .task-checkbox { border-color: var(--red); }
+    .task-item.overdue:not(.done) .task-checkbox::after {
+      content: '!';
+      font-size: 10px;
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    .task-content { flex: 1; min-width: 0; }
+    .task-text { font-size: 13px; color: var(--text); line-height: 1.5; }
+    .task-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-top: 0.3rem;
+      flex-wrap: wrap;
+    }
+    .task-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      padding: 0.1rem 0.45rem;
+      border-radius: 2px;
+      background: var(--border);
+      color: var(--muted);
+    }
+    .tag-deadline { background: var(--red-dim); color: var(--red); }
+    .tag-outreach { background: var(--blue-dim); color: var(--blue); }
+    .tag-technical { background: #0d1f30; color: #4d9ef7; }
+    .tag-writing  { background: #1a1040; color: var(--purple); }
+    .tag-budget   { background: #1a1a0a; color: var(--amber); }
+    .tag-missed   { background: var(--red-dim); color: var(--red); font-weight: 700; }
+
+    /* ─── BUDGET CALLOUT ─── */
+    .budget-row {
+      display: flex;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
+      background: #0c0f12;
+      border-top: 1px solid var(--border);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+    .budget-row .b-item { display: flex; gap: 0.5rem; }
+    .budget-row .b-label { color: var(--dim); }
+    .budget-row .b-val   { color: var(--amber); }
+
+    /* ─── RESET BUTTON ─── */
+    .reset-wrap { text-align: right; margin-bottom: 1rem; }
+    .reset-btn {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--dim);
+      background: none;
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.8rem;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .reset-btn:hover { color: var(--red); border-color: var(--red); }
+
+    /* ─── DEADLINE WARNING ─── */
+    .deadline-notice {
+      background: var(--red-dim);
+      border: 1px solid var(--red);
+      border-radius: 6px;
+      padding: 0.85rem 1.25rem;
+      margin-bottom: 2rem;
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+    .deadline-notice .icon {
+      font-size: 16px;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    .deadline-notice .notice-text {
+      font-size: 12.5px;
+      color: #f0a0a0;
+      line-height: 1.5;
+    }
+    .deadline-notice strong { color: var(--red); }
+
+    /* ─── SCROLLBAR ─── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+  </style>
+</head>
+<body>
+
+  <nav class="topbar">
+    <a class="topbar-brand" href="index.html">
+      <div class="logo-mark"></div>
+      FAULT<span>/</span>LINE
+    </a>
+    <div class="topbar-nav">
+      <a href="index.html">Dashboard</a>
+      <a href="events.html">Events</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="roadmap.html" class="active">Roadmap</a>
+    </div>
+  </nav>
+
+  <div class="page">
+
+    <div class="page-header">
+      <div class="eyebrow">Feb – Jul 2026 · Pranav Mehta</div>
+      <h1>6-Month Extension Plan</h1>
+      <div class="subtitle">Methodology hardening → data pipeline → collaboration → publication → dissemination</div>
+    </div>
+
+    <div class="deadline-notice">
+      <div class="icon">⚠</div>
+      <div class="notice-text">
+        <strong>Missed: FAccT 2026 full paper deadline.</strong> The abstract/workshop track may still be open — verify immediately. The NeurIPS Sociotechnical Safety Workshop (deadline ~August) is now the primary academic target. Do not let AIES extended abstract, SSRN preprint, or OII conference slip.
+      </div>
+    </div>
+
+    <div class="progress-bar-wrap">
+      <div class="progress-label">Overall Progress</div>
+      <div class="progress-track">
+        <div class="progress-fill" id="global-bar" style="width:0%"></div>
+      </div>
+      <div class="progress-pct" id="global-pct">0%</div>
+      <div class="progress-stats">
+        <div class="stat-pill"><div class="dot dot-green"></div><span id="stat-done">0 done</span></div>
+        <div class="stat-pill"><div class="dot dot-amber"></div><span id="stat-left">0 remaining</span></div>
+        <div class="stat-pill"><div class="dot dot-red"></div><span id="stat-overdue">0 overdue</span></div>
+      </div>
+    </div>
+
+    <div class="reset-wrap">
+      <button class="reset-btn" onclick="resetAll()">↺ Reset all</button>
+    </div>
+
+    <div id="months-container"></div>
+
+  </div>
+
+  <script>
+    // ─── DATA ──────────────────────────────────────────────────────────────────
+    const MONTHS = [
+      {
+        id: "m1",
+        num: "Month 1",
+        period: "February 2026",
+        title: "Methodology Hardening & Peer Review Outreach",
+        status: "missed", // Feb is past
+        goal: "Make the scoring model defensible before widening the audience. Address the binary checklist vulnerability proactively.",
+        budget: [{ label: "Direct spend", val: "~$0" }, { label: "GitHub Actions", val: "<$5/mo" }],
+        groups: [
+          {
+            label: "Technical Work",
+            tasks: [
+              { id: "t1_1", text: "Add confidence-weighted scoring variant (0.5× low, 0.75× medium) alongside binary score with toggle on dashboard", tags: ["technical"] },
+              { id: "t1_2", text: "Add score uncertainty bands (shaded region) to timeline chart showing low-confidence floor and high-confidence ceiling", tags: ["technical"] },
+              { id: "t1_3", text: "Write 1-page internal methodology critique: identify 3 weakest design decisions (binary indicators, self-assessed confidence, 180-day flat decay) + proposed responses", tags: ["writing"] },
+            ]
+          },
+          {
+            label: "Outreach",
+            tasks: [
+              { id: "t1_4", text: "Draft cold email to Peter Slattery (pslat@mit.edu) — MIT AI Risk Repository — proposing data-sharing MOU", tags: ["outreach"], overdue: true },
+              { id: "t1_5", text: "Draft cold email to Simon Mylius (MIT AI Incident Tracker) — adjacent systemic risk coverage", tags: ["outreach"], overdue: true },
+              { id: "t1_6", text: "Draft cold email to SaferAI team (ratings.safer-ai.org) — overlap on safety compliance vs structural fragility", tags: ["outreach"], overdue: true },
+            ]
+          }
+        ]
+      },
+      {
+        id: "m2",
+        num: "Month 2",
+        period: "March 2026",
+        title: "Data Pipeline Expansion & Source Tiering",
+        status: "active",
+        goal: "Move from opportunistic RSS ingestion to a defensible, tiered source architecture that reduces selection bias.",
+        budget: [{ label: "The Information (student rate)", val: "~$8.25/mo" }, { label: "faultline.ai domain (optional)", val: "~$15/yr" }, { label: "Monthly total", val: "~$24" }],
+        groups: [
+          {
+            label: "Tier 1 — Regulatory & Official Sources",
+            tasks: [
+              { id: "t2_1", text: "Add SEC EDGAR ATOM feed filtered by SIC 7372 (Prepackaged Software) and 7371 (Computer Programming) to pipeline/sources.yaml", tags: ["technical"] },
+              { id: "t2_2", text: "Add EU AI Office publications RSS feed", tags: ["technical"] },
+              { id: "t2_3", text: "Add White House OSTP, Congressional testimony transcripts, UK CMA decisions as sources (8–10 feeds total)", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Tier 2 — Trade & Financial Press",
+            tasks: [
+              { id: "t2_4", text: "Subscribe to The Information (student rate ~$99/yr) — currently cited 12× in historical_events.json but pipeline misses paywall content", tags: ["budget"] },
+              { id: "t2_5", text: "Add Semafor Tech newsletter (free tier) to pipeline sources", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Tier 3 — Research Preprints",
+            tasks: [
+              { id: "t2_6", text: "Add arXiv cs.AI and cs.LG daily digest to sources", tags: ["technical"] },
+              { id: "t2_7", text: "Add SSRN AI governance papers and GovAI/CSET/IAPS working paper series", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Pipeline Refactoring",
+            tasks: [
+              { id: "t2_8", text: "Refactor pipeline/sources.yaml to support tier, reliability_weight, and access_type fields", tags: ["technical"] },
+              { id: "t2_9", text: "Build paywall detection module in ingest.py: flag articles where full body unavailable, mark headline_only: true, cap confidence at 'medium'", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Conference Deadlines — CHECK NOW",
+            tasks: [
+              { id: "t2_d1", text: "⚠ Verify FAccT 2026 workshop/extended abstract track deadline — submit if still open", tags: ["deadline", "missed"], overdue: true },
+              { id: "t2_d2", text: "Submit 2-page extended abstract to OII Internet, Policy & Politics Conference (deadline ~April)", tags: ["deadline", "writing"] },
+              { id: "t2_d3", text: "Draft AIES 2026 extended abstract (check if extended deadline available)", tags: ["deadline", "writing"], overdue: true },
+            ]
+          }
+        ]
+      },
+      {
+        id: "m3",
+        num: "Month 3",
+        period: "April 2026",
+        title: "Collaboration Integration & New Dimensions",
+        status: "upcoming",
+        goal: "Formally connect FaultLine's event stream to peer databases and expand the fragility model with a Talent & Governance dimension.",
+        budget: [{ label: "The Information (continuing)", val: "$8.25/mo" }, { label: "arXiv / AIID APIs", val: "$0" }, { label: "Monthly total", val: "~$9" }],
+        groups: [
+          {
+            label: "AIID Integration",
+            tasks: [
+              { id: "t3_1", text: "Build pipeline/integrations/aiid_sync.py — nightly job querying AIID GraphQL API for incidents where AllegedDeployerOfAISystem matches FaultLine's 5 labs", tags: ["technical"] },
+              { id: "t3_2", text: "Surface AIID incidents as candidate events for human review in F1/F2 scoring", tags: ["technical"] },
+              { id: "t3_3", text: "Contact Sean McGregor (AIID founder, GitHub) about formal data partnership", tags: ["outreach"] },
+            ]
+          },
+          {
+            label: "FLI Safety Index Collaboration",
+            tasks: [
+              { id: "t3_4", text: "Email FLI research team to propose joint visualization: FLI safety score vs FaultLine fragility score (safer labs may paradoxically have higher fragility)", tags: ["outreach"] },
+              { id: "t3_5", text: "Build draft comparative scatter plot for the FLI pitch — makes the proposal concrete", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "New Dimension: Talent & Governance (G)",
+            tasks: [
+              { id: "t3_6", text: "Add G1 (senior leadership departure / governance instability, +1pt) to docs/data/checklist.json", tags: ["technical"] },
+              { id: "t3_7", text: "Add G2 (board composition concern / nonprofit-for-profit tension, +1pt) to checklist", tags: ["technical"] },
+              { id: "t3_8", text: "Implement 90-day decay window (vs standard 180-day) specifically for G1/G2 — calibrate against historical events (Altman firing, Leike/Murati/Schulman departures)", tags: ["technical"] },
+              { id: "t3_9", text: "Update docs/methodology.html with full Dimension G documentation", tags: ["technical"] },
+              { id: "t3_10", text: "Backfill 15+ historical G-dimension events from existing historical_events.json", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Writing",
+            tasks: [
+              { id: "t3_11", text: "Submit OII conference abstract if deadline is April", tags: ["deadline", "writing"] },
+              { id: "t3_12", text: "Begin paper Section 1 (Motivation) and Section 2 (Methodology) drafts", tags: ["writing"] },
+            ]
+          }
+        ]
+      },
+      {
+        id: "m4",
+        num: "Month 4",
+        period: "May 2026",
+        title: "Academic Paper Draft & Conference Submission",
+        status: "upcoming",
+        goal: "Produce a submittable research artifact. This is the highest-leverage activity for career positioning. Graduation month — do NOT let sustainability slip.",
+        budget: [{ label: "The Information", val: "$8.25/mo" }, { label: "Overleaf premium", val: "~$20/mo" }, { label: "FAccT workshop reg. (if accepted)", val: "~$100–150" }, { label: "Monthly total", val: "~$130–180" }],
+        groups: [
+          {
+            label: "Paper: Core Sections",
+            tasks: [
+              { id: "t4_1", text: "Write Section 1 — Motivation: why financial systemic risk frameworks (Basel III Pillar 2, FSOC SIFI designation) apply to frontier AI", tags: ["writing"] },
+              { id: "t4_2", text: "Write Section 2 — Methodology: checklist, scoring formula, decay mechanism, confidence weighting", tags: ["writing"] },
+              { id: "t4_3", text: "Write Section 3 — Data: 215-event historical dataset, source breakdown, classification validation", tags: ["writing"] },
+              { id: "t4_4", text: "Write Section 4 — Results: 6-month fragility trajectories, dimension-level analysis, FLI score correlations", tags: ["writing"] },
+              { id: "t4_5", text: "Write Section 5 — Limitations and future work", tags: ["writing"] },
+              { id: "t4_6", text: "Write Section 6 — Conclusion: policy implications, SIAI designation concept", tags: ["writing"] },
+            ]
+          },
+          {
+            label: "Paper: Data Integrity (Do Before Submission)",
+            tasks: [
+              { id: "t4_7", text: "Audit random sample of 30 events for source validity — verify broken/paywalled links, flag 'Anthropic reaches $1.5B copyright settlement' and similar unverified events", tags: ["technical"] },
+              { id: "t4_8", text: "Ensure all triggered checklist items have valid, non-expired source URLs", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Submission",
+            tasks: [
+              { id: "t4_9", text: "Submit preprint to SSRN AI governance network (rolling deadline — do immediately on draft completion)", tags: ["deadline", "writing"] },
+              { id: "t4_10", text: "Submit to arXiv cs.AI / cs.CY (rolling — same day as SSRN)", tags: ["deadline", "writing"] },
+              { id: "t4_11", text: "Identify and confirm paper collaborators / faculty advisor for academic submission", tags: ["outreach"] },
+            ]
+          },
+          {
+            label: "Graduation & Sustainability (Do NOT Defer)",
+            tasks: [
+              { id: "t4_12", text: "Identify Columbia AI Alignment Club successor maintainer — do not wait until Month 6", tags: ["outreach"] },
+              { id: "t4_13", text: "Draft CONTRIBUTING.md: event classification guide, checklist update process, pipeline run instructions", tags: ["writing"] },
+              { id: "t4_14", text: "Begin outreach to IAPS / GovAI / Columbia center about institutional hosting for FaultLine", tags: ["outreach"] },
+            ]
+          }
+        ]
+      },
+      {
+        id: "m5",
+        num: "Month 5",
+        period: "June 2026",
+        title: "Expand Lab Coverage & Dashboard Enhancement",
+        status: "upcoming",
+        goal: "Move from 5 to 8–10 labs (starting with DeepSeek), improving generalizability for the paper. Complete dashboard UX improvements.",
+        budget: [{ label: "The Information", val: "$8.25/mo" }, { label: "Overleaf (continuing)", val: "$20/mo" }, { label: "Semrush trial", val: "$0 (free)" }, { label: "Monthly total", val: "~$29" }],
+        groups: [
+          {
+            label: "New Labs — Priority Order",
+            tasks: [
+              { id: "t5_1", text: "Add DeepSeek (highest priority — geopolitical salience for SIAI argument; R1 release already in historical dataset). Seed initial events, calibrate checklist.", tags: ["technical"] },
+              { id: "t5_2", text: "Add Mistral AI — EU AI Act dynamics, active model releases, high policy dimension relevance", tags: ["technical"] },
+              { id: "t5_3", text: "Add Cohere — enterprise commercialization risk profile; unique demand dimension dynamics", tags: ["technical"] },
+              { id: "t5_4", text: "Add Amazon (AWS AI / Bedrock) — hyperscaler-as-model-developer creates interesting B-dimension dynamics", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Dashboard UX",
+            tasks: [
+              { id: "t5_5", text: "Build Comparative Radar Chart on lab detail page: dimension-by-dimension vs lab group average", tags: ["technical"] },
+              { id: "t5_6", text: "Add 'Export to CSV' button to Events Explorer page", tags: ["technical"] },
+              { id: "t5_7", text: "Write API documentation at /api/ — static JSON schema explanation for researchers", tags: ["technical", "writing"] },
+              { id: "t5_8", text: "Build Stress Test simulator: sliders for hypothetical events (e.g. 'NVIDIA imposes export restrictions') → show projected score changes", tags: ["technical"] },
+            ]
+          },
+          {
+            label: "Paper Revision",
+            tasks: [
+              { id: "t5_9", text: "Incorporate new lab data and FLI correlation analysis into paper Sections 3–4", tags: ["writing"] },
+              { id: "t5_10", text: "Share paper draft with at least 2 peer reviewers / faculty for feedback", tags: ["outreach"] },
+            ]
+          }
+        ]
+      },
+      {
+        id: "m6",
+        num: "Month 6",
+        period: "July 2026",
+        title: "Dissemination, Submission & Sustainability",
+        status: "upcoming",
+        goal: "Submit the paper, execute a targeted dissemination campaign, and write a sustainability plan for FaultLine post-graduation.",
+        budget: [{ label: "The Information", val: "$8.25/mo" }, { label: "Overleaf", val: "$20/mo" }, { label: "NeurIPS workshop reg. (if traveling)", val: "~$300–500" }, { label: "Monthly total", val: "~$330–530" }],
+        groups: [
+          {
+            label: "Conference Submission",
+            tasks: [
+              { id: "t6_1", text: "Submit to NeurIPS 2026 Sociotechnical Safety Workshop (deadline typically August — plan in July, submit in August)", tags: ["deadline", "writing"] },
+              { id: "t6_2", text: "Submit to AI & Society (Springer) journal if workshop submissions are not yet sufficient for career positioning", tags: ["deadline", "writing"] },
+            ]
+          },
+          {
+            label: "Dissemination Campaign",
+            tasks: [
+              { id: "t6_3", text: "Pitch 1,000-word IAPS blog piece: 'FaultLine as a monitoring tool for policymakers'", tags: ["outreach", "writing"] },
+              { id: "t6_4", text: "Submit short GovAI forum post linking SSRN preprint + live dashboard", tags: ["outreach"] },
+              { id: "t6_5", text: "LinkedIn post 1: what FaultLine is and why it matters", tags: ["writing"] },
+              { id: "t6_6", text: "LinkedIn post 2: most surprising finding from 6-month data", tags: ["writing"] },
+              { id: "t6_7", text: "LinkedIn post 3: the SIAI (Systemically Important AI Institution) policy proposal", tags: ["writing"] },
+              { id: "t6_8", text: "Reach out to Import AI (Jack Clark) for mention/citation — cite SSRN preprint", tags: ["outreach"] },
+              { id: "t6_9", text: "Pitch Asterisk Magazine long-form piece (EA-adjacent, empirical AI risk)", tags: ["outreach", "writing"] },
+              { id: "t6_10", text: "Reach out to AI Lab Watch (ailabwatch.org) to be listed under 'other scorecards'", tags: ["outreach"] },
+            ]
+          },
+          {
+            label: "Sustainability Planning",
+            tasks: [
+              { id: "t6_11", text: "Finalize CONTRIBUTING.md — event classification, checklist updates, pipeline instructions for successor", tags: ["writing"] },
+              { id: "t6_12", text: "Confirm institutional handoff: IAPS, GovAI, or Columbia research center as named host", tags: ["outreach"] },
+              { id: "t6_13", text: "Document monetization optionality: Substack newsletter option, API tier pricing model — even if not pursuing now", tags: ["writing"] },
+              { id: "t6_14", text: "Register faultline.ai domain if not done in Month 2", tags: ["budget"] },
+            ]
+          }
+        ]
+      }
+    ];
+
+    // ─── STATE ─────────────────────────────────────────────────────────────────
+    const STORAGE_KEY = "faultline_roadmap_v1";
+
+    function loadState() {
+      try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
+      catch { return {}; }
+    }
+    function saveState(state) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    }
+
+    let state = loadState(); // { taskId: true/false }
+
+    // ─── HELPERS ───────────────────────────────────────────────────────────────
+    function allTaskIds() {
+      return MONTHS.flatMap(m => m.groups.flatMap(g => g.tasks.map(t => t.id)));
+    }
+    function overdueTaskIds() {
+      return MONTHS.flatMap(m =>
+        m.groups.flatMap(g =>
+          g.tasks.filter(t => t.overdue || m.status === "missed").map(t => t.id)
+        )
+      );
+    }
+
+    // ─── RENDER ────────────────────────────────────────────────────────────────
+    function tagHtml(tags) {
+      return tags.map(t => {
+        let cls = "task-tag";
+        if (t === "deadline") cls += " tag-deadline";
+        else if (t === "outreach") cls += " tag-outreach";
+        else if (t === "technical") cls += " tag-technical";
+        else if (t === "writing") cls += " tag-writing";
+        else if (t === "budget") cls += " tag-budget";
+        else if (t === "missed") cls += " tag-missed";
+        return `<span class="${cls}">${t}</span>`;
+      }).join("");
+    }
+
+    function renderMonths() {
+      const container = document.getElementById("months-container");
+      container.innerHTML = MONTHS.map(month => {
+        const allTasks = month.groups.flatMap(g => g.tasks);
+        const doneTasks = allTasks.filter(t => state[t.id]);
+        const pct = allTasks.length ? Math.round(doneTasks.length / allTasks.length * 100) : 0;
+
+        const badgeMap = {
+          missed:   ["badge-missed",   "PAST DUE"],
+          active:   ["badge-active",   "ACTIVE"],
+          upcoming: ["badge-upcoming", "UPCOMING"],
+          complete: ["badge-complete", "COMPLETE"],
+        };
+        const [badgeCls, badgeTxt] = badgeMap[month.status] || ["badge-upcoming", "UPCOMING"];
+
+        const isOpen = month.status === "active" || month.status === "missed";
+
+        const groupsHtml = month.groups.map(g => {
+          const tasksHtml = g.tasks.map(task => {
+            const done = !!state[task.id];
+            const isOverdue = task.overdue || month.status === "missed";
+            let cls = "task-item";
+            if (done) cls += " done";
+            else if (isOverdue) cls += " overdue";
+            return `
+              <div class="${cls}" data-id="${task.id}" onclick="toggleTask('${task.id}')">
+                <div class="task-checkbox"></div>
+                <div class="task-content">
+                  <div class="task-text">${task.text}</div>
+                  <div class="task-meta">${tagHtml(task.tags || [])}</div>
+                </div>
+              </div>
+            `;
+          }).join("");
+          return `
+            <div class="task-group">
+              <div class="group-label">${g.label}</div>
+              ${tasksHtml}
+            </div>
+          `;
+        }).join("");
+
+        const budgetHtml = month.budget && month.budget.length
+          ? `<div class="budget-row">${month.budget.map(b => `<div class="b-item"><span class="b-label">${b.label}:</span><span class="b-val">${b.val}</span></div>`).join("")}</div>`
+          : "";
+
+        return `
+          <div class="month-block${isOpen ? " open" : ""}" id="${month.id}">
+            <div class="month-header" onclick="toggleMonth('${month.id}')">
+              <span class="month-num">${month.num}</span>
+              <span class="month-title">${month.period} — ${month.title}</span>
+              <span class="badge ${badgeCls}">${badgeTxt}</span>
+              <span class="month-mini-progress">${doneTasks.length}/${allTasks.length}</span>
+              <span class="month-chevron">▶</span>
+            </div>
+            <div class="month-body">
+              <div class="month-goal"><strong>Goal:</strong> ${month.goal}</div>
+              ${groupsHtml}
+              ${budgetHtml}
+            </div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function updateStats() {
+      const ids = allTaskIds();
+      const done = ids.filter(id => state[id]).length;
+      const total = ids.length;
+      const overdueIds = overdueTaskIds();
+      const overdueLeft = overdueIds.filter(id => !state[id]).length;
+
+      const pct = total ? Math.round(done / total * 100) : 0;
+      document.getElementById("global-bar").style.width = pct + "%";
+      document.getElementById("global-pct").textContent = pct + "%";
+      document.getElementById("stat-done").textContent = `${done} done`;
+      document.getElementById("stat-left").textContent = `${total - done} remaining`;
+      document.getElementById("stat-overdue").textContent = `${overdueLeft} overdue`;
+    }
+
+    function toggleTask(id) {
+      state[id] = !state[id];
+      saveState(state);
+      // Update just this task item's classes without full re-render
+      const el = document.querySelector(`[data-id="${id}"]`);
+      if (!el) return;
+      const done = state[id];
+      el.classList.toggle("done", done);
+      // Remove overdue if now done
+      if (done) el.classList.remove("overdue");
+      else {
+        // Re-check if overdue
+        const month = MONTHS.find(m => m.groups.some(g => g.tasks.some(t => t.id === id)));
+        const task = month?.groups.flatMap(g => g.tasks).find(t => t.id === id);
+        if (task?.overdue || month?.status === "missed") el.classList.add("overdue");
+      }
+      updateStats();
+    }
+
+    function toggleMonth(id) {
+      const el = document.getElementById(id);
+      if (el) el.classList.toggle("open");
+    }
+
+    function resetAll() {
+      if (!confirm("Reset all checkboxes?")) return;
+      state = {};
+      saveState(state);
+      renderMonths();
+      updateStats();
+    }
+
+    // ─── INIT ──────────────────────────────────────────────────────────────────
+    renderMonths();
+    updateStats();
+  </script>
+</body>
+</html>
