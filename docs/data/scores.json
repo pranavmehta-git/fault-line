@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T18:32:31Z",
+  "last_updated": "2026-03-14T01:22:53Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -82,7 +82,7 @@
     {
       "lab_id": "anthropic",
       "total_score": 6,
-      "weighted_score": 4.5,
+      "weighted_score": 4.2,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -102,7 +102,7 @@
         },
         "policy": {
           "score": 2,
-          "weighted_score": 2.0,
+          "weighted_score": 1.75,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -144,7 +144,7 @@
           ]
         }
       },
-      "events_count": 43,
+      "events_count": 42,
       "last_event_date": "2026-03-13",
       "trend": "stable",
       "rank": 2
