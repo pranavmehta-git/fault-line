@@ -7407,6 +7407,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c11cfd31",
+      "date": "2026-03-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Encyclopedia Britannica is suing OpenAI for allegedly \u2018memorizing\u2019 its content with ChatGPT",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

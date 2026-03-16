@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-16T12:55:35Z",
+  "last_run": "2026-03-16T18:52:53Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -48,13 +48,13 @@
       "name": "EU AI Office Publications",
       "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
       "status": "ok",
-      "articles_found": 9
+      "articles_found": 10
     },
     {
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 38
+      "articles_found": 39
     },
     {
       "name": "Google DeepMind Blog",
@@ -63,13 +63,13 @@
       "articles_found": 19
     }
   ],
-  "events_processed": 384,
-  "events_added": 0,
+  "events_processed": 385,
+  "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-03-16T18:00:00Z",
+  "next_scheduled_run": "2026-03-17T00:00:00Z",
   "pipeline_version": "1.0.0"
 }
