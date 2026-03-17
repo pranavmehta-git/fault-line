@@ -7506,6 +7506,96 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cf3a8ace",
+      "date": "2026-03-17",
+      "lab": "anthropic",
+      "dimension": "resilience",
+      "summary": "The Pentagon is developing alternatives to Anthropic, report says",
+      "source_url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8fe0d048",
+      "date": "2026-03-17",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI expands government footprint with AWS deal, report says",
+      "source_url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-db624c2b",
+      "date": "2026-03-17",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "World launches tool to verify humans behind AI shopping agents",
+      "source_url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ef584aec",
+      "date": "2026-03-17",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f912f861",
+      "date": "2026-03-17",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Our latest investment in open source security for the AI era",
+      "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

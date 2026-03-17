@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T12:55:39Z",
+  "last_updated": "2026-03-17T18:52:55Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -74,7 +74,7 @@
           ]
         }
       },
-      "events_count": 104,
+      "events_count": 106,
       "last_event_date": "2026-03-17",
       "trend": "stable",
       "rank": 1
@@ -144,8 +144,8 @@
           ]
         }
       },
-      "events_count": 42,
-      "last_event_date": "2026-03-13",
+      "events_count": 43,
+      "last_event_date": "2026-03-17",
       "trend": "stable",
       "rank": 2
     },
@@ -211,8 +211,8 @@
           ]
         }
       },
-      "events_count": 18,
-      "last_event_date": "2026-03-12",
+      "events_count": 20,
+      "last_event_date": "2026-03-17",
       "trend": "stable",
       "rank": 3
     },
