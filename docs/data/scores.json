@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T18:52:53Z",
+  "last_updated": "2026-03-17T01:27:13Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -219,7 +219,7 @@
     {
       "lab_id": "xai",
       "total_score": 3,
-      "weighted_score": 2.0,
+      "weighted_score": 2.2,
       "breakdown": {
         "compute_chips": {
           "score": 0,
@@ -229,7 +229,7 @@
         },
         "cloud": {
           "score": 1,
-          "weighted_score": 0.5,
+          "weighted_score": 0.75,
           "max": 2,
           "items_triggered": [
             "B1"
@@ -273,8 +273,8 @@
           "items_triggered": []
         }
       },
-      "events_count": 13,
-      "last_event_date": "2026-02-14",
+      "events_count": 16,
+      "last_event_date": "2026-03-16",
       "trend": "stable",
       "rank": 4
     },

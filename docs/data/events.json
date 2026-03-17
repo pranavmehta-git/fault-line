@@ -7427,6 +7427,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6305998f",
+      "date": "2026-03-16",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "source_url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1d0eb11a",
+      "date": "2026-03-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "source_url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2d22def1",
+      "date": "2026-03-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Teens sue Elon Musk\u2019s xAI over Grok\u2019s AI-generated CSAM",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
