@@ -7614,6 +7614,24 @@
       "historical": false
     },
     {
+      "id": "evt-265e6f40",
+      "date": "2026-03-17",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "source_url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-9e4c9679",
       "date": "2026-03-18",
       "lab": "anthropic",
@@ -7629,6 +7647,24 @@
       "tags": [
         "aws"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cbfdbecb",
+      "date": "2026-03-18",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "DOD says Anthropic\u2019s \u2018red lines\u2019 make it an \u2018unacceptable risk to national security\u2019",
+      "source_url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
