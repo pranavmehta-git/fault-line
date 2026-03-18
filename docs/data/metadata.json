@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-18T01:43:38Z",
+  "last_run": "2026-03-18T06:54:34Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -64,12 +64,12 @@
     }
   ],
   "events_processed": 396,
-  "events_added": 2,
+  "events_added": 0,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-03-18T06:00:00Z",
+  "next_scheduled_run": "2026-03-18T12:00:00Z",
   "pipeline_version": "1.0.0"
 }
