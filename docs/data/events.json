@@ -7688,6 +7688,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3ba3ffe6",
+      "date": "2026-03-19",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance",
+      "source_url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-71eeb884",
+      "date": "2026-03-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "How we monitor internal coding agents for misalignment",
+      "source_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
