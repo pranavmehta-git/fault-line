@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T18:51:44Z",
+  "last_updated": "2026-03-19T01:44:07Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -74,15 +74,15 @@
           ]
         }
       },
-      "events_count": 108,
-      "last_event_date": "2026-03-17",
+      "events_count": 109,
+      "last_event_date": "2026-03-18",
       "trend": "stable",
       "rank": 1
     },
     {
       "lab_id": "anthropic",
-      "total_score": 6,
-      "weighted_score": 4.2,
+      "total_score": 5,
+      "weighted_score": 3.2,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -101,11 +101,10 @@
           ]
         },
         "policy": {
-          "score": 2,
-          "weighted_score": 1.75,
+          "score": 1,
+          "weighted_score": 0.75,
           "max": 2,
           "items_triggered": [
-            "C1",
             "C2"
           ]
         },
@@ -144,9 +143,9 @@
           ]
         }
       },
-      "events_count": 45,
+      "events_count": 44,
       "last_event_date": "2026-03-18",
-      "trend": "stable",
+      "trend": "improving",
       "rank": 2
     },
     {
