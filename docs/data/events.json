@@ -7742,6 +7742,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6e358cc5",
+      "date": "2026-03-20",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "source_url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "source_name": "MIT Technology Review",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
