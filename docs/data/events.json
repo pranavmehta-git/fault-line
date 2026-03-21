@@ -7760,6 +7760,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-783f8677",
+      "date": "2026-03-21",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "source_url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
