@@ -7778,6 +7778,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-966fec46",
+      "date": "2026-03-21",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "Gemini task automation is slow, clunky, and super impressive",
+      "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
