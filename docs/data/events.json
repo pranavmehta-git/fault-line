@@ -7814,6 +7814,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cd324aa5",
+      "date": "2026-03-22",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
+      "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
