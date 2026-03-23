@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FaultLine Demo Presentation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body class="presentation-body">
+    <div class="noise-overlay"></div>
+
+    <header class="main-header presentation-header">
+        <div class="header-left">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">FAULT<span class="logo-accent">LINE</span></span>
+            </a>
+            <div class="tagline">Lightning Talk Demo Interface</div>
+        </div>
+        <nav class="main-nav presentation-nav">
+            <button class="nav-link active slide-jump" data-target="0">Intro</button>
+            <button class="nav-link slide-jump" data-target="1">Background</button>
+            <button class="nav-link slide-jump" data-target="2">Thesis</button>
+            <button class="nav-link slide-jump" data-target="3">Method</button>
+            <button class="nav-link slide-jump" data-target="4">Use</button>
+            <button class="nav-link slide-jump" data-target="5">Limits</button>
+        </nav>
+        <div class="header-right presentation-status">
+            <div class="last-updated presentation-clock">
+                <span class="update-label">TALK MODE</span>
+                <span class="update-time" id="presentationTimer">05:00 remaining</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="presentation-shell">
+        <aside class="presentation-sidebar">
+            <div class="overview-card presenter-card">
+                <div class="overview-header">
+                    <h2 class="overview-title"><span class="title-icon">◧</span> Presenter Console</h2>
+                </div>
+                <p class="overview-text">
+                    Designed to feel like a live FaultLine walkthrough while delivering a concise 5-minute argument for why AI governance needs monitors for structural fragility, not just capabilities or incidents.
+                </p>
+                <div class="presenter-meta">
+                    <div><span>Audience</span><strong>NYC AI Governance &amp; Safety</strong></div>
+                    <div><span>Format</span><strong>Lightning talk · 6 slides</strong></div>
+                    <div><span>Desired vibe</span><strong>Substantive, savvy, hireable</strong></div>
+                </div>
+            </div>
+
+            <div class="summary-strip presentation-summary">
+                <div class="summary-card highlight">
+                    <div class="summary-label">THESIS</div>
+                    <div class="summary-value summary-long">AI lab fragility is governable infrastructure risk.</div>
+                </div>
+            </div>
+
+            <div class="section-header sidebar-header">
+                <h2 class="section-title"><span class="title-icon">▣</span> Slide Queue</h2>
+            </div>
+            <div class="slide-queue" id="slideQueue"></div>
+
+            <div class="overview-card speaker-notes-card">
+                <div class="overview-header">
+                    <h2 class="overview-title"><span class="title-icon">✦</span> Delivery Notes</h2>
+                </div>
+                <ul class="speaker-note-list" id="speakerNotes"></ul>
+            </div>
+        </aside>
+
+        <section class="presentation-stage">
+            <div class="presentation-frame">
+                <div class="presentation-topbar">
+                    <div class="topbar-left">
+                        <span class="topbar-pill">DEMO</span>
+                        <span class="topbar-pill topbar-muted">Interactive deck</span>
+                    </div>
+                    <div class="topbar-right">
+                        <span id="slideCounter">01 / 06</span>
+                    </div>
+                </div>
+
+                <div class="slides-container" id="slidesContainer">
+                    <article class="presentation-slide active" data-title="FaultLine briefing" data-notes="Open as if I am dropping the audience into a real tool.|Set the objective: diagnose fragility, not predict doom.|Flag that the talk is about why this monitor should exist.">
+                        <div class="slide-grid hero-grid">
+                            <div>
+                                <div class="kicker">SYSTEMIC RISK MONITOR / LIVE BRIEFING</div>
+                                <h1>FaultLine: an evidence-based monitor for structural fragility in frontier AI labs.</h1>
+                                <p class="slide-lead">
+                                    Instead of asking only <em>what models can do</em>, FaultLine asks what could destabilize the organizations building them: compute bottlenecks, cloud lock-in, governance shocks, policy exposure, and resilience moves.
+                                </p>
+                                <div class="hero-actions">
+                                    <button class="control-btn primary next-slide">Start briefing</button>
+                                    <a class="control-btn" href="index.html">Open dashboard</a>
+                                </div>
+                            </div>
+                            <div class="hero-panel card-panel">
+                                <div class="metric-row">
+                                    <span class="metric-label">Audience promise</span>
+                                    <strong>Substance over sizzle</strong>
+                                </div>
+                                <div class="metric-row">
+                                    <span class="metric-label">Presentation shape</span>
+                                    <strong>Background → aims → limitations</strong>
+                                </div>
+                                <div class="metric-row">
+                                    <span class="metric-label">Why this framing matters</span>
+                                    <strong>Governance needs early-warning infrastructure</strong>
+                                </div>
+                                <div class="signal-band">
+                                    <span>Signal feed</span>
+                                    <div class="signal-track"><span></span><span></span><span></span><span></span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="presentation-slide" data-title="Background" data-notes="Motivate the gap in current AI governance tooling.|Most maps cover capability, safety practice, or incidents after the fact.|FaultLine watches dependencies and organizational brittleness before failure.">
+                        <div class="slide-grid two-column-grid">
+                            <div>
+                                <div class="kicker">01 / BACKGROUND</div>
+                                <h2>Why build this at all?</h2>
+                                <p class="slide-copy">
+                                    Frontier AI governance has strong work on evaluations, incidents, model cards, and safety commitments. What is missing is a lightweight public monitor for <strong>organizational fragility</strong>—the stress points that shape whether labs can scale responsibly, absorb shocks, or create concentrated failure modes.
+                                </p>
+                                <div class="thesis-points">
+                                    <div class="thesis-point"><span>→</span> AI labs increasingly look like critical infrastructure actors.</div>
+                                    <div class="thesis-point"><span>→</span> Their dependencies are legible before crises fully materialize.</div>
+                                    <div class="thesis-point"><span>→</span> Public-interest governance benefits from a transparent, auditable map of those dependencies.</div>
+                                </div>
+                            </div>
+                            <div class="card-panel">
+                                <h3 class="panel-title">The current observability gap</h3>
+                                <div class="mini-timeline">
+                                    <div class="timeline-stop active"><strong>Capabilities</strong><span>benchmarks, evals</span></div>
+                                    <div class="timeline-stop active"><strong>Safety practice</strong><span>commitments, policies</span></div>
+                                    <div class="timeline-stop danger"><strong>Fragility</strong><span>dependencies, lock-in, churn</span></div>
+                                    <div class="timeline-stop"><strong>Incidents</strong><span>after-the-fact harms</span></div>
+                                </div>
+                                <p class="panel-footnote">FaultLine tries to occupy the under-served middle: not pure capability analysis, not just incident cataloging.</p>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="presentation-slide" data-title="Underlying thesis" data-notes="The main claim is that fragility can be measured through public evidence.|Emphasize analogy to stress testing and early warning systems.|This is about decision support, not prophecy.">
+                        <div class="slide-grid two-column-grid">
+                            <div>
+                                <div class="kicker">02 / THESIS</div>
+                                <h2>The underlying thesis.</h2>
+                                <p class="slide-copy">
+                                    We do not need perfect visibility into labs’ internals to learn something useful. Repeated public signals—partnership concentration, supply-chain dependence, leadership turmoil, regulatory exposure, resilience efforts—can be structured into a monitor that tracks <strong>where the system is brittle</strong>.
+                                </p>
+                                <div class="quote-card">
+                                    <p>Think of FaultLine less as a ranking and more as an <strong>early-warning instrument panel</strong> for the political economy of frontier AI.</p>
+                                </div>
+                            </div>
+                            <div class="card-panel">
+                                <h3 class="panel-title">Claims FaultLine is making</h3>
+                                <div class="claim-list">
+                                    <div class="claim-item"><span class="claim-index">A</span><p>Structural dependencies are governance-relevant, even absent a single headline “incident.”</p></div>
+                                    <div class="claim-item"><span class="claim-index">B</span><p>Publicly verifiable evidence is enough to build an auditable first-pass monitor.</p></div>
+                                    <div class="claim-item"><span class="claim-index">C</span><p>A simple, transparent heuristic can be more useful than an opaque “AI risk” score.</p></div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="presentation-slide" data-title="Methodology" data-notes="Show that the project is serious and legible.|Binary checklist plus weighted confidence plus evidence links.|Mention human-legible dimensions and update cadence.">
+                        <div class="slide-grid methodology-grid">
+                            <div>
+                                <div class="kicker">03 / METHOD</div>
+                                <h2>How the monitor works.</h2>
+                                <p class="slide-copy">
+                                    FaultLine ingests publicly verifiable events, classifies them into a small checklist, and rolls them into a fragile-but-legible score. The emphasis is interpretability: every point should be traceable to evidence.
+                                </p>
+                                <div class="method-flow">
+                                    <div class="flow-step"><strong>1</strong><span>Ingest news + official signals</span></div>
+                                    <div class="flow-step"><strong>2</strong><span>Map events to dimensions</span></div>
+                                    <div class="flow-step"><strong>3</strong><span>Score binary + confidence-weighted variants</span></div>
+                                    <div class="flow-step"><strong>4</strong><span>Expose evidence and trajectories</span></div>
+                                </div>
+                            </div>
+                            <div class="card-panel method-card">
+                                <h3 class="panel-title">Tracked dimensions</h3>
+                                <div class="dimension-chips">
+                                    <span class="dimension-chip dim-compute">Compute</span>
+                                    <span class="dimension-chip dim-cloud">Cloud</span>
+                                    <span class="dimension-chip dim-policy">Policy</span>
+                                    <span class="dimension-chip dim-demand">Demand</span>
+                                    <span class="dimension-chip dim-societal">Societal impact</span>
+                                    <span class="dimension-chip dim-resilience">Resilience</span>
+                                    <span class="dimension-chip dim-governance">Talent &amp; governance</span>
+                                </div>
+                                <div class="method-metrics">
+                                    <div><span>Scoring style</span><strong>Checklist, not black box</strong></div>
+                                    <div><span>Evidence standard</span><strong>Public + linkable</strong></div>
+                                    <div><span>Uncertainty handling</span><strong>Confidence-weighted view</strong></div>
+                                    <div><span>Interpretation</span><strong>Decision support, not prediction</strong></div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="presentation-slide" data-title="What it hopes to accomplish" data-notes="This is the aspirational slide.|Frame it as research infrastructure for oversight, journalism, funders, and labs.|Show practical use cases rather than vague impact claims.">
+                        <div class="slide-grid two-column-grid">
+                            <div>
+                                <div class="kicker">04 / PURPOSE</div>
+                                <h2>What FaultLine hopes to accomplish.</h2>
+                                <p class="slide-copy">
+                                    The goal is not to declare winners and losers. It is to create <strong>shared situational awareness</strong> around the structural risks accumulating inside a strategically important industry.
+                                </p>
+                                <div class="use-grid">
+                                    <div class="use-card"><strong>For researchers</strong><span>A scaffold for empirical work on AI political economy.</span></div>
+                                    <div class="use-card"><strong>For policymakers</strong><span>A quick read on concentration, dependency, and pressure points.</span></div>
+                                    <div class="use-card"><strong>For journalists</strong><span>A structured lead generator for weak signals before crises.</span></div>
+                                    <div class="use-card"><strong>For labs</strong><span>A mirror for resilience gaps and governance debt.</span></div>
+                                </div>
+                            </div>
+                            <div class="card-panel accomplishment-panel">
+                                <h3 class="panel-title">Success would look like…</h3>
+                                <div class="accomplishment-list">
+                                    <div class="accomplishment-item">A durable, open dataset of fragility-relevant AI lab events.</div>
+                                    <div class="accomplishment-item">A method that others can critique, copy, or improve.</div>
+                                    <div class="accomplishment-item">A bridge between technical AI safety and political-economy analysis.</div>
+                                    <div class="accomplishment-item">An interface that makes governance research feel operational, not abstract.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="presentation-slide" data-title="Limitations" data-notes="Be candid here: selection bias, classification subjectivity, sparse public evidence, and false precision.|This honesty is what makes the project feel rigorous.|End with roadmap energy.">
+                        <div class="slide-grid two-column-grid">
+                            <div>
+                                <div class="kicker">05 / LIMITATIONS</div>
+                                <h2>What it cannot do—yet.</h2>
+                                <div class="limitation-list">
+                                    <div class="limitation-item"><strong>Selection bias:</strong><span> public reporting overweights visible firms and English-language narratives.</span></div>
+                                    <div class="limitation-item"><strong>Subjective coding:</strong><span> even transparent heuristics still embed judgment calls.</span></div>
+                                    <div class="limitation-item"><strong>Sparse observability:</strong><span> some of the most important dependencies are private or lagged.</span></div>
+                                    <div class="limitation-item"><strong>False precision risk:</strong><span> scores can look more exact than the evidence really warrants.</span></div>
+                                    <div class="limitation-item"><strong>No causal guarantee:</strong><span> fragility indicators are warning signs, not deterministic forecasts.</span></div>
+                                </div>
+                            </div>
+                            <div class="card-panel closing-panel">
+                                <h3 class="panel-title">Why still do it?</h3>
+                                <p class="slide-copy small">
+                                    Because a transparent, imperfect monitor can still outperform ad hoc intuition—especially if its limitations are visible, its evidence is inspectable, and its methodology is open to revision.
+                                </p>
+                                <div class="closing-callout">
+                                    <span class="callout-label">Closing line</span>
+                                    <p>If frontier labs are becoming systemically important institutions, governance should have better dashboards for their fragility.</p>
+                                </div>
+                                <div class="hero-actions compact">
+                                    <button class="control-btn restart-deck">Restart deck</button>
+                                    <a class="control-btn" href="methodology.html">Open methodology</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div class="presentation-controls">
+                <button class="control-btn" id="prevSlideBtn">← Prev</button>
+                <button class="control-btn primary" id="nextSlideBtn">Next →</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="assets/presentation.js"></script>
+</body>
+</html>
