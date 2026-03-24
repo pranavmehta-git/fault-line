@@ -7873,6 +7873,60 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-aed9f168",
+      "date": "2026-03-24",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI adds open source tools to help developers build for teen safety",
+      "source_url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-18cc85ba",
+      "date": "2026-03-24",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Arm Is Now Making Its Own Chips",
+      "source_url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dceb49ca",
+      "date": "2026-03-24",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Helping developers build safer AI experiences for teens",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
