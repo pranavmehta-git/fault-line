@@ -7963,6 +7963,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-df31607f",
+      "date": "2026-03-25",
+      "lab": "anthropic",
+      "dimension": "resilience",
+      "summary": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
