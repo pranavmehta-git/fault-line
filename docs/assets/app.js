@@ -1262,7 +1262,6 @@ class TimelinePage {
             search: ''
         };
         this.zoomLevel = 'year';
-        this.chartView = 'all';
         this.labColors = {
             openai: '#10a37f',
             anthropic: '#d4a574',
@@ -1768,15 +1767,6 @@ class TimelinePage {
             });
         });
 
-        // Chart view controls
-        document.querySelectorAll('.control-btn[data-view]').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                this.chartView = e.target.dataset.view;
-                document.querySelectorAll('.control-btn[data-view]').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                this.renderChart();
-            });
-        });
 
         // Timeline event clicks
         document.getElementById('timelineContainer')?.addEventListener('click', (e) => {
