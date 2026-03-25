@@ -7981,6 +7981,74 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1f1220e5",
+      "date": "2026-03-25",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google launches Lyria 3 Pro music generation model",
+      "source_url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c00d3833",
+      "date": "2026-03-25",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Enters Its Focus Era by Killing Sora",
+      "source_url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4049c570",
+      "date": "2026-03-25",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Inside our approach to the Model Spec",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e19e9d12",
+      "date": "2026-03-25",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Introducing the OpenAI Safety Bug Bounty program",
+      "source_url": "https://openai.com/index/safety-bug-bounty",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
