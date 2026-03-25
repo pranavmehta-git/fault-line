@@ -30,6 +30,14 @@ Features:
 - Events explorer with filtering by dimension, impact, and date
 - Full methodology documentation
 
+## 🎤 Demo Presentation
+
+**[View the Presentation →](https://pranavmehta-git.github.io/fault-line/presentation.html)**
+
+A self-contained 5-minute lightning talk deck built into the site itself. Navigate with arrow keys, spacebar, or on-screen controls. Includes a countdown timer and speaker notes.
+
+Slides: Intro → Background → Thesis → Methodology → Purpose → Limitations
+
 ## 🏗️ Architecture
 
 This project uses a **static site + scheduled pipeline** architecture:
@@ -57,9 +65,8 @@ Click "Fork" in the top right corner of this page.
 ### 2. Enable GitHub Pages
 
 1. Go to your fork's **Settings** → **Pages**
-2. Set **Source** to "Deploy from a branch"
-3. Select **Branch**: `main`, **Folder**: `/docs`
-4. Click **Save**
+2. Set **Source** to "GitHub Actions"
+3. The `deploy-pages.yml` workflow will automatically deploy the `docs/` folder on every push to `main`
 
 Your site will be live at `https://yourusername.github.io/fault-line/`
 
@@ -94,18 +101,25 @@ cd docs && python -m http.server 8000
 ```
 fault-line/
 ├── docs/                      # GitHub Pages root
+│   ├── .nojekyll             # Bypass Jekyll processing
 │   ├── index.html            # Dashboard
+│   ├── presentation.html     # Lightning talk deck
 │   ├── lab.html              # Lab detail view
 │   ├── events.html           # Events explorer
 │   ├── methodology.html      # Scoring documentation
+│   ├── timeline.html         # Score timeline view
+│   ├── roadmap.html          # Project roadmap
+│   ├── 404.html              # Custom 404 page
 │   ├── assets/
-│   │   ├── styles.css        # Dark terminal theme
-│   │   └── app.js            # Frontend controllers
+│   │   ├── styles.css        # Light theme stylesheet
+│   │   ├── app.js            # Dashboard controllers
+│   │   └── presentation.js   # Slide deck logic
 │   └── data/
 │       ├── events.json       # Processed events
 │       ├── labs.json         # Lab profiles
 │       ├── scores.json       # Computed scores
 │       ├── checklist.json    # Scoring criteria
+│       ├── historical_scores.json  # Score history
 │       └── metadata.json     # Pipeline status
 │
 ├── pipeline/                  # Python ETL
@@ -116,7 +130,8 @@ fault-line/
 │
 ├── .github/
 │   └── workflows/
-│       └── update-data.yml   # Scheduled pipeline
+│       ├── update-data.yml   # Scheduled data pipeline
+│       └── deploy-pages.yml  # GitHub Pages deployment
 │
 ├── .gitignore                # Git ignore rules
 ├── requirements.txt          # Python dependencies
