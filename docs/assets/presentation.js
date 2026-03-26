@@ -7,7 +7,6 @@
     const counter = document.getElementById('slideCounter');
     const navButtons = Array.from(document.querySelectorAll('.slide-jump'));
     let currentSlide = 0;
-    let notesVisible = false;
     let graphAnimated = false;
 
     const LAB_COLORS = {
@@ -53,14 +52,6 @@
         renderSlides();
     }
 
-    /* ---------- Speaker notes toggle ---------- */
-    function toggleNotes() {
-        notesVisible = !notesVisible;
-        document.body.classList.toggle('show-speaker-notes', notesVisible);
-        const btn = document.getElementById('notesToggle');
-        if (btn) btn.classList.toggle('active', notesVisible);
-    }
-
     /* ---------- Event binding ---------- */
     function bindEvents() {
         document.getElementById('nextSlideBtn')?.addEventListener('click', () => goToSlide(currentSlide + 1));
@@ -68,13 +59,11 @@
         document.querySelectorAll('.restart-deck').forEach(b => b.addEventListener('click', () => goToSlide(0)));
         document.querySelectorAll('.next-slide').forEach(b => b.addEventListener('click', () => goToSlide(currentSlide + 1)));
         navButtons.forEach(b => b.addEventListener('click', () => goToSlide(Number(b.dataset.target))));
-        document.getElementById('notesToggle')?.addEventListener('click', toggleNotes);
 
         window.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); goToSlide(currentSlide + 1); }
             if (e.key === 'ArrowLeft') { e.preventDefault(); goToSlide(currentSlide - 1); }
             if (e.key.toLowerCase() === 'r') goToSlide(0);
-            if (e.key.toLowerCase() === 'n') toggleNotes();
         });
     }
 

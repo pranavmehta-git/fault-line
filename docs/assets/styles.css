@@ -2657,7 +2657,7 @@ a.dimension-card:hover {
 .slide-content {
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 8px;
 }
 
 /* Kicker pill */
@@ -2700,6 +2700,14 @@ a.dimension-card:hover {
     line-height: 1.7;
     max-width: 52ch;
     margin: 0 auto 32px;
+}
+
+.method-line {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    max-width: 52ch;
+    margin: 2px 0 8px;
 }
 
 /* Bullet list */
@@ -3058,53 +3066,6 @@ a.dimension-card:hover {
     color: var(--text-primary);
 }
 
-/* ---- SPEAKER NOTES ---- */
-.speaker-notes {
-    display: none;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: var(--bg-tertiary);
-    border-top: 2px solid var(--border-medium);
-    padding: 16px 32px;
-    font-size: 0.85rem;
-    line-height: 1.6;
-    color: var(--text-secondary);
-    max-height: 180px;
-    overflow-y: auto;
-    z-index: 100;
-}
-
-.speaker-notes ul {
-    list-style: disc;
-    padding-left: 20px;
-    margin-top: 6px;
-}
-
-.speaker-notes li {
-    margin-bottom: 4px;
-}
-
-.show-speaker-notes .presentation-slide.active .speaker-notes {
-    display: block;
-}
-
-.show-speaker-notes .deck-nav-controls {
-    margin-bottom: 180px;
-}
-
-.speaker-notes-toggle {
-    font-size: 0.7rem;
-    padding: 6px 12px;
-}
-
-.speaker-notes-toggle.active {
-    background: var(--accent-primary);
-    color: white;
-    border-color: var(--accent-primary);
-}
-
 /* ---- STAKEHOLDER CARDS (Use Cases slide) ---- */
 .viz-stakeholders {
     display: flex;
@@ -3154,7 +3115,7 @@ a.dimension-card:hover {
     line-height: 1.5;
 }
 
-/* ---- LIMITS / FUTURE WORK (Slide 6) ---- */
+/* ---- WHAT'S NEXT (Slide 6) ---- */
 .limits-heading {
     font-size: 0.75rem;
     text-transform: uppercase;
@@ -3171,6 +3132,16 @@ a.dimension-card:hover {
 
 .future-bullets li::before {
     background: var(--text-muted);
+}
+
+.slide-next {
+    max-width: 860px;
+}
+
+.next-bullets {
+    margin: 12px auto 0;
+    text-align: left;
+    max-width: 62ch;
 }
 
 /* ---- GRAPH (Method slide) ---- */
@@ -3249,6 +3220,11 @@ a.dimension-card:hover {
     margin: 0 0 20px 0;
     max-width: 36ch;
     font-size: 0.95rem;
+}
+
+.contact-caveat {
+    margin: -8px 0 14px;
+    font-size: 0.8rem;
 }
 
 .contact-links {
