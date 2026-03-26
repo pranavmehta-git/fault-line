@@ -3058,6 +3058,246 @@ a.dimension-card:hover {
     color: var(--text-primary);
 }
 
+/* ---- SPEAKER NOTES ---- */
+.speaker-notes {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--bg-tertiary);
+    border-top: 2px solid var(--border-medium);
+    padding: 16px 32px;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    max-height: 180px;
+    overflow-y: auto;
+    z-index: 100;
+}
+
+.speaker-notes ul {
+    list-style: disc;
+    padding-left: 20px;
+    margin-top: 6px;
+}
+
+.speaker-notes li {
+    margin-bottom: 4px;
+}
+
+.show-speaker-notes .presentation-slide.active .speaker-notes {
+    display: block;
+}
+
+.show-speaker-notes .deck-nav-controls {
+    margin-bottom: 180px;
+}
+
+.speaker-notes-toggle {
+    font-size: 0.7rem;
+    padding: 6px 12px;
+}
+
+.speaker-notes-toggle.active {
+    background: var(--accent-primary);
+    color: white;
+    border-color: var(--accent-primary);
+}
+
+/* ---- STAKEHOLDER CARDS (Use Cases slide) ---- */
+.viz-stakeholders {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.stakeholder-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px;
+    border: 1px solid var(--border-subtle);
+    border-radius: 14px;
+    background: var(--bg-secondary);
+}
+
+.stakeholder-icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    color: var(--text-primary);
+}
+
+.stakeholder-icon svg {
+    width: 28px;
+    height: 28px;
+}
+
+.stakeholder-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.stakeholder-info strong {
+    font-size: 0.92rem;
+    color: var(--text-primary);
+}
+
+.stakeholder-info span {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+/* ---- LIMITS / FUTURE WORK (Slide 6) ---- */
+.limits-heading {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.future-work-list {
+    padding: 0;
+}
+
+.future-bullets li::before {
+    background: var(--text-muted);
+}
+
+/* ---- GRAPH (Method slide) ---- */
+.slide-graph-container {
+    border: 1px solid var(--border-subtle);
+    border-radius: 14px;
+    padding: 20px;
+    background: var(--bg-secondary);
+}
+
+.viz-graph-title {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+}
+
+#storyGraph {
+    width: 100%;
+    height: 260px;
+    display: block;
+}
+
+.graph-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 12px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+/* ---- CONTACT SLIDE ---- */
+.slide-contact-left {
+    align-items: flex-start;
+}
+
+.contact-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid var(--border-medium);
+    margin-bottom: 12px;
+    flex-shrink: 0;
+}
+
+.headshot-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.contact-headline {
+    max-width: none !important;
+    font-size: clamp(1.4rem, 2.5vw, 2rem) !important;
+    margin-bottom: 6px;
+}
+
+.contact-sub {
+    text-align: left;
+    margin: 0 0 20px 0;
+    max-width: 36ch;
+    font-size: 0.95rem;
+}
+
+.contact-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.contact-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    transition: color var(--transition-fast);
+}
+
+.contact-link:hover {
+    color: var(--text-primary);
+}
+
+.contact-link svg {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+}
+
+.slide-contact-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr-container {
+    text-align: center;
+}
+
+.qr-img {
+    width: 240px;
+    height: 240px;
+    border-radius: 14px;
+    border: 1px solid var(--border-subtle);
+}
+
+/* ---- METHOD SLIDE: scorecard in left column ---- */
+.slide-content .viz-rankings {
+    margin-top: 20px;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
     .presentation-nav {
@@ -3075,5 +3315,19 @@ a.dimension-card:hover {
 
     .dim-name {
         width: 90px;
+    }
+
+    .qr-img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .contact-photo {
+        width: 90px;
+        height: 90px;
+    }
+
+    #storyGraph {
+        height: 200px;
     }
 }

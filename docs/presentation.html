@@ -26,9 +26,11 @@
             <button class="nav-link slide-jump" data-target="3">Method</button>
             <button class="nav-link slide-jump" data-target="4">Use Cases</button>
             <button class="nav-link slide-jump" data-target="5">Limits</button>
+            <button class="nav-link slide-jump" data-target="6">Contact</button>
         </nav>
         <div class="header-right presentation-status">
-            <span id="slideCounter" class="deck-counter">01 / 06</span>
+            <button class="control-btn speaker-notes-toggle" id="notesToggle" title="Toggle speaker notes (N)">Notes</button>
+            <span id="slideCounter" class="deck-counter">01 / 07</span>
         </div>
     </header>
 
@@ -40,17 +42,21 @@
                 <div class="slide-center">
                     <div class="kicker">SYSTEMIC RISK MONITOR</div>
                     <h1 class="deck-headline">An early-warning system for structural fragility in frontier AI labs.</h1>
-                    <p class="deck-sub">Tracking the dependencies, concentrations, and governance gaps that shape whether labs can scale responsibly.</p>
+                    <p class="deck-sub">FaultLine tracks the dependencies, concentrations, and governance gaps that shape whether labs can scale responsibly.</p>
                     <div class="deck-visual title-stats">
                         <div class="stat-pill"><span class="stat-num">5</span><span class="stat-label">Labs tracked</span></div>
                         <div class="stat-pill"><span class="stat-num">7</span><span class="stat-label">Dimensions scored</span></div>
-                        <div class="stat-pill"><span class="stat-num">218</span><span class="stat-label">Events indexed</span></div>
+                        <div class="stat-pill"><span class="stat-num" id="eventCount">&mdash;</span><span class="stat-label">Events indexed</span></div>
                         <div class="stat-pill highlight"><span class="stat-num">0&ndash;10</span><span class="stat-label">Fragility scale</span></div>
                     </div>
                     <div class="deck-actions">
                         <button class="control-btn primary next-slide">Begin &rarr;</button>
                         <a class="control-btn" href="index.html">Open live dashboard</a>
                     </div>
+                </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    FaultLine is an open-source systemic risk monitor for frontier AI labs. It tracks 5 labs across 7 dimensions of organizational fragility using only publicly verifiable evidence. The event count shown is pulled live from the dashboard data.
                 </div>
             </article>
 
@@ -59,12 +65,7 @@
                 <div class="slide-split">
                     <div class="slide-content">
                         <div class="kicker">01 / THE PROBLEM</div>
-                        <h2 class="deck-headline">Governance monitors capabilities and incidents&mdash;but not organizational fragility.</h2>
-                        <ul class="deck-bullets">
-                            <li>AI labs are becoming <strong>critical infrastructure</strong>, yet their structural dependencies remain untracked</li>
-                            <li>Public signals&mdash;compute lock-in, leadership churn, policy exposure&mdash;are <strong>visible before crises</strong> materialize</li>
-                            <li>No lightweight, transparent tool exists to <strong>map these risk factors</strong> systematically</li>
-                        </ul>
+                        <h2 class="deck-headline">Governance monitors capabilities and incidents, but nobody tracks the structural fragility of AI labs themselves.</h2>
                     </div>
                     <div class="slide-visual">
                         <div class="viz-gap-stack">
@@ -75,6 +76,14 @@
                         </div>
                     </div>
                 </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    <ul>
+                        <li>AI labs are becoming critical infrastructure, yet their structural dependencies remain untracked.</li>
+                        <li>Public signals like compute lock-in, leadership churn, and policy exposure are visible before crises materialize.</li>
+                        <li>No lightweight, transparent tool exists to map these risk factors systematically.</li>
+                    </ul>
+                </div>
             </article>
 
             <!-- SLIDE 3: The Approach -->
@@ -82,12 +91,7 @@
                 <div class="slide-split">
                     <div class="slide-content">
                         <div class="kicker">02 / THE APPROACH</div>
-                        <h2 class="deck-headline">Public evidence, structured into an auditable fragility monitor.</h2>
-                        <ul class="deck-bullets">
-                            <li>Tracks <strong>7 dimensions</strong> of organizational risk using publicly verifiable events</li>
-                            <li>Scores via a <strong>transparent checklist</strong>&mdash;every point traceable to a source</li>
-                            <li>Designed as <strong>decision support</strong>, not prediction: an instrument panel, not a crystal ball</li>
-                        </ul>
+                        <h2 class="deck-headline">FaultLine scores organizational risk across seven dimensions using only publicly verifiable evidence.</h2>
                     </div>
                     <div class="slide-visual">
                         <div class="viz-dimensions">
@@ -102,6 +106,14 @@
                         <p class="viz-caption">Each dimension scored 0&ndash;2 via binary checklist items tied to public evidence.</p>
                     </div>
                 </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    <ul>
+                        <li>Tracks 7 dimensions of organizational risk using publicly verifiable events.</li>
+                        <li>Scores via a transparent checklist &mdash; every point traceable to a source.</li>
+                        <li>Designed as decision support, not prediction: an instrument panel, not a crystal ball.</li>
+                    </ul>
+                </div>
             </article>
 
             <!-- SLIDE 4: How It Works -->
@@ -109,25 +121,29 @@
                 <div class="slide-split">
                     <div class="slide-content">
                         <div class="kicker">03 / METHOD</div>
-                        <h2 class="deck-headline">Ingest. Classify. Score. Expose.</h2>
-                        <ul class="deck-bullets">
-                            <li><strong>Ingest</strong> news, filings, and official signals from public sources</li>
-                            <li><strong>Map</strong> each event to one of 7 fragility dimensions with a confidence tag</li>
-                            <li><strong>Score</strong> labs via binary checklist + confidence-weighted variant</li>
-                            <li><strong>Expose</strong> evidence trails, trajectories, and per-lab breakdowns in an open dashboard</li>
-                        </ul>
+                        <h2 class="deck-headline">OpenAI scores nearly triple the next closest lab, revealing deep concentration risk at the frontier.</h2>
+                        <div class="viz-rankings" id="liveScorecard">
+                            <div class="viz-rank-header"><span>Lab</span><span>Score</span><span>Fragility</span></div>
+                            <!-- Populated dynamically from scores.json -->
+                        </div>
                     </div>
                     <div class="slide-visual">
-                        <div class="viz-rankings">
-                            <div class="viz-rank-header"><span>Lab</span><span>Score</span><span>Fragility</span></div>
-                            <div class="viz-rank-row"><span class="rank-lab"><span class="rank-dot" style="background:var(--lab-openai)"></span>OpenAI</span><span class="rank-score">9 / 14</span><span class="rank-bar"><span style="width:64%"></span></span></div>
-                            <div class="viz-rank-row"><span class="rank-lab"><span class="rank-dot" style="background:var(--lab-anthropic)"></span>Anthropic</span><span class="rank-score">5 / 14</span><span class="rank-bar"><span style="width:36%"></span></span></div>
-                            <div class="viz-rank-row"><span class="rank-lab"><span class="rank-dot" style="background:var(--lab-deepmind)"></span>DeepMind</span><span class="rank-score">4 / 14</span><span class="rank-bar"><span style="width:29%"></span></span></div>
-                            <div class="viz-rank-row"><span class="rank-lab"><span class="rank-dot" style="background:var(--lab-xai)"></span>xAI</span><span class="rank-score">3 / 14</span><span class="rank-bar"><span style="width:21%"></span></span></div>
-                            <div class="viz-rank-row"><span class="rank-lab"><span class="rank-dot" style="background:var(--lab-meta)"></span>Meta AI</span><span class="rank-score">2 / 14</span><span class="rank-bar"><span style="width:14%"></span></span></div>
+                        <div class="slide-graph-container">
+                            <p class="viz-graph-title">Fragility scores over time</p>
+                            <canvas id="storyGraph" width="480" height="320"></canvas>
+                            <div class="graph-legend" id="graphLegend"></div>
                         </div>
-                        <p class="viz-caption">Live snapshot from the FaultLine dashboard. Scores update as new evidence is indexed.</p>
                     </div>
+                </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    <ul>
+                        <li><strong>Ingest</strong> news, filings, and official signals from public sources.</li>
+                        <li><strong>Map</strong> each event to one of 7 fragility dimensions with a confidence tag.</li>
+                        <li><strong>Score</strong> labs via binary checklist + confidence-weighted variant.</li>
+                        <li><strong>Expose</strong> evidence trails, trajectories, and per-lab breakdowns in an open dashboard.</li>
+                        <li>The graph animates to show how fragility scores have increased over time as more risk events are indexed.</li>
+                    </ul>
                 </div>
             </article>
 
@@ -136,30 +152,57 @@
                 <div class="slide-split">
                     <div class="slide-content">
                         <div class="kicker">04 / USE CASES</div>
-                        <h2 class="deck-headline">Shared situational awareness for the AI governance ecosystem.</h2>
-                        <ul class="deck-bullets">
-                            <li><strong>Researchers</strong> &mdash; a scaffold for empirical work on AI political economy</li>
-                            <li><strong>Policymakers</strong> &mdash; a quick read on concentration, dependency, and pressure points</li>
-                            <li><strong>Journalists</strong> &mdash; a structured lead generator for weak signals before crises</li>
-                            <li><strong>Labs themselves</strong> &mdash; a mirror for resilience gaps and governance debt</li>
-                        </ul>
+                        <h2 class="deck-headline">Four different stakeholders gain unique value from the same shared situational awareness.</h2>
                     </div>
                     <div class="slide-visual">
-                        <div class="viz-outcomes">
-                            <div class="outcome-card">
-                                <span class="outcome-num">01</span>
-                                <p>An open, durable dataset of fragility-relevant AI lab events</p>
+                        <div class="viz-stakeholders">
+                            <div class="stakeholder-card">
+                                <div class="stakeholder-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                                </div>
+                                <div class="stakeholder-info">
+                                    <strong>Researchers</strong>
+                                    <span>A scaffold for empirical work on AI political economy</span>
+                                </div>
                             </div>
-                            <div class="outcome-card">
-                                <span class="outcome-num">02</span>
-                                <p>A method others can critique, copy, or improve</p>
+                            <div class="stakeholder-card">
+                                <div class="stakeholder-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg>
+                                </div>
+                                <div class="stakeholder-info">
+                                    <strong>Policymakers</strong>
+                                    <span>A quick read on concentration, dependency, and pressure points</span>
+                                </div>
                             </div>
-                            <div class="outcome-card">
-                                <span class="outcome-num">03</span>
-                                <p>A bridge between technical AI safety and political-economy analysis</p>
+                            <div class="stakeholder-card">
+                                <div class="stakeholder-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8z"/></svg>
+                                </div>
+                                <div class="stakeholder-info">
+                                    <strong>Journalists</strong>
+                                    <span>A structured lead generator for weak signals before crises</span>
+                                </div>
+                            </div>
+                            <div class="stakeholder-card">
+                                <div class="stakeholder-icon">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+                                </div>
+                                <div class="stakeholder-info">
+                                    <strong>Labs themselves</strong>
+                                    <span>A mirror for resilience gaps and governance debt</span>
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    <ul>
+                        <li><strong>Researchers</strong> get a scaffold for empirical work on AI political economy.</li>
+                        <li><strong>Policymakers</strong> get a quick read on concentration, dependency, and pressure points.</li>
+                        <li><strong>Journalists</strong> get a structured lead generator for weak signals before crises.</li>
+                        <li><strong>Labs themselves</strong> get a mirror for resilience gaps and governance debt.</li>
+                    </ul>
                 </div>
             </article>
 
@@ -167,27 +210,74 @@
             <article class="presentation-slide" data-title="Limitations">
                 <div class="slide-split">
                     <div class="slide-content">
-                        <div class="kicker">05 / LIMITATIONS</div>
-                        <h2 class="deck-headline">Transparent about what it cannot do&mdash;yet.</h2>
-                        <ul class="deck-bullets">
-                            <li><strong>Selection bias</strong> &mdash; public reporting overweights visible, English-language firms</li>
-                            <li><strong>Subjective coding</strong> &mdash; even transparent heuristics embed judgment calls</li>
-                            <li><strong>No causal guarantee</strong> &mdash; fragility indicators are warning signs, not deterministic forecasts</li>
-                        </ul>
-                        <div class="deck-closing">
-                            <p>A transparent, imperfect monitor still outperforms ad hoc intuition&mdash;especially when its limitations are visible and its evidence is open.</p>
+                        <div class="kicker">05 / LIMITATIONS &amp; FUTURE WORK</div>
+                        <h2 class="deck-headline">A transparent, imperfect monitor still outperforms ad hoc intuition when its limitations are visible.</h2>
+                        <div class="limits-list">
+                            <h3 class="limits-heading">Limitations</h3>
+                            <ul class="deck-bullets">
+                                <li><strong>Selection bias</strong> &mdash; public reporting overweights visible, English-language firms</li>
+                                <li><strong>Subjective coding</strong> &mdash; even transparent heuristics embed judgment calls</li>
+                                <li><strong>No causal guarantee</strong> &mdash; fragility indicators are warning signs, not deterministic forecasts</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="slide-visual">
-                        <div class="viz-cta">
-                            <p class="cta-line">If frontier labs are becoming systemically important institutions, governance should have better dashboards for their fragility.</p>
-                            <div class="deck-actions">
-                                <a class="control-btn primary" href="index.html">Explore the dashboard</a>
-                                <a class="control-btn" href="methodology.html">Read methodology</a>
-                                <button class="control-btn restart-deck">Restart deck</button>
-                            </div>
+                        <div class="future-work-list">
+                            <h3 class="limits-heading">Future work</h3>
+                            <ul class="deck-bullets future-bullets">
+                                <li><strong>Inter-rater reliability</strong> &mdash; crowdsource coding to reduce single-coder bias</li>
+                                <li><strong>Non-English sources</strong> &mdash; expand coverage to Chinese, European, and Korean labs</li>
+                                <li><strong>Causal modeling</strong> &mdash; test whether fragility scores correlate with real incidents</li>
+                                <li><strong>API access</strong> &mdash; expose data as a public API for downstream research tools</li>
+                            </ul>
                         </div>
                     </div>
+                </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    <ul>
+                        <li>Selection bias: public reporting overweights visible, English-language firms.</li>
+                        <li>Subjective coding: even transparent heuristics embed judgment calls.</li>
+                        <li>No causal guarantee: fragility indicators are warning signs, not deterministic forecasts.</li>
+                        <li>A transparent, imperfect monitor still outperforms ad hoc intuition &mdash; especially when its limitations are visible and its evidence is open.</li>
+                    </ul>
+                </div>
+            </article>
+
+            <!-- SLIDE 7: Contact -->
+            <article class="presentation-slide" data-title="Contact">
+                <div class="slide-split">
+                    <div class="slide-content slide-contact-left">
+                        <div class="contact-photo">
+                            <img src="assets/headshot.png" alt="Pranav Mehta" class="headshot-img">
+                        </div>
+                        <h2 class="deck-headline contact-headline">Pranav Mehta</h2>
+                        <p class="deck-sub contact-sub">Builder of FaultLine. Interested in AI governance, systemic risk, and transparent tooling for public interest.</p>
+                        <div class="contact-links">
+                            <a href="https://github.com/pranavmehta-git" target="_blank" class="contact-link">
+                                <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+                                <span>github.com/pranavmehta-git</span>
+                            </a>
+                            <a href="https://linkedin.com/in/pranavmehta97" target="_blank" class="contact-link">
+                                <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                                <span>in/pranavmehta97</span>
+                            </a>
+                            <a href="mailto:pranavmehta97@gmail.com" class="contact-link">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="20" height="20"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                                <span>pranavmehta97@gmail.com</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="slide-visual slide-contact-right">
+                        <div class="qr-container">
+                            <img src="assets/qr-code.png" alt="QR code to website" class="qr-img">
+                            <p class="viz-caption">Scan to visit the live dashboard</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-notes">
+                    <strong>Speaker Notes:</strong>
+                    Thank you! Feel free to reach out via any of the channels above. The QR code links to the live FaultLine dashboard. The project is fully open-source on GitHub.
                 </div>
             </article>
 
