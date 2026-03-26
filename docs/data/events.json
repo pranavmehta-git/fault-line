@@ -8049,6 +8049,42 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8594597c",
+      "date": "2026-03-25",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "source_url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6f986dbd",
+      "date": "2026-03-25",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
+      "source_url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
