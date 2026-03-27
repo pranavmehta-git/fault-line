@@ -8103,6 +8103,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1ea495c2",
+      "date": "2026-03-26",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Mistral releases a new open source model for speech generation",
+      "source_url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eda5e44a",
+      "date": "2026-03-27",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "source_url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-119ef7c4",
+      "date": "2026-03-27",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
