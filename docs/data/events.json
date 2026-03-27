@@ -8159,6 +8159,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-be536dbd",
+      "date": "2026-03-27",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "A New AI Documentary Puts CEOs in the Hot Seat\u2014but Goes Too Easy on Them",
+      "source_url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
