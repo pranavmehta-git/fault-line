@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T12:38:09Z",
+  "last_updated": "2026-03-28T18:31:12Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -218,8 +218,8 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 3,
-      "weighted_score": 2.2,
+      "total_score": 4,
+      "weighted_score": 3.0,
       "breakdown": {
         "compute_chips": {
           "score": 0,
@@ -267,15 +267,17 @@
           "items_triggered": []
         },
         "talent_governance": {
-          "score": 0,
-          "weighted_score": 0.0,
+          "score": 1,
+          "weighted_score": 0.75,
           "max": 2,
-          "items_triggered": []
+          "items_triggered": [
+            "G1"
+          ]
         }
       },
-      "events_count": 16,
-      "last_event_date": "2026-03-16",
-      "trend": "stable",
+      "events_count": 17,
+      "last_event_date": "2026-03-28",
+      "trend": "worsening",
       "rank": 4
     },
     {
