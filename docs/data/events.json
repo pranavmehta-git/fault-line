@@ -8195,6 +8195,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e2f80da7",
+      "date": "2026-03-29",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Bluesky\u2019s new app is an AI for customizing your feed",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

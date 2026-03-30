@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-29T18:32:03Z",
+  "last_run": "2026-03-30T01:52:45Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -12,7 +12,7 @@
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "status": "ok",
-      "articles_found": 15
+      "articles_found": 14
     },
     {
       "name": "The Verge",
@@ -63,13 +63,13 @@
       "articles_found": 16
     }
   ],
-  "events_processed": 427,
-  "events_added": 0,
+  "events_processed": 428,
+  "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-03-30T00:00:00Z",
+  "next_scheduled_run": "2026-03-30T06:00:00Z",
   "pipeline_version": "1.0.0"
 }
