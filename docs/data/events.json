@@ -8213,6 +8213,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-073b85f3",
+      "date": "2026-03-30",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
+      "source_url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "source_name": "MIT Technology Review",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
