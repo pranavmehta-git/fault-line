@@ -7042,6 +7042,24 @@
       "historical": false
     },
     {
+      "id": "evt-8029a01b",
+      "date": "2026-03-06",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "How Descript engineers multilingual video dubbing at scale",
+      "source_url": "https://openai.com/index/descript",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-edd4bb8d",
       "date": "2026-03-09",
       "lab": "anthropic",
