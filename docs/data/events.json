@@ -8231,6 +8231,65 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-defc44f6",
+      "date": "2026-03-31",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "source_url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f4433ed9",
+      "date": "2026-03-31",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "You can now use ChatGPT with Apple\u2019s CarPlay",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5f6e8148",
+      "date": "2026-03-31",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Accelerating the next phase of AI",
+      "source_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
