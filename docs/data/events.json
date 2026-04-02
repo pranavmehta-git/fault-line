@@ -8344,6 +8344,40 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0db58f2e",
+      "date": "2026-04-02",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI just bought TBPN",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3538e738",
+      "date": "2026-04-02",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Codex now offers more flexible pricing for teams",
+      "source_url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
