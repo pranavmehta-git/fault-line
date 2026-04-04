@@ -8378,6 +8378,59 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-eccb922a",
+      "date": "2026-04-03",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e68ac261",
+      "date": "2026-04-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s AGI boss is taking a leave of absence",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7bdc48a0",
+      "date": "2026-04-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+      "source_url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
