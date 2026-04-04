@@ -8431,6 +8431,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e76b6b7f",
+      "date": "2026-04-04",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "source_url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
