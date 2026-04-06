@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-04-06T12:55:20Z",
+  "last_run": "2026-04-06T18:47:59Z",
   "run_status": "success",
   "sources_checked": [
     {
       "name": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "status": "ok",
-      "articles_found": 20
+      "articles_found": 18
     },
     {
       "name": "Ars Technica",
@@ -54,7 +54,7 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 26
+      "articles_found": 27
     },
     {
       "name": "Google DeepMind Blog",
@@ -63,13 +63,13 @@
       "articles_found": 15
     }
   ],
-  "events_processed": 441,
-  "events_added": 0,
+  "events_processed": 443,
+  "events_added": 2,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-04-06T18:00:00Z",
+  "next_scheduled_run": "2026-04-07T00:00:00Z",
   "pipeline_version": "1.0.0"
 }

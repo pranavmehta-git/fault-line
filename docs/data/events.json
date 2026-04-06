@@ -8447,6 +8447,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5d11d29a",
+      "date": "2026-04-06",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "source_url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dcf36101",
+      "date": "2026-04-06",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Announcing the OpenAI Safety Fellowship",
+      "source_url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
