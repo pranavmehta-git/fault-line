@@ -8503,6 +8503,63 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-548e2a86",
+      "date": "2026-04-07",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "source_url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-06cfe436",
+      "date": "2026-04-07",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "partnership",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82b90a79",
+      "date": "2026-04-07",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Intel will help build Elon Musk\u2019s Terafab AI chip factory",
+      "source_url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
