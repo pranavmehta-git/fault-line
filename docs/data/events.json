@@ -8483,6 +8483,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1c9256c1",
+      "date": "2026-04-07",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "Gemini is making it faster for distressed users to reach mental health resources",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
