@@ -8560,6 +8560,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-816a47ed",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Introducing the Child Safety Blueprint",
+      "source_url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
