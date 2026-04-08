@@ -8578,6 +8578,63 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-13b7f177",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "source_url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5010f899",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "The vibes are off at OpenAI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e16a122b",
+      "date": "2026-04-08",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic\u2019s New Product Aims to Handle the Hard Part of Building AI Agents",
+      "source_url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
