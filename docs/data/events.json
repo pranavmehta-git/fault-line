@@ -8635,6 +8635,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-51d4c988",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "source_url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c6229a2d",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them",
+      "source_url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dca5ad46",
+      "date": "2026-04-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "The next phase of enterprise AI",
+      "source_url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
