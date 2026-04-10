@@ -8742,6 +8742,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4c9b2cae",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Fear and loathing at OpenAI",
+      "source_url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
