@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T18:54:52Z",
+  "last_updated": "2026-04-10T01:53:57Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -9,8 +9,8 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 9,
-      "weighted_score": 8.5,
+      "total_score": 10,
+      "weighted_score": 9.0,
       "breakdown": {
         "compute_chips": {
           "score": 2,
@@ -31,10 +31,11 @@
           ]
         },
         "policy": {
-          "score": 1,
-          "weighted_score": 0.5,
+          "score": 2,
+          "weighted_score": 1.0,
           "max": 2,
           "items_triggered": [
+            "C1",
             "C2"
           ]
         },
@@ -75,9 +76,9 @@
           ]
         }
       },
-      "events_count": 143,
-      "last_event_date": "2026-04-08",
-      "trend": "stable",
+      "events_count": 146,
+      "last_event_date": "2026-04-10",
+      "trend": "worsening",
       "rank": 1
     },
     {

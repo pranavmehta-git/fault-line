@@ -8687,6 +8687,61 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-02043fab",
+      "date": "2026-04-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Florida launches investigation into OpenAI",
+      "source_url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-85414028",
+      "date": "2026-04-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "source_url": "https://openai.com/index/cyberagent",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b1cd07b2",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "source_url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
