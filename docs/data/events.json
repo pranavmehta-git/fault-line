@@ -8760,6 +8760,134 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1260c9b5",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
+      "source_url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-541696ef",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman\u2019s Home",
+      "source_url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b2eaf59b",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "\"Uncanny Valley\": OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7794fa2f",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Using skills",
+      "source_url": "https://openai.com/academy/skills",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c2c53213",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Responsible and safe use of AI",
+      "source_url": "https://openai.com/academy/responsible-and-safe-use",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6af0d262",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Using custom GPTs",
+      "source_url": "https://openai.com/academy/custom-gpts",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-24960fff",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT for customer success teams",
+      "source_url": "https://openai.com/academy/customer-success",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
