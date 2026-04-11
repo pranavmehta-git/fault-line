@@ -8888,6 +8888,40 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-48ea358c",
+      "date": "2026-04-10",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+      "source_url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-42516977",
+      "date": "2026-04-10",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
