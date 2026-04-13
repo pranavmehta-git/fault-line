@@ -9010,6 +9010,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-21259b9a",
+      "date": "2026-04-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
