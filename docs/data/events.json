@@ -8976,6 +8976,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-63b3a6b2",
+      "date": "2026-04-13",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Sam Altman reportedly targeted in second attack",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3f8bf272",
+      "date": "2026-04-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "source_url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
