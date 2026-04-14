@@ -9030,6 +9030,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4b829713",
+      "date": "2026-04-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "source_url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-43e6abad",
+      "date": "2026-04-14",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
