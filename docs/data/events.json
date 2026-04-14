@@ -9066,6 +9066,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-321bb812",
+      "date": "2026-04-14",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "The attacks on Sam Altman are a warning for the AI world",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
