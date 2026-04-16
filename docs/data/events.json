@@ -9122,6 +9122,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c6c72f42",
+      "date": "2026-04-15",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "source_url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
