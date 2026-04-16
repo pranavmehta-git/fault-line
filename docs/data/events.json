@@ -9154,6 +9154,73 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-917fe3f7",
+      "date": "2026-04-16",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
+      "source_url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-29fc5b35",
+      "date": "2026-04-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-970fcc71",
+      "date": "2026-04-16",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Treating enterprise AI as an operating layer",
+      "source_url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f280bb10",
+      "date": "2026-04-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Codex for (almost) everything",
+      "source_url": "https://openai.com/index/codex-for-almost-everything",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
