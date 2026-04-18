@@ -9221,6 +9221,76 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6442cfae",
+      "date": "2026-04-17",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "source_url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0554823c",
+      "date": "2026-04-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s former Sora boss is leaving",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c76172c",
+      "date": "2026-04-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c59f046",
+      "date": "2026-04-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "source_url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
