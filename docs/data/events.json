@@ -9309,6 +9309,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1f8f62e5",
+      "date": "2026-04-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI helps Hyatt advance AI among colleagues",
+      "source_url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
