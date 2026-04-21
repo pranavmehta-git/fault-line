@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T18:55:55Z",
+  "last_updated": "2026-04-21T01:58:12Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -83,8 +83,8 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 6,
-      "weighted_score": 4.8,
+      "total_score": 7,
+      "weighted_score": 5.5,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -95,11 +95,12 @@
           ]
         },
         "cloud": {
-          "score": 1,
-          "weighted_score": 0.75,
+          "score": 2,
+          "weighted_score": 1.5,
           "max": 2,
           "items_triggered": [
-            "B1"
+            "B1",
+            "B2"
           ]
         },
         "policy": {
@@ -146,9 +147,9 @@
           ]
         }
       },
-      "events_count": 58,
-      "last_event_date": "2026-04-16",
-      "trend": "stable",
+      "events_count": 59,
+      "last_event_date": "2026-04-20",
+      "trend": "worsening",
       "rank": 2
     },
     {
