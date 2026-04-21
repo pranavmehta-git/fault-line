@@ -9346,6 +9346,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-11949f20",
+      "date": "2026-04-21",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Scaling Codex to enterprises worldwide",
+      "source_url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
