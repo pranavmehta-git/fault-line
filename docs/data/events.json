@@ -9454,6 +9454,130 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b6c8338b",
+      "date": "2026-04-22",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google turns Chrome into an AI co-worker for the workplace",
+      "source_url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9a4a3743",
+      "date": "2026-04-22",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "source_url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eb8bc993",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "source_url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-24ccf706",
+      "date": "2026-04-22",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "How to secure philanthropic funding in a competitive climate",
+      "source_url": "https://www.nature.com/articles/d41586-026-01198-0",
+      "source_name": "Nature News",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c1b0c141",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Introducing workspace agents in ChatGPT",
+      "source_url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-07b6993f",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Workspace agents",
+      "source_url": "https://openai.com/academy/workspace-agents",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-71f6d246",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Introducing OpenAI Privacy Filter",
+      "source_url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
