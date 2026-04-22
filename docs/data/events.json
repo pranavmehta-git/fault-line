@@ -9398,6 +9398,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-029ed3d9",
+      "date": "2026-04-22",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-52b82607",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "resilience",
+      "summary": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
+      "source_url": "https://www.wired.com/review/beatbot-sora-30/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05352764",
+      "date": "2026-04-22",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "We're launching two specialized TPUs for the agentic era.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
