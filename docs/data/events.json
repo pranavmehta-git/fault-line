@@ -9578,6 +9578,56 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-86d6f272",
+      "date": "2026-04-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "X is going to let Grok curate your timeline",
+      "source_url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7174794e",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI now lets teams make custom bots that can do work on their own",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5545b1f7",
+      "date": "2026-04-22",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Making ChatGPT better for clinicians",
+      "source_url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
