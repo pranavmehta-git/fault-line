@@ -9680,6 +9680,96 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1ae4781f",
+      "date": "2026-04-23",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5fa9c59c",
+      "date": "2026-04-23",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Automations",
+      "source_url": "https://openai.com/academy/codex-automations",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d98e22d8",
+      "date": "2026-04-23",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Top 10 uses for Codex at work",
+      "source_url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cfc066e5",
+      "date": "2026-04-23",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Plugins and skills",
+      "source_url": "https://openai.com/academy/codex-plugins-and-skills",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c5da3193",
+      "date": "2026-04-23",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "What is Codex?",
+      "source_url": "https://openai.com/academy/what-is-codex",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
