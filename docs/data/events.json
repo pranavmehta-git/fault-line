@@ -9770,6 +9770,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7b6d29b1",
+      "date": "2026-04-24",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk and Sam Altman\u2019s court showdown will dish the dirt",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
