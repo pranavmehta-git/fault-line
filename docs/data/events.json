@@ -9790,6 +9790,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-59f02424",
+      "date": "2026-04-24",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Google to invest up to $40B in Anthropic in cash and compute",
+      "source_url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
