@@ -9824,6 +9824,103 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7c25b447",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ca8e188f",
+      "date": "2026-04-27",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
+      "source_url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1fb32942",
+      "date": "2026-04-27",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-512abce3",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "An open-source spec for orchestration: Symphony",
+      "source_url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ad313af3",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Choco automates food distribution with AI agents",
+      "source_url": "https://openai.com/index/choco",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
