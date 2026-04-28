@@ -9921,6 +9921,81 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7b5a8d60",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk Boosts New Yorker\u2019s Sam Altman Expos\u00e9 on X as Trial Begins",
+      "source_url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ac7bb42c",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk and Sam Altman are going to court over OpenAI\u2019s future",
+      "source_url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-25909550",
+      "date": "2026-04-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI available at FedRAMP Moderate",
+      "source_url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-90fd994e",
+      "date": "2026-04-28",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "source_url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
