@@ -10108,6 +10108,65 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-49e079e0",
+      "date": "2026-04-28",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Amazon is already offering new OpenAI products on AWS",
+      "source_url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8cf69a76",
+      "date": "2026-04-28",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f0b63488",
+      "date": "2026-04-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Our commitment to community safety",
+      "source_url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
