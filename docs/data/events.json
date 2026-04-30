@@ -10187,6 +10187,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-50d6f9de",
+      "date": "2026-04-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Satya Nadella says he\u2019s ready to \u2018exploit\u2019 the new OpenAI deal",
+      "source_url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d3acea42",
+      "date": "2026-04-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Building the compute infrastructure for the Intelligence Age",
+      "source_url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-067320c1",
+      "date": "2026-04-30",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "source_url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

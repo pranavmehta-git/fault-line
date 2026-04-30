@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T19:14:04Z",
+  "last_updated": "2026-04-30T02:14:18Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,7 +76,7 @@
           ]
         }
       },
-      "events_count": 205,
+      "events_count": 207,
       "last_event_date": "2026-04-29",
       "trend": "stable",
       "rank": 1
@@ -147,10 +147,78 @@
           ]
         }
       },
-      "events_count": 64,
-      "last_event_date": "2026-04-28",
+      "events_count": 65,
+      "last_event_date": "2026-04-30",
       "trend": "stable",
       "rank": 2
+    },
+    {
+      "lab_id": "deepmind",
+      "total_score": 6,
+      "weighted_score": 5.0,
+      "breakdown": {
+        "compute_chips": {
+          "score": 1,
+          "weighted_score": 1.0,
+          "max": 2,
+          "items_triggered": [
+            "A1"
+          ]
+        },
+        "cloud": {
+          "score": 2,
+          "weighted_score": 1.25,
+          "max": 2,
+          "items_triggered": [
+            "B1",
+            "B2"
+          ]
+        },
+        "policy": {
+          "score": 1,
+          "weighted_score": 1.0,
+          "max": 2,
+          "items_triggered": [
+            "C2"
+          ]
+        },
+        "demand": {
+          "score": 1,
+          "weighted_score": 1.0,
+          "max": 2,
+          "items_triggered": [
+            "D2"
+          ]
+        },
+        "resilience": {
+          "score": 1,
+          "weighted_score": 0.75,
+          "max": 2,
+          "items_triggered": [
+            "E1"
+          ]
+        },
+        "societal_impact": {
+          "score": 1,
+          "weighted_score": 0.75,
+          "max": 2,
+          "items_triggered": [
+            "F1"
+          ]
+        },
+        "talent_governance": {
+          "score": 1,
+          "weighted_score": 0.75,
+          "max": 2,
+          "items_triggered": [
+            "G1"
+          ]
+        }
+      },
+      "events_count": 29,
+      "last_event_date": "2026-04-27",
+      "trend": "worsening",
+      "rank": 3
     },
     {
       "lab_id": "xai",
@@ -215,77 +283,8 @@
           ]
         }
       },
-      "events_count": 21,
+      "events_count": 20,
       "last_event_date": "2026-04-22",
-      "trend": "stable",
-      "rank": 3
-    },
-    {
-      "lab_id": "deepmind",
-      "total_score": 5,
-      "weighted_score": 4.0,
-      "breakdown": {
-        "compute_chips": {
-          "score": 1,
-          "weighted_score": 1.0,
-          "max": 2,
-          "items_triggered": [
-            "A1"
-          ]
-        },
-        "cloud": {
-          "score": 2,
-          "weighted_score": 1.25,
-          "max": 2,
-          "items_triggered": [
-            "B1",
-            "B2"
-          ]
-        },
-        "policy": {
-          "score": 1,
-          "weighted_score": 1.0,
-          "max": 2,
-          "items_triggered": [
-            "C2"
-          ]
-        },
-        "demand": {
-          "score": 1,
-          "weighted_score": 1.0,
-          "max": 2,
-          "items_triggered": [
-            "D2"
-          ]
-        },
-        "resilience": {
-          "score": 2,
-          "weighted_score": 1.75,
-          "max": 2,
-          "items_triggered": [
-            "E1",
-            "E2"
-          ]
-        },
-        "societal_impact": {
-          "score": 1,
-          "weighted_score": 0.75,
-          "max": 2,
-          "items_triggered": [
-            "F1"
-          ]
-        },
-        "talent_governance": {
-          "score": 1,
-          "weighted_score": 0.75,
-          "max": 2,
-          "items_triggered": [
-            "G1"
-          ]
-        }
-      },
-      "events_count": 30,
-      "last_event_date": "2026-04-27",
       "trend": "stable",
       "rank": 4
     },
