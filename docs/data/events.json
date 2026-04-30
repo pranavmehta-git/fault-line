@@ -10223,6 +10223,24 @@
       "historical": false
     },
     {
+      "id": "evt-5ad4c482",
+      "date": "2026-04-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Where the goblins came from",
+      "source_url": "https://openai.com/index/where-the-goblins-came-from",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-067320c1",
       "date": "2026-04-30",
       "lab": "anthropic",

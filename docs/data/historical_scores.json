@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generated_at": "2026-04-30T02:14:19.099575Z",
+  "generated_at": "2026-04-30T08:08:46.290076Z",
   "decay_window_days": 180,
   "snapshots": [
     {
@@ -31396,7 +31396,7 @@
               ]
             }
           },
-          "events_count": 207,
+          "events_count": 208,
           "last_event_date": "2026-04-29",
           "trend": "worsening",
           "rank": 1
