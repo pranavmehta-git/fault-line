@@ -10376,6 +10376,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a56782d7",
+      "date": "2026-05-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+      "source_url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bab87816",
+      "date": "2026-05-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "source_url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-55161d0f",
+      "date": "2026-05-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+      "source_url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
