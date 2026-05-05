@@ -10502,6 +10502,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c14c7050",
+      "date": "2026-05-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "source_url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
