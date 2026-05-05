@@ -10464,6 +10464,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ba0f86a9",
+      "date": "2026-05-04",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "source_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-188b1ebd",
+      "date": "2026-05-04",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk will settle the feds\u2019 Twitter lawsuit with pocket change",
+      "source_url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
