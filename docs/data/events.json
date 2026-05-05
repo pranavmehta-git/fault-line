@@ -10518,6 +10518,84 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3d654c2b",
+      "date": "2026-05-05",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-66071c96",
+      "date": "2026-05-05",
+      "lab": "meta",
+      "dimension": "cloud",
+      "summary": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+      "source_url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b9159300",
+      "date": "2026-05-05",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-72c6d80a",
+      "date": "2026-05-05",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "New ways to buy ChatGPT ads",
+      "source_url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

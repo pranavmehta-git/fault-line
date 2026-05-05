@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T07:58:48Z",
+  "last_updated": "2026-05-05T19:08:27Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,8 +76,8 @@
           ]
         }
       },
-      "events_count": 220,
-      "last_event_date": "2026-05-04",
+      "events_count": 222,
+      "last_event_date": "2026-05-05",
       "trend": "stable",
       "rank": 1
     },
@@ -215,8 +215,8 @@
           ]
         }
       },
-      "events_count": 29,
-      "last_event_date": "2026-04-27",
+      "events_count": 30,
+      "last_event_date": "2026-05-05",
       "trend": "stable",
       "rank": 3
     },
@@ -290,8 +290,8 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 2,
-      "weighted_score": 1.5,
+      "total_score": 3,
+      "weighted_score": 2.0,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -302,10 +302,12 @@
           ]
         },
         "cloud": {
-          "score": 0,
-          "weighted_score": 0.0,
+          "score": 1,
+          "weighted_score": 0.5,
           "max": 2,
-          "items_triggered": []
+          "items_triggered": [
+            "B1"
+          ]
         },
         "policy": {
           "score": 1,
@@ -347,9 +349,9 @@
           "items_triggered": []
         }
       },
-      "events_count": 9,
-      "last_event_date": "2026-03-12",
-      "trend": "stable",
+      "events_count": 10,
+      "last_event_date": "2026-05-05",
+      "trend": "worsening",
       "rank": 5
     }
   ]
