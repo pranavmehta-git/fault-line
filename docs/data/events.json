@@ -10596,6 +10596,25 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-64f7accc",
+      "date": "2026-05-05",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "\u2018I Actually Thought He Was Going to Hit Me,\u2019 OpenAI\u2019s Greg Brockman Says of Elon Musk",
+      "source_url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
