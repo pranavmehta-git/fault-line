@@ -10633,6 +10633,60 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4990428b",
+      "date": "2026-05-06",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "DeepSeek could hit $45B valuation from its first investment round",
+      "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f05c0b2d",
+      "date": "2026-05-06",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Mira Murati tells the court that she couldn\u2019t trust Sam Altman\u2019s words",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-713dd0ab",
+      "date": "2026-05-06",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How frontier enterprises are building an AI advantage",
+      "source_url": "https://openai.com/index/introducing-b2b-signals",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
