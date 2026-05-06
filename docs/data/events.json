@@ -10615,6 +10615,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a3e65529",
+      "date": "2026-05-05",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "source_url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
