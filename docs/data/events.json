@@ -10721,6 +10721,81 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-51e7fbf0",
+      "date": "2026-05-07",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
+      "source_url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fa63fb80",
+      "date": "2026-05-07",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c7cf231a",
+      "date": "2026-05-07",
+      "lab": "deepmind",
+      "dimension": "resilience",
+      "summary": "Google Ditches the Screen With the New Fitbit Air (2026)",
+      "source_url": "https://www.wired.com/story/google-fitbit-air/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-286269a8",
+      "date": "2026-05-07",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Introducing Trusted Contact in ChatGPT",
+      "source_url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
