@@ -10687,6 +10687,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-17951fb8",
+      "date": "2026-05-06",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
+      "source_url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
