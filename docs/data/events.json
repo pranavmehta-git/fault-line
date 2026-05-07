@@ -10705,6 +10705,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d7de4e4e",
+      "date": "2026-05-07",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Parloa builds service agents customers want to talk to",
+      "source_url": "https://openai.com/index/parloa",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
