@@ -10635,6 +10635,24 @@
       "historical": false
     },
     {
+      "id": "evt-9174ba0d",
+      "date": "2026-05-05",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Advancing youth safety and wellbeing in EMEA",
+      "source_url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-4990428b",
       "date": "2026-05-06",
       "lab": "openai",
@@ -10703,6 +10721,24 @@
       "confidence": "medium",
       "tags": [],
       "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d21af3e0",
+      "date": "2026-05-06",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "How ChatGPT learns about the world while protecting privacy",
+      "source_url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     },
@@ -10881,6 +10917,60 @@
       "confidence": "medium",
       "tags": [],
       "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fa752a4d",
+      "date": "2026-05-07",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Why AI chatbots that follow human laws are hard to build",
+      "source_url": "https://www.nature.com/articles/d41586-026-01405-y",
+      "source_name": "Nature News",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e41ba4a4",
+      "date": "2026-05-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
+      "source_url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cd2defbc",
+      "date": "2026-05-08",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
+      "source_url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
       "auto_classified": true,
       "historical": false
     }
