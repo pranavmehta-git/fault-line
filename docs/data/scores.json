@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T19:07:04Z",
+  "last_updated": "2026-05-09T02:12:15Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,7 +76,7 @@
           ]
         }
       },
-      "events_count": 241,
+      "events_count": 242,
       "last_event_date": "2026-05-08",
       "trend": "stable",
       "rank": 1
@@ -290,8 +290,8 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 3,
-      "weighted_score": 2.0,
+      "total_score": 2,
+      "weighted_score": 1.0,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -310,12 +310,10 @@
           ]
         },
         "policy": {
-          "score": 1,
-          "weighted_score": 1.0,
+          "score": 0,
+          "weighted_score": 0.0,
           "max": 2,
-          "items_triggered": [
-            "C2"
-          ]
+          "items_triggered": []
         },
         "demand": {
           "score": 1,
@@ -349,9 +347,9 @@
           "items_triggered": []
         }
       },
-      "events_count": 10,
+      "events_count": 9,
       "last_event_date": "2026-05-05",
-      "trend": "stable",
+      "trend": "improving",
       "rank": 5
     }
   ]
