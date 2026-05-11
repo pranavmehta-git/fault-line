@@ -10991,6 +10991,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4ce87bba",
+      "date": "2026-05-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How enterprises are scaling AI",
+      "source_url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
