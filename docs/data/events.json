@@ -11007,6 +11007,42 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-61ae3817",
+      "date": "2026-05-11",
+      "lab": "meta",
+      "dimension": "cloud",
+      "summary": "Elsevier vs Meta: first science publisher sues over scraped research papers",
+      "source_url": "https://www.nature.com/articles/d41586-026-01481-0",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3ff61a27",
+      "date": "2026-05-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "source_url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

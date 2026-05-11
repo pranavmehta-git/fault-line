@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T09:28:27Z",
+  "last_updated": "2026-05-11T14:33:45Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,7 +76,7 @@
           ]
         }
       },
-      "events_count": 243,
+      "events_count": 244,
       "last_event_date": "2026-05-11",
       "trend": "stable",
       "rank": 1
@@ -291,7 +291,7 @@
     {
       "lab_id": "meta",
       "total_score": 2,
-      "weighted_score": 1.0,
+      "weighted_score": 1.2,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -303,7 +303,7 @@
         },
         "cloud": {
           "score": 1,
-          "weighted_score": 0.5,
+          "weighted_score": 0.75,
           "max": 2,
           "items_triggered": [
             "B1"
@@ -347,8 +347,8 @@
           "items_triggered": []
         }
       },
-      "events_count": 9,
-      "last_event_date": "2026-05-05",
+      "events_count": 10,
+      "last_event_date": "2026-05-11",
       "trend": "stable",
       "rank": 5
     }
