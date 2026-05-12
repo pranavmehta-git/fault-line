@@ -11115,6 +11115,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-89bbbdb9",
+      "date": "2026-05-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "source_url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-23c26864",
+      "date": "2026-05-12",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google brings agentic AI and vibe-coded widgets to Android",
+      "source_url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7b451b8a",
+      "date": "2026-05-12",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "source_url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a6649ad",
+      "date": "2026-05-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman says Elon Musk\u2019s mind games were damaging OpenAI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b16a3c27",
+      "date": "2026-05-12",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-03b87d2b",
+      "date": "2026-05-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman takes the stand in trial against Elon Musk",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
