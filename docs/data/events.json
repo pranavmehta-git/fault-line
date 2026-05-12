@@ -11097,6 +11097,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e366f216",
+      "date": "2026-05-12",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support",
+      "source_url": "https://www.wired.com/review/epson-lifestudio-grand-plus/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
