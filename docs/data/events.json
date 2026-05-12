@@ -11043,6 +11043,60 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a16c835a",
+      "date": "2026-05-11",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI just released its answer to Claude Mythos",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1af706e8",
+      "date": "2026-05-11",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-877459a6",
+      "date": "2026-05-11",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
+      "source_url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
