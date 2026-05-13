@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T19:39:59Z",
+  "last_updated": "2026-05-13T02:32:33Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,8 +76,8 @@
           ]
         }
       },
-      "events_count": 251,
-      "last_event_date": "2026-05-12",
+      "events_count": 253,
+      "last_event_date": "2026-05-13",
       "trend": "stable",
       "rank": 1
     },
@@ -147,8 +147,8 @@
           ]
         }
       },
-      "events_count": 66,
-      "last_event_date": "2026-05-01",
+      "events_count": 67,
+      "last_event_date": "2026-05-12",
       "trend": "stable",
       "rank": 2
     },
@@ -218,7 +218,7 @@
       },
       "events_count": 35,
       "last_event_date": "2026-05-12",
-      "trend": "worsening",
+      "trend": "stable",
       "rank": 3
     },
     {
@@ -284,8 +284,8 @@
           ]
         }
       },
-      "events_count": 20,
-      "last_event_date": "2026-04-22",
+      "events_count": 21,
+      "last_event_date": "2026-05-13",
       "trend": "stable",
       "rank": 4
     },

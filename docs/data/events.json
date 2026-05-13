@@ -11227,6 +11227,82 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e10bc56c",
+      "date": "2026-05-12",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "The AI legal services industry is heating up \u2014 Anthropic is getting in on the action",
+      "source_url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9c5927f8",
+      "date": "2026-05-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "How NVIDIA engineers and researchers build with Codex",
+      "source_url": "https://openai.com/index/nvidia",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dba6c2e3",
+      "date": "2026-05-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "source_url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-36776b63",
+      "date": "2026-05-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+      "source_url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
