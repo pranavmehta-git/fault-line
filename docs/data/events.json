@@ -11337,6 +11337,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bf63b66e",
+      "date": "2026-05-13",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic courts a new kind of customer: small business owners",
+      "source_url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-75f5c138",
+      "date": "2026-05-13",
+      "lab": "meta",
+      "dimension": "talent_governance",
+      "summary": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
+      "source_url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
