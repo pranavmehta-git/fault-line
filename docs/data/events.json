@@ -11391,6 +11391,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-db9b0050",
+      "date": "2026-05-14",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+      "source_url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
