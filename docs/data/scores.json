@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T19:44:34Z",
+  "last_updated": "2026-05-14T02:33:38Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -284,15 +284,15 @@
           ]
         }
       },
-      "events_count": 21,
+      "events_count": 22,
       "last_event_date": "2026-05-13",
       "trend": "stable",
       "rank": 4
     },
     {
       "lab_id": "meta",
-      "total_score": 3,
-      "weighted_score": 1.8,
+      "total_score": 4,
+      "weighted_score": 2.8,
       "breakdown": {
         "compute_chips": {
           "score": 1,
@@ -325,12 +325,11 @@
           ]
         },
         "resilience": {
-          "score": 2,
-          "weighted_score": 2.0,
+          "score": 1,
+          "weighted_score": 1.0,
           "max": 2,
           "items_triggered": [
-            "E1",
-            "E2"
+            "E1"
           ]
         },
         "societal_impact": {
@@ -350,7 +349,7 @@
           ]
         }
       },
-      "events_count": 11,
+      "events_count": 10,
       "last_event_date": "2026-05-13",
       "trend": "worsening",
       "rank": 5
