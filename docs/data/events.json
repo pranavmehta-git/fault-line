@@ -11407,6 +11407,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-42098473",
+      "date": "2026-05-14",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "source_url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d7bb6ee8",
+      "date": "2026-05-14",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Helping ChatGPT better recognize context in sensitive conversations",
+      "source_url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
