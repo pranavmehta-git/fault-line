@@ -11531,6 +11531,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2f2a800e",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "source_url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0bb8b8f8",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9f2e3193",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Greg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shake-Up",
+      "source_url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
