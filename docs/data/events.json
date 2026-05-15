@@ -11513,6 +11513,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-38aec2af",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Mira Murati Wants Her AI to \u2018Keep Humans in the Loop\u2019",
+      "source_url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
