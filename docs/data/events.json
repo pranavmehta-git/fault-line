@@ -11585,6 +11585,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f801e257",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+      "source_url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-50cad27f",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source_url": "https://openai.com/index/databricks",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
