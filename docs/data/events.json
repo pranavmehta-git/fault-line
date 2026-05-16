@@ -11619,6 +11619,40 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-24754719",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How business operations teams use Codex",
+      "source_url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-786f141a",
+      "date": "2026-05-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How data science teams use Codex",
+      "source_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
