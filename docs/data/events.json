@@ -11653,6 +11653,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ad7d7286",
+      "date": "2026-05-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
