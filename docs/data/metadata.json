@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-19T14:44:07Z",
+  "last_run": "2026-05-19T19:44:42Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -9,10 +9,16 @@
       "articles_found": 20
     },
     {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "status": "ok",
+      "articles_found": 1
+    },
+    {
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "status": "ok",
-      "articles_found": 17
+      "articles_found": 18
     },
     {
       "name": "The Verge",
@@ -54,22 +60,22 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 68
+      "articles_found": 69
     },
     {
       "name": "Google DeepMind Blog",
       "url": "https://blog.google/technology/ai/rss/",
       "status": "ok",
-      "articles_found": 13
+      "articles_found": 20
     }
   ],
-  "events_processed": 624,
-  "events_added": 1,
+  "events_processed": 629,
+  "events_added": 5,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-05-19T18:00:00Z",
+  "next_scheduled_run": "2026-05-20T00:00:00Z",
   "pipeline_version": "1.0.0"
 }

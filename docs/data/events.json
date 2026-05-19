@@ -11765,6 +11765,92 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8e36f533",
+      "date": "2026-05-19",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+      "source_url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9aaa8fa7",
+      "date": "2026-05-19",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Google wants to compete with Anthropic\u2019s Mythos",
+      "source_url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-93a7cda1",
+      "date": "2026-05-19",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Gmail is going to start talking to you",
+      "source_url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3f8c6c0c",
+      "date": "2026-05-19",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "source_url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aff2fa20",
+      "date": "2026-05-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
+      "source_url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
