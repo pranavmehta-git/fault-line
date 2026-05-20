@@ -11851,6 +11851,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1eae3c65",
+      "date": "2026-05-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
+      "source_url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-80f14d73",
+      "date": "2026-05-19",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
+      "source_url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-050b495b",
+      "date": "2026-05-19",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Roundtables: Inside the Musk v. Altman Trial",
+      "source_url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
