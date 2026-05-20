@@ -11907,6 +11907,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-534aacd6",
+      "date": "2026-05-20",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI barrels toward IPO that may happen in September",
+      "source_url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5091bbf3",
+      "date": "2026-05-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Anthropic and OpenAI take their beef to the midterm elections",
+      "source_url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
