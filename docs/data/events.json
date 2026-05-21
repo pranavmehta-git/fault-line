@@ -11943,6 +11943,78 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-141737a8",
+      "date": "2026-05-20",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic will pay xAI $1.25B per month for compute",
+      "source_url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-048eb01a",
+      "date": "2026-05-20",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
+      "source_url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0fe3207b",
+      "date": "2026-05-20",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "We\u2019re announcing new community investments in Missouri.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e87b7be",
+      "date": "2026-05-21",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic says it\u2019s about to have its first profitable quarter",
+      "source_url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
