@@ -12015,6 +12015,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fdcee383",
+      "date": "2026-05-21",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic is paying $15 billion a year for access to Elon Musk\u2019s data centers",
+      "source_url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
