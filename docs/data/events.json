@@ -12033,6 +12033,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0754c027",
+      "date": "2026-05-22",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
+      "source_url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
