@@ -12071,6 +12071,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c8ee0e04",
+      "date": "2026-05-22",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "source_url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-623e1f8b",
+      "date": "2026-05-22",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
