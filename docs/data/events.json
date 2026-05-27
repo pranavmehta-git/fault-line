@@ -12123,6 +12123,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f6f04349",
+      "date": "2026-05-27",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Building self-improving tax agents with Codex",
+      "source_url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

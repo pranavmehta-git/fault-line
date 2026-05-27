@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-27T09:33:43Z",
+  "last_run": "2026-05-27T15:00:17Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -66,16 +66,16 @@
       "name": "Google DeepMind Blog",
       "url": "https://blog.google/technology/ai/rss/",
       "status": "ok",
-      "articles_found": 19
+      "articles_found": 18
     }
   ],
-  "events_processed": 644,
-  "events_added": 0,
+  "events_processed": 645,
+  "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-05-27T12:00:00Z",
+  "next_scheduled_run": "2026-05-27T18:00:00Z",
   "pipeline_version": "1.0.0"
 }
