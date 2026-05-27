@@ -12141,6 +12141,22 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ccbc337a",
+      "date": "2026-05-27",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "AI tried to bury this politician \u2014 now people have actually heard of him",
+      "source_url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
