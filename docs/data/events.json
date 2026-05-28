@@ -12157,6 +12157,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-da6b2b9b",
+      "date": "2026-05-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Illinois Lawmakers Just Passed America\u2019s Strongest AI Safety Bill",
+      "source_url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
