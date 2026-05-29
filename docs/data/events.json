@@ -12250,6 +12250,42 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-40c88a97",
+      "date": "2026-05-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Braintrust turns customer requests into code with Codex",
+      "source_url": "https://openai.com/index/braintrust",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1824f4bb",
+      "date": "2026-05-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "A shared playbook for trustworthy third party evaluations",
+      "source_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
