@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T02:36:34Z",
+  "last_updated": "2026-05-29T09:40:50Z",
   "scoring_version": "2.0.0",
   "confidence_weights": {
     "high": 1.0,
@@ -76,7 +76,7 @@
           ]
         }
       },
-      "events_count": 285,
+      "events_count": 286,
       "last_event_date": "2026-05-28",
       "trend": "stable",
       "rank": 1
