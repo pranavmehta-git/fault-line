@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-29T20:11:04Z",
+  "last_run": "2026-05-30T02:30:37Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -39,6 +39,12 @@
       "articles_found": 10
     },
     {
+      "name": "Nature News",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "ok",
+      "articles_found": 75
+    },
+    {
       "name": "Science Magazine",
       "url": "https://www.science.org/rss/news_current.xml",
       "status": "ok",
@@ -54,7 +60,7 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 60
+      "articles_found": 59
     },
     {
       "name": "Google DeepMind Blog",
@@ -64,12 +70,12 @@
     }
   ],
   "events_processed": 653,
-  "events_added": 2,
+  "events_added": 0,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-05-30T00:00:00Z",
+  "next_scheduled_run": "2026-05-30T06:00:00Z",
   "pipeline_version": "1.0.0"
 }
