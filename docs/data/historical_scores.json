@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generated_at": "2026-05-30T19:02:53.524938Z",
+  "generated_at": "2026-05-31T02:47:34.634679Z",
   "decay_window_days": 180,
   "snapshots": [
     {
@@ -31665,6 +31665,350 @@
           },
           "events_count": 9,
           "last_event_date": "2026-03-12",
+          "trend": "worsening",
+          "rank": 5
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "scores": {
+        "openai": {
+          "total_score": 10,
+          "weighted_score": 10,
+          "breakdown": {
+            "compute_chips": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "A1",
+                "A2"
+              ]
+            },
+            "cloud": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "B1",
+                "B2"
+              ]
+            },
+            "policy": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "C1",
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "D1",
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 1,
+              "weighted_score": 0.5,
+              "max": 2,
+              "items_triggered": [
+                "E1"
+              ]
+            },
+            "societal_impact": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "F1",
+                "F2"
+              ]
+            },
+            "talent_governance": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "G1",
+                "G2"
+              ]
+            }
+          },
+          "events_count": 286,
+          "last_event_date": "2026-05-29",
+          "trend": "stable",
+          "rank": 1
+        },
+        "anthropic": {
+          "total_score": 7,
+          "weighted_score": 5.5,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "B1",
+                "B2"
+              ]
+            },
+            "policy": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "E1",
+                "E2"
+              ]
+            },
+            "societal_impact": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "F1",
+                "F2"
+              ]
+            },
+            "talent_governance": {
+              "score": 2,
+              "weighted_score": 2.0,
+              "max": 2,
+              "items_triggered": [
+                "G1",
+                "G2"
+              ]
+            }
+          },
+          "events_count": 77,
+          "last_event_date": "2026-05-28",
+          "trend": "worsening",
+          "rank": 2
+        },
+        "deepmind": {
+          "total_score": 7,
+          "weighted_score": 5.8,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 2,
+              "weighted_score": 1.25,
+              "max": 2,
+              "items_triggered": [
+                "B1",
+                "B2"
+              ]
+            },
+            "policy": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "E1"
+              ]
+            },
+            "societal_impact": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "F1"
+              ]
+            },
+            "talent_governance": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "G1",
+                "G2"
+              ]
+            }
+          },
+          "events_count": 43,
+          "last_event_date": "2026-05-30",
+          "trend": "worsening",
+          "rank": 3
+        },
+        "xai": {
+          "total_score": 7,
+          "weighted_score": 5.0,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "weighted_score": 0.5,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "B1"
+              ]
+            },
+            "policy": {
+              "score": 2,
+              "weighted_score": 1.5,
+              "max": 2,
+              "items_triggered": [
+                "C1",
+                "C2"
+              ]
+            },
+            "demand": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 0,
+              "weighted_score": 0.0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "societal_impact": {
+              "score": 1,
+              "weighted_score": 0.5,
+              "max": 2,
+              "items_triggered": [
+                "F1"
+              ]
+            },
+            "talent_governance": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "G1"
+              ]
+            }
+          },
+          "events_count": 22,
+          "last_event_date": "2026-05-14",
+          "trend": "worsening",
+          "rank": 4
+        },
+        "meta": {
+          "total_score": 4,
+          "weighted_score": 2.8,
+          "breakdown": {
+            "compute_chips": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "A1"
+              ]
+            },
+            "cloud": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "B1"
+              ]
+            },
+            "policy": {
+              "score": 0,
+              "weighted_score": 0.0,
+              "max": 2,
+              "items_triggered": []
+            },
+            "demand": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "D2"
+              ]
+            },
+            "resilience": {
+              "score": 1,
+              "weighted_score": 1.0,
+              "max": 2,
+              "items_triggered": [
+                "E1"
+              ]
+            },
+            "societal_impact": {
+              "score": 1,
+              "weighted_score": 0.75,
+              "max": 2,
+              "items_triggered": [
+                "F1"
+              ]
+            },
+            "talent_governance": {
+              "score": 1,
+              "weighted_score": 0.5,
+              "max": 2,
+              "items_triggered": [
+                "G1"
+              ]
+            }
+          },
+          "events_count": 8,
+          "last_event_date": "2026-05-13",
           "trend": "worsening",
           "rank": 5
         }
