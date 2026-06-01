@@ -12304,6 +12304,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f2eaf89e",
+      "date": "2026-06-01",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "How we used Gemini to build Google I/O 2026",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
