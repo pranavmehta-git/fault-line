@@ -12436,6 +12436,56 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3df5745d",
+      "date": "2026-06-02",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI launches new Codex tools for white-collar work",
+      "source_url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-330215f3",
+      "date": "2026-06-02",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "source_url": "https://openai.com/index/travelers",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-663693b5",
+      "date": "2026-06-02",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Advancing youth safety and opportunity through global leadership",
+      "source_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
