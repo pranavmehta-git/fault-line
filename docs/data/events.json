@@ -12418,6 +12418,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-284bb61c",
+      "date": "2026-06-02",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Codex is becoming a productivity tool for everyone",
+      "source_url": "https://openai.com/index/codex-for-knowledge-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
