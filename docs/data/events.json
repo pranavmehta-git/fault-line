@@ -12360,6 +12360,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d8277db7",
+      "date": "2026-06-01",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic files to go public",
+      "source_url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4d660dbe",
+      "date": "2026-06-01",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Our views on AI policy and political advocacy",
+      "source_url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "regulation",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4fa9a76c",
+      "date": "2026-06-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI frontier models and Codex are now available on AWS",
+      "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "valuation",
+        "aws"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
