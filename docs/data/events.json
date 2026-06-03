@@ -12486,6 +12486,64 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-877f3863",
+      "date": "2026-06-03",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+      "source_url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b9546ba7",
+      "date": "2026-06-03",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "A blueprint for democratic governance of frontier AI",
+      "source_url": "https://openai.com/index/frontier-safety-blueprint",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eaf96858",
+      "date": "2026-06-03",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI public policy agenda",
+      "source_url": "https://openai.com/index/public-policy-agenda",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
