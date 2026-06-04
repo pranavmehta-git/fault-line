@@ -12544,6 +12544,25 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-791bc925",
+      "date": "2026-06-03",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "source_url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
