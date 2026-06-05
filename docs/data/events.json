@@ -12597,6 +12597,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-de44b570",
+      "date": "2026-06-04",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
+      "source_url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
