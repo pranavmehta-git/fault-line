@@ -12615,6 +12615,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9ea5e2be",
+      "date": "2026-06-08",
+      "lab": "meta",
+      "dimension": "compute_chips",
+      "summary": "Hackers likely hijacked over 20,000 Instagram accounts with Meta\u2019s AI chatbot",
+      "source_url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
