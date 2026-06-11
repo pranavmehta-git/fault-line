@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-10T20:18:17Z",
+  "last_run": "2026-06-11T02:54:32Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -18,7 +18,7 @@
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "status": "ok",
-      "articles_found": 20
+      "articles_found": 19
     },
     {
       "name": "The Verge",
@@ -60,7 +60,7 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 58
+      "articles_found": 57
     },
     {
       "name": "Google DeepMind Blog",
@@ -69,13 +69,13 @@
       "articles_found": 18
     }
   ],
-  "events_processed": 677,
+  "events_processed": 679,
   "events_added": 2,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-06-11T00:00:00Z",
+  "next_scheduled_run": "2026-06-11T06:00:00Z",
   "pipeline_version": "1.0.0"
 }
