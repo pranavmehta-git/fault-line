@@ -12776,6 +12776,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1c9f8a65",
+      "date": "2026-06-11",
+      "lab": "deepmind",
+      "dimension": "policy",
+      "summary": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "source_url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
