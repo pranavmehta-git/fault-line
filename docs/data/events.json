@@ -12795,6 +12795,74 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0b2f83de",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "source_url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-91fe1dc3",
+      "date": "2026-06-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI to acquire Ona",
+      "source_url": "https://openai.com/index/openai-to-acquire-ona",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9bbdf0cb",
+      "date": "2026-06-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "BBVA puts AI at the core of banking with OpenAI",
+      "source_url": "https://openai.com/index/bbva",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cbe0d8c2",
+      "date": "2026-06-11",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source_name": "Google DeepMind Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
