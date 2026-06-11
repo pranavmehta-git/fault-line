@@ -12758,6 +12758,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6e77a368",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "People Living Near xAI\u2019s Dirty Data Centers Are Furious About the SpaceX IPO",
+      "source_url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
