@@ -98,6 +98,7 @@ class FragilityTracker {
         this.events = (await eventsRes.json()).events;
         const scoresData = await scoresRes.json();
         this.scores = scoresData.scores;
+        this.systemic = scoresData.systemic || null;
         this.checklist = await checklistRes.json();
         this.metadata = await metadataRes.json();
 
@@ -240,6 +241,16 @@ class FragilityTracker {
         if (highestRisk) {
             const highest = this.scores.reduce((max, s) => s.total_score > max.total_score ? s : max);
             highestRisk.textContent = highest.name;
+        }
+
+        const systemicRisk = document.getElementById('systemicRisk');
+        if (systemicRisk && this.systemic) {
+            systemicRisk.textContent = this.systemic.index.toFixed(1);
+            systemicRisk.classList.add(this.getScoreClass(this.systemic.index));
+            const card = systemicRisk.closest('.summary-card');
+            if (card && this.systemic.description) {
+                card.title = this.systemic.description;
+            }
         }
     }
 

@@ -48,9 +48,11 @@
                 <p class="overview-text">
                     Fault Line provides a transparent, evidence-based assessment of structural vulnerabilities facing frontier AI laboratories.
                     Each lab receives a <strong>Fragility Score</strong> from 0–10, where higher scores indicate greater systemic fragility.
-                    Scores are derived from a checklist of binary indicators across six dimensions—compute dependence, cloud concentration,
-                    policy exposure, demand risk, talent &amp; governance, and resilience—each supported by publicly verifiable news events.
-                    A <strong>confidence-weighted</strong> variant is shown alongside, where low-confidence events carry 0.5&times; weight and medium-confidence events carry 0.75&times;.
+                    Scores accumulate continuously from publicly verifiable news events across six dimensions—compute dependence, cloud concentration,
+                    policy exposure, demand risk, societal impact, and talent &amp; governance—offset by demonstrated resilience.
+                    Each event is weighted by classification confidence, source type, and recency (90-day half-life), and corroboration across
+                    independent outlets counts more than repeat coverage by one. A separate <strong>Systemic Risk Index</strong> captures
+                    correlated, industry-wide risk: shared suppliers, simultaneous stress, and score co-movement across labs.
                 </p>
             </div>
         </section>
@@ -71,6 +73,10 @@
             <div class="summary-card highlight">
                 <div class="summary-label">HIGHEST RISK</div>
                 <div class="summary-value" id="highestRisk">—</div>
+            </div>
+            <div class="summary-card">
+                <div class="summary-label">SYSTEMIC RISK</div>
+                <div class="summary-value" id="systemicRisk">—</div>
             </div>
         </section>
 

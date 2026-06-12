@@ -4,7 +4,7 @@ A public dashboard for monitoring systemic fragility across frontier AI labs, po
 
 ## 🎯 What This Is
 
-The Fault Line converts fragmented AI industry news into a coherent monitoring dashboard. It tracks **5 frontier AI labs** across **5 fragility dimensions**, producing a **0-10 fragility score** based on publicly verifiable signals.
+The Fault Line converts fragmented AI industry news into a coherent monitoring dashboard. It tracks **5 frontier AI labs** across **7 fragility dimensions**, producing a continuous **0-10 fragility score** per lab plus a cross-lab **Systemic Risk Index** that measures correlated, industry-wide risk (shared suppliers, simultaneous stress, score co-movement). Every signal is weighted by confidence, source type, recency (90-day half-life), and independent corroboration — see [the methodology](https://pranavmehta-git.github.io/fault-line/methodology.html) and `pipeline/scoring.py`.
 
 ### Tracked Labs
 - **OpenAI** - GPT/ChatGPT
@@ -18,7 +18,9 @@ The Fault Line converts fragmented AI industry news into a coherent monitoring d
 2. **Cloud Concentration** - Hyperscaler lock-in, switching costs
 3. **Policy & Geopolitics** - Regulatory exposure, export controls
 4. **Demand & Commercialization** - Revenue signals, adoption challenges
-5. **Resilience** - Diversification efforts (reduces fragility)
+5. **Societal Impact** - Workforce displacement, misinformation, safety incidents
+6. **Talent & Governance** - Leadership instability, board dysfunction
+7. **Resilience** - Diversification efforts (reduces fragility)
 
 ## 📊 Live Dashboard
 
