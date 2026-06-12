@@ -31,6 +31,8 @@ Thumbs.db
 pipeline/*.log
 pipeline/cache/
 pipeline/raw/
+pipeline/raw_articles.json
+pipeline/ingest_report.json
 
 # Local development
 .env

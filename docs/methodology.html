@@ -44,26 +44,54 @@
                 The Fault Line provides a transparent, evidence-based assessment of structural vulnerabilities facing frontier AI laboratories. Rather than predicting outcomes, it monitors and quantifies dependencies and risk factors that could affect an organization's ability to operate, scale, or adapt.
             </p>
             <p>
-                Each lab receives a <strong>Fragility Score</strong> from 0–10, where higher scores indicate greater systemic fragility. Scores are derived from a simple checklist of binary indicators, each supported by publicly verifiable news events and sources.
+                Each lab receives a <strong>Fragility Score</strong> from 0–10, where higher scores indicate greater systemic fragility. Scores accumulate continuously from publicly verifiable news events; every claim in the score traces back to a dated, linked source.
             </p>
         </section>
 
         <section class="methodology-section">
-            <h2>Scoring Formula</h2>
-            <p>The total fragility score is calculated as:</p>
+            <h2>Scoring Formula (v3)</h2>
+            <p>
+                Earlier versions used a binary checklist: any single event inside a 180-day window permanently "lit" an indicator, and the score was the count of lit indicators. That design saturated — heavily covered labs pinned at 10/10 and could not register further deterioration — and it conflated media volume with fragility. Version 3 replaces the binary trigger with a continuous evidence model:
+            </p>
             <div class="methodology-formula">
-                Total Score = (Compute + Cloud + Policy + Demand + Societal Impact + Talent &amp; Governance) − Resilience
+                event signal = confidence weight &times; source-type weight &times; time decay
+            </div>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>Confidence:</strong> high = 1.0&times;, medium = 0.6&times;, low = 0.3&times;</li>
+                <li><strong>Source type:</strong> regulatory filings = 1.25&times;, news = 1.0&times;, self-published lab blogs = 0.5&times;</li>
+                <li><strong>Time decay:</strong> exponential with a 90-day half-life (no hard cutoff cliff); events beyond 365 days contribute nothing</li>
+            </ul>
+            <p>
+                <strong>Corroboration, not volume.</strong> For each checklist indicator, signals are grouped by publisher domain and only the strongest signal per domain counts. Ten articles from one outlet are one piece of evidence; the same story confirmed by three independent outlets is three. Total evidence <em>E</em> maps to an indicator intensity through a saturating curve:
+            </p>
+            <div class="methodology-formula">
+                intensity = E / (E + 1) &nbsp;&nbsp;∈ [0, 1)
             </div>
             <p>
-                Each dimension contributes 0–2 points of fragility, except <strong>Resilience</strong> which <em>reduces</em> the total score by demonstrating risk mitigation.
+                One fresh, high-confidence report yields intensity 0.5; three independent confirmations yield 0.75; ten yield 0.91. Additional evidence always moves the score (no frozen ceiling) but with diminishing returns (no runaway volume bias). Events whose impact direction contradicts an indicator — e.g. good-news coverage that merely mentions a risk keyword — are excluded.
             </p>
+            <p>The lab total is then:</p>
+            <div class="methodology-formula">
+                Total = 10 &times; max(0, Compute + Cloud + Policy + Demand + Societal Impact + Talent &amp; Governance − Resilience) / 12
+            </div>
             <p>
-                The final score is clamped to the range 0–10.
+                Each dimension contributes 0–2 continuous points, except <strong>Resilience</strong> which <em>reduces</em> the total. A score of 10 is an asymptote — reachable only by broad, corroborated, recent stress across every dimension with no demonstrated mitigation — never a resting state.
             </p>
+        </section>
 
-            <h3>Confidence-Weighted Variant</h3>
+        <section class="methodology-section">
+            <h2>Systemic Risk Index</h2>
             <p>
-                Alongside the binary score, Fault Line displays a <strong>confidence-weighted score</strong>. Events classified with low confidence carry <strong>0.5&times;</strong> weight; medium confidence carries <strong>0.75&times;</strong>; high confidence carries full weight. This variant helps users understand the uncertainty range — if the weighted score diverges significantly from the binary score, many indicators rest on weaker evidence.
+                Lab-level scores treat each lab as independent, but the defining property of frontier-AI risk is that it is <em>correlated</em>: the labs share suppliers, cloud platforms, regulatory environments, and capital cycles. The <strong>Systemic Risk Index</strong> (0–10) measures industry-wide, common-mode risk from four components:
+            </p>
+            <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
+                <li><strong>Average lab fragility (35%):</strong> the mean fragility score across labs — the level term.</li>
+                <li><strong>Correlated stress (30%):</strong> the share of labs simultaneously stressed on the same dimension. One lab with compute problems is idiosyncratic; four of five at once is a sector-wide failure mode.</li>
+                <li><strong>Shared dependency (20%):</strong> concentration of all labs on the same few suppliers (NVIDIA, Azure, AWS, Google Cloud/TPU), measured from supplier mentions in recent events. A single supplier shock propagates to every exposed lab at once.</li>
+                <li><strong>Score co-movement (15%):</strong> the trailing 12-month correlation of lab score histories. Labs whose fragility rises and falls together are responding to common shocks, not lab-specific ones.</li>
+            </ul>
+            <p>
+                Each component is reported separately in <code>scores.json</code> so the index is fully decomposable.
             </p>
         </section>
 
@@ -239,24 +267,14 @@
 
         <section class="methodology-section">
             <h2>Evidence Requirements</h2>
-            <p>Each checklist item must be supported by:</p>
+            <p>Every contribution to a score must be supported by:</p>
             <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
-                <li><strong>At least one verifiable news event</strong> with a source URL</li>
-                <li><strong>Date within the decay window</strong> (default: 180 days)</li>
-                <li><strong>Confidence rating</strong> (low/medium/high) based on source reliability</li>
+                <li><strong>A verifiable news event</strong> with a source URL and date</li>
+                <li><strong>A confidence rating</strong> (low/medium/high) based on classification strength and source reliability</li>
+                <li><strong>An impact direction consistent with the indicator</strong> — favorable coverage cannot add fragility</li>
             </ul>
             <p>
-                Items without recent supporting evidence automatically expire and are no longer counted in the score.
-            </p>
-        </section>
-
-        <section class="methodology-section">
-            <h2>Decay Window</h2>
-            <p>
-                Evidence expires after <strong>180 days</strong> by default unless reaffirmed by a new event. This ensures the tracker reflects current conditions rather than historical snapshots.
-            </p>
-            <p>
-                When an item is supported by multiple events, the most recent event date determines the expiration.
+                Evidence decays exponentially (90-day half-life), so indicators fade gradually unless reaffirmed by new events; nothing expires on a cliff.
             </p>
         </section>
 
@@ -300,7 +318,8 @@
             <p>This tracker has important limitations:</p>
             <ul style="margin-left: 24px; color: var(--text-secondary); line-height: 2;">
                 <li><strong>Public information only:</strong> Private deals, internal metrics, and unreported events are not captured</li>
-                <li><strong>Binary indicators:</strong> Nuance and degree are not well represented by pass/fail items</li>
+                <li><strong>Coverage asymmetry:</strong> Labs that receive less press coverage (or publish no RSS feed, like xAI) accumulate less evidence, which biases their scores downward. Corroboration weighting and per-lab coverage reporting reduce this bias but cannot eliminate it — a low score can mean low fragility <em>or</em> thin coverage</li>
+                <li><strong>Keyword classification:</strong> Events are classified by keyword matching, which misses context and severity; confidence ratings only partially compensate</li>
                 <li><strong>Lag:</strong> News may lag actual events by days or weeks</li>
                 <li><strong>Selection bias:</strong> Source selection affects what events are captured</li>
                 <li><strong>Not predictive:</strong> Fragility scores measure exposure, not likelihood of negative outcomes</li>

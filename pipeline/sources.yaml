@@ -148,6 +148,17 @@ sources:
     enabled: true
     priority: 1
 
+  # xAI publishes no RSS feed, so unlike the other labs it has no dedicated
+  # source. Without this fallback, xAI is structurally under-covered and its
+  # fragility score is biased downward (missing data, not low risk).
+  # Google News aggregation partially closes the gap; priority 2 because
+  # aggregated results are noisier than first-party feeds.
+  - name: "Google News - xAI"
+    url: "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en"
+    type: "rss"
+    enabled: true
+    priority: 2
+
 # Lab name patterns for classification
 lab_patterns:
   openai:

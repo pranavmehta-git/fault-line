@@ -24,9 +24,11 @@ jobs:
 
       - run: python pipeline/classify.py
 
-      - run: python pipeline/recalculate_scores.py
-
+      # Historical snapshots run first: recalculate_scores reads them to
+      # compute the score co-movement component of the systemic risk index.
       - run: python pipeline/compute_historical_scores.py
+
+      - run: python pipeline/recalculate_scores.py
 
       - run: python pipeline/update_metadata.py
 

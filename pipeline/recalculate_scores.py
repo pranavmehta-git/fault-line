@@ -1,262 +1,103 @@
 #!/usr/bin/env python3
 """
-Recalculate current fragility scores based on events within the 180-day decay window.
-This script reads events.json and updates scores.json to be consistent.
+Recalculate current fragility scores from events.json and write scores.json.
 
-Produces two score variants per lab:
-  - total_score: Binary checklist score (original methodology)
-  - weighted_score: Confidence-weighted variant (low=0.5x, medium=0.75x, high=1.0x)
+All scoring logic lives in scoring.py (shared with
+compute_historical_scores.py). This script only handles I/O, trend
+computation against the previous scores file, ranking, and the
+cross-lab systemic risk block. See scoring.py for the methodology.
 """
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
-from collections import defaultdict
 
-# Configuration
-DECAY_WINDOW_DAYS = 180
-LABS = ["openai", "anthropic", "deepmind", "xai", "meta"]
-DIMENSIONS = ["compute_chips", "cloud", "policy", "demand", "resilience", "societal_impact", "talent_governance"]
-
-# Confidence weights for the weighted scoring variant
-CONFIDENCE_WEIGHTS = {
-    "high": 1.0,
-    "medium": 0.75,
-    "low": 0.5,
-}
-
-# Checklist item definitions
-CHECKLIST_ITEMS = {
-    "A1": {"dimension": "compute_chips", "points": 1},
-    "A2": {"dimension": "compute_chips", "points": 1},
-    "B1": {"dimension": "cloud", "points": 1},
-    "B2": {"dimension": "cloud", "points": 1},
-    "C1": {"dimension": "policy", "points": 1},
-    "C2": {"dimension": "policy", "points": 1},
-    "D1": {"dimension": "demand", "points": 1},
-    "D2": {"dimension": "demand", "points": 1},
-    "E1": {"dimension": "resilience", "points": -1},
-    "E2": {"dimension": "resilience", "points": -1},
-    "F1": {"dimension": "societal_impact", "points": 1},
-    "F2": {"dimension": "societal_impact", "points": 1},
-    "G1": {"dimension": "talent_governance", "points": 1},
-    "G2": {"dimension": "talent_governance", "points": 1},
-}
+import scoring
 
 
-def load_events(events_path: Path) -> list[dict]:
-    """Load events from JSON file."""
-    with open(events_path, "r") as f:
-        data = json.load(f)
-    return data.get("events", [])
-
-
-def load_scores(scores_path: Path) -> dict:
-    """Load existing scores to get previous values for trend calculation."""
-    with open(scores_path, "r") as f:
+def load_json(path: Path, default=None):
+    if not path.exists():
+        return default
+    with open(path) as f:
         return json.load(f)
 
 
-def get_events_in_window(events: list[dict], reference_date: datetime, window_days: int = DECAY_WINDOW_DAYS) -> list[dict]:
-    """Filter events to only those within the decay window."""
-    cutoff_date = reference_date - timedelta(days=window_days)
-
-    in_window = []
-    for event in events:
-        try:
-            event_date = datetime.strptime(event["date"], "%Y-%m-%d")
-            if cutoff_date <= event_date <= reference_date:
-                in_window.append(event)
-        except (KeyError, ValueError):
-            continue
-
-    return in_window
-
-
-def _best_confidence_for_item(item_id: str, lab_events: list[dict]) -> str:
-    """Find the highest confidence level among events triggering a given checklist item."""
-    best = "low"
-    priority = {"low": 0, "medium": 1, "high": 2}
-    for event in lab_events:
-        if item_id in event.get("checklist_items_affected", []):
-            conf = event.get("confidence", "low")
-            if priority.get(conf, 0) > priority.get(best, 0):
-                best = conf
-    return best
-
-
-def calculate_lab_score(lab_id: str, events: list[dict]) -> dict:
-    """Calculate fragility score for a single lab based on events.
-
-    Returns both the binary total_score and the confidence-weighted weighted_score.
-    """
-    # Filter events for this lab
-    lab_events = [e for e in events if e.get("lab") == lab_id]
-
-    # Track which checklist items are triggered
-    triggered_items = set()
-
-    for event in lab_events:
-        items = event.get("checklist_items_affected", [])
-        for item in items:
-            triggered_items.add(item)
-
-    # Calculate dimension scores (binary + weighted)
-    breakdown = {}
-    for dimension in DIMENSIONS:
-        dim_items = [item_id for item_id, info in CHECKLIST_ITEMS.items()
-                     if info["dimension"] == dimension]
-
-        triggered_in_dim = [item for item in dim_items if item in triggered_items]
-
-        if dimension == "resilience":
-            score = len(triggered_in_dim)
-        else:
-            score = sum(CHECKLIST_ITEMS[item]["points"] for item in triggered_in_dim)
-
-        # Confidence-weighted score for this dimension
-        weighted = 0.0
-        for item in triggered_in_dim:
-            conf = _best_confidence_for_item(item, lab_events)
-            weight = CONFIDENCE_WEIGHTS.get(conf, 0.5)
-            if dimension == "resilience":
-                weighted += 1 * weight
-            else:
-                weighted += CHECKLIST_ITEMS[item]["points"] * weight
-
-        breakdown[dimension] = {
-            "score": score,
-            "weighted_score": round(weighted, 2),
-            "max": 2,
-            "items_triggered": triggered_in_dim
-        }
-
-    # Calculate total: (compute + cloud + policy + demand + societal_impact + talent_governance) - resilience
-    raw_total = (
-        breakdown["compute_chips"]["score"] +
-        breakdown["cloud"]["score"] +
-        breakdown["policy"]["score"] +
-        breakdown["demand"]["score"] +
-        breakdown["societal_impact"]["score"] +
-        breakdown["talent_governance"]["score"] -
-        breakdown["resilience"]["score"]
-    )
-
-    # Clamp to 0-10
-    total_score = max(0, min(10, raw_total))
-
-    # Weighted variant
-    raw_weighted = (
-        breakdown["compute_chips"]["weighted_score"] +
-        breakdown["cloud"]["weighted_score"] +
-        breakdown["policy"]["weighted_score"] +
-        breakdown["demand"]["weighted_score"] +
-        breakdown["societal_impact"]["weighted_score"] +
-        breakdown["talent_governance"]["weighted_score"] -
-        breakdown["resilience"]["weighted_score"]
-    )
-    weighted_score = round(max(0, min(10, raw_weighted)), 1)
-
-    # Get last event date
-    if lab_events:
-        dates = [e["date"] for e in lab_events]
-        last_event_date = max(dates)
-    else:
-        last_event_date = None
-
-    return {
-        "lab_id": lab_id,
-        "total_score": total_score,
-        "weighted_score": weighted_score,
-        "breakdown": breakdown,
-        "events_count": len(lab_events),
-        "last_event_date": last_event_date,
-        "triggered_items": list(triggered_items)
-    }
-
-
-def calculate_trend(current_score: int, previous_score: int) -> str:
-    """Determine trend based on score change."""
-    if current_score < previous_score:
-        return "improving"  # Lower fragility is better
-    elif current_score > previous_score:
+def calculate_trend(current: float, previous: float, threshold: float = 0.2) -> str:
+    """Lower fragility is better; small float wobble counts as stable."""
+    if current < previous - threshold:
+        return "improving"
+    if current > previous + threshold:
         return "worsening"
-    else:
-        return "stable"
+    return "stable"
 
 
 def main():
-    # Paths
     base_path = Path(__file__).parent.parent
-    events_path = base_path / "docs" / "data" / "events.json"
-    scores_path = base_path / "docs" / "data" / "scores.json"
+    data_dir = base_path / "docs" / "data"
 
-    # Load data
-    events = load_events(events_path)
-    old_scores = load_scores(scores_path)
+    events = load_json(data_dir / "events.json", {}).get("events", [])
+    checklist_items = load_json(data_dir / "checklist.json", {}).get("checklist_items", [])
+    old_scores = load_json(data_dir / "scores.json", {}) or {}
+    historical = load_json(data_dir / "historical_scores.json", {}) or {}
 
-    # Create lookup for old scores
     old_score_lookup = {s["lab_id"]: s for s in old_scores.get("scores", [])}
-
-    # Reference date (today)
     reference_date = datetime.now()
 
-    # Get events in decay window
-    active_events = get_events_in_window(events, reference_date)
-
     print(f"Reference date: {reference_date.strftime('%Y-%m-%d')}")
-    print(f"Decay window: {DECAY_WINDOW_DAYS} days")
+    print(f"Decay half-life: {scoring.HALF_LIFE_DAYS} days "
+          f"(horizon {scoring.EVENT_HORIZON_DAYS} days)")
     print(f"Total events: {len(events)}")
-    print(f"Events in window: {len(active_events)}")
     print()
 
-    # Calculate scores for each lab
     lab_scores = []
-    for lab_id in LABS:
-        score_data = calculate_lab_score(lab_id, active_events)
+    for lab_id in scoring.LABS:
+        result = scoring.score_lab(lab_id, events, reference_date, checklist_items)
 
-        # Get previous score for trend calculation
-        old_data = old_score_lookup.get(lab_id, {})
-        previous_score = old_data.get("total_score", score_data["total_score"])
-
-        score_data["trend"] = calculate_trend(score_data["total_score"], previous_score)
-
-        lab_scores.append(score_data)
+        previous = old_score_lookup.get(lab_id, {}).get("total_score", result["total_score"])
+        result["trend"] = calculate_trend(result["total_score"], previous)
+        lab_scores.append(result)
 
         print(f"{lab_id}:")
-        print(f"  Binary Score: {score_data['total_score']} (was {previous_score})")
-        print(f"  Weighted Score: {score_data['weighted_score']}")
-        print(f"  Trend: {score_data['trend']}")
-        print(f"  Triggered items: {score_data['triggered_items']}")
-        print(f"  Events in window: {score_data['events_count']}")
+        print(f"  Score: {result['total_score']} (was {previous})")
+        print(f"  Trend: {result['trend']}")
+        print(f"  Top drivers: {[d['item'] for d in result['top_drivers']]}")
+        print(f"  Events considered: {result['events_count']}")
         print()
 
-    # Sort by score (descending) for ranking
     lab_scores.sort(key=lambda x: (-x["total_score"], x["lab_id"]))
+    for rank, result in enumerate(lab_scores, 1):
+        result["rank"] = rank
 
-    # Assign ranks
-    for i, score_data in enumerate(lab_scores):
-        score_data["rank"] = i + 1
-        # Remove internal field
-        del score_data["triggered_items"]
+    systemic = scoring.compute_systemic_risk(
+        lab_scores, events, reference_date,
+        historical_snapshots=historical.get("snapshots", []),
+    )
 
-    # Build output
     output = {
         "last_updated": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "scoring_version": "2.0.0",
-        "confidence_weights": CONFIDENCE_WEIGHTS,
-        "scores": lab_scores
+        "scoring_version": "3.0.0",
+        "methodology": {
+            "half_life_days": scoring.HALF_LIFE_DAYS,
+            "event_horizon_days": scoring.EVENT_HORIZON_DAYS,
+            "saturation_evidence": scoring.SATURATION_EVIDENCE,
+            "confidence_weights": scoring.CONFIDENCE_WEIGHTS,
+            "source_type_weights": scoring.SOURCE_TYPE_WEIGHTS,
+        },
+        "systemic": systemic,
+        "scores": lab_scores,
     }
 
-    # Write updated scores
-    with open(scores_path, "w") as f:
+    with open(data_dir / "scores.json", "w") as f:
         json.dump(output, f, indent=2)
 
     print("=" * 50)
     print("Updated scores.json")
+    print(f"\nSystemic Risk Index: {systemic['index']}/10")
+    for name, component in systemic["components"].items():
+        print(f"  {name}: {component['value']}")
     print("\nFinal Rankings:")
-    for score_data in lab_scores:
-        print(f"  {score_data['rank']}. {score_data['lab_id']}: {score_data['total_score']} (weighted: {score_data['weighted_score']})")
+    for result in lab_scores:
+        print(f"  {result['rank']}. {result['lab_id']}: {result['total_score']}")
 
 
 if __name__ == "__main__":
