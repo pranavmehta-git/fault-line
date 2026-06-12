@@ -12565,6 +12565,24 @@
       "historical": false
     },
     {
+      "id": "evt-f3c15121",
+      "date": "2026-06-03",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity - WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWlDUW5RWnRCN2FJaEMySXFfeXBxUDZtMnAwc1JHaklUUUxmZUU5X2trSXdxWnFxV3RkdWxaUU5zVEJTYjVvSkh1N3VOSGdSQW4yenVHNDhZeDdtal96WkdtY0JlenR6dHJzaEJkUXk4RDV3MEYzQ1BSY3pZUlhKbkJIWHMzSFhia2MxTXl3bWpsS1h4VXFoQU5IS1B2OTlqTXo0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-b490a017",
       "date": "2026-06-04",
       "lab": "openai",
@@ -12612,6 +12630,22 @@
       "tags": [
         "revenue"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c2e15661",
+      "date": "2026-06-05",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
@@ -12688,6 +12722,24 @@
       "historical": false
     },
     {
+      "id": "evt-3a06ecaf",
+      "date": "2026-06-09",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Southaven residents sue Elon Musk\u2019s xAI alleging harm from gas turbines - Mississippi Today",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalluOHRESlZReHl4SW9uNC1lSnhPNXRiaWJVazhhZFBDcEpTTThaM1FuQlFac213S2RXQUtHOGlxaGxzVDliaXVzdDNWa0NwdlFLYmFhaUM2WUp2STV1aFJDelpGZEtJb011eTJoSlg4TkVPaVhsWDZ0aGE5cE9meDRRQ2NtelE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-b1db74b8",
       "date": "2026-06-10",
       "lab": "anthropic",
@@ -12756,6 +12808,145 @@
       "confidence": "medium",
       "tags": [],
       "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f66b7e75",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "X.AI class action alleges chatbot Grok shares user data with Google, Meta, TikTok - Class Action Lawsuits",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0ZIbk1nY2ExWXZzZ1dlUWNFanFFRzdlQ1RDRHlabzRHNjl3ZUJJWDJ3ZE11dlRvRGRwWWVsWjVQWXFBNXUzc253b3Zocng5QzBxc2ZxY3pDSkF0bHU4Qm83WU54WHVUODQxRnZpRW9VeWhhbXBZT3o3cngzOHNCejl2TG0tdjlHUGp2R3k3anoyeTFlVWxwTFc4MGtscEhyQUlNcTJISmJ0Sm1ONlpGaWUxMXhIV1lQcWZZRGxSRDNWVlNkUm8zeHo1UDNjSXdmeGN6WlNGSkg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-149792ef",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims - TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUxlVG1tT2ZVcTBpZ3VHWnB2dnBIbkZoU0V4ekhhS1dHYWFXYUtsajFmSVNCSUh5WHp3TndMMEF6VmNqQlVTaktZZ1dXYl9rOWYtWjBRMW5Oa0Ywa3FJWnlZcU44NlJnSFhMT29yU05qRzRDdm1kRjNjcXplNVBSX2dkVXJ3alZoQ0ZvOG10MHo4U0VMVUx5Z3lLZmxnY05zV0pfTVRtT0Z4SUJ2dnpkeA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-42ab6acc",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Southaven Residents Sue xAI, Alleging \u2018Near-Constant\u2019 Noise From Gas Turbines is Causing Harm - Mississippi Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR1VyOC1FU1VLUThSbmw0aDlMMVhZVlhpUlpUSVVhTXNGUDRkSUMyZFRpTnNyWnFkWXdjYTRBUFk1eDRxd0NDQ2taUzJPTHI2SG1zQWtVNF9hcE5MUnVaY0RoQlk0ZjZyWElRSmVwVU1IZE9RQmtndDlTNmVhdW0wSFZWREkyeVhKbUlReklNaTAwZll2WDcwd0tmclBaOHljLW9iYTZFWkxZdXRJcTl0RlRKMFJHcmQwckI4cWV3d2xPLWFLckNF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e15faae6",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DeSoto County residents file lawsuit against xAI, SpaceX - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXllZWZoSndWWl9aVTAyajNicExIdl84a01OVUtnQjZKZFVkZE1mLWRCLXNWM1FTTUFrd2hwNmoxcnhJNGFWaDFnbjRMNXZGc2Y0NG5jdDVzT0djaUhLa0YyMFB5R0hYUzJtcE1hWmhVWlpXbDVnbU95ZEdnQ3ZyUDRsWVh0VUhWUXgxOHZUVFRncFg0RFBVWTBNNVUwRUFCanY5TjhENFgtS2JtamYzNnlleXVuNlk3d2FhcWsyaFhlYWNfaTNjaXBPR1hGYVlueUF2Snc0NA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5553d2dc",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Class action lawsuit filed over xAI complaints in Southaven - WDAM-TV",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU040aDZKR1g0ZHJOMkdRSm9VYmNuRmJ5QUJHZXkwbXN3MWVXVXJwbm1NNzhTMTVVZDlfUXNwM3A5RHZKNUI4c0lmV0lYWl91QmlsQW9rdjhLYjNUVENkaDhmeVB6X3JPUHVoRHpkYWJtX0xobmpwd0lPUUdFMmNOZ1hrVDV5LXVoZmw2dWhIMm5Gcm8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d67881c1",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit claims xAI power plant in Southaven causing emotional distress for over 10K neighbors - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR0h6MkFqZGVTbEw0OTl6Z2dhMndIZXI1TnpjdnBHNHQ1UXZwRlowRU43cTJVRG5Uckw1WTlQSDN6dWlOV3I0OWFCTW9uZk85UDA3eDMwZTlsbl9VMUZSWW9KZWwtd0RRTk9aaTFnZ0FKcXhyTDFPb0F2QkFBTDhaR2Eyby1OanRvYTNLRWRBOXhheWRtak1XU1d2WGxUaE9ORDV4aHZSUFBDbTg4MVJuVGdoOE9QaFFxNVBReHJWdTR1SGpBenNPX1VLUUxuQ1R5VDVRM1FTbWoxcmp2RFpiQUlla0ZtdzFCS0RjTWt2UzdtSTRqcVFwdXB1TDVLMlIwMEtCNl9VZHQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8135b6ad",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "\u201cIt sounds like a jet taking off\u201d: Southaven neighbors want class action lawsuit against xAI - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV2dKb0VmZ0dxNklCVnNBMk9BYjhNOGoxMUgyWlVKbWpRdXNxMy1vSkhWWVZDNFllbFo4ajQxYm9BWVdzTUdMbEhxamlMVTBNM1I1WnhNamFqajNpN0hTSTZBbjNDX3NId1JpT2VaU3NJajl1Q2pWd3A0bkVkOS1NOVdIVlVFRTc5SmxUdWVJTGU4VmVmb0hyVjZlcjJjSTA5cUxydkxCWWU5VTljVWtTV2lKNEhpRll2MzBjbGNVTVUtSFRhdUZQVGtyQThZUXhIVlFiVTVzOFFxVFdja1p4TnVqTXRoUG9aNWFUSUV0UmM2TEctN09MRlhTSGtUOW9vcEhj?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
       "auto_classified": true,
       "historical": false
     },
@@ -12861,6 +13052,535 @@
       "confidence": "medium",
       "tags": [],
       "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b70f111b",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk\u2019s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHlYNnFQeW5OWXJqRDB2Y283UVdLRzdPMHFEUEM4SENCVWhXVUl1bFpxeHFfYzdjQV9WNWIwLWItVjZiZHhaQ0JEMWVUSmUyWkJqbEI2Y1RaYlAwajZxVWV3aFY5R2gyb2dxaDczNEZoR2ZPR0V1QXo4bFB1c2NVS0dBYUN6MUN5RWpwYURSUWlxdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b72e63d3",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Former xAI Staffer Says He Was Fired for Questioning Grok Safety - Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0hNWmpjX2lFM1pOaVExUDFUcDlleDA4SHBfZVIwM2E2NHZaNVZGbVFFVENxWF9nNldlRFhnWlB0M3pKdFJ0MGlIM1kwZ2hlbmRRQzVlMVRXZzdUc2VVNWZQaFJ1SVdRNFlHTlRsejhsTHRlTDVCS1JEX2JuWUlQM2xZaUozbjAtbEgteWV3WkFnRmJuUjM0SmFIRGRRa2ZFZWJXZmc2OGxHdnFBZklkbXVkdk5NZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-060a0bd4",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk\u2019s Grok accused of violating Canadian privacy laws on deepfakes - Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlgxOWszRmhpVjJSWW51TVV3YWxUYVpQa3BXSi1XRUg1bGYwVGNaRENQeVI3enhjYjJUWWU4QUtob1E5anJXWUhHNHpvSURnRlJpTmlRd3J6N3J1bDQ4U1Mxb201MzRTVmpHcmpHX1U0WXBZRExJNG9TMzdRVFdlRk5mYzVKRW1RdUtHTUY3Rms5MDkwSjFwcUh6MnZIRFlrSjl6UXBER1R0V045cFlJ0gG0AUFVX3lxTFBrZGxOUlc2QTJfSnhoRGpjSnloRV9ZdDlZQkNHR1Z0ajdpdS16NDBRMENYMjd1SDhKREQ1VF96UXNMb0JpSzhranhvMDUxYzBid1BhdURaeUVDRHplNlR0S0xMb25mT3ZBRnR3VkZnZ24tVmFrcmREaWl6N3RjYnJIUVVzbm5aVnZUU0xlWHVLQ0M0bTA1SUNPaHJBSkN3Y3BpVkRwTkk3RF8xemZLblRhelVDWg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8999a97f",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s X continues to violate Canadian privacy law with Grok deepfakes, watchdog finds - BetaKit",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEdaTlhKMXdNbnJYRWgxNmJSZExudzNfUTVqMXVSZ3JDbnVUUVFtTGhLNFROV0RMX1I2NWhuc3pFVi10aEZYQk1DU05nTTRXZ09MdmRSSnVremdwYmNLS3NEN3RvbWE0VnhZNUdqUU1mcFNjQ0JEcFhldXIxd0hnVUc1elBRUzdiNFJjaU5PTFRtdVdfQXhNSkQ0RExsdkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d084a97e",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok\u2019s sexualized deepfakes violate Canada\u2019s privacy law, watchdog rules - Politico",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1naGUwSmduck14TU16NU5yME5VczFTNktKd2RKTzlLTURpYW5rVEF0QTA3U1ZiTkVIMk0tcWpJckhwWVFzU3c4QnVTSkphemhJcURybENrekxFVnM3cDIxS2E0dmpuQWRkY2RyVUtmNkgyWXh4eTRkRUJUNUc0dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-999e5b21",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women - WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3B2YThjTnlsT2ZIWlJ6dHVGWFFvNERtdnRkb1pqUW91c180aDdpVXpYNld4TDVhRjczZjNPSG00YWNWWU1mSjBSLVdpcGVYUUN0WEVDUUpWS2ZDeDg4ZGtFTnJVeV8tY01CclYtWmYtQVRHQ1NCdWpqZk9lOUU3UzdxU0Y0Rlp3clIyQ21PRUM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a8f7887e",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "OPC finds Grok chatbot and deepfakes violated Canada's privacy law - IAPP",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXdKcGJfdG9senZfVmV2SGh5bS1jSUVRc3Z3dUNVb09qMmxYRUE3elpOanUxVVRaQUtzSkxWd2J6dzhpeHlSdmJiNXQzSjcxN3lOdmM3aWk2eUZuOUc5S1dMTVYySktLSlctNXE5VUx2bVpycnNFeFBhWE5xcHpWX183eVFPeG9qbzRyZ2JCMEpheVJ0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eea4a72a",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok's AI image generation tool violated Canadian privacy law, watchdog says - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHdHSDJtNEpTMFFyUDJMSzc4Q3NudjNXQmFvSFBFZ01rRW5JaGQteEEwdWVya3ozdU9XS2VENjJIWUVHUGItVHNpTFBsenhKN1lUckp6d2JaVG1FUDNsNU5nRDNPVjdtNDJkdGg0aVQ4bEJUT0QzM1JoZkhESVJ4Z3NndmpKNHh3TmM4T3IxYXdSdnNKSl9BeVBjaDRYZURXR25STmdaeFBfTmt5eWMyZUFrVTBxZkhIeEsxaTJxNnJzTUZDOWV5S1d4alV1Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-51a66aa5",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Shelby County board meets on aquifer protection after xAI land purchase - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTdkR09fQVdVZWlnYnNrMW5jNEhOMGpEZVFjRTE3eUh1bXhSV1JaMjV5OXg4TGEtaFRLemdpbXNMRm5WSkRteU9RRlB0WDd5a1ItODNHOUdWb2xjeFlLS2cxT3FCWUo2NjZVSXdfYVMzY0xjTXlicnZ4d3VlblY4cFY0SENyZ05rOUFvNGU5WW9Vdm81ckZJM2RJR0VKY1NDbGZJRmxBVkJzbGdn0gHAAUFVX3lxTE9hS3Fnd0VGamo4d2RLb0dvMGpDWHp2Yk1taHlWUXlWbld4LWxqSkZOM1hFUVhTRFRoTTBDUEw0Q2h0a3Jpb3p6NXZXTG02Y0lyQmk2Y2RwVmhiUFQyUFpoanNpZzFhZ2kyMU1vQTg0X3NnZTFJUHV4RWlIV3BiV3JRcXI2SzN0ZTJyTlFVdzR3OGlFdUt3TTZoeVpaYW1pa0FWaWcwbUpuRWIyQ2dPRElyQUZtVDEySkZ2NUFENkdBTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2410994d",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok's sexual deepfakes violated Canadian privacy law, says privacy commissioner - CBC",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjNfcjI4ZkNPX1BoY3YwTEVSalNHc1VMZTFwVmRmcnVYTlB4T1hWQnFudEhHSkhVMXF2dVFJWEdZY1dIVmo2MUdWUHNic0hCOHMzSFItOHZSOWw2S1BGaVdYZERlYmJBV25HanhlT3BPUy1kRjNDZDZLUUJzM3ZsLWJRMVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-44256bf1",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Whistleblower Sues xAI, SpaceX Ahead of Historic IPO Debut - Law.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3l6OVMtVF8tM2ZUV2RMNXJ3RnlXbllTSjlzYkZnTldtSFpYb0IwLXR0X0hwc3NzV2FkV3g1MTVyQUE4NDUycU1NWGR1bmE2aUplZGcxVmlXaTNYcE1FTWpsMTJURE9PV2hUU2EwZm9HUW51X2ZoaUs4M3JISlJXWThOYlJDdC1LTmJncEhIa056UnBlMWIxbGFVVU44T1pHTzBZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-816f1082",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Former xAI engineer alleges he was fired after raising Grok safety concerns - The American Bazaar",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDJ0WW1iQ1dGU1Z3THgtU2J4SGNoSDdEQ3JXX0RVTDhsZGZqdmNUdWhJV25IbmtoNV9PS3lqTlZtNWtDZ3JPVUdSTF9NekhNNGNkVXo1WTlkVDlwclRUZ1F3d3c1aHpVUzU3T3Q5UDZWQU52ZXc1Q1lvemE0OUFtZ0h3T1hrY0lRQVhrcHhCZVhWTFJrVDVHWGoyNTN3RVdoRnR3UG05ZndhRGNacFhOV3RWSGhTcTlqVWdhS2FUOFlWU2kzenc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fc71f907",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok AI broke Canada\u2019s laws, created 6K sexual deepfakes per hour: probe - Global News",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxa1ROeGszRGdkTXc0dUY1eFp2ajFuTDF3OG5lTTg2VzdLRkFoRkppTURDVjNiV0pQenQyemZqTVVNVlFLSWc4OWg3dzJRYmZIU2JDNjFpREJienV0VjhCbmh0UDdsZ1F6WC1wM0llTXhEZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c2cc6977",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "57 turbines at xAI Southaven site, lawsuit cites emissions concerns - The Commercial Appeal",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHhBaW9DWkNJSEtLOS1KemZfNjdPbnU3OHpqTmNOMlBNRURGcDdCdjdUSFp6bzhrM3NtcVZWM2NDYzdrSk5wWW1vZDgyRXZOV3JodnllZ3E0V1luQl9aTjVzb05qRk1zUTJPbWpKb0FvbFB3bnZ2WUQ2ZnhzTDBkU2ZkTjdqTGRGOExiQXFKZ0Z1Vm5XaldjdDZncGFLVnBhWWN2SDhJU0FfRmViRHZqNG82N3AzSkpvckQ3LXRDS25TejFIdk5CbXYzdjNRaTVtNWc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9ca4a8d5",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns - Decrypt",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSl83SWpPWVluSEd1TW5FMm9KQVVMakhkRjVxSXJfWjJEM2lqd1BTRHZ4UVFZZU5zNVpwU0tXVnpNZTMtem4xZ1A4djhqdmtwNWk0dl9tSEp0cmlkdmJiSFpnY0xyMWpOMF9aOHZpaEN1eHlxYWhva0dyYjZ5YXZlcDJ2YUhSMEdPRTJiVlVtSDFtUkNxV0s2X9IBoAFBVV95cUxPOXJXYXRMOWlEYVBEVjdwNFNDbllyaTdMdXM3UG9RdW5vVFlZbUFfdFFYZ3BmMzJXMjRSeGpYZFMzYjNib05RWjl4RVNWc0wxTmpkR3UwQkxtMzFwZms2X05WcEgtRjBrck5OWnRKTUhVN1pDLWQ0UUJhRlp2YTFlTVJOblRUUXQtQldfQ2ZtZDJjYUpfM1VoSkR0MUNwcE43?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6fdf440f",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit Targets Continuous \u201cSquealing,\u201d \u201cRoaring\u201d from xAI\u2019s Southaven Center - Memphis Flyer",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2p2WFp2U0lXSWJVOXhlZVVxb3I1LUhHY0dyOWRpN0tCSjBUbjRpelp3SzlXejhpYm1nZlp0UEF6UmI3Ykx1QjhQNGJTanlqaEpyQ0dOODVpZ0tNczNRenlfN1ljR2VsQU04UU85YnV6MDJMM2J6eEI2SFdCZzRISzJXanFoTTl1cHBhSWtaeXJWVVhXU21JV21nLWp3bnBSMmI0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d07cf17c",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Canada says xAI\u2019s Grok broke privacy law over Deepfake images - The American Bazaar",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUNPU1plRXUtb09RTXhXN01xUTRsMFhxMGJnazdiVGw1dzBkNDFfUG1iNnB6cXp6ZlA4QzBndmtGOVcwcUJvZ1UxTU1WOV9Gd3FRQkdDNnl5Qzg1ZENpRUR3LUFlUThxOXZ2aV90MHVvM1A1cUUtRGVHd2R2amhtQkp0Q3A1QlJHNGJ0MzJ4bE5LTzZ1VVNKRzJBX1h1Yk82SjFkdWs1VFVEVDcxVEtnV293?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e7767197",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Watch Gopuff Chose xAI For Cost and Quality, Says Co-CEO - Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFlTd3M4bGc4Y3lRMzVlNFV6TENia3JvTGh2VzhZZ1QwRlJHMk1hVkVEQ1I1NzJ5c2RuWHprenpGcXJsVlhiOXUyUGh6dU5HNkRsQTVMMjlsMk9hNDNRRzQzYU9WTGdfUFdfUHVzZEF0ak9yM1JRaU5LbHltMGxONHR2YUJnYjJOb0hXN1FOYlNDQ3BqOWMxMUJmVEJoVHh6WHJHcUlEZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-952cebdd",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Southaven residents sue Musk\u2019s xAI alleging harm from gas turbines - Northeast Mississippi Daily Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2EtbUZkeGJUalZwUThsay02WXBUSHFLczRpTUp2cHlYT3BGeUlxVjJyOE85TWFyVEVpMGE1VXN1cU9oOWxmSjZZaWotWkxiVzZXNXlIZVV4dEhGd1BHLWVYbmFZMG1nc2F0MHNOOU9XdGxGdnBVX2JEQWwwQl91d0NKRGdMUElZbG9yU2FCTkZ3SjlfelFXSE9DSXZMcEFvZ1RPS1I3YnFfLWNtcDJ2TEUtRmV4UjQ2VGJndGRocEk3X1ZCTThyTGk3dlRpRWhkcWltaVFDYy0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a5e222a2",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Privacy Commissioner Finds Grok Imagine Launched Without PIA - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmlNY0xIRXRyZkI4a1BVSkVVRTIzWnZNbmRVeFlqMjlZd0luTi1SUi1pemZSV2dOME5HSmd0bkVEVWFHWDMyVmtuajJKSnR6Y3FOdGZxZkd3T0RkaWF1RDRiSENESm95Rk4xTE1yMHhxQW80YkplVHNTQWtJNjVrRXFoM1hSbFYyU19GNTRjVzRDY3dhSVU0QW01NHZCb1cxM0ZSSg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-63858fce",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok faces ongoing privacy scrutiny in Canada following findings of violation - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1YwSkxxUFVuVDR2QWdkbDRCbHFhMnpBYW1lMmNCNUo1THgyZm9MMFZLZnEwT3ZnLXllTWRIU1RqcWt3NHRKaHJ2LWFESWh5R0NMZ1k2cFEzc05KU0k4ZWxKRmdRS1ZPeDc0Z1JSOXNCVnQzSjRQN3lOUl9kRnRfSDB4QkNyQ2RuMkhqa1BFdWcxV1lhWjBwblpYejZFWTNfd0ExMm1uU0NQMlpLQ2gzaWI3VXRMdmg4RzA2NtIBWkFVX3lxTE1Bb2lKV2tUUTdacjE1VHhRdzdHMWFnZ0ZsanliZGRDbFA4bmZhRUgxdUhRaUQxcWZtT2lvS01rOWxMWU1Kb3dxT2hBdGMtcDA5SzctelYxSVRmUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-50377155",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok AI lacks safeguards against harmful deepfake generation, says watchdog - AnewZ",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTXQ4R2hTdEp0NlZ4akNET0diWEZNT3hPR0xWNExmQmFUdkhBMUZaSDNNb05ubUVjQUdtRVpQNlk2N0NiMTFXdDYzQmx5Q2w4WHp4UnRjTk1BUDJoRWk5WlRmQ2w5alVaOWY0TUJpd1NzUDJFYUhIOEMwcWc0ejV1Z0Mwa25MOVkzVjlMckF6bng1MHB3UV9lM1V3VTFtWnZBZFRr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fdb03943",
+      "date": "2026-06-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "source_url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4f644d29",
+      "date": "2026-06-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "It\u2019s hot IPO summer, and the MANGOS are ripe",
+      "source_url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eccdff28",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Former xAI Engineer Sues Elon Musk\u2019s Companies Over AI Safety Whistleblower Dismissal - AI Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3FuVm5iSHdDcmE1OUFTSkstODVsOGljdjJfVjVIRVdjb2ZqdHFKTEJ3Sy1RR0JOT3VfTmEzZEp5WFU5dEdWZ0N3cmtGbnk5RkJzTEV3RGFkYkdrODYtM0luSDM3NFBzZzZoVlJDREQ0bU91MU9OUjhobDJLajUwNDdTU1g5V0xKb1RjNTZtamdtb0ZLMFVYYkJ4OTAwVGs0cV9qakhuNkpVT1dKY0hYRjZKTnVFUTF4VXN1RF9VUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ffc83028",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Former xAI engineer sues company over AI safety concerns, claims he was laid off for speaking up - Firstpost",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd3ExYWhlN09VSzdGcm80SndkbTdydVFXU0FIVkVTRXB5dkVGMmRlUGRicWhQZ0pkUkZKQ3M4TDRZaDg3WHFDSS1zQy1wby1ScjNnSEcxR09XMkRiZzZ6ZW1FSVprWmZuRHdFRDFHZ21ZNzcwcHlTaVRWb1lUcm8ya1c5ejJ2OFRhcUY3UDhhVk9MR1ZvTG95T0xSM3JRRGY2cFJtZUdRYWQzX1VrSjdQVUgxQ0JQTFRiTldiWEZSSEo3YjEzOE5VN0JYQ1JGeDNjM0FVLWxLc9IB3AFBVV95cUxPOFZLVThSd3NPWUV2UXFHT3VkMWhWdzhoclY2cWRMdEQ4LXp1YWZUODJDZFhzZzRUNXA0NGlsTkZJb1NrWUJhY2l4eTBwczRoXzVfRUlZVUduR1V3VFpQbWgyc2wyWFFaT1NtMlp0ZGthR05OV1VuS1VRc2Fyek12ZEtYOGdTMFl4aG5KY005RnlOUW9JUk9kT3FyT05hTGV4WnAzY1hXYkJGb2NSS0E4UXpsTDBQMkw3aFQ1QUpDNmw0cTJGdTZCYXd5WFdtTktPNTlqNWdlTWp1aTBC?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-641d2b81",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Canada just found Elon Musk's Grok guilty of violating privacy laws over sexualised deepfake images - Billionaires.Africa",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVy1YUmJGUU13Tnc0VDUydjNKOHFaS0dwYmpEYm1ZeE5QeVJKX3V4b1h6YVFsNFY3ZkllSVpHVlNtcjhyekhOdHNYRWJ5RnRSQWxtUlFnZU03NmNiRTlkeDhjV3Nia284SlJBNHB4V0U4QllpV213eUtfTGd0dXdrV2x6UEltVjJ0VW50Qlp6X2luTVg1SjdGbU44bUZaQU9GenptYWRMQmZzUzVNd2FlVlNkSlp3SUozTjVMTHdzcWdIdXVBRXNKVTJUWGJ0U3ctXzRweVh2d29uZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-afdce1bd",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Fired Engineer Who Raised Grok Safety Concerns, Lawsuit Claims - eWeek",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tMnptZlNWVlA4MWhoNW5uVU1PaFp4SGxVNFJEV0RKUXVlQUczSzNTd3FNS0cwbkNoaHY5b2pxSldiampPOWVUZi1tRkotcVp0d1NMSVVHSDB4clRIZWhUd01lQXBvNjhnOTRuT1JtNERyZjJD?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
       "auto_classified": true,
       "historical": false
     }

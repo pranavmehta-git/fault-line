@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:25:18Z",
+  "last_updated": "2026-06-12T19:59:05Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,15 +17,15 @@
     }
   },
   "systemic": {
-    "index": 4.6,
+    "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.258,
+        "value": 0.278,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.267,
+        "value": 0.333,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -55,17 +55,19 @@
           },
           "societal_impact": {
             "stressed_labs": [
-              "openai"
+              "openai",
+              "xai"
             ],
-            "breadth": 0.2
+            "breadth": 0.4
           },
           "talent_governance": {
             "stressed_labs": [
               "anthropic",
               "deepmind",
-              "openai"
+              "openai",
+              "xai"
             ],
-            "breadth": 0.6
+            "breadth": 0.8
           }
         }
       },
@@ -139,7 +141,7 @@
       "total_score": 5.3,
       "breakdown": {
         "compute_chips": {
-          "score": 0.83,
+          "score": 0.86,
           "max": 2,
           "items_triggered": [
             "A1",
@@ -147,8 +149,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.601,
-              "evidence": 1.505,
+              "intensity": 0.631,
+              "evidence": 1.712,
               "corroborating_sources": 6
             },
             "A2": {
@@ -278,8 +280,8 @@
           }
         }
       },
-      "events_count": 369,
-      "last_event_date": "2026-06-11",
+      "events_count": 371,
+      "last_event_date": "2026-06-12",
       "top_drivers": [
         {
           "item": "B1",
@@ -470,6 +472,169 @@
       "rank": 2
     },
     {
+      "lab_id": "xai",
+      "total_score": 2.6,
+      "breakdown": {
+        "compute_chips": {
+          "score": 0.27,
+          "max": 2,
+          "items_triggered": [
+            "A1"
+          ],
+          "items": {
+            "A1": {
+              "intensity": 0.266,
+              "evidence": 0.362,
+              "corroborating_sources": 2
+            },
+            "A2": {
+              "intensity": 0.0,
+              "evidence": 0.0,
+              "corroborating_sources": 0
+            }
+          }
+        },
+        "cloud": {
+          "score": 0.57,
+          "max": 2,
+          "items_triggered": [
+            "B1"
+          ],
+          "items": {
+            "B1": {
+              "intensity": 0.57,
+              "evidence": 1.323,
+              "corroborating_sources": 4
+            },
+            "B2": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            }
+          }
+        },
+        "policy": {
+          "score": 0.39,
+          "max": 2,
+          "items_triggered": [
+            "C2"
+          ],
+          "items": {
+            "C1": {
+              "intensity": 0.099,
+              "evidence": 0.11,
+              "corroborating_sources": 1
+            },
+            "C2": {
+              "intensity": 0.29,
+              "evidence": 0.409,
+              "corroborating_sources": 3
+            }
+          }
+        },
+        "demand": {
+          "score": 0.11,
+          "max": 2,
+          "items_triggered": [
+            "D2"
+          ],
+          "items": {
+            "D1": {
+              "intensity": 0.0,
+              "evidence": 0.0,
+              "corroborating_sources": 0
+            },
+            "D2": {
+              "intensity": 0.106,
+              "evidence": 0.118,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "societal_impact": {
+          "score": 0.9,
+          "max": 2,
+          "items_triggered": [
+            "F1",
+            "F2"
+          ],
+          "items": {
+            "F1": {
+              "intensity": 0.524,
+              "evidence": 1.099,
+              "corroborating_sources": 3
+            },
+            "F2": {
+              "intensity": 0.373,
+              "evidence": 0.595,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "talent_governance": {
+          "score": 0.89,
+          "max": 2,
+          "items_triggered": [
+            "G1",
+            "G2"
+          ],
+          "items": {
+            "G1": {
+              "intensity": 0.518,
+              "evidence": 1.075,
+              "corroborating_sources": 2
+            },
+            "G2": {
+              "intensity": 0.373,
+              "evidence": 0.595,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "resilience": {
+          "score": 0.0,
+          "max": 2,
+          "items_triggered": [],
+          "items": {
+            "E1": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            },
+            "E2": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            }
+          }
+        }
+      },
+      "events_count": 93,
+      "last_event_date": "2026-06-12",
+      "top_drivers": [
+        {
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.57,
+          "corroborating_sources": 4
+        },
+        {
+          "item": "F1",
+          "dimension": "societal_impact",
+          "intensity": 0.524,
+          "corroborating_sources": 3
+        },
+        {
+          "item": "G1",
+          "dimension": "talent_governance",
+          "intensity": 0.518,
+          "corroborating_sources": 2
+        }
+      ],
+      "trend": "worsening",
+      "rank": 3
+    },
+    {
       "lab_id": "deepmind",
       "total_score": 2.1,
       "breakdown": {
@@ -628,167 +793,6 @@
           "dimension": "demand",
           "intensity": 0.481,
           "corroborating_sources": 2
-        }
-      ],
-      "trend": "stable",
-      "rank": 3
-    },
-    {
-      "lab_id": "xai",
-      "total_score": 1.6,
-      "breakdown": {
-        "compute_chips": {
-          "score": 0.27,
-          "max": 2,
-          "items_triggered": [
-            "A1"
-          ],
-          "items": {
-            "A1": {
-              "intensity": 0.266,
-              "evidence": 0.362,
-              "corroborating_sources": 2
-            },
-            "A2": {
-              "intensity": 0.0,
-              "evidence": 0.0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "cloud": {
-          "score": 0.51,
-          "max": 2,
-          "items_triggered": [
-            "B1"
-          ],
-          "items": {
-            "B1": {
-              "intensity": 0.506,
-              "evidence": 1.023,
-              "corroborating_sources": 3
-            },
-            "B2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "policy": {
-          "score": 0.39,
-          "max": 2,
-          "items_triggered": [
-            "C2"
-          ],
-          "items": {
-            "C1": {
-              "intensity": 0.099,
-              "evidence": 0.11,
-              "corroborating_sources": 1
-            },
-            "C2": {
-              "intensity": 0.29,
-              "evidence": 0.409,
-              "corroborating_sources": 3
-            }
-          }
-        },
-        "demand": {
-          "score": 0.11,
-          "max": 2,
-          "items_triggered": [
-            "D2"
-          ],
-          "items": {
-            "D1": {
-              "intensity": 0.0,
-              "evidence": 0.0,
-              "corroborating_sources": 0
-            },
-            "D2": {
-              "intensity": 0.106,
-              "evidence": 0.118,
-              "corroborating_sources": 1
-            }
-          }
-        },
-        "societal_impact": {
-          "score": 0.33,
-          "max": 2,
-          "items_triggered": [
-            "F1"
-          ],
-          "items": {
-            "F1": {
-              "intensity": 0.333,
-              "evidence": 0.499,
-              "corroborating_sources": 2
-            },
-            "F2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "talent_governance": {
-          "score": 0.32,
-          "max": 2,
-          "items_triggered": [
-            "G1"
-          ],
-          "items": {
-            "G1": {
-              "intensity": 0.324,
-              "evidence": 0.48,
-              "corroborating_sources": 1
-            },
-            "G2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "resilience": {
-          "score": 0.0,
-          "max": 2,
-          "items_triggered": [],
-          "items": {
-            "E1": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            },
-            "E2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        }
-      },
-      "events_count": 57,
-      "last_event_date": "2026-06-11",
-      "top_drivers": [
-        {
-          "item": "B1",
-          "dimension": "cloud",
-          "intensity": 0.506,
-          "corroborating_sources": 3
-        },
-        {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.333,
-          "corroborating_sources": 2
-        },
-        {
-          "item": "G1",
-          "dimension": "talent_governance",
-          "intensity": 0.324,
-          "corroborating_sources": 1
         }
       ],
       "trend": "stable",
