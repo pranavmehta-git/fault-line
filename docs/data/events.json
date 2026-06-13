@@ -12951,6 +12951,26 @@
       "historical": false
     },
     {
+      "id": "evt-8482474d",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Residents file class action lawsuit against xAI over noise - DeSoto Times-Tribune",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZHZnRGt3TE4tLWwzMHhkMldxV0tPOUZ2dkx3R0dqRE8zdWZXMUxGbHN6WXBtWnhaSXRwOXliR0R0U2FQa05CQmpxM3VFeFZ3WWxWNTFVN0p6YUk2QjdRaGtieVZGWWJIbS1pMVM5QXhBUkFHeUV2a1lQT1BTeUZfQ0JRNTQ4dmU5ckx1bmdJSHFaTjNwekU0N19aeVZHa3VKRjdJeTBTYW5OdU5xUU1Yb0VpX0F4azIteWJfcTNDdjdMWlY5LWFOVGNVMS1qQnBqVC1fbzFoWC0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-6e77a368",
       "date": "2026-06-11",
       "lab": "xai",
@@ -13466,6 +13486,42 @@
       "historical": false
     },
     {
+      "id": "evt-b2b91a78",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Whistleblower Sues xAI Over Grok Safety Concerns - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0Y2RkY4LTNDa2pJZU1UZnFpMnUyMFVzZGJTSFdhajNhbzZ1WmYwdkV4M3hXak5iajNxT2tZSEo1NUlzdE9XSHlfbWFuNDktQXFMTmZhUTlRajdjTGI4aElCZ1FYNEhfSEpaMjVHd3hReWpTN05tQ2ZwdjNvVGRRRmVRZ2VoVWpzUnc2dC1JUGkyR3E5?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d8271500",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Ex-xAI Engineer Sues Over Grok Safety Firing - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlhCLW00ZnptQTRoMDZzSUp6U0VDdUo3TktxOFNsSXpzRUpwUHhBLXRCa2NraEl6MVFScjRWWS1Kd1JEeGtFMnFCc0VtaG9hRGRtcW9DLUFXb2pNaWdnTmtnbkR2Vi05NUpRaHhQRi1LQnNkWHU5NlZxUDhzX3lPdUJENkVBbG94TW1nWS1LVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
@@ -13578,6 +13634,44 @@
       "confidence": "low",
       "tags": [
         "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8804e9c9",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "NAACP files new motion in lawsuit against Mississippi xAI center - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUDJ4Q25uY2V0bVRraWkxRWl2SWY1NkpES3lWWmYzN1ltTUJmdml6MHVZb1VKZTJ6Y3ZOZWhZYkVMUmZCczJFS3VFb25XVklCRktyd0hKeWJpWmRZcjN4WGs5YTdILTNtNTZZMHRjZFlCdkdOLXJBSGctd3hKQl9wN1NXR19KUjA1bkg4LUJwZDZMOWJoWWF6OUJ4UnZKbVFvRjlDYndnSWJaazd1cHQ0cG9rT2JHRkJwOGxUWldLX1NDZllvNXQ2clNjYklDUnRGNmlrY2o2RXpzS1dwcjBhMVlGWFNOVUxvQS1jd1I2MEJFMUQ3cVhOZg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eeb200c2",
+      "date": "2026-06-13",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "source_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
         "safety"
       ],
       "source_type": "news",
