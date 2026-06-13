@@ -13543,6 +13543,24 @@
       "historical": false
     },
     {
+      "id": "evt-88a51e51",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "'AI will kill us all anyway': Days before SpaceX IPO, former xAI engineer says he was fired after warning - The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNOHFqQktveUxOSnBUUU9adDQ4dVJBdFRFWjZ6ZEJxcnBUcUY1VzVwSkI4ekdJS3d3ZVhYUkNSTEhJNlNVZ2FQOVNIRGgwLVhseHRmX3loNy1lWHJSb3F4c0xaeWl1QU1Gc3lOY3V5UXpGSkFodjd5TGZ2UnVBZDhNRGxnbVg4MEFRaXBmTTd4RkwzYk5jWWwxWDdjUHVUZHQ5TWs0b01wWHZHQkZXODBaZmxOckwyMmhDRmVVTkpXbnNtc0xiSW9sTmRuVG9EZXcwXzljTFB6b2NiRnkzYS1Ud29GeWxMYjdtRnUzblpxb3VET3B5OHRhX0g2ZkYyMEh0UDZqZlVSREVSNTFLbU01OHpVSHlNTUpZdE1WSklqcjVZc19BY05mXzZYcE9KU1N1c0g40gG4AkFVX3lxTE5Ud0pxaDlZNG5RZkJEV1prWG9IWnlFSlJwNUJGWS16djh3ZUFUc2l5RVlnU1FrdmRXYUhfTzM3N09Ba0g2NFNuWnVFUGZNMFJPenl6ckZWOTYyXzVXZThzQ0ZFUFNDbS1pZExnd0czWFhjUUdCMjRNcjRYWV9CMi1Lc2tzajF1ajMwZUFnUXpyVTZfYW1fdllibGZCejR6Q0tLd3RONUpTQWlPRHlKTHFnNlBhcTIxQTBiSHU0SkVxY2hMa3RRdlJvWXdMaGp6T1dpNVRaS01RV0RXTUhmYnpDY1hGMV9hVVRHczdydnZqV1lGNks5VzJEZTlROWczeWJDaVUzRGEtQjREQ1FMaGpzeGxuZ25qZXlsZldfVjBUOEJpdU84NXBwTmRHc2ZzOWlWY0JNdFpSLQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
@@ -13758,6 +13776,38 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMHFZLTN5RjNlN2F3dUl4TnUzWXl1TDJUZFhHdlU0NXhhX3dwOVgwUE9ZR25QdF83dnJieVppcFR4WWNRd0hLN3FFR0dwVTlVVEFmOEt1YVZuTE5uM1g5RkstR1RvN2dlT2MwYlVINTJWbDdEVU00QnZTVkpyU0d1M205bktTLU01UC03NjRtZUJkamtZZ1lWN1liR2dxLUwxempSSVUtSXZpNmF3VnMyMGFpbE14OXNTaUVOdFNQXzY0RzQzYVg4SnFsWWw0UzFUZkgtUHpxS2NwcmExLURMY2NWQVhyZU9DUXQ4?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b568ffb3",
+      "date": "2026-06-13",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "My yard is dying, so I made an app for that",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3deefc7e",
+      "date": "2026-06-13",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source_name": "The Verge",
+      "impact": 1,
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
