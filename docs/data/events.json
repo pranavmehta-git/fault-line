@@ -13814,6 +13814,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c65ab581",
+      "date": "2026-06-13",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "source_url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-06871c94",
+      "date": "2026-06-13",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "xAI Whistleblower Lawsuit Claims Engineer Was Fired for Raising Grok Safety Alarms - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlR3VXd2WXQ1a0Q2Vy1EVmltN2ZSUUNJem12RS1YRXR1RU9TQWdPVVNBSTJxNlZxVXJfb1drODl5YkZySVVaZDcyek8zVjZBTnMwM0k0bDRpeXlTY0Q4UDJxR21iTFJ2Y0Q4OXRmSjdyUkxsaGhsXy1mWjBhRjVGRS11MnJCck9iSi03VVJGR0EtbHREdWJhLXZ5YmFwVWthYTBsTEQzZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
