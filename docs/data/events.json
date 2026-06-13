@@ -13522,6 +13522,27 @@
       "historical": false
     },
     {
+      "id": "evt-85281e40",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3NoSlN6WWdJdy1xWWdMWWFvMDNaWnVJcEwwRjFBcHh5eWpUbk5vRlpiTHU0Y3RCdlhXcW9Balo5NVY2aFY5Wmg2alBpdTA3YmdCU20xQUFtcTc3LVlXVVBrVmNUTHFsT3JpTjlBMHk2bkVvWkN1QmxyWGY4cEx5OF90MlItV3R5cERVUHFkcFJzS0QycGZF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
@@ -13661,6 +13682,22 @@
       "historical": false
     },
     {
+      "id": "evt-bbdda01d",
+      "date": "2026-06-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Labour MP Jess Asato launches legal action over Grok deepfakes - Computer Weekly",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekdwaEkzNk1tU1NqWUYzOTc0LWh4VElCckdxX3pBbUdrZUpkUjFXVURZdUEycE9KTDFVWl9zOS1Pb2pJZjd1ak9BQzFrVEdzcW9DczF6aXJhQ25IdFVGcVRZQnJmckNTLWdUaDBUXzZWWE1NVnI1MkpqSGZONkstdEhDak0yRjQtRC1UTWplWURCQW5FbnFudkttLUloMDhTTWNBQWJ0dXNuNThU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-eeb200c2",
       "date": "2026-06-13",
       "lab": "anthropic",
@@ -13674,6 +13711,56 @@
       "tags": [
         "safety"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ddfef724",
+      "date": "2026-06-13",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Canada privacy watchdog says Grok generates explicit deepfakes without users valid consent - Jurist.org",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS05zUFVuaFBQWWJpUHBiM3FWN1dRTF9IUmoteWdteEZOZmJyR2RCeXUxM2lvVUpsX3FzT0E3QldLOFRSdklhZTYxdU1oRXBXTjFQOXQyMC01QXRfeGROMHZ3S2c0SHdRdmUtLURCR2JYU3VRQ3psSnhvTU5zTG4zUEw2aEFGTTFGVkNOMW5WY19pVUwzSzFVYzV2VUhWOVZaZ2VtcjhPSFdhVVdhdHlfTjRVdmg0UFd5enpjSUxQQmtFTGFCa2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-44fc80a4",
+      "date": "2026-06-13",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI now has 46 gas turbines without air permits. State officials are \u2018evaluating the situation\u2019 - The Enterprise Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMGpBVUxWeTBObENIUkx1TEVWU1lCM3k5MmEtUDhWdjJRcVdhdlo1dEJnLXMtWnphcnRsb1hGVk5tTmJtREpnWGV5bllySGFQQW0yTl9xeWt2OVdrVnFwZWItcU9mczROTHFhOEVtb2ZFZ1Z0YkNFdkZUOU5NM2dJQ1JaQ1l2bjFGUXkwYnpRVmhJMklObGZHS2pPczFPbjNOaG0yeGFXSlJxenc4cTZ0clp3aFdNcHpLY0gwNmduaTFJZWoxdkdxeTFWOF9DdFJPM2xr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-689f80e4",
+      "date": "2026-06-13",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "This GOP Congresswoman's Family Bought xAI Shares\u2014 Now They Could Be Sitting On A Six-Figure SpaceX Gain - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMHFZLTN5RjNlN2F3dUl4TnUzWXl1TDJUZFhHdlU0NXhhX3dwOVgwUE9ZR25QdF83dnJieVppcFR4WWNRd0hLN3FFR0dwVTlVVEFmOEt1YVZuTE5uM1g5RkstR1RvN2dlT2MwYlVINTJWbDdEVU00QnZTVkpyU0d1M205bktTLU01UC03NjRtZUJkamtZZ1lWN1liR2dxLUwxempSSVUtSXZpNmF3VnMyMGFpbE14OXNTaUVOdFNQXzY0RzQzYVg4SnFsWWw0UzFUZkgtUHpxS2NwcmExLURMY2NWQVhyZU9DUXQ4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
