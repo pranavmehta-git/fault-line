@@ -13561,6 +13561,24 @@
       "historical": false
     },
     {
+      "id": "evt-7a5adc8e",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok's AI image generator violated privacy law, Canada\u2019s Privacy Commissioner finds - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGR3V0VvaXRic25IcTdKamk3ZHdTUVBWVHMxT01VRHgzZXNPV01xSGFWRXRxNG9mMURpdGlBOU94aUtQc1J5NXpxaldMSFVxQ0ktOUNGZmozMkhsYzR4VzhUMDAwTE1GWHJzZFRXY3NXTE9QbGl0ZGdXNTlYLVZ6NkhBVFpRZm4yQ3JoNks2Y2NSczA2OFpmRW54bXBKRF9zUEdpTXdaYVhCcExwcW9nWXBhbHVITUpvdnhYTy1HUkh0UE3SAVpBVV95cUxNTk55c3dmeFNmbWw3ZkVfU2RucUFDLTRTYVhRZF8wanBmSFdvY045U2tLMXVyXzUtc2dzQmNMWVE3VG1TbFJyZE9PZjItNFIwQ1M2TkNVTmJDaWc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
