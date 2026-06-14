@@ -13872,6 +13872,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-29895bb5",
+      "date": "2026-06-14",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX Didn\u2019t Merge with xAI for Grok: The Real Business Is Orbital Compute - quasa.io",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajFzNWtkM3hhMUJQUzJ6dGpCN0V3NUpEMlRQem0yNklvU1psVTlKNGRjZ2k0cXllN3VzLTR3YUpPZTJaUU9qbWJoT05IYmFIX21PWmNtbjBSNVdsT1pEMFo5MHVlcG5QVnViS1Rlc20xVkhzWkx1WnFBZFpYWjRXbHNZYlIydzlfVDFFMXhQZjRVVGRic2VpT0xUTE12dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
