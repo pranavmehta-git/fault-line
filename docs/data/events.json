@@ -13579,6 +13579,24 @@
       "historical": false
     },
     {
+      "id": "evt-7f055090",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok's AI image generation tool violated Canadian privacy law, says watchdog - Yahoo! Finance Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjF4RWgtak9raVlJVjFWSGtsNHRscENyREVfRGxCRFZ2UDdHZThTeHdFMjM0ZjM3QmF1OWlTelRoNVlzdUpBVTZMdTlfaUI1eVBmMjBGRjhVOTJoZ09UeV9TNjJMZnZJWkJZVXZNdzgzQ19KaDY2Ym8ycnpWbVJjdXNFR01OUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
