@@ -13906,6 +13906,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2e21407e",
+      "date": "2026-06-14",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Introducing the OpenAI Partner Network",
+      "source_url": "https://openai.com/index/introducing-openai-partner-network",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
