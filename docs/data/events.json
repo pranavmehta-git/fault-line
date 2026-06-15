@@ -12971,6 +12971,26 @@
       "historical": false
     },
     {
+      "id": "evt-82d68ff1",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "'This noise is pervasive' | Mississippi residents claim xAI data center makes daily life 'impossible' in lawsuit - wfmynews2.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUFlZcUR2eGxiby1HVEY5OVRzZ0QwWTJaN0gyaTYxS29BeklHTlJPcEo5TlptUEh5T0hGY1BiVElfenJsOGtfWEtHaU4tYS1mUUp4TXhXcmQzLVB1TGU5T3FFNExMMmxRTy1BVFh4VlVsQXJ3VWZnSkZWZFdNYWhyRVQ0a2c2R2dDRC00aC1Mb01kSXNycXhZUHZBN0tHVFRsYWZlcV9WaU84WUJNN0RTdWNqYXhJZU1fZXpDbTZ6d2c0NFdPTnBJWENOU0FCUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-6e77a368",
       "date": "2026-06-11",
       "lab": "xai",
@@ -13938,6 +13958,182 @@
       "confidence": "medium",
       "tags": [],
       "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-68264683",
+      "date": "2026-06-15",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+      "source_url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9cb6a981",
+      "date": "2026-06-15",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "xAI Sued Over Firing of Safety-Concern Engineer - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWpISzloU3hnM01MdFNoUk83NlBPZHVsSE8zVHAtWk1feGdNVDg3akRKdnNUWHpab0pJR1NPd1pDLWRuZGNZdUpqSUpmLUVuUHpzNkRqcVhHanYzYlRjUjZOczAxQTFSVDNzdzVVWFEtVDItYlNMcTdURG9wRm5NNmtBVG94WE00V3A3NlNfMjFsdGM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7b69924a",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-15c026f4",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXlUQUhuaDNXSk1uS2dnYk13d09hRjlJcnJmaTR0M19VVV9BSEFMUXpaaWNDSkdCZFl2MWcyTERmOXlyVllodGhCTWFyM0UxbjZTWDNuOFNYUF80RkgtMVBuYVduTi0zMTN0bGNTcm4wQlpPN3dxOXJuMUt2OWRtV0FUdzdPX3lvUUQzRVQ0WnluS3p6QTJlN2ZPeWJVelJCaU9TSUJoa1lyMkhLa2Y1TzlJX3VXcGZPWmxGdEI5Z0ZxcE0zc3NDNw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-923a7c81",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by xAI - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZGZrazAwNWRVLVBhVHlUVUVJU1Y5b0hGcHdjTlhXN1R1ejNRRE5VdV9qdzlmQUZLeXkxNGF6WXdlTEczOXUyRjZaMTd2OW1rQ2I1cTJ6VkNCVldYbTB4QXRVUWgtbVNER2VKNW81Rk1ieGdMODk5RF9zMkF4cEU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1f80e5de",
+      "date": "2026-06-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI is working on Automations feature for Grok - TestingCatalog AI News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkloeTBmMkFaZTBJVEF3TWFFWmoxVGpTLVRrblYzNU40NFJnejAwQTBWTVk4TEF6NTh1RmRYM01WSGkwLTE2QW9XQ29LQTRzd3FXRXJTSm52VlNnY0JHUTlBZ3NjaGFSZjl1ZlJwWENRNGk0UG96d1JxazUxOTFuRnBNVXA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eece8b63",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - MSN",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHlZYlphLVRKdVloNTFZcWw0TnlQbjYyMEs3Y1VZVnBoazdqWUJQTUdmV2xmYWIxTzRDd2VYYVhwWEVJd2dZaFJIdDEzalBPOGJjTG9sUmUzb25xc2hwUy1GLUpTaV9xVGRBaUJMLWQxa2piblJSYTVDUXl3S0ttTjE2aFlPTHlzYWJBcGF1ZnFPQ05OQ29DbVBvdTlOZ1UwSEhNNDFlQ1VjM1VQel9RdXk3Q3kzTFBqbXNMS1JYVFFZSlB3UEc4S0VTV1hxdFVIQ3JpOHpR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-76ac719f",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Judge Dismisses xAI's Trade Secret Lawsuit Against OpenAI - Devdiscourse",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmthODNyNFZLLUdiRS1GSEdFRTB3THdZODRTMUJBNnk4ZWFNdUZSdG9Fd1FGNEJ3c0w4Ql9GU3c1Q3ZheXlPUmN0eHU0cDF1blo3RE1YN1RpOTFjZUttYXZCRGc5ZU03ZXBIUU9hc3FsUjFFbW9lU3d4eTg0Yy1oVTRwc2R0bjRVUUp2alpqX3VyVVFxUm40UlJaMG9UU2dSTGVvWGFia3Ruc0cyWThRUDBR0gG3AUFVX3lxTE9QVnlfRjlQWTdfZk1hanZSZ1VKWE0tdmJVNDFUSTNKM3E3VEhTR2laa25LOTNnUDFCdTJnaTlBV3RUU3Q4cUZMcDRwd3pWOEtpX25UUFEyeUVVWDROQkNJTGNMcW9OQXY4M2g1WjRGQ3ZqMmtfWHIwT3gyX0FzdXF0RDZFTmNOMGxSOHZwNWRMY2pyaUt0bHVubzduRktfZUNiaVZ5RkRFNkQ0WEpzUklaeVVrMjVoVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-42fc022a",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - CNBC TV18",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSl9adEF2STU0SGNCQkp1UXFMU2ptUHFza0dlcF9LdlF2MEo4R1ZWdGREM1RKcExzdHJUM2Y3VmFObktIdE1Hb2xkQlVxbUtncm11aTZfZkRxZ29oRjJCbmlxVzlQZGNGWDE1SVdsNHlTbEtDN0FWNkg0Ykktb3lSRzc4VG1QNnVnb2tZT0tXeGJwaGoyN2x1aVltUXc0d1dzUnE4OEpjdEsybVXSAbABQVVfeXFMT1ljSVlRZV9UcVRmLXBRVnQ0V19sb1FyZzFPc1dMcDJNSUFLZmZGTDUtR2RNRE9SeENDdXNsSHRveTNtZDg3YlR6S19DZGtWTUhTMGw4VnpJN0s0aEJqN1lLYXZDN0JybDhxR1lWN2QtSkQ1d1gzYlJiYTN1RW84dVVpc1FBY1ZfZXU1T2RFVlFBU0dOLWQ3cDdNZGJDc0NhMUNCeXJURUpZUDRnR0dFWUY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
       "auto_classified": true,
       "historical": false
     }

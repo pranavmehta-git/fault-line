@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T11:50:31Z",
+  "last_updated": "2026-06-15T17:04:03Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.282,
+        "value": 0.284,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -161,7 +161,7 @@
           }
         },
         "cloud": {
-          "score": 1.31,
+          "score": 1.33,
           "max": 2,
           "items_triggered": [
             "B1",
@@ -169,9 +169,9 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.716,
-              "evidence": 2.516,
-              "corroborating_sources": 8
+              "intensity": 0.738,
+              "evidence": 2.816,
+              "corroborating_sources": 9
             },
             "B2": {
               "intensity": 0.595,
@@ -280,14 +280,14 @@
           }
         }
       },
-      "events_count": 372,
-      "last_event_date": "2026-06-14",
+      "events_count": 378,
+      "last_event_date": "2026-06-15",
       "top_drivers": [
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.716,
-          "corroborating_sources": 8
+          "intensity": 0.738,
+          "corroborating_sources": 9
         },
         {
           "item": "G2",
@@ -447,8 +447,8 @@
           }
         }
       },
-      "events_count": 125,
-      "last_event_date": "2026-06-13",
+      "events_count": 126,
+      "last_event_date": "2026-06-15",
       "top_drivers": [
         {
           "item": "G1",
@@ -474,7 +474,7 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 2.6,
+      "total_score": 2.7,
       "breakdown": {
         "compute_chips": {
           "score": 0.26,
@@ -515,7 +515,7 @@
           }
         },
         "policy": {
-          "score": 0.38,
+          "score": 0.51,
           "max": 2,
           "items_triggered": [
             "C2"
@@ -527,9 +527,9 @@
               "corroborating_sources": 1
             },
             "C2": {
-              "intensity": 0.286,
-              "evidence": 0.4,
-              "corroborating_sources": 3
+              "intensity": 0.412,
+              "evidence": 0.7,
+              "corroborating_sources": 4
             }
           }
         },
@@ -610,8 +610,8 @@
           }
         }
       },
-      "events_count": 107,
-      "last_event_date": "2026-06-14",
+      "events_count": 110,
+      "last_event_date": "2026-06-15",
       "top_drivers": [
         {
           "item": "B1",
