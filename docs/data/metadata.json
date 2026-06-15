@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-15T17:04:03Z",
+  "last_run": "2026-06-15T20:48:25Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -18,7 +18,7 @@
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "status": "ok",
-      "articles_found": 18
+      "articles_found": 19
     },
     {
       "name": "The Verge",
@@ -72,16 +72,16 @@
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 93
+      "articles_found": 100
     }
   ],
-  "events_processed": 753,
-  "events_added": 10,
+  "events_processed": 767,
+  "events_added": 14,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-06-15T18:00:00Z",
+  "next_scheduled_run": "2026-06-16T00:00:00Z",
   "pipeline_version": "1.0.0"
 }

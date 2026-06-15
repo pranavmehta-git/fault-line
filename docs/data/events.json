@@ -12991,6 +12991,26 @@
       "historical": false
     },
     {
+      "id": "evt-02b8cd01",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "'This noise is pervasive' | Mississippi residents claim xAI data center makes daily life 'impossible' in lawsuit - WWLTV.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORUlvaHpSeEEycWhaNzVLTEZMeFdHOF93SWdFV0hGV1ZvX05wNE9Ka2NxZElKbHNjRVVQY1B2RHBuS3NxZ2l4REc0ci1tM2g2NGYyNHA3Q21famJxVFptSWo2Y3pjS29KUUUwVVdIY3BSU3F4eHJ3SnY5bFhQWmszczFNVV9NS19PNWIzSzV0cV9VR3ZkM2xITUtkeC1vNjEtMGlMLVgyZ2FCNUxBbTc2Tmpudm9UQk14RXhQakYzODM2M3FjbHY2VQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-6e77a368",
       "date": "2026-06-11",
       "lab": "xai",
@@ -13617,6 +13637,24 @@
       "historical": false
     },
     {
+      "id": "evt-f81ec830",
+      "date": "2026-06-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "AI Safety Engineer Claims xAI Fired Him for Raising Grok Concerns - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnNCZFNrZmV0ZUVfWUhvWjlJcS0xOGJZTG1BQjhwNTd4SVo1ZkdJTFJUNUFUNXlKeHpvWFc3WXpTUWU1aG9mWUlmNUJwY256cF90bHhPaDFWbk1RejNBOEVkdGRVSFp2S1NTb3ZmamxXR0h4M28zSEFVTzBuYWlhRmt3Qkw4R2I1bzByQW9FRXNjWEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-fdb03943",
       "date": "2026-06-12",
       "lab": "openai",
@@ -14124,6 +14162,242 @@
       "dimension": "cloud",
       "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - CNBC TV18",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSl9adEF2STU0SGNCQkp1UXFMU2ptUHFza0dlcF9LdlF2MEo4R1ZWdGREM1RKcExzdHJUM2Y3VmFObktIdE1Hb2xkQlVxbUtncm11aTZfZkRxZ29oRjJCbmlxVzlQZGNGWDE1SVdsNHlTbEtDN0FWNkg0Ykktb3lSRzc4VG1QNnVnb2tZT0tXeGJwaGoyN2x1aVltUXc0d1dzUnE4OEpjdEsybVXSAbABQVVfeXFMT1ljSVlRZV9UcVRmLXBRVnQ0V19sb1FyZzFPc1dMcDJNSUFLZmZGTDUtR2RNRE9SeENDdXNsSHRveTNtZDg3YlR6S19DZGtWTUhTMGw4VnpJN0s0aEJqN1lLYXZDN0JybDhxR1lWN2QtSkQ1d1gzYlJiYTN1RW84dVVpc1FBY1ZfZXU1T2RFVlFBU0dOLWQ3cDdNZGJDc0NhMUNCeXJURUpZUDRnR0dFWUY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1bc4e866",
+      "date": "2026-06-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "A Top xAI Engineer Warned Elon Musk About Grok\u2019s Biases. 3 Days Later, He Was Fired - inc.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanFTbTZUY1MyQjhVekJOMWx0bUl3T05UYU85UjQ3djBQQTRPMU5xTm45WW10WGNrUjFiZDMtY3BRZ2w5NzhJS2Z6R3ZYU3NqRTFIaV91NVJnYzctMjB5WU82a0NCZFN0QVE0UEZsU0R6Y05QWXNaQkRJOHZnOW1YQUpzc1FDT1lSeE4xWko1eXZ1cENKS0xCMXNOWC01ekw3b2oyNkZGRE9SU3RMZERudDhRMVVNTHp4NXQwUkp3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9f382eb5",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US judge dismisses Musk\u2019s xAI trade secret lawsuit against OpenAI - Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFhaaU5VQzRPVE80Z01ISjQtQ25RTDNncnl6MFFqTVg4UGJPUWFIbjVTbGN0cHV2SE1ZNlZzbjRqVHM0Y2h1ZG9KekxGMkVSZ1dIY0pyb1ZScEpQQWw3ZWUwVUQxUFUyNVpDanF2eTRfeTlCQzVjdjBwY0pDQThEUjY1M3dCZ2c0VXE3OG9ITjRiUnNtMkpmaG5FQ1pKRnkza2MydUl4d2lvZS0y0gGyAUFVX3lxTFBnLW8xTkFtX0N0UHRQSV8tZGhBdWE4N1RISXZKUDBjWFZPMjZneHNad0N5N3Q4OUdQVWV3Skhha3NyQS1HdTRxcUY0TUJGTHFLVHZYUFdNdDdOUnJkLW1Fd0lyX2VGbkM2N3B4cDE3bURkT2ZkREdZMktVVmUwWWhQSmRIendhd2dvYnFYVE54OFhOcXE0Q0c0cWU0NThKZ0dDUWlGQk1FMnRhZFRoSzY0M3c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-48aee631",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US judge dismisses Musk\u2019s xAI trade secret lawsuit against OpenAI - South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORWlQR194RkotcUdpSXBTc2hVYV80aXNXV3M1RFpJcE1XYzc5bjZPM24xTlhKakhfWjZ0MGZTX0cyR2VTNkNSMVUyY1l4QjdGM21ITTh3VjdwYjhGLXVTSDJpNFVOVmFRSUxXbkE5T25mQ3BUSFVfeEc5d3V4V0poRmhGZnBpcVA0dXR6SFZNYUpUOWdZQUVsamEybVhUZEFOeHpPM3JRX3MzZm1VZVhkX2VXTTVJM3BRUW5uVWdwMEFZUERkRG93UFlqODc1bzVFM0JtdNIB1AFBVV95cUxObVFJWHpFMVY3RlV4SllxTm9kSHlVaXZWWGx6T1R3dUsxeUt2OUMxWnlBbU5ZM3IxZlhLV0hKYy13WjNkOEswNzVNNWlnSlVIQ2dLTnlMQk1YekpOb0pJYy1NNFQyQlV2eEpHdDZMbVVRQVlLN19fY0tYN0tpMlBTcG55UjY3WG5LVWdZeFJ5ZU9pTDNWUndxMGZ5UlJWZHFPUTZkcFlLX1VLOHltRThETlRxQkktZEZYRWN5Qm5lc1o5SjFTZF9UNmtXNkotV0JULXN3Zg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-060f6019",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "xAI's Lawsuit Accusing OpenAI Of Stealing Trade Secrets Has Been Thrown Out - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFNJNWRmWlY5S18zdFl5eUNXX25iX1drY1VMV0N0VWhfRnhVQXdKLVVwbnVKM3dJeWhrRjZqMnpxdnJLTFVxTFFYLVN4WFJ0WEdFSld5c1ZnVFpTeUdGU1k1bFVMOXpIU2xPcnpTZklWWHFydnJFT2o3VE1CMVhEWlRwTUFsSjJmd0FNWGdocmRJVzJjOVJaQl9lYUNfTVV5ZmpLT0lpZzRrcnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c801680d",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Judge dismisses xAI trade secret lawsuit against OpenAI (OPENAI:Private) - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnlLdGR3ZFpGQmFZaWk3RWZHWFFjejNzbnJzdUliTE1QOTRRQUw1MFV4OXF4cU5LTEs0WTE5ZXFoRkRvZXA1WXh5WXhXN0R2WUNPWGFMbDdmRWlLOFN2WDFGbjhsM2dJM3Q3TDZiQndiVzhJRG5aOEZqWEM3UjR5Y0V5dUludkp3OFU0clpqSEJvUzVNLW1QRg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-58b77b91",
+      "date": "2026-06-15",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Agent Dashboard: Manage Multiple AI Agents at Once - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0Q3azlUaEpfci15SzFuUVFQaHAzM0tJSUV4Vkg4aGY5bFhwZFZPSkhjT2Y1X0lyU3RQSWNKcnlzb2lWT2xQaWJxOFozNkpid2V4M0FrbGxjNk9mam5oRzlROU1yZkkyZEo2T3NtZjg1U25qanA3QkhUZEdXajYtRXBGOGRZNi1qc1ZNZHV3cjA1cWs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3af135cb",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "U.S. judge dismisses Musk's xAI trade secret lawsuit against OpenAI - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWJpbkpXSHpuSkpTa0ZCVjVoQU5rMFlKMmtOaDZTWHFpUTUyUkdlN0RiMDNKelZGa2FqckszY19wcGNmaUgxSWJFMGdWVHpQZXlXTFlJb1UzeHc2WlRkMHFGUkpuQ0tsc3lXa1FkcGQ3Wmx3SG9GelVJaTRoa2xXbWVXRXlCaVY1U25rcWVuVWtpZ1BsUXB6Vm5yeFNqSE1ObDEwV3pkVHNxamVYWmNEYU4tVWNSa2ZoV0xad0JFMnhIYkpQRUlHNVJsWDZ3T3lyYnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-12948a5f",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - CNA",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhtYUdpbE1mZlhmV1FPVVFGMDBUS2NXRERxTWZqUXo5bmRQNWZsX1k5MDFOdVJLSDB2X01jcWdEU05sVTQxS1N5ZzJ4UUM5NFpTUGtoRDBVdTU5WjJCVjBudV9tazljdXJsOGcxM0NjWGRCMGF4TzNSQldFemFvTjhYTGEzNEZweUM0OFRSQWlFSGxyTkIyMUJIMHZLZFpDMVBUd0VRVzcxamZBdGdVTU0yWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4ca9edc3",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's xAI Faces Legal Defeat in Lawsuit Against OpenAI - Devdiscourse",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlltbnJETEszNXJxT2VwZGQ5TGNCcTFDMmUtbXFhdFhOTl9MWGZhMk5JSEVCem53UE5mOEhNWS1mY1IweEU5Q2dGTEdWZ2hlcDJuMG5RNDBEQmVFUFdxcjhGU1h4VVZkallFU0dMd0RzM29qRDVlQ1NZVnV5d3FpVHQwRmhXRGlkRHV4dm1iTzU1emlTSU5QcVB5ZmpRMlFRNzZ3T1NoaWtNN2tUbVlMRXJTX1VlZ9IBuwFBVV95cUxNR0xjMmM3cHo2dXFPeVpGWkU2enFEN3RTc2UxMWRESlRFQkJycVVEaTlBLXJaTGxELWN6d0w0RGh4c3BFVkprMDkxWUxKYkxNM1hjeGlQV3hsNGN0VTFQbkJRMTVEUWc5NzAxbFZTcG5wcXA3dFE0T0FTM002UG1tb1ZqTmJvQUFkcThFOWh1RDNOSTdtTkZ3V3c2eWRfS1l6c0x2Wkw4dHBqcm8wTTZ1QUd5Y1JLNDlIYTZv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-38f1c7e6",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - The Star",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRxbmtMZGhlTDNmN1J1NU9xN0lhQXZEZDRNQW56Z1VMd0w0T3QyNXo2TDhvUTlDMm8tdHEwUWtTVmJjMzRqSVZSelphWGVvc3RuNk1uSFpXMWswaUVwWU05ZzZlOGJtQWFSNFRabUtDdGtiLWFOTkZIcGxNMHZBcmVFcVVYWElMRy0wV2pHaC1XWGpyUHA5Q0w4dUhXZmJZTjdXcmtGSkNUeVd5TkIydWwxMno?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e9114676",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - MSN",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMi0xWnNWNmZmUFBPOGhNU2JienJtd1FVQ3JPQXIzeEtGX2VLTVFpUnZSSFpyWWZfSHdmWVVJUVU3T0M1VkxvSjc5Qkp6TXd4UUFzOUdlVUU0SVVZcTV0UzdZSGZqX2E1N19ULVp6X0FuRlFTR0lKWlRGRHR6dmJ0SjQteEpkN1luZjlNQ2laT1VmakRYMlN5ek1INnBORmJXZnRjZG15Q2JkQnRlX1g5aVJwTW1LZVY2ZTNJZElMWDBQRjI0RTI2QUhPeXFyQTkxOGxsdHJjUG13NnZtTmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fb1622ff",
+      "date": "2026-06-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Elon Musk\u2019s xAI - The Straits Times",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenNUanpHRjI4TFBfdWJNTzBJMnJmSmdvMzZ5NW5lVjZZeEhLSWVJcEQ2TG5pYXBsQVNSNUxZaVVORTFjS2l1X2Jpcm1jY3pFVkJsdDZ5WkRpaVl5V3MtczNNZk5BVTBhc2dqUElPU2hnaURoc1RGS3RDRzVTVDFGTG02R0JsOUVhRGEtWC1vNDg4cXhrWkFZRE1JY0Q?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
