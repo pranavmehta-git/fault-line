@@ -15153,6 +15153,219 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-966c3d9c",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT\u2019s market share slips below 50% for first time",
+      "source_url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f73174f6",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Predicting model behavior before release by simulating deployment",
+      "source_url": "https://openai.com/index/deployment-simulation",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c7c44dd8",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Under Trump, DOJ Moves to Intervene in NAACP Lawsuit in Support of Musk\u2019s xAI - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnR2LXE0ajAyNUlqSnZjSGlfNmNNU1Y0cEVtYmJ5OVpmbTRrZmh2Q29ORFJUREl0WDRYQnlBN2hTcEJlcG9Na1Nrd2RKbDMxbkIwSjRuLXhMQTNpRzFscXprWjhfYU1EaFdJQzd5c3ZpTHJFWklVaXJ0MnFwclBMa1NIU2xZbzdvckJNZkJRZklFclEtaGI3cUIxYWRfU2J0dXBMWU5wbDZkQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b7ed98ea",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI company seeks dismissal of NAACP lawsuit - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE5aYTVVVHhGSnRGbjdSaGdHQlNNNkstSkVXMVhaRjF2WVVGUHVfM29OLVZxUnRMd2ViY0hRc2RjZzEzMTIzUjdaUmNRdEhKVzRUaGNBanl6QlhGUVBraWI5VzNmbFItQUFBRG90N3BiM1lvYjVVeGVucnBDd1o4ODBsZHh2Z2JKbHNET1JEc1JUYkdLR1BR0gGrAUFVX3lxTE1ZVV9ucU54LV80TVZic2M0aW5aY0pKdWdWSmk1SzliMFRUNTlXVUh3czNXNTZkOEkxNHU3Y2czdmViLUd1ZEdMaVFtZWFhYjFkWkdSaUJ2M2Z1bVJuQWlETV92elNLdnRZTjMwbGQ4UHRVdURhMWxuVUVLbFB5c2gwOTV1eklneXdJMDJYdm9Ta1FYNjcyX0JaVFI0Tnc2UFJSRUhxOFJRVkVXMA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9f5fd767",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Judge dismisses Musk\u2019s xAI lawsuit against OpenAI - The American Bazaar",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkRDYzVvVzJKdENXTlVoY0txdGpCUGZZMXlpRjBvbDZ4ZG5VT2lNVlBrTXhyRFQtUUdsaUp3LXhnX3ZMNDZMMlRXWkYtZVdYYUpJWXBBQUVfaDE0UTFsMTJnZlVISDhWNTU4eEJjMXZHejlYbGpXNVBnNENaVTlkcllmZWJDUGp6UHZlbzdrakVwdTJHaUc3cEZ4MzVQdTJsYkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b89b7735",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Backs xAI in Pollution Lawsuit, Raising Stakes for SpaceX Shares - BeInCrypto",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uUUl2bmxYUk5TVmN0Skxab2xkb2FlQmVPdlhPTXdYYlZfd1dRMGkyNWNJX2xPc2d4T0VTWTVmQzVNY3hPcmNsSDZqX1oxUVRrQW9lMjdySmZUTUJNS3BYMg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-91fbebe0",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ moves to dismiss lawsuit against xAI facility in Mississippi - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzBiQ1UxeUE2R2NDeWhJeGpHRVg1RVlrV3o2NHkxWEQ1UUFpdFNfNUNkbkdvVktmaFBTX1cwVTdWSWNucEEwXzZndS14aGJ0Ym90cGFmVWc1TFlvMDYyNlZjSGhweE9aZm1KVHJ3MUpxMURzRUhENHZ2R1RmUXNjcU1LcVRzMDA1NUYzeEVkNXNLVkVIb0NVTzJJa0pOeEpJOXVXakNQQnlSM3Y1dXlPOFpaMXdja0hYczhrdUFBN0NmN3Nx?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4517fca9",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Backs xAI In Court, Citing Grok's Role In Military Ops Including Iran Strikes - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR0xOYVZXQ1poOVZRLTV6cGxqT2tfVDVfSDBma2lIN1RsOWpJcU9uSEllTEJDQ3R6eTk1cmFxYWx4NGFaU1QtZ0J3Q1ZKN0VZTlZtZ3FPV0E4OXJia3A1RU5FSG9ZVXJMek14ejBmTW52TDZuamdiUXcxdVJ5YVVWdnBTNEluNVpCdWpaZWlGOWxmYVN6TWk0V25TeHBVOWJsSHk4LVV5d2gzWkpEQ3QxTVRtcW0yaVlDYXB3MlROYXQzalExYjU3Q1VFb0tLOW5oVGlGTml6OEN1Snc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0166cf47",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump administration backs Musk\u2019s xAI in NAACP data center lawsuit - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVhzYmZ6MDhWMDZvSUlWZTg1VFY0X0MtbVdwbWgtTEFJLWRVeF9ZenFUWktncUtOazI2NjFuTW9nLXIwTmFkLTlPdnh4YTRXbUd4WkZJRXlIZnNXdlZxRXc0QVQzRVktZXBiOHdYSnl4aGU4dml5V3QwelFOaVRPN0hnX25GNlU4aFBsS1E3NWJuTjNDY2k2UFNVSlg0MDZlOFdGallpR3JvVjctR1h4ZWpTZmNaR1hjTFlVaUFFcmxHcUtvNlNnZm96XzJpR1ZTN2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8da8863c",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ moves to dismiss lawsuit against xAI facility in Mississippi By Investing.com - Investing.com Nigeria",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRy1vRzdMY2d3NUxXNjlGYzRlTUJpdXF1R2tlbFY2UUVpbzNEWm9TTlVwYjc2NTJIWTdMU2ZfdGIwcFd6X3pCT3R5eDI0Q1J4ZkViMGtXejZJZ1MtNHhKN2RlVE9SSE5IcFRyTHVuZVpja1VTTFAwek45RUIxdWxrVmR1dUdpbGtaQmxwQUphREJ2azh1Y2cxMUI1TVZWR19Ganc5bC1TX0NyVDFwT1dpeEdtZE1MMnl4eXg5dWZzdm9BOG8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-748f4fa7",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "U.S. Department of Justice calls for dismissal of NAACP, xAI lawsuit - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHJJTGhid2FkMWJZUGFualpwcDd4YUpjQW9iaE5mTmx5ZDY0OXJCc01UMlNMbzFQTnE5cjlzOThid3IwZE5TOVV5dDJ2eTBOWk5rMU9HVE9KaUwyUjhRZkgzaGo5SGZUUUNnMkV4dGRXb2JCYXdxQnJZbGE5dVh4aU5CcnBWSFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

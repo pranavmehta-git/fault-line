@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:28:57Z",
+  "last_updated": "2026-06-16T20:41:48Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -280,7 +280,7 @@
           }
         }
       },
-      "events_count": 399,
+      "events_count": 402,
       "last_event_date": "2026-06-16",
       "top_drivers": [
         {
@@ -444,7 +444,7 @@
           }
         }
       },
-      "events_count": 140,
+      "events_count": 148,
       "last_event_date": "2026-06-16",
       "top_drivers": [
         {
