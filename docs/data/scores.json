@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T10:58:22Z",
+  "last_updated": "2026-06-16T16:28:57Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,15 +17,15 @@
     }
   },
   "systemic": {
-    "index": 4.8,
+    "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.284,
+        "value": 0.286,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.3,
+        "value": 0.333,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -42,8 +42,10 @@
             "breadth": 0.2
           },
           "policy": {
-            "stressed_labs": [],
-            "breadth": 0.0
+            "stressed_labs": [
+              "xai"
+            ],
+            "breadth": 0.2
           },
           "demand": {
             "stressed_labs": [
@@ -278,7 +280,7 @@
           }
         }
       },
-      "events_count": 397,
+      "events_count": 399,
       "last_event_date": "2026-06-16",
       "top_drivers": [
         {
@@ -305,7 +307,7 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 2.8,
+      "total_score": 2.9,
       "breakdown": {
         "compute_chips": {
           "score": 0.26,
@@ -346,7 +348,7 @@
           }
         },
         "policy": {
-          "score": 0.7,
+          "score": 0.84,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -359,8 +361,8 @@
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.411,
-              "evidence": 0.697,
+              "intensity": 0.546,
+              "evidence": 1.203,
               "corroborating_sources": 4
             }
           }
@@ -442,7 +444,7 @@
           }
         }
       },
-      "events_count": 121,
+      "events_count": 140,
       "last_event_date": "2026-06-16",
       "top_drivers": [
         {
@@ -452,16 +454,16 @@
           "corroborating_sources": 4
         },
         {
+          "item": "C2",
+          "dimension": "policy",
+          "intensity": 0.546,
+          "corroborating_sources": 4
+        },
+        {
           "item": "F1",
           "dimension": "societal_impact",
           "intensity": 0.517,
           "corroborating_sources": 3
-        },
-        {
-          "item": "G1",
-          "dimension": "talent_governance",
-          "intensity": 0.513,
-          "corroborating_sources": 2
         }
       ],
       "trend": "stable",
