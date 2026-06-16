@@ -13011,6 +13011,26 @@
       "historical": false
     },
     {
+      "id": "evt-b0e6ce7d",
+      "date": "2026-06-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Class action lawsuit filed over xAI facility noise in Southaven - WREG.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSENCZll3LWZEdElkbU1lVUl0dWFXaTJEVjRoNTg5U1RITnNfQ0RhVGFhQ3BJRWJqb01PYmNWemNCUEdiR194bXFDZ1RCS3dld1ptM3N4N0owRGNFcmRXekpvNlR2VUVqRS1KU3JDNXBEZDZONjRCYURVX0dxUGRFOFduMDd2Vkc1NFo1cDdJQdIBlAFBVV95cUxQbVFoTkVFOXJqSkdtRXJqT3RuWXZBTEdrYmtNMzRwQTZxZ05lVk8zRnVnRFVYbV80azhHZ1ktQnByejhoN3FYS014SndRLXROQTJvdzFUekJKeFYxRTZWanR1UUloQTI2d3lOcDRmNHJBZEhyOTBVQW1Jd29fcmZ0dEdPY3lzTVNqWWpNc1NmMFFlYnJW?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-6e77a368",
       "date": "2026-06-11",
       "lab": "xai",
@@ -14576,6 +14596,145 @@
       "dimension": "cloud",
       "summary": "xAI submits motion to dismiss NAACP's lawsuit against use of natural gas turbines at Southaven facilities - localmemphis.com",
       "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcWRDblg5a0NiT3pYRlluMU9rMFdJblY5b3FUbms0dGp4WFRuV3pjSGg1NmhoNnRlZ0FxTUluQ2pyTHlDUHFNNXA5VnhfQkdwQTZoS0UwR1ZxYklrN2tHOF9sb09uR3JPaHVPQV8xYTNPNGtmT2Nqdm1zS3RsQzJxNGk4TExTeDNrVGZydER2U1l6UXZoZ0JqMmItalNCOXBtai1VVVZoaGxfNmkzZlJiNXBoLTRJU0t3WUJWR2ZWejZnclJYc19rS09BQWJzdEdyRUVVWUxad1NNLVFrTjdvNlZuYUkzVjVLN0lVQ2ZsanVPSlloZkZBQXo3TjhSOTRSS093MXR1dE5adnhZMlZCemdIT0dRaGZHd290VUFR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-23480437",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Judge tosses out xAI, OpenAI trade secret lawsuit - Mobile World Live",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQi1hdkJDZm9rcVpHMlFnZXhtTnVvbW10Wnd5eFF5OUdOQlFUVTN2cjg1QVRsdUEwUXNMazN6bTdDX2xDSnJCRnp6SFBIbUsyRzloY0s1RlRqQjdaSS1xaHZfQ245eExMdlJOM3FJWGxpUEpuR1dRZ2NBZ0FFUkFuMzI5cjdpR0dWbkh6ZmJFVlowdG90cEppUk1B?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f0b92087",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department Backs xAI In NAACP Lawsuit Over Data Center Pollution - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWpaRWppOVl4bkNhTHJwcF9vcDN5TGF5bHZaYVNHYmNReGxielE1SkFjaHU0b1B3a0FkSUVtdWYtMGp2bnVwbFFoX3BhSldBWFllQ2FCSnotdDN5alhZUXdRaV9zYm9jRlRQSXExODVKZWphS09Xb2lPY1h4c0puRExKZkNwcTZHU0hJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-75a387b6",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI files motion to dismiss NAACP lawsuit - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODliNXpKZjFUWmpTcHpKSGVKRU0zOVRUYnNYb1B0dnVXUm54NDdscXV0Rk9UcmY5RjFNd25QOXF3UWRjekxGckx4NXQ5cTd5T2E1dGRMS2hlcFg0LXJRNlhGOEZkRVQwQ0FWd0FheDBPd0JoV0dBSGZ1MWJLX0tXelgzQ1ktRmhqRi03YWxITUlDMTlGMGFvNHpYbFFuS0hoLXRacXkwMFhwX2hzMU11NUFVc0Q3MVFVa2c4VExLSDJvaFBhTW1B?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fb39b44c",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Defends xAI Operations As National Security Essential - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalZmTlJqbzNRRVFYRFFOS09oTVJzdDltNzN4U3BXWXpHejZhUTc1cTVnVzQxak9MTEpFOEhUM1k3elM2RUhHdnItRXI1THlUNy1nZ2lPUkdFOEFNRFpmRUVoNk9EM2k1M1ZrTzRDSE5kbEdFYjlHVXp3b3hzQnFjWl9mLWFPQl9IVHZPSVJqd2FxN2RGZDdXRTAzRW5sMU5K?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-71696b8d",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI - ET BrandEquity",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY25GY0NaM3FYVkhyRHZFQkZDdGtQeEVYV2E4bGRRcTNOTVRiTFgtcll5UVNfR1FuT0hKa203UURpd0lYa3ZIdF9ZVkUzc2s0TndHV1c1WUlncHZZalp1OXpPRUU5UzdkNEhkTkZIdnJiNGJiVTdHVnc4WFptdjdDQkFKTm5UOUpQdDllVG8xbU0wZ2FFNVdYYjBqTG5tempSX1NSVnRsUUs4Z25FU3BjdjRWMDYwZ3A5LWllTlpPZndkWFFRb0N4amZR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-33803241",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Judge Dismisses xAI Trade Secret Lawsuit Against OpenAI - Crypto News Australia",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU19sNmppQWtqeVhwaWV0eE5ObTVRM1dKcWN2alQxLWIxNDZsbzFkLVpSZjVINE83NnU2enFKVEV0VFA0UXpoMW05enFUQUkyTFU5Y05mMFg4Z2ZuWEhKb2Jyb3VhZUVsaXZMcV9XZm1RQ1UzWW9FUEJ5djlySGwtdTg5YzQ3c0Jhd3pTWURZOWtzbUIxUkxOTFdn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e4cdede7",
+      "date": "2026-06-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "xAI's lawsuit alleging that OpenAI stole trade secrets has been dismissed. - gigazine.net",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbkgzWFIwMUgtZ19SeVhuSXNzQVc2TS1vQlVmSllCYjVKS2Exb0g4Y1FTV1RKd2M4ZkJXNHVYMXhGcXNMZ1AzaHA4UHBoNV9BeWpWNnVRcktsLVhOM1pUUGE1VkJQdFpPdnRUNQ?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [

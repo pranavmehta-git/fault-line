@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T03:25:35Z",
+  "last_updated": "2026-06-16T10:58:22Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.8,
     "components": {
       "average_lab_fragility": {
-        "value": 0.282,
+        "value": 0.284,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -167,8 +167,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.736,
-              "evidence": 2.794,
+              "intensity": 0.737,
+              "evidence": 2.797,
               "corroborating_sources": 9
             },
             "B2": {
@@ -278,13 +278,13 @@
           }
         }
       },
-      "events_count": 393,
-      "last_event_date": "2026-06-15",
+      "events_count": 397,
+      "last_event_date": "2026-06-16",
       "top_drivers": [
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.736,
+          "intensity": 0.737,
           "corroborating_sources": 9
         },
         {
@@ -302,6 +302,170 @@
       ],
       "trend": "stable",
       "rank": 1
+    },
+    {
+      "lab_id": "xai",
+      "total_score": 2.8,
+      "breakdown": {
+        "compute_chips": {
+          "score": 0.26,
+          "max": 2,
+          "items_triggered": [
+            "A1"
+          ],
+          "items": {
+            "A1": {
+              "intensity": 0.26,
+              "evidence": 0.351,
+              "corroborating_sources": 2
+            },
+            "A2": {
+              "intensity": 0.0,
+              "evidence": 0.0,
+              "corroborating_sources": 0
+            }
+          }
+        },
+        "cloud": {
+          "score": 0.57,
+          "max": 2,
+          "items_triggered": [
+            "B1"
+          ],
+          "items": {
+            "B1": {
+              "intensity": 0.569,
+              "evidence": 1.321,
+              "corroborating_sources": 4
+            },
+            "B2": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            }
+          }
+        },
+        "policy": {
+          "score": 0.7,
+          "max": 2,
+          "items_triggered": [
+            "C1",
+            "C2"
+          ],
+          "items": {
+            "C1": {
+              "intensity": 0.289,
+              "evidence": 0.407,
+              "corroborating_sources": 2
+            },
+            "C2": {
+              "intensity": 0.411,
+              "evidence": 0.697,
+              "corroborating_sources": 4
+            }
+          }
+        },
+        "demand": {
+          "score": 0.1,
+          "max": 2,
+          "items_triggered": [
+            "D2"
+          ],
+          "items": {
+            "D1": {
+              "intensity": 0.0,
+              "evidence": 0.0,
+              "corroborating_sources": 0
+            },
+            "D2": {
+              "intensity": 0.103,
+              "evidence": 0.115,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "societal_impact": {
+          "score": 0.88,
+          "max": 2,
+          "items_triggered": [
+            "F1",
+            "F2"
+          ],
+          "items": {
+            "F1": {
+              "intensity": 0.517,
+              "evidence": 1.07,
+              "corroborating_sources": 3
+            },
+            "F2": {
+              "intensity": 0.366,
+              "evidence": 0.577,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "talent_governance": {
+          "score": 0.88,
+          "max": 2,
+          "items_triggered": [
+            "G1",
+            "G2"
+          ],
+          "items": {
+            "G1": {
+              "intensity": 0.513,
+              "evidence": 1.052,
+              "corroborating_sources": 2
+            },
+            "G2": {
+              "intensity": 0.37,
+              "evidence": 0.586,
+              "corroborating_sources": 1
+            }
+          }
+        },
+        "resilience": {
+          "score": 0.0,
+          "max": 2,
+          "items_triggered": [],
+          "items": {
+            "E1": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            },
+            "E2": {
+              "intensity": 0.0,
+              "evidence": 0,
+              "corroborating_sources": 0
+            }
+          }
+        }
+      },
+      "events_count": 121,
+      "last_event_date": "2026-06-16",
+      "top_drivers": [
+        {
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.569,
+          "corroborating_sources": 4
+        },
+        {
+          "item": "F1",
+          "dimension": "societal_impact",
+          "intensity": 0.517,
+          "corroborating_sources": 3
+        },
+        {
+          "item": "G1",
+          "dimension": "talent_governance",
+          "intensity": 0.513,
+          "corroborating_sources": 2
+        }
+      ],
+      "trend": "stable",
+      "rank": 2
     },
     {
       "lab_id": "anthropic",
@@ -465,169 +629,6 @@
           "dimension": "societal_impact",
           "intensity": 0.482,
           "corroborating_sources": 3
-        }
-      ],
-      "trend": "stable",
-      "rank": 2
-    },
-    {
-      "lab_id": "xai",
-      "total_score": 2.7,
-      "breakdown": {
-        "compute_chips": {
-          "score": 0.26,
-          "max": 2,
-          "items_triggered": [
-            "A1"
-          ],
-          "items": {
-            "A1": {
-              "intensity": 0.26,
-              "evidence": 0.351,
-              "corroborating_sources": 2
-            },
-            "A2": {
-              "intensity": 0.0,
-              "evidence": 0.0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "cloud": {
-          "score": 0.57,
-          "max": 2,
-          "items_triggered": [
-            "B1"
-          ],
-          "items": {
-            "B1": {
-              "intensity": 0.569,
-              "evidence": 1.321,
-              "corroborating_sources": 4
-            },
-            "B2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        },
-        "policy": {
-          "score": 0.51,
-          "max": 2,
-          "items_triggered": [
-            "C2"
-          ],
-          "items": {
-            "C1": {
-              "intensity": 0.097,
-              "evidence": 0.107,
-              "corroborating_sources": 1
-            },
-            "C2": {
-              "intensity": 0.41,
-              "evidence": 0.695,
-              "corroborating_sources": 4
-            }
-          }
-        },
-        "demand": {
-          "score": 0.1,
-          "max": 2,
-          "items_triggered": [
-            "D2"
-          ],
-          "items": {
-            "D1": {
-              "intensity": 0.0,
-              "evidence": 0.0,
-              "corroborating_sources": 0
-            },
-            "D2": {
-              "intensity": 0.103,
-              "evidence": 0.115,
-              "corroborating_sources": 1
-            }
-          }
-        },
-        "societal_impact": {
-          "score": 0.88,
-          "max": 2,
-          "items_triggered": [
-            "F1",
-            "F2"
-          ],
-          "items": {
-            "F1": {
-              "intensity": 0.517,
-              "evidence": 1.07,
-              "corroborating_sources": 3
-            },
-            "F2": {
-              "intensity": 0.366,
-              "evidence": 0.577,
-              "corroborating_sources": 1
-            }
-          }
-        },
-        "talent_governance": {
-          "score": 0.88,
-          "max": 2,
-          "items_triggered": [
-            "G1",
-            "G2"
-          ],
-          "items": {
-            "G1": {
-              "intensity": 0.513,
-              "evidence": 1.052,
-              "corroborating_sources": 2
-            },
-            "G2": {
-              "intensity": 0.37,
-              "evidence": 0.586,
-              "corroborating_sources": 1
-            }
-          }
-        },
-        "resilience": {
-          "score": 0.0,
-          "max": 2,
-          "items_triggered": [],
-          "items": {
-            "E1": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            },
-            "E2": {
-              "intensity": 0.0,
-              "evidence": 0,
-              "corroborating_sources": 0
-            }
-          }
-        }
-      },
-      "events_count": 117,
-      "last_event_date": "2026-06-16",
-      "top_drivers": [
-        {
-          "item": "B1",
-          "dimension": "cloud",
-          "intensity": 0.569,
-          "corroborating_sources": 4
-        },
-        {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.517,
-          "corroborating_sources": 3
-        },
-        {
-          "item": "G1",
-          "dimension": "talent_governance",
-          "intensity": 0.513,
-          "corroborating_sources": 2
         }
       ],
       "trend": "stable",
