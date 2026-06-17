@@ -15817,6 +15817,26 @@
       "historical": false
     },
     {
+      "id": "evt-2ddb1097",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "\u2018Awful thing:\u2019 Elon Musk\u2019s xAI seeks dismissal of NAACP lawsuit - WSMV",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN05OWWVlVmdWaUhWM3VKd0xjSGtEd2ZxZEl2NTgwenU0SU0zQ1p3dlFWNk9mTzRRWTQtYzIxWjFsVW03T3Z1ZmpXQzlIQ0ZMck5kRlE4bGJkYjhZNXZ3NFMyUE15XzkxcGMtbnVRWk5WVzJCb0dOaEpIekItMnlIdlBvTmctMzZJU1VhSFJhUC1ueXFEeXVoVy13VQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-4cc917cd",
       "date": "2026-06-17",
       "lab": "xai",
@@ -16060,6 +16080,198 @@
       "dimension": "cloud",
       "summary": "DOJ sides with Elon Musk's xAI in lawsuit that seeks to stop the company from running natural gas turbine - The Times of India",
       "source_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPSkxuX2RrdHlSNHBCbWVIRUFtRDJ6bE5NNktPaUdXQnozSFdqNzhhVUZYRzBuUXE1RzhudkRYUUs5amdDaUNoY1ZlSUxsMXVMMWVtWk5Mb2hNSThFdG1xSGZfY09TYjlwUmJVSzl6b0w0VC1KS3dDMk1KdFcyc29ROVdwWHhFNnB0ZDBHaGpxR0paLXFPNER4LVBfT3QtbVJMRUFBMG52cmRiS3Q0TGpncVFKTlVwU01VQ1VIb0g3dUgwQVowRzJiNUZUMDhCWVNfTV9heUxpWnRkYnlHQjlBY2MxXzRyYWdCcWllMmRyaDFySHpPWjBaOXZDLVdXWHU5V3UzMl95Q1A3WTNrYUR0dHNMYXVUeUtVZDR4WFA3dEY4bVZUQXZ2bXd6Zzc4U2NmbW1GSk1tNUl4ZmFRVXZIMWdyenJjQjhINWpLRzRmOGhUazFXZENyam0zdDYtOTNBMGhzaFNEX3ZlbW12blBz0gH0AkFVX3lxTE5Xa05RLTM1cGdmMFJsZVNOMFFEbUlOaDlCQjFlSkt6Z3J5bWc4RzlpdU9raXZPdDFRZ3V1RHFfOC1UM3hmbDM2MWZXNUNidUJRN01nM1JRWFNmVnNiano5YmVpZkw3X3NLVEhtTEpoSlVYeEdYVkJ3NzU4amZYZHh6WTdMOXhSWkJMNDRjdlFWTG90X1RKdW9Ca283WmxneDZENERXaF81Z2RxRzl1WWg1UnJwTHpJVUJkMG5YUDNGVjE4cnZBa3pNM0Y3VkpDdHI2YkJSMUdVSnNmb0h2YnUxUno5WDZFNmtMMHZva0xEdjNtRzczeUE1RmlsYnczVHlJbjBzelpyeEhNUlp2bVBZMC1COGZ5QmloeFkyTlNWM3JNMFkwSG5QWEpWeXQwNmJMSzJVdkpKV2wxWFNkX3FoN0pEOGViRGFjb2c4ZWctZU1wbkxWTXFzVVFzMmhNbTllZHR3MS1QaHhoRmRqRXFWT3RkVg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a0731622",
+      "date": "2026-06-17",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "source_url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1feaab77",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Defends Musk\u2019s xAI in Data-Center Pollution Lawsuit - WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazJvUmd5b0UtelEtNnR4SG94SlZvWDJKWmQ0QllNZE9kcVhkenpYRXpjaGE0di1JUTczMEZDWVdkcGo1b0hreWhMREhLUmRkRUFmOUdrUnRtNDRqQTgyYVdubms0TVRYd1BqdFI3cjMwcnZ3TC14Z2ZIejRvRnI1RTNvbzgtbmFuUzB4bFhFTTdodkY1U2dtTlBHZkZSMThqdTlhOHFuVVpoTWhH?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ebce49d3",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Department of Justice sides with Elon Musk\u2019s xAI in Southaven lawsuit - Route Fifty",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3JSdFA5TktOMDRkaWZJaDZKUHFINTdjeHo2Zm8wTmUxTGJuUXFhTG1VWS1hTXJwUURQVUh1dWxFNEJPUi10YjZoWG10TVRtTmdnQnJvWS1VMVYtdXZzVDhBYlNUODZJZTZVRFRWSFZ4ellCd25oTlkxVUhsTmN4SWhZb3Jmb1JrOGR5eTBuTXNHTEN1T25xeHFxLWxnckc5UEZKbFFrbFhBQUFWVEx2S2ZpVlFuOUtuOXlpQjRPZ1NTOEtDdjg4Um5uQzk3VzNH?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-67efb2a3",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Trump\u2019s DOJ intervenes to keep Musk\u2019s xAI gas turbines polluting Memphis - Electrek",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTZBQ0JkWU9CNUx5ajNfMTlpbFhPQVNxV2xtNUd3MURucnR3QWxRRnREZmhiUjlLLTlLcVMydy1CVERVUTd2dmJfSEI5U3g5NFJGekk2aWpqYzZjX3Y0NFJjblZ1NjNoRHhsSFFCSjg4LUx1dG9SamJVYjRCQ3hMbHp6eU1ZWTlqRG1VNA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e7bb7a68",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump Admin Admits to Using Grok to Bomb Iran In Federal Lawsuit Backing Musk - Truthout",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0xFVk94bkt6c0tVcE5hNmgwRHJTS1hhZExTMHRHWWVxdGRwSVpBQ0RoRGFONm9hdWpkNUdLRW1SN1Y0NVJCSmdxcVV0Rl8xVXJoTnlSdjVWdEVkRldFbHdEZTdlSmxvcVJBcVJkN0FLT0ZQeGxXUTJ6SVEtaW1NRDdkLVZacVZUQXBldVcyMDBVeDNzYXlEZ1daYUdEbzFMaXNDN1hiR3REZ1hG?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1fbd1ef6",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Rushes To Help xAI Pollute The Skies Over Mississippi - CleanTechnica",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmg4UFVyaWpLM0VoSTlOaGpFYTFvWUxRaFFXNXRvR01lNy1ZQUMtcC05a1cyVE5lTVYxbGpjY21rVE50Ni1Ld1NmMTJpcWpnU193NG1FMUZ6YVkxdk9Xemg0dVNYLTg0ak45LTM2UUlQX0JQNVhVbXdrTHBZaGQxMDY5Zy1Lc3ZsRTdyU3pVNTVfQXFKcFFldjdKbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d4a4270b",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ moves to dismiss lawsuit targeting Elon Musk\u2019s xAI facility in Mississippi - Washington Times",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXl5c0t0eUo3WElmc09yN3M1RUVLOTZ4aHZObnN1N2ZlekZ1WVM3amdBajdRczBueDl3TlBqcTlGTDZKd2FLQm9tS1dsa3U2dEE1YXJzLVR3WGs0bTZRdmN6aWJCREpCYmhFMXl6TGFRNWlnM1pJQktqdFdKX2ZhYzFJaDU4MEJ5UFlwNWhPS2VkNTVpV29CWG9TQm80VlJfQlRJSTZteFVSSlR4NGc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7f250809",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Invokes National Security to Block Clean Air Act Lawsuit Against xAI's Unpermitted Gas Turbines - MLQ.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnVITmtQbVFRQ0RCS0x2Q0phMGFvV3lqbElBaURrVzY0US0tZHkwYy1kVGxUX2NDdEE3SXEzd0phT0wwdFE4Zi1ZVVBLTVZTSXV5WTBNa1Z0NUg2cG9tNmF1bDlFNk5jaVlCOVBndEgtNE83cDZUWXBaeGRCSmdSaV9ENU56QlZCaEF0MXFXVEtOR3laRWxCREFjbWprYU5UQ2RrUTRxOTNHWV9MN2tpV05PS1VEejg3LVlv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3a17b1a5",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Backs xAI in NAACP Lawsuit Over Unpermitted Gas Turbines Powering AI Data Centers - AI Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3JjanJIVlQ5Ml9WSDVrTS0xR2ljTlFnUVA4amlCaXYyZnB2eGVreE1UR2NWcTdGRlhWWkhfUmRiSU5YODNCWktPTkF4N0dqOHFuYlRyZUlkbGtrMTZmRFpkTmh1YmJPSjloM1gtbXpxZU1CTmM1a3k1OFZleHdtRnJ5ZTU4YjVNbGZkOGlEYks1aS1nWVNzMF9qTjFnZ3E3aTRVaXNoX2xPS1l1ZGpLM2wxQ0hBUkt3d0o3RW1mTWM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-649abde7",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US Justice Department asks court to dismiss xAI pollution lawsuit citing national security - mezha.net",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQUdzOW9VOXVzd1U5em5IOXMyUllleDNSSHVKQTRNWTIxZDFXMURwbXZMQnJWdkxRYzBISnhZTm0ydWVrd1RkaTd0ZWFRMDM2bFlCQUJwcGpDdFVUN3FOMDlWNV9NRU1Ec0Vj?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
