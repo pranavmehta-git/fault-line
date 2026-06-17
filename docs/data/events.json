@@ -15953,6 +15953,125 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-06d09dd1",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ tries to block environmental lawsuit against Elon Musk's xAI - upi.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFFHcE5VSGNoUFJnQmh6bFc4UzhFQjc1Z0lzVWhVUkFCYlJwMW1pZkFqdnZTUldxbkIta2ZqQ3F3bHY2d2pWSDluLWtNeUhWOTBLRTFTVGZCcHFxOFQwY2lQeUQ0VC1LMnBPTGlnTFJNU1dIR1Y5RDV6Yi03anBpYjh5SkhtbUhu0gGOAUFVX3lxTE5iLU83VE95dzZzSzZhaFBQRTgtWnA1SXppbk5JT2tiZS1EQjhGRFowYzdUTjRrNXg0bjU3Y0xxZFZIUWZ5bmd2cVNWWllCVmw4SjA3REREUk1kMldHUnhfQnRfWG1QQWdnUi1BNHkxeGR5NFE1ZXlORGhoNlFmel9VS3dRQm5xNXNnVWR2R2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-91b988f4",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ moves to dismiss NAACP Clean Air Act lawsuit against xAI - qz.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KTGJHaldRU2VLdHBUSEYwNVhYam9YVlIxXzlSUjQtOGkyUVR3Zy1feW41dWViWFE3bGpEN0JzQjVpbTNsUDVVTnY5WS14Sjd2XzJQZ0FWTXRrS1k2Q1RuOTk5YnUyWlVOV1ROenh6VGUzeGx3SzFKa1ZpTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5a79224c",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Trump's DoJ urges judge to throw out xAI data center gas turbine suit, citing national security - Data Center Dynamics",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUhkRGdZeUZwOUtyMld4S1d0U3UwZE1OelhQV3ZqVEZBdmJoLXRQdW9ESl9taDB6bm83V1FKYUtYclAzLVBWUjNvYXVva1lCbGZXUVdJMWxmZDBfcU9JVFNMX2tjamNWMWI3RzBYSU9sWk9Xc2t4LUwzQUhGLWdLaVpPR081RTk1WmxkNFBOdzh5REZHMDZtb0VuOEVpbkV0UGZBc1dJakN4a0pWaVVOcTJ3RUJJczFZcklyeWN4Z0w5T3ZPZ0Y5Wk9xc1NjdGl6N1A4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5d2a4771",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge Ends xAI Trade Secrets Lawsuit - Legal Reader",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XMWt5cXJHaU9jQzk4RXJYa3dYOHNzWFZhWV9tVUw5c2dUQXNyenpZajE3YzByRmRLZ25CdkVpVHg2eDlUU2JvQVhoZG13bURHaEotVm81ZnVDOXVCVFFSZy1oUURiRm9TRGpxV3FkcndTblU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-db31c8bf",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "U.S. gov't asks court to dismiss NAACP lawsuit against Elon Musk's xAI over use of unpermitted gas turbines \u2014 DOJ says Grok model running at Colossus 2 \u2018supports mission-critical operations\u2019 - Tom'...",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMGpXbVc1VEpKcmlnVmRFZkV2V2h5dkhPQ2FLQkJEVHB3TDBQcGFOTXdyTlVzMGR4d2ZmWm9WTXpmVlNJbzBJOUEzbDVLdGVvMUx2cjc3cXdSSDAtMlNHNU1NdzdFaVJPZ2FHQlJUUW5VY0ExM20xNV84SE00MEVFaWljQVFnYVF1RWdXcUJWY2lwX0k5MGlZRTVqTW9DaWJKWmtLSVI4RkZ1bUZLWHd6QXpYQk5KV0k1NndCOUg0d3M3WkcwS1JXNWNyV3FpX2U2d1VLRXlULVRkOHVENklJRWU3elpURDM0QnFYODBlUUxyd2xsREhXbG1rUE4ya2FGZnNxcTlJTDc2cW9RY1FzWmd5SklBVTEwUXh5Zmc2UC1TX2h1SkE2SUtLejRnQkFtYmdkZEZSLTRtcGo3V0N2cURfakxXSnhFOG1HdHdTbTNUV2twcXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e2fd1e3f",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ sides with Elon Musk's xAI in lawsuit that seeks to stop the company from running natural gas turbine - The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPSkxuX2RrdHlSNHBCbWVIRUFtRDJ6bE5NNktPaUdXQnozSFdqNzhhVUZYRzBuUXE1RzhudkRYUUs5amdDaUNoY1ZlSUxsMXVMMWVtWk5Mb2hNSThFdG1xSGZfY09TYjlwUmJVSzl6b0w0VC1KS3dDMk1KdFcyc29ROVdwWHhFNnB0ZDBHaGpxR0paLXFPNER4LVBfT3QtbVJMRUFBMG52cmRiS3Q0TGpncVFKTlVwU01VQ1VIb0g3dUgwQVowRzJiNUZUMDhCWVNfTV9heUxpWnRkYnlHQjlBY2MxXzRyYWdCcWllMmRyaDFySHpPWjBaOXZDLVdXWHU5V3UzMl95Q1A3WTNrYUR0dHNMYXVUeUtVZDR4WFA3dEY4bVZUQXZ2bXd6Zzc4U2NmbW1GSk1tNUl4ZmFRVXZIMWdyenJjQjhINWpLRzRmOGhUazFXZENyam0zdDYtOTNBMGhzaFNEX3ZlbW12blBz0gH0AkFVX3lxTE5Xa05RLTM1cGdmMFJsZVNOMFFEbUlOaDlCQjFlSkt6Z3J5bWc4RzlpdU9raXZPdDFRZ3V1RHFfOC1UM3hmbDM2MWZXNUNidUJRN01nM1JRWFNmVnNiano5YmVpZkw3X3NLVEhtTEpoSlVYeEdYVkJ3NzU4amZYZHh6WTdMOXhSWkJMNDRjdlFWTG90X1RKdW9Ca283WmxneDZENERXaF81Z2RxRzl1WWg1UnJwTHpJVUJkMG5YUDNGVjE4cnZBa3pNM0Y3VkpDdHI2YkJSMUdVSnNmb0h2YnUxUno5WDZFNmtMMHZva0xEdjNtRzczeUE1RmlsYnczVHlJbjBzelpyeEhNUlp2bVBZMC1COGZ5QmloeFkyTlNWM3JNMFkwSG5QWEpWeXQwNmJMSzJVdkpKV2wxWFNkX3FoN0pEOGViRGFjb2c4ZWctZU1wbkxWTXFzVVFzMmhNbTllZHR3MS1QaHhoRmRqRXFWT3RkVg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
