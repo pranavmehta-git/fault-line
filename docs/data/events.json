@@ -14550,6 +14550,24 @@
       "historical": false
     },
     {
+      "id": "evt-452ff577",
+      "date": "2026-06-15",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Greater Memphis Chamber President and CEO addresses suit against xAI Southaven - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObWpINEpKQUJIR29yS05BM3JGQU5BZkN1eml3SU1VRTJIRmx3SC16aFRfTUhvSFB4MmViRDRGQUJPM09vS3ZVRk13WjlLd3BnYjFldnd1RllXSl9WUkU3V0ZqLWoySWJnUzlYeFFJLTVvQjJUVHBELXo5emlDSTdxWVpNY0VwdldLVG9OQ3RMWlp2YlEzTTk5NjhrMHVYMzhGeG9WN2QteE9fVTl1dGZTN1dsN0tvQ1pta0s4cQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-1eac1a76",
       "date": "2026-06-16",
       "lab": "anthropic",
@@ -15354,6 +15372,415 @@
       "dimension": "cloud",
       "summary": "U.S. Department of Justice calls for dismissal of NAACP, xAI lawsuit - AOL.com",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHJJTGhid2FkMWJZUGFualpwcDd4YUpjQW9iaE5mTmx5ZDY0OXJCc01UMlNMbzFQTnE5cjlzOThid3IwZE5TOVV5dDJ2eTBOWk5rMU9HVE9KaUwyUjhRZkgzaGo5SGZUUUNnMkV4dGRXb2JCYXdxQnJZbGE5dVh4aU5CcnBWSFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c11646a",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump admin tries to block Clean Air Act lawsuit over xAI\u2019s gas turbines - Ars Technica",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlFHZnBBU3YxVEtsak5YaVlsSkVlUzY5eVoxbTZsOUZ3MjdScDF3Y0lrdzJOMDlzNWl6SnE5eGs1MzVyaE9WNGdNSTBSdlVyOUNzUTdubWxzdVJOT2VwTmttbHRWUTFMaHlCV2UxMW1zOEVwalRVdHplTVdIZHp4X0Zpb0pQMjZmSUVyWFVLM0J2aHJEZlBMaDg5MVlQUzU5WDVfNW9iSGxJV09wbmNqQk90bHNyR01DcUdNbjY2bHg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3bd11df5",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case - CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd19Fb2owbkx3QkJNS3E3NUxQcmd6RWRidEE5cFRoVXk2dzF2T0t5SDBaNDFRempjVEdaMi12MXAxOHNSME9URXhoYm1SSnNVOFduakd5TjJrQ3BzNnRIQldZZTBuUGx4SGhxYVFwQ3JVZDBDU0xwc2pXOEdJaXNFWklGX3ZyZngya2VqTmoyM1huN2cyVFpvX2ZEakExUTRLdkd0TtIBqgFBVV95cUxPUnE5bExzc05KMDRPbV9QSF84bUdPRVlrRnpaLXpJbTBpMEc2bGN5NFF5WHpHczlIUkZfMmxzR24zeFdtcDl2V2NLQS05S3NmcldwSEJLZ3pqVFBMcGhSenl3WjFjZ0ZaT25UaF93elpSZ1duMXJ3cU9UUkpSX3l1MVFkSFdNanhtQW5tdnFzWWlBV3RrSWVzanp6dUV5VU1OVWI0VjBmanpVZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-428cc2d1",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump Administration Backs xAI in Southaven Air Pollution Lawsuit, Citing National Security Concerns - Mississippi Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1NmM3g4Y0gzOG44Q2tpOUJ2ZDNobW1GWDRSdS04N3dhU3RKelNzS1FiRk8zN0lsa2k0emxra285dFl1RUpQbkV1VElKVlFSc3ltVFFTU0hJRTFmRzFLcmR5dWpubzh2cHl1RUVCZTVTVWt0RFpaSmtZMFUyMmxQMU1ibkthb0dIWmZ5dGlIM2NBUEljazZUM19Pdnd6aEEydVN6bEI2QnlVSWxKTnBIQk9IOFlvb2dSd0RlYlFINGJEcU9IOXhiNDNvdWI4dkdNUUNJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-54819f52",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ asks court to toss NAACP's lawsuit against xAI, citing national security - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUDhRT01wY20xUldSQlBtYzVnQTZ0RmpGdEszZjJVRG95TlhzVXdNMHN0QjdtZWxsRWJrR1JfbXllRFlIVmNueVlrSUVHZGxFUUdCal9CSmFLY3owc2FGYUJJOUFDQTNMd196bC1BUjdwYVMtMjZiN0dhbThSdGlYWDRZaDVRRHVYODVYd0lnVl82WlZQRXZJWXlCNGV0SjJQUFhWamdJc2xoNU5wekRodkhvb1YwMGZMeHc4NGV2dUxHMzVmbXFRTlQ4QXkxSUJKaTZxRW9NYkRhdWttOGRpeWhGTUJoWkxtTm5wSEVsQ0xicXpyLVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8cdd9065",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "\u2018Awful thing:\u2019 Elon Musk\u2019s xAI seeks dismissal of NAACP lawsuit - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2xjUFFtVExPUmR5Z1NjVDFIa1EzY2taNmd6OEtRUEZuYWRNNGFRdTFVaEU5WVYxVlZTaURCQUpkVXRSX1B3ZDF0X0JiMnhHRWU0aHVkMXZ6STZwZ2NyclhPTmJfaHlUSDZzY3daRXRiVmFXSjdnUG82T2RJanVldkxHMlhCaXFJR1NOWHR3di11cGRZbHk5WXNnUFVmMXpLOXpmWg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a0a18e8",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department Backs xAI in Environmental Lawsuit Over Mississippi Data Center - PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVF1dnBSTDFwR3FiNU9zLWptZE9SOGxYTTJPS2RuTFlYOU5FWGlQcGRFZVdGZ2pyZTRLcnR4eW9WMFROUmoxMzFyZk0wcHBKLXBSNktQMzZTX1FPS0xDZGhHUTVRNnYyY1NkYUxBMFlZZU02aElIZ0RUbmdwZ2ItNzk4ZDdrLWhKNnBqYXIxbjVTMi1ybk90NUYwSUtoaV83ZEUxV2hxdm9sMy1CbVd0U0JPeDNUTVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e447ca55",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department seeks to dismiss air pollution lawsuit against Southaven xAI data center - Northeast Mississippi Daily Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTk0tNE02YjdKLWxONDFkOWE1RDFGNmJrc292eDRlTWZabDVpQlBVdFpGdWd0ZDY3OUZyWkFrSzhqZ3E3RE9WVGtDMjBKSHVjUkQtZ1VfeHkxcjlJRk5Ka0lXcmk0Q1hhSGVYOEwzUXBKT3l3NG9Qa0UxbjlTckhIMG0wNmFlQi1yTVUzQ0dvZFk5RGRLTWo5RnBpVlQyLXd5ZC03ZGhmY2tsOWhOYzB1UDZMdmItMzdsUWtrRUtuVEc1RmxReG9ISmtla3Z2RXBMS0trX3RzcHpGUVRDZHZaX3BMS0tpMVpjZmNWbllPNmd2Rkpsd2VmdU9jNkV5OEhKM3haLUtIWlltS3cw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-38744a91",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Defense department used xAI supercomputer to target Iran - WREG.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTNTTFVBUk5RXzY3RzRRR0kxRlR6T2hIalFsMzFDV3dUQkF0dlNpbF9lZVQzMFZleW1pV3hPYmRKdXY1dkQweUZRSXlaelFYUi1nSkpEOUJWX2xQWEtfNTEteUpzejR4aFhSVnd6aTNPMjlkZ1ZXSWpnOW5oZXM1QnBxWXU3elJmRkE2TVJRRDZhWVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7860c9ce",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "In boost to Musk, Justice Department seeks to dismiss air pollution lawsuit against xAI data center - Indiana Gazette Online",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2EyQVFYR1NxTDZ3Yy1xZVZRUFRVeU1Md3kxQ2ozTWFURXhoU3g1NHRlMXRoTlFXWDEwemcydnpwR21EcFQ3RnBNTThGbTZXMVVsTWtXcmwtSkFrVkhlZ2NJaUVuOVI1NXhqWmVRanZ5Nm9oTzg3c2VYeWJrUG5uUXJNUVhtU0ozMkV5VjJHdnFHdWc1VVJzdmN0WW1FVWRHQWFiVXFKZnRGbmRNbHhaRnUzVThpSUJiZVZXUFV4ZkZWMW0xSlJRVHpuSnhVbVMzRzFsQkRZa2J2Z2wwaFZXSEg3MkFaVURXOHlwQ2dpYjFfRHNUSGc0TlBudGNkZElGN292U2Y5N0s?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-24ecf951",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI files motion to dismiss NAACP lawsuit - KCRG",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSko4eEtmN0FOcjZkUkhjYWVuZHZrTHZET25mNTJ6QVM0eTdBeEpINWt3U1BZckFBeUs3RmxkbjRUVFJUa0J5Ri1fZVZJZmxoeDFVZzZVaTAzeTZmUXh5NXlWT3dVX0hQb3lyQk0weGg3YnZXN1gxTWNtcnpiYzJQSnZOMA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7e72e73b",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI files motion to dismiss NAACP lawsuit - WTOC",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWdSeTl4ZWk3NTlqX3B2Q2lTd0ZDWUx2VzdrcW5zRGdGOU45Nm9sa095aE9HVnFjOXJzNEhaRnF5U3hZLURpa0FsaVpXM0gtc0dDbzJkS2F2ZTQ3QS1ERHVrb1l0ZmEyZ0VxU0QtVUhzbzlGNW5GQkFFYVRNVU5OS2RmMA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c96566d",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "\u2018Awful thing:\u2019 Elon Musk\u2019s xAI seeks dismissal of NAACP lawsuit - ABC7 WWSB",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1J5OVdQSW10V2pLb3BSU1BUcFRrVEYyekpGM3NiT3Q2bDdPdkx2QTJOTzZCZlVhekpEQjVFUXBBNy1RNTFxQ0dGYmtBd3dza1dzcjY3VWMwRTF4SFJfMTVoc3Vpdnp0WlFScGxVZzk3U05hUEZCVldZVWQ3aWhxZVFiSmo0dGhYM1NMOXFyWUc4T0Z2eDBoRHF4TFNIZzBBeEJ3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-739359ef",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI files motion to dismiss NAACP lawsuit - WDBJ7",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0tJdEFmM3gyNmNYTGoyT2pIVmpMQnlGdmR2Zkg5ckR2N2p6UUNEdW1pNWp6dVBBNXpMM2pVdnVvc0w0VXBVZkJ2RGtaUEIwN1Y1Vldjd29LSjgzYTBabU5mMEY1TjhWb0lBVnhsang3Zm1ndlVWc05HSEw3bEFYeHZEUkQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5291f5a3",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI files motion to dismiss NAACP lawsuit - KY3",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2ZNRTNmeGstYnBlU0ljNDdGekF5TDFPeEc5NkNDc3IyN2p3WGxxOGNCemg0Ym15c3k1alNHZFR3cmxqY2RUcDNhaWF0Sjg5QVV2X2otRHBsY3lsdWV0RVk1TjA4RV8zckJyT3kxbEpia21OR1lOU1ZzNXFXRzEwVUF3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1469b98f",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Trump DOJ Argues xAI Gas Turbines Are Key for National Security - Bloomberg Law News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1JSZElhWHhCUGV3TDBOMko0MFp4dzVndFVJaW5mTHBrQWNvcE91VlE1em5DS1ZNS3dyNkhhLVNXSHFyQmxKQkt5Y0MwblQtOEJ1SG1wTXUwRzhQeWRpSDI4Sjg1c244S2g0c1pURnotSzNmck42V2d1Ulc5Zk9CamZUWnRjZGpvM0hSYmk1MU1sTFV0aUhjcWY0Z1dqbXg3Ync?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-44b5e6f4",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "In boost to Musk, Justice Department seeks to dismiss air pollution lawsuit against xAI data center - The Independent",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1pUVUQ2cmVvVnRMaW9WWlRZTjBsSE5pY2hTYndiZDJHbzNQMy1DU0pHM1VZbmdKYjdWemZQVEt6clZVek40WmhSNndpWTUyQWx3N0liYS1LTnhwTndNR0xGQ2s3TC12Mk5ER09ZaF9zUEZtanpTOVphSVFzQUVCU01XZ0tqRzlFM1AwZnZpU2xSMnNhOWU2UC1YY3JZbXJ0cDBoY1hqRjJjcTlYRVJnTTRacVBwbHdMMzdUakJJekE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-adf2a182",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Asks Court to Dismiss NAACP Suit Against xAI Data Center - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWThxSHlESmhNd3pMYXFOLTVQOVprT0xTaVJoMzg4UVBXYUJBb3lZT05DSDR0X2RnT2xPWm5qRlhQYkY4WFBwQ3lRM0dYZVRXUDdPTVVRVW9yOUdjRnNCM3M3Q1A0RkYzTVIwc0tsbTNvYU1iTVBmSldvYnh5dE1DNHdnaDNaMUUyQmp6SUI0dmgzZVpLVXpUM25kWC1UMzUydnhpZA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d420a8eb",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Urges Dismissal of NAACP Suit Over xAI Turbines - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbU1iVEZudWVTYkdVLXRaNFlPS1h0d0RrZTJrb1hsTnIwSjNXaFR1WHdQcFFqYlFCdHliQ0FzRGFaQmNFOHV3X1JFVk9FQ2NNeE52OU1RbDZGQ2RLODl4ak9mZmEzZ3lENmZzT3lyREtycHNFVkV3cjVzekUwT3JXbkNRZTJrUFJsNk80ZXozTVhBaEFoM3BEMw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4cc917cd",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Wants NAACP's Air Permit Suit Against XAI Tossed - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFpTQ2ZUTXcwNzQtMkFrcTA5Ulh0WlAtRHlnVmhUMDVVakxYdjAtOF9wdERGelNCdk5hWThJSy1oQkU4aG1sZ3F4YnVUY2tYQTV0R1lELW16SjFGcGg3TjB2RDJRYVBBZUdyeVJTb0NISDBvbXRUTmJVeTVXUjc0QnlQYlFDbHdJV1ZrbWhBbXIxUlg4bGg00gFWQVVfeXFMT0stSXZLOE5Mc3Y2ejZFWU16S2lyWXRfZUNkZmp6LXZoY2tBSkdjcTg1NWFYS2xwZVZ6bVNCbWdNT1BxbGRwWm9RNHY1S0NOSTRKTGR6QUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f927991b",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department seeks to dismiss lawsuit against xAI power plant, citing national security - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44ZHVWLWNUNVFrSzRlNGZZSkVVbkwtWHJvZVpJcGRIM19GdDU2Ykt2U2xhNWdtaEtJLXIzR0tCVFpuU0gxUVJYRDFKa2htbEFhOFZPNHZqX2gxOUlHQTNNNnpodkQtRTRGUmRkZWYxZ0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0919bcf0",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "In boost to Musk, Justice Department seeks to dismiss air pollution lawsuit against xAI data center - Castanet",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMjA1QmJPTzA5OFZlQWpRbkpvN09pU1F2RzNCV0luWkZJNXVtOE52RDFOWk5jaWk5WXlvMHRNODR2akNBUy12d1U4NHFVVU92UEoyRUxuOExERjkzTjB3LW5vVTQzSkg5ckt1dktxNTJDc0U3WjlTekF5Vkt3STliemlqbFZEWkt6RzhWQTYzclVLLVVHSklUWHQ0UmN4TmtHWnBRSzZIcHJmVlp6aEM0b1dCWWYyaG1tdTdnbUh2LVRuTWJxUFFNR0IyMWV1VnFIZ05EZ19TMHhsN1BJ?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
