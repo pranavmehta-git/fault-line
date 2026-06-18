@@ -16284,6 +16284,160 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-09d98713",
+      "date": "2026-06-17",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "source_url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c45efafc",
+      "date": "2026-06-17",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "source_url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-13c378b0",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department pressures court to drop NAACP's lawsuit against xAI data center - Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEQ1eWptMzZIVmVqZWIzTkRFaHUwbkpwZEpDTm9ncEJOMmtXSkxxU3k4RFBiUUNyUnEyeWR0STVuVGx3dk1ERm51NFJzX1ljS0VOOUdFRklScy1mR2VuZDJqZEk3RmY4M3hHRGlFcy1zTXZqaklCVktnRXB3NTBFOU9BMXA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c46cec66",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Environmental Advocates Condemn DOJ\u2019s xAI Intervention - Memphis Flyer",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFdPbmluMF9tcm9TcG1YYWxYNnFSdlB0eWwzSE5iZGNkYnhYeEFXY2RIWkxYUDh0R1VUUXVXZE5vSE0xOFZScjc5d1JMUEdWZ1h2TXpSeHZPdk4wOU1IT0NYeEl6cU9jZjAzS0dmZTNwMzlDX21GV0FWaVFWVFJ2Z3F6QmFYV2pVYnd3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6d1d48ad",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Feds defend xAI data center\u2019s noisy turbines, citing national security - Straight Arrow News - SAN - Unbiased. Straight Facts.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVgyajNGSWU2NTVtWVBmQ083LURXbHRDS1lCdkNzSEcyTzgxR0NTb1E0dUpISjNiMTR1MjlzZmFvSDY4Q1hXNWlaR0tQWGVpMXEtUzljbC1aQTlzUHdFYVNFSjdkOUgySlJqaklTazRaZjIxb05yNUtqNmxocldGUHhhZUJ4T0ZzR1lBZEpoZXNRQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-31b7c1c6",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ asks judge to toss NAACP lawsuit over Musk's xAI turbines as critics warn of a 'power grab' - The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHU4V2FOeFRQdGdPUFRhTi1IOEdnOU1YT1NPUXp4WUZ4NTdrellBemoyUVVEOV9oSG9RS20yWndoNDRhTGpGSTQ3TVRXV0U2T2xObEpEckRib25PZU5qU0VUSlVpTlZTWFYwc0Vlc0JVNjFCNXZuWGduaUhHTTNvVFdMZ3Q?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2e7d6852",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ seeks dismissal of XAI lawsuit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVpLTXRZWlM3V3cwOGNuYjFDclZYM0VBSzMyaWFkMFZ3Zm5nYU56R1g1enJ3Z1N1LUhpd1EwSDFvOE4tbHdvbnBpQzZ4bE5XUjUxSWRxSTFERXFTN2tMVE96UE9OeHB5OXEyaU40c0NnU3hmOFI4Y0VkNURsRVl4MllWMktqWmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8f5014cf",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump's DOJ Seeks to End Lawsuit Against xAI Data Center - Earth.Org",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1ZpYkZqNnI2MHVFVEpsdXF0VDFxVHhjQWlYcTlvenpJQ0RlQTJBWjJYWjgzbEx5aEhxRUV4SWl6ZDVEYkwwV1dTemtEZW5jMVlma1hiM3lud0JNWDA5YzNzX25vZjR2bmU4V3g1VGl1SXVxQVdkVWJLaHJxMVdPakszLVlVM2V3bFNUTFVrQ1dIci1ack9xd3hwdEE5YmVHaUVtcWpOcDRtRl9USmNJQy1MUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
