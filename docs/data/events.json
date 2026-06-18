@@ -15837,6 +15837,26 @@
       "historical": false
     },
     {
+      "id": "evt-c4c8cddd",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "In boost to Musk, Justice Department seeks to dismiss air pollution lawsuit against xAI data center - AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzg4N29ZWGpjVm8zMDZEOWNRZ3JVM3pud1Z3VnN1dHl1NDBmcndwX2hYdGhMYXN1UUVuNW14Z1JjWnA2dFlRREJpV2FpMXpFNU1FV2NvMmZzT3RzX3IybFRpTkZtLTFHVGZzakM1MTV0dnVJZC15Nm03eU4ycEVrSG5SYWE1dkc0ZXlvYVZoVE1waG9KMC15U044SVU4QWJlb1R2c2pvWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-4cc917cd",
       "date": "2026-06-17",
       "lab": "xai",
@@ -16455,6 +16475,44 @@
       "tags": [
         "aws"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e6781894",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Takes Elon Musk\u2019s Side in NAACP Lawsuit Against xAI for Polluting Black Neighborhoods - Democracy Now!",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BbkJIUFJud3MySjdReG5tTV91MnVQT2o4ekMwN0FNalBpT3JRcDJzVVJtR1JQWjM0MnVLc2hnWm00QzIzVzVodWYtcWNScTdvcjdrUzZPNzFvXzRBM3dRanRpaUlDYnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9016f306",
+      "date": "2026-06-18",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Grok Imagine Video 1.5 Goes Live: xAI Tops AI Video Leaderboard at 86 Percent Below Sora - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1HQl9NcVpZYlpVYS04UWk4WTlySm40bFc4enVIOU9ZVER5Q19HSUY5YVVpMEx0M3B6YW1JQkxOcjhKZS1vZDN6UTVab1RmN3ljc0ZvdER5aFdKLXBScnJfUmJKS19fUzR5VHdxSXNqcjlWcXI1NFRsbFRTd3ZHRklxZmZ4LVZScU92Uk9EVE45ZVhOaDRfS0Fzc2NSeW1GVHlHUHJMYUNSd1FaNFlLMUlwcjZybVk3cGxPZnRzX0hBMHRqamNpc0hfWTNMTXJiUXhWRA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
