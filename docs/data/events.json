@@ -15857,6 +15857,26 @@
       "historical": false
     },
     {
+      "id": "evt-76e882e5",
+      "date": "2026-06-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "D.O.J. Seeks to Halt Air Pollution Lawsuit Against xAI Data Center - The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzNyZ1NEVHM5TWlQZmZ4ZGJxdW5QczN1THMzc2tKZl9DTWdNM19JSnFjNzB0QVJyc0RLTDJ6dWlFTS1GN25tTHZYVVF6VjZzWmV4aGtfaTVXMDEwUjM0X3BBWDV5b2lrQnFyS05MRUhTLVEwMnhVbmc2ZFlVVEYzNXB0QzBadGM0ZnZ0R2JZZnJ2LW5Lcjh3eXRidw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-4cc917cd",
       "date": "2026-06-17",
       "lab": "xai",
@@ -16513,6 +16533,134 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-44338038",
+      "date": "2026-06-18",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "New usage analytics and updated spend controls for enterprises",
+      "source_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4d334b4b",
+      "date": "2026-06-18",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Improving health intelligence in ChatGPT",
+      "source_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ae623e75",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit - Utility Dive",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHhFZElmVW5SSnhpcVZsd2Q1QmNpcGJTc1YwQ0YtOXE3UVp1ODRqNXY5TWxrdVFQaFBfSUFydGU4bzJsaVNpd24xSFFsU1VuM1lvbWVBVHZ6a3Q3LU0td1VvWFdsR1JubE5rNDhidkVDaGt6eWEzRkJ4SjJsNnZRVmI5ZVZhMHR0NzJ3SFV4TzhvbTg1bVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0353c728",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "xAI Memphis: The Trump DOJ Is Trying to Do Elon Musk a Big Favor - Balls and Strikes",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53dHhiN0VwX1ByYUV4UHpfTlRMUEEyaXkxSHlIZ0FDY1FfU01XLXFpRU14a1FuX05tT3daRUNIeVgyb2RTZy14S2V5cUQ3QWU3Q1FWSGk5bzlka01wWWVISHoxRHZtejFMemp4WGhiRGdlNzkzdGU1NVh3aFh1UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-debc4520",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Equipe's revenue surges to $13M in 2025 after snagging contract with Elon Musk's xAI - The Business Journals",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGFjenBBV1cyZnB6MjQxX3FwNDVDdWJvWjNiSjVjRDdWNngxOG1OX3JfQ3NxY1ZIaFVqV1hQck9EeGpMRERVQkhhRnFGRENmMkZiNDR5bGozcTY5djJndGdOZ3FnTFhWX1VPQUVwV21qY194bHZpUVpSYUM3RWV2RU1RQllrTWdtdElRZjQ2aVJ5eWZyd2xPX0RMSGdZMF9mTURfOEdMWHJsQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a765d5b6",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "xAI a \u2018failure\u2019 due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun - Proactive financial news",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObzVfOUJVR2pUWHRqTlR5U2pqeUREaDBJLWNMZ3pMblRXRUJwdGxiUUNIYklZRkhQMHhlMmFwcVJqU3dYbTlLcGZfbVdNc2JzcGduaXEwLTQwMVJJbXJ5d2RsTHZzX2RIVWpobWk1T1phYVQzZmZDdkNINmczLUFoNk1Xd0M2bmpyVmRIdDlwbHNqMnI4TS1ibUVwZzJYTUdpamktbzB6blB4YXdTOE1SVjdWSW1PanFBdm5IQ0lOT0hyRXBlZkVwbVMxRTduRm9wUHVlZWhwQ1l5U1QyZmZTOE1DVHpEMmo4aWxkdVlzLXc2RXhDSTVIay1waUNkQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-068e7007",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR29SUWc3MGtWbUE4ZV85bjJnQVhxUG5ZV1dadmlzd2dLTHB6YWtTN29LWnlKeXQwd2Z0cEp0Z1piMkgwTHlHZ0Z4NE9YMFpPdEJSamgyZkVSck41MDdJVzNtM3ZDRGJPRUpwMGFIVGNab3VvS0cxaHJsenVBUzlQa0lFZVN6QzhXWndNODRFY004aVpH?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false

@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-18T14:52:33Z",
+  "last_run": "2026-06-18T20:13:58Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -7,12 +7,6 @@
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "status": "ok",
       "articles_found": 20
-    },
-    {
-      "name": "VentureBeat AI",
-      "url": "https://venturebeat.com/category/ai/feed/",
-      "status": "ok",
-      "articles_found": 1
     },
     {
       "name": "Ars Technica",
@@ -60,28 +54,28 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 52
+      "articles_found": 55
     },
     {
       "name": "Google DeepMind Blog",
       "url": "https://blog.google/technology/ai/rss/",
       "status": "ok",
-      "articles_found": 20
+      "articles_found": 14
     },
     {
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 100
+      "articles_found": 102
     }
   ],
-  "events_processed": 875,
-  "events_added": 3,
+  "events_processed": 883,
+  "events_added": 8,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-06-18T18:00:00Z",
+  "next_scheduled_run": "2026-06-19T00:00:00Z",
   "pipeline_version": "1.0.0"
 }
