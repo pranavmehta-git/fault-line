@@ -16438,6 +16438,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bc67ac75",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Feds seek dismissal of xAI lawsuit in Memphis and Mississippi - Tennessee Lookout",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1RHWTZ3Zm4wUS0zcXVUa2J5YmZzWndOSFhranpJcVcxVFNDb01RLTA3RUxLRjNuSmR3THlreWlnWVh1c0h5TmcxdW8xU2lsdjhDUm80NXZhNW8tcDZhY0FjZWxEay00NW14dXhUT1MwMzBPanhxakh3Z0ZOcXVodk1PekFoNE9BYzd4eEhVaFJOc2RJMHJRV2lTblJrcmpjS3A1MQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
