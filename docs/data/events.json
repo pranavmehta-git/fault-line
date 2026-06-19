@@ -16664,6 +16664,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c2bdcd9a",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Grok Is More Important Than Clean Air, DOJ Says - Mother Jones",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXJyQ2Z0dmNKeGpzYmxDdDRSQUFjSVEwYTRnQ21QUUY2ampaaE1SMVBiaDVWQWltSUpWZjV2ZzF5SkFNYlJocW96SjBnZ1JLcFVtRTJDSXhyeW1KRXI2QTJuWDAzeFVUN0RoVWdvV1dYckp3dkFiUF9Nb09VcDVSWVFqdXNiMEJaRE93LTdnamxYSUwwTEFWR0hDcV8wVFdiNk05Q3RSSjBLdGVMR2dVOVRJRFkyOWVETF9yQnVXNEFzdkNYSEYw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
