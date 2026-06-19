@@ -16682,6 +16682,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c41edae0",
+      "date": "2026-06-19",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Barret Zoph is out at OpenAI again after just five months",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8344cfdb",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Trump Administration Grok disclosure sparks questions over Iran strike planning and Musk lawsuit - The News International",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWxnMEpUV0s4TFE0UGJuRVBReWxlX3RHOWFzNV9BbGU5dXh4SGRTQWI4Zk5NS0J6ZHk0SV82b2EydW5va1NZZWlrZTIxMXkzUjlYdjhFZzBWU3p2UkFaOGhROTN2N2ZnQ2NJTFZuTS1oOHRObDRMVnFvNUhHVnFuZ3JSZU5JRF9FQ2xZczRmaG10Ynk1T0FSZ0M0cFZpUE1XOUZLNDhBWGFRazNHZTNBaE5idDctVGVQV1NZWERIZ3BXOEZ3eTF5R2JIczBnZ0hsMHJwUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
