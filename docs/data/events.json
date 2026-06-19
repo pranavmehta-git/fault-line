@@ -16720,6 +16720,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-011f8174",
+      "date": "2026-06-19",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "The film about Sam Altman has been dropped by Amazon MGM",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7594e3ca",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Days after DOJ sided with Elon Musk's AI company xAI in datacenter pollution case; Pentagon's AI chief de - The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPdC1DM09id1BQVHZXd1BCWjI5UzlQTzQ2QlZ2X3hzMTZ4QUNxV2JJd192LW1ZcjVDWjlRb3otTHFmSU85YUxLd0gxdGxoZjZrWHhKY2o4TmppUGRKdHFvdzVmZEFzQW91QnVzTm02M3N4b1h1VVVFSmdxQzVWVDVMWV9xWk5zTnFOZmpqcUs4WnJOSTRtRXNrQXVQYTAtSWx4UVlnb2gzaEgxXzZiVDh2NnFQX2xiSUFzRzZoZkRxQjdGcFoxXzFkZDZBdU9PaWpSNjNtSVFSc2N5akx4Y0lnRDlhVkd4YjZlUzE1T003ZEdrdlpXT1dFUXBxUzRPZzhqWWpqY1BKbnFXN0h0MTJ0Y1BEaVZSR0F2cnoxNDZlRkx1T2lzR0h5cktQam9rYUdoNDFzYjhaZWgwMnFtc1B5eFpuamFsWlRsVUxLbTJzc1BKdUZWeXI2ajBlcHBXMW50d0xwOS0xbVA2VTNU0gHyAkFVX3lxTE13Sk5Vbk43OG5OTmczQnNmaDNiUTd3eS1SNUFSeHhUdWIyQkdta2RZVTF0a1BzMm53X01RREZGc2tFTkFtMmJCT21KODd4TUU2NXZINTRhLU5oLW1DSFNRNjBocWh3UUVSWFQyZHRuaV9PTzBaWHNIQmZjS1pMSUVSWURFME01bW5na0p6YVJRM2J2a3ZzQnd6WE1KVXVuRkFpUkVLMy0yYVA3Q2paTVowank2eUUyUG0wNVJLeEVpMWxqUnFHQnpyX09qSERXLVFTZ1huNVV2Q1hteTdQYUZFM1RYTEZ5MllaVEtubENRaUxsY2dhRkZOc0ZBZ0ZiaVByS2Zjc0N0dG10YXpXN3duWXo1NnRKMDRnN2NtV3R6elh5NlNyZTd3RWZ2cklzVkRjcDlnbUR1dlRLSmlKdmxvTDVxQ0p5Szk3WGl0MmloclVVMlRMdjU0MXY3N01CRTRhdjJjN19ZX2hFOHhJc0xSMHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
