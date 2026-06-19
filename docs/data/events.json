@@ -16754,6 +16754,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-dbff63f8",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ seeks to dismiss NAACP pollution suit against xAI - BetaNews",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4MnY1eXhxY21hQjc0YjdjOXh6ZTFGeElLOFVVVTF4Tnl4SlEyNTZHUk15b01HTlZxMHlYc1FuQXRWLWl2RElkRHhzZktwX2FIU0lFUkR4eG9jZm1xSU8tUzRETDRlU0JKX3JQUkFvUTQyTmJ6?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-52bf8f29",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust and XAI CLO & Income Opportunities Fund to Host Webinar Covering Important Fund Updates - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOE9ZOEM4YmpPOEdOUWdMSVF6aG9SNFFLay1sNGM1cml4Q3Bzc1RVd0ZVV25GbUEzZWtsNVpuN1dLMHNrSExjZ2ZZVDB6OHNCZ0w5SVVjXzQ0Vjd6NEItZERsYXE1Q0FiUVBvTi1PZTJsbDNDeENxVHV5MXNtekw1TXh5YjFqUjd3ODkzaXc2WDJUUnBzM0tock1Cdm16VVotX3pZRmdCSWNHaHN0WndMRXJLdjlJd09RYlpGYkxmZkU1M2FIUHNEMkRWVlBXVGcycnFlNFBHV0RkRzZOVlVhU2FxUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
