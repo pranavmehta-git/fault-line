@@ -16808,6 +16808,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-64b2d2aa",
+      "date": "2026-06-20",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI beats Musk\u2019s xAI trade secret lawsuit in 2026 court win - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0t4MWdJZjhuTnZjRXJjbW9sY2M5QkR5UUg0SEV2MjNUNVZqbFd6X1B0ZlZzR2tjM0l0Y0psZnRBcTFQbXdnaTJxeGUwRE5HUGxtZThjOGRHdWtMaW9JN2RqTUJRTkstWEdtazZmcmlrQl9McW9POXppN3BxNGExNy1ZWjJWbUxONnBj?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
