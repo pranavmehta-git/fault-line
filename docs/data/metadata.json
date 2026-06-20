@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-20T08:44:29Z",
+  "last_run": "2026-06-20T13:46:01Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -54,7 +54,7 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 51
+      "articles_found": 50
     },
     {
       "name": "Google DeepMind Blog",
@@ -66,16 +66,16 @@
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 98
+      "articles_found": 95
     }
   ],
-  "events_processed": 892,
+  "events_processed": 893,
   "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-06-20T12:00:00Z",
+  "next_scheduled_run": "2026-06-20T18:00:00Z",
   "pipeline_version": "1.0.0"
 }

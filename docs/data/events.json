@@ -16810,6 +16810,24 @@
       "historical": false
     },
     {
+      "id": "evt-eece131f",
+      "date": "2026-06-19",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust and XAI CLO & - GlobeNewswire",
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOLUJ6QTRTazhmamV5X2NUcHdEQjFMZlJDa0t3V28zclBKNTVzWFN3SlBDaE9OdjEwUy03ZzlkekowOENzeWpqQ3lBZWZ4SWdKUkd4bGFIdU5leXFoZHdOd1Rma2dlUC1kY1YtQXVRQnJVbnBhaFBDYnE3X1BHZWI3NU53bmhvMjgzbGpNR2xMZ3pXSEZuaUZ6Sm9pQU5RQ04yc2xiUF9HRWVTS3VYZnNPOEdwOXdSRDJTLVc0bFV1VTVQV3hPYXphYnJyUkFfQ2xYR3FjcVpwY2wyeVgxeUdOOTctS1BjT2ZYRHBJbi05ZWFOV21fV243ZVBOVnF6UDBpT2o3REsxeDJWR2daSHM3TVdyd0hYcy1xVHZqLTRRTFFLeUhnSzNv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-64b2d2aa",
       "date": "2026-06-20",
       "lab": "openai",
