@@ -16862,6 +16862,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-985c1935",
+      "date": "2026-06-21",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Who runs SpaceX after the xAI merger? Key executives explained - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlhGNHpQUXdESlFDUEhZX2NhWTBQZUNuclFyeTVqWTJhU1lyVVh5RHpCc1FxNVR1eVBod21mYmlxaGtWNS1uUjFjQ3FnM2RocjVKZmVZYm5SeTMzSWtnWlZWTXYyZWdVeTNGSTJmRnlpRXJyMTJpOERFbDdXZWVPb0gxZE43OUswMTZpcGVNQ0U3Tzc0Vk9xWWJFWEpGOTI2OF83QlpuOGF6ZzZBS0taLU82V2NXYTlFMG9uT2JHSGwtc0psMXfSAcYBQVVfeXFMTzJYRjR6UFF3REpRQ1BIWV9jYVkwUGVDbnJRcnk1alkyYVNZclVYeUR6QnNRcTVUdXlQaHdtZmJpcWhrVjUtblIxY0NxZzNkaHI1SmZlWWJuUnkzM0lrZ1pWVk12MmVnVXkzRkkyZkZ5aUVycjEyaThERWw3V2VlT29IMWRONzlLMDE2aXBlTUNFN083NFZPcVliRVhKRjkyNjhfN0Jabjhhemc2QUtLWi1PNldjV2E5RTBvbk9iR0hsLXNKbDF3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
