@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T19:14:09Z",
+  "last_updated": "2026-06-21T02:58:57Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.8,
     "components": {
       "average_lab_fragility": {
-        "value": 0.286,
+        "value": 0.284,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -137,7 +137,7 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.3,
+      "total_score": 5.2,
       "breakdown": {
         "compute_chips": {
           "score": 0.84,
@@ -148,19 +148,19 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.617,
-              "evidence": 1.61,
+              "intensity": 0.615,
+              "evidence": 1.597,
               "corroborating_sources": 6
             },
             "A2": {
-              "intensity": 0.222,
-              "evidence": 0.285,
+              "intensity": 0.22,
+              "evidence": 0.283,
               "corroborating_sources": 1
             }
           }
         },
         "cloud": {
-          "score": 1.32,
+          "score": 1.31,
           "max": 2,
           "items_triggered": [
             "B1",
@@ -168,19 +168,19 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.731,
-              "evidence": 2.721,
+              "intensity": 0.73,
+              "evidence": 2.7,
               "corroborating_sources": 9
             },
             "B2": {
-              "intensity": 0.585,
-              "evidence": 1.412,
+              "intensity": 0.584,
+              "evidence": 1.401,
               "corroborating_sources": 5
             }
           }
         },
         "policy": {
-          "score": 0.78,
+          "score": 0.77,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -188,13 +188,13 @@
           ],
           "items": {
             "C1": {
-              "intensity": 0.303,
-              "evidence": 0.435,
+              "intensity": 0.302,
+              "evidence": 0.432,
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.474,
-              "evidence": 0.903,
+              "intensity": 0.473,
+              "evidence": 0.896,
               "corroborating_sources": 4
             }
           }
@@ -208,19 +208,19 @@
           ],
           "items": {
             "D1": {
-              "intensity": 0.529,
-              "evidence": 1.124,
+              "intensity": 0.527,
+              "evidence": 1.116,
               "corroborating_sources": 4
             },
             "D2": {
-              "intensity": 0.604,
-              "evidence": 1.524,
+              "intensity": 0.602,
+              "evidence": 1.513,
               "corroborating_sources": 5
             }
           }
         },
         "societal_impact": {
-          "score": 1.04,
+          "score": 1.03,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -228,13 +228,13 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.606,
-              "evidence": 1.536,
+              "intensity": 0.604,
+              "evidence": 1.524,
               "corroborating_sources": 5
             },
             "F2": {
-              "intensity": 0.431,
-              "evidence": 0.759,
+              "intensity": 0.43,
+              "evidence": 0.753,
               "corroborating_sources": 4
             }
           }
@@ -248,13 +248,13 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.708,
-              "evidence": 2.421,
+              "intensity": 0.706,
+              "evidence": 2.402,
               "corroborating_sources": 6
             },
             "G2": {
-              "intensity": 0.724,
-              "evidence": 2.62,
+              "intensity": 0.722,
+              "evidence": 2.599,
               "corroborating_sources": 6
             }
           }
@@ -267,8 +267,8 @@
           ],
           "items": {
             "E1": {
-              "intensity": 0.22,
-              "evidence": 0.283,
+              "intensity": 0.219,
+              "evidence": 0.281,
               "corroborating_sources": 2
             },
             "E2": {
@@ -285,19 +285,19 @@
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.731,
+          "intensity": 0.73,
           "corroborating_sources": 9
         },
         {
           "item": "G2",
           "dimension": "talent_governance",
-          "intensity": 0.724,
+          "intensity": 0.722,
           "corroborating_sources": 6
         },
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.708,
+          "intensity": 0.706,
           "corroborating_sources": 6
         }
       ],
@@ -316,8 +316,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.394,
-              "evidence": 0.65,
+              "intensity": 0.392,
+              "evidence": 0.645,
               "corroborating_sources": 3
             },
             "A2": {
@@ -336,13 +336,13 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.487,
-              "evidence": 0.948,
+              "intensity": 0.485,
+              "evidence": 0.941,
               "corroborating_sources": 4
             },
             "B2": {
-              "intensity": 0.273,
-              "evidence": 0.375,
+              "intensity": 0.271,
+              "evidence": 0.372,
               "corroborating_sources": 1
             }
           }
@@ -356,13 +356,13 @@
           ],
           "items": {
             "C1": {
-              "intensity": 0.47,
-              "evidence": 0.886,
+              "intensity": 0.468,
+              "evidence": 0.879,
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.201,
-              "evidence": 0.251,
+              "intensity": 0.2,
+              "evidence": 0.249,
               "corroborating_sources": 1
             }
           }
@@ -380,8 +380,8 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.334,
-              "evidence": 0.503,
+              "intensity": 0.333,
+              "evidence": 0.499,
               "corroborating_sources": 1
             }
           }
@@ -395,13 +395,13 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.474,
-              "evidence": 0.903,
+              "intensity": 0.472,
+              "evidence": 0.896,
               "corroborating_sources": 3
             },
             "F2": {
-              "intensity": 0.109,
-              "evidence": 0.122,
+              "intensity": 0.108,
+              "evidence": 0.121,
               "corroborating_sources": 1
             }
           }
@@ -415,27 +415,27 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.638,
-              "evidence": 1.765,
+              "intensity": 0.637,
+              "evidence": 1.752,
               "corroborating_sources": 4
             },
             "G2": {
-              "intensity": 0.554,
-              "evidence": 1.242,
+              "intensity": 0.552,
+              "evidence": 1.233,
               "corroborating_sources": 2
             }
           }
         },
         "resilience": {
-          "score": 0.31,
+          "score": 0.3,
           "max": 2,
           "items_triggered": [
             "E1"
           ],
           "items": {
             "E1": {
-              "intensity": 0.307,
-              "evidence": 0.442,
+              "intensity": 0.305,
+              "evidence": 0.439,
               "corroborating_sources": 2
             },
             "E2": {
@@ -452,19 +452,19 @@
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.638,
+          "intensity": 0.637,
           "corroborating_sources": 4
         },
         {
           "item": "G2",
           "dimension": "talent_governance",
-          "intensity": 0.554,
+          "intensity": 0.552,
           "corroborating_sources": 2
         },
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.487,
+          "intensity": 0.485,
           "corroborating_sources": 4
         }
       ],
@@ -476,16 +476,16 @@
       "total_score": 2.8,
       "breakdown": {
         "compute_chips": {
-          "score": 0.39,
+          "score": 0.36,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.387,
-              "evidence": 0.631,
-              "corroborating_sources": 3
+              "intensity": 0.362,
+              "evidence": 0.566,
+              "corroborating_sources": 2
             },
             "A2": {
               "intensity": 0.0,
@@ -502,8 +502,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.563,
-              "evidence": 1.287,
+              "intensity": 0.561,
+              "evidence": 1.277,
               "corroborating_sources": 4
             },
             "B2": {
@@ -522,13 +522,13 @@
           ],
           "items": {
             "C1": {
-              "intensity": 0.284,
-              "evidence": 0.397,
+              "intensity": 0.283,
+              "evidence": 0.394,
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.54,
-              "evidence": 1.173,
+              "intensity": 0.538,
+              "evidence": 1.164,
               "corroborating_sources": 4
             }
           }
@@ -544,14 +544,14 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.1,
-              "evidence": 0.111,
+              "intensity": 0.099,
+              "evidence": 0.11,
               "corroborating_sources": 1
             }
           }
         },
         "societal_impact": {
-          "score": 0.87,
+          "score": 0.86,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -559,19 +559,19 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.509,
-              "evidence": 1.037,
+              "intensity": 0.507,
+              "evidence": 1.029,
               "corroborating_sources": 3
             },
             "F2": {
-              "intensity": 0.359,
-              "evidence": 0.56,
+              "intensity": 0.357,
+              "evidence": 0.556,
               "corroborating_sources": 1
             }
           }
         },
         "talent_governance": {
-          "score": 0.87,
+          "score": 0.86,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -579,13 +579,13 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.505,
-              "evidence": 1.02,
+              "intensity": 0.503,
+              "evidence": 1.012,
               "corroborating_sources": 2
             },
             "G2": {
-              "intensity": 0.362,
-              "evidence": 0.569,
+              "intensity": 0.361,
+              "evidence": 0.564,
               "corroborating_sources": 1
             }
           }
@@ -598,8 +598,8 @@
           ],
           "items": {
             "E1": {
-              "intensity": 0.229,
-              "evidence": 0.298,
+              "intensity": 0.228,
+              "evidence": 0.295,
               "corroborating_sources": 1
             },
             "E2": {
@@ -610,25 +610,25 @@
           }
         }
       },
-      "events_count": 215,
-      "last_event_date": "2026-06-19",
+      "events_count": 216,
+      "last_event_date": "2026-06-20",
       "top_drivers": [
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.563,
+          "intensity": 0.561,
           "corroborating_sources": 4
         },
         {
           "item": "C2",
           "dimension": "policy",
-          "intensity": 0.54,
+          "intensity": 0.538,
           "corroborating_sources": 4
         },
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.509,
+          "intensity": 0.507,
           "corroborating_sources": 3
         }
       ],
@@ -647,8 +647,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.241,
-              "evidence": 0.317,
+              "intensity": 0.24,
+              "evidence": 0.315,
               "corroborating_sources": 1
             },
             "A2": {
@@ -666,8 +666,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.273,
-              "evidence": 0.375,
+              "intensity": 0.271,
+              "evidence": 0.373,
               "corroborating_sources": 3
             },
             "B2": {
@@ -690,14 +690,14 @@
               "corroborating_sources": 0
             },
             "C2": {
-              "intensity": 0.264,
-              "evidence": 0.359,
+              "intensity": 0.263,
+              "evidence": 0.357,
               "corroborating_sources": 2
             }
           }
         },
         "demand": {
-          "score": 0.47,
+          "score": 0.46,
           "max": 2,
           "items_triggered": [
             "D2"
@@ -709,8 +709,8 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.465,
-              "evidence": 0.87,
+              "intensity": 0.463,
+              "evidence": 0.864,
               "corroborating_sources": 2
             }
           }
@@ -723,8 +723,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.549,
-              "evidence": 1.22,
+              "intensity": 0.548,
+              "evidence": 1.21,
               "corroborating_sources": 4
             },
             "F2": {
@@ -743,13 +743,13 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.574,
-              "evidence": 1.35,
+              "intensity": 0.573,
+              "evidence": 1.34,
               "corroborating_sources": 4
             },
             "G2": {
-              "intensity": 0.308,
-              "evidence": 0.444,
+              "intensity": 0.306,
+              "evidence": 0.441,
               "corroborating_sources": 1
             }
           }
@@ -762,8 +762,8 @@
           ],
           "items": {
             "E1": {
-              "intensity": 0.253,
-              "evidence": 0.338,
+              "intensity": 0.251,
+              "evidence": 0.336,
               "corroborating_sources": 2
             },
             "E2": {
@@ -780,19 +780,19 @@
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.574,
+          "intensity": 0.573,
           "corroborating_sources": 4
         },
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.549,
+          "intensity": 0.548,
           "corroborating_sources": 4
         },
         {
           "item": "D2",
           "dimension": "demand",
-          "intensity": 0.465,
+          "intensity": 0.463,
           "corroborating_sources": 2
         }
       ],
@@ -811,8 +811,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.192,
-              "evidence": 0.237,
+              "intensity": 0.19,
+              "evidence": 0.235,
               "corroborating_sources": 1
             },
             "A2": {
@@ -830,8 +830,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.394,
-              "evidence": 0.651,
+              "intensity": 0.393,
+              "evidence": 0.646,
               "corroborating_sources": 2
             },
             "B2": {
@@ -854,8 +854,8 @@
               "corroborating_sources": 0
             },
             "C2": {
-              "intensity": 0.153,
-              "evidence": 0.181,
+              "intensity": 0.152,
+              "evidence": 0.18,
               "corroborating_sources": 1
             }
           }
@@ -873,8 +873,8 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.275,
-              "evidence": 0.379,
+              "intensity": 0.273,
+              "evidence": 0.376,
               "corroborating_sources": 2
             }
           }
@@ -887,8 +887,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.294,
-              "evidence": 0.417,
+              "intensity": 0.293,
+              "evidence": 0.413,
               "corroborating_sources": 2
             },
             "F2": {
@@ -906,8 +906,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.183,
-              "evidence": 0.224,
+              "intensity": 0.182,
+              "evidence": 0.222,
               "corroborating_sources": 1
             },
             "G2": {
@@ -941,19 +941,19 @@
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.394,
+          "intensity": 0.393,
           "corroborating_sources": 2
         },
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.294,
+          "intensity": 0.293,
           "corroborating_sources": 2
         },
         {
           "item": "D2",
           "dimension": "demand",
-          "intensity": 0.275,
+          "intensity": 0.273,
           "corroborating_sources": 2
         }
       ],

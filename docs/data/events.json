@@ -16846,6 +16846,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-97534e9f",
+      "date": "2026-06-20",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.3 Lands on Amazon Bedrock for Enterprises - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKekt0TVZROXlqNzk1RVRQZDA4UzIyLTFlTEgtNjBmcVdLTENlc1hSdmVKNXd6MUJqOTZrbUQ4RU1OV2JlUlFSclpzeHA3cksyZkltaGo0LWIwVThzakxJV1hZWDNpaE5CdUhEZEZOSUNzODRuTF9WQmxR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
