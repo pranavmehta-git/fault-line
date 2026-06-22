@@ -16898,6 +16898,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0bacd07d",
+      "date": "2026-06-21",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
