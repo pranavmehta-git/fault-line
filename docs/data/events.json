@@ -16932,6 +16932,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d8b09e9b",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026) - Amazon Web Services (AWS)",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1ktSkVOR1d6bkIxbUpLS2tveThtLWNJQW5kcDVlRjcwRmgyRkViT2d5QktOU21jRjRTa28zVFdUQW1Fa0x6bnA3T2UtZlRtXzFSSE42R1FNbWg2NEsyVzNFb0U2YTU5WEM0RHNMOXJ2aFJzSTB0ZWNXdWxVY1RPRjVuVEppcUZDX1p5OTl5c2lxZlZfaFZTUnI0Wm5rUjQ4SmtXbV9wc21XMjVEMTQ1V2w4TlpPVTA4RWs3ZDRHNnluY0ZybWkzenNlcVhlQTJVXzhoR094Mm9hYmVHSTZBNQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
