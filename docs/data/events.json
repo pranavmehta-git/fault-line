@@ -16914,6 +16914,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f2631c3c",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "234. DOJ, Citizen Suits, and the xAI Litigation - One First | Steve Vladeck | Substack",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VTTFUbzZieUUwOW13NWFlTm1oQUJsMkl2bDZwbU4wN1d4ZGlyck5GRTY0cTg2OUQ1NWplWHo1WXFTZ3hDalMxcW5DTkJUTDNWZWFGdVc0Tk5vVERMUlVzYTBwT1dCTDUtYzJWajVKRkZwQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
