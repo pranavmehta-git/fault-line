@@ -16460,6 +16460,26 @@
       "historical": false
     },
     {
+      "id": "evt-a4400380",
+      "date": "2026-06-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department seeks to dismiss air pollution lawsuit against xAI data center in Mississippi - SuperTalk Mississippi Media",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2Rmb0VnZ21HYjAxUERPWHcxRHNTNUhSTFhBRXNzVFVDdEU2QmpGU053c0ZfU0VvVDdudGtKWXU3UVJBajF4WTIxSEpFRE1aaG42MFRSSnZ5UHN3NHp4eGpuVHptOTYtVHBNMHZGemxpd0M4U0l2X0Y4dGt1Wm5qMTBtWWttM2RzTXFKNWFrU1QzbXlBSnQ5QVFiRlFSNWsxdlBneDFYdjNlVVd6d21vVjJYTUNPQ0Y1Zko2Z01wRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-8f5014cf",
       "date": "2026-06-18",
       "lab": "xai",
@@ -16948,6 +16968,104 @@
       "confidence": "medium",
       "tags": [
         "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5120ccda",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "source_url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d85a0e1c",
+      "date": "2026-06-22",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US judge dismisses Musk\u2019s xAI trade secret lawsuit against OpenAI - Arizona Digital Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1dGMkNLRHdYVEN1N3JKN1JBOGRLLTJSREJ3Ykx3ZWhBTU9vTW54X0Y4ODRiNWt6VVFESDdWbEUxUV9xUWp5N0N2Mjh4QXFHVVZwMGREZk90VFotQTh3UlNEMEN4dnc1TkdpSjZtU3AwSElxS19jWWtqOHdLZzl3UEljV3dsekRvemUtMHQyOHFUbWJKWURmcy02UWREUzBsZ1RJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-11a06fe1",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US Justice Department asks court to dismiss NAACP pollution lawsuit against xAI over national security - mezha.net",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41aHFEY3NpZ3luSmgtSnU0QUw1QUk2WndjQ1dzQ21lVWowVlRuanl4Ml9ISEhhLUpzMmM5ck5WeWlFcV9nRFBkN3E2bEk5dF9zZTRJQmxWLTlhM0Z5RXJhLWtFeWhueEdKU0g0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eaf58c82",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk Plans $25 Billion Chip Factory with SpaceX and xAI at Tesla's Massive Texas Site, Visible from Space - CPG Click Petr\u00f3leo e G\u00e1s",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOU8wSjNoYllWalZOZXN5TDAyNEJIdVNuVXk2a1NTcGczdlNxMUFMRHViX2VvV2xkcFQ5UThDZXpyY0t1TXpEcjJ4MnNkWU5LbmE0eUpSbXlMbmFIUTFvN2xJSGMtVEl4OEMwZ19INklINGZLQWlsOF82eXRySmZ3bEllMXBiU1BhMG4tNHdnR2VGbmRmdDVDVVltU0ZUdng0aDU5TXFLcHlhaXVLYUFneHNubi1La0N0R3BxV1lRU0d4Tm56YkUxQ1ZsVVBJVEMzWTJNbTFhTGpEc0NDQzhHcEdqZ2hQQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aa9c1778",
+      "date": "2026-06-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX Rented Out Colossus 1 Over Its \u2018Mish-Mash\u2019 Of GPUs, But Now It\u2019s Renting Out Colossus 2 Capacity As Well, Raising Doubts Over Grok AI\u2019s Future - Wccftech",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNnE1WTBsS1djZHUxd3JBZVhNVFZlM1FMN0tYZTZGeWxNeDNobnVtb1ZPaVhjd01CeWhTZE9TOVZRVFp1Y05EVzFSb0xqcl9lQ0pMdUZkdGx5alFNUWpxdE1mbENMZEZNZXhBUjR6cXVCMVcwWHlwQk9YNlJyQmpENW9VdmZpejhLTU4ybWtJaHN1cTBob3Y3M1QxSlFNYmZ6R3lxNTNqeGkwSGVZUlVnS3ptM1JGR0F5OWotREN1RFZGOTRjQmhwalB6TGxuQ0FFZlh3X0h5ZlZFQmQyT05qTmxvN0xsQTRFQkpoTkVCamtYdEtHWE5PZ9IB_gFBVV95cUxNeEFwRkRoMzRZaVozTFF6eTN5VktLRzJkdXo2S3VldEtIcm8wN3JrelVXWUFBUXZkbTluN2tsSGJfeWFtSW9hZWx2Rko0VTJJT0JOSUVOUllqMGVqamJnSDNYZVM4OURYcXkxUnNoZkMyZFRYTHFXTkFXMFZ0VGZiY3hUeGpXM1V1RUw4ZFJJbm5jMDRta3ZxdEhYRThKYjNqQjdCaTNRbHNOZkl6WW9UZkpKQUduVnE5UE1CZUNPVFoxSWR4ak5jUlBxbE1YLXlSV1p4VTBpRGhtRm45SkwwbkpDd1dPSFBRNVA4Zjl5MUE0MnFFeVp0cUV0eThMQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
       ],
       "source_type": "news",
       "auto_classified": true,

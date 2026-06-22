@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T16:45:00Z",
+  "last_updated": "2026-06-22T20:36:24Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,10 +17,10 @@
     }
   },
   "systemic": {
-    "index": 4.8,
+    "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.284,
+        "value": 0.288,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -72,7 +72,7 @@
         }
       },
       "shared_dependency": {
-        "value": 0.733,
+        "value": 0.8,
         "weight": 0.2,
         "description": "Concentration of all labs on the same few suppliers (common-mode single points of failure).",
         "suppliers": [
@@ -92,9 +92,10 @@
             "labs_exposed": [
               "anthropic",
               "meta",
-              "openai"
+              "openai",
+              "xai"
             ],
-            "exposure": 0.6
+            "exposure": 0.8
           },
           {
             "supplier": "Google TPU",
@@ -168,8 +169,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.728,
-              "evidence": 2.679,
+              "intensity": 0.729,
+              "evidence": 2.684,
               "corroborating_sources": 9
             },
             "B2": {
@@ -279,13 +280,13 @@
           }
         }
       },
-      "events_count": 409,
-      "last_event_date": "2026-06-21",
+      "events_count": 410,
+      "last_event_date": "2026-06-22",
       "top_drivers": [
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.728,
+          "intensity": 0.729,
           "corroborating_sources": 9
         },
         {
@@ -473,19 +474,19 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 2.8,
+      "total_score": 3.0,
       "breakdown": {
         "compute_chips": {
-          "score": 0.36,
+          "score": 0.61,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.36,
-              "evidence": 0.562,
-              "corroborating_sources": 2
+              "intensity": 0.612,
+              "evidence": 1.576,
+              "corroborating_sources": 3
             },
             "A2": {
               "intensity": 0.0,
@@ -610,9 +611,15 @@
           }
         }
       },
-      "events_count": 220,
+      "events_count": 225,
       "last_event_date": "2026-06-22",
       "top_drivers": [
+        {
+          "item": "A1",
+          "dimension": "compute_chips",
+          "intensity": 0.612,
+          "corroborating_sources": 3
+        },
         {
           "item": "B1",
           "dimension": "cloud",
@@ -624,12 +631,6 @@
           "dimension": "policy",
           "intensity": 0.538,
           "corroborating_sources": 4
-        },
-        {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.505,
-          "corroborating_sources": 3
         }
       ],
       "trend": "stable",
