@@ -16884,6 +16884,26 @@
       "historical": false
     },
     {
+      "id": "evt-f0d2099b",
+      "date": "2026-06-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department seeks to dismiss air pollution lawsuit against xAI data center - WZTV",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmdoVjVtTFliLV9MXzloSlRBZHFvNjB0OFRUd2lKZzlFOG5Pam43VFY0LXlfNzVTX3hjYnRNRXVORml3VmQ0V3A5VFRYbjhCejVMYzJUaUxRbHVuc3RrYUw5Z0FtSEY1MWtFWDlXTjlmVUFCRmRPSjlWOEZKVmJoQjh0Vm43WkY3M3VUbE41V3ZBVlMzM0dJMm1nNUppVVU3ZnhhdjRWaWUyR2dTZzRr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-985c1935",
       "date": "2026-06-21",
       "lab": "xai",
@@ -17067,6 +17087,24 @@
       "tags": [
         "gpu"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0b297db6",
+      "date": "2026-06-22",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Interactive Brokers Brings ChatGPT and Grok into Trading, Covering Options and Futures - Forex Factory",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblZXWlRMUHRjcGdzdTRMRHpRWlZCek84b0JQcmlMLXRnbWh2OWp1MW81X3doTThiVEJHamRjNzdZcEhTMG1sRFVwVHpWcGwzNHdwc3ZDUExQckRibFV3R04xTkx6dG9pNmRRTHNyUlM1dWNPVHc4Um5NcDNsSEpHSElibmVSWVZPWDNIbG8xaXotMEdDTGs5RTR3QV9pU1HSAaQBQVVfeXFMTm1QalE5a1pIYUVvN1p1SWtoZjNsVFNxc0g4YTBfMHk3d0JPVUVsRGNVOWRFX1lpckstcjVVNmNyMV9vZTEzdEwwYjB1LXIwOUE1X3hUSHZkaXBKRXpXZXM3QmhYVm5DLTU3TUFxQndTY1ltdHFXZ3Q1aFJwdHE1N3ZjSnZYUURDVmZaQ0NWb0JCQTBLQmNRNTA4MDBEdE03c3V3Ml8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
