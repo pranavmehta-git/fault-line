@@ -16686,6 +16686,22 @@
       "historical": false
     },
     {
+      "id": "evt-a0c4ec24",
+      "date": "2026-06-18",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "xAI a \u2018failure\u2019 due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun - Yahoo! Finance Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHVtOFlSU3I4MVhSbGVjLV9OeDYzNG00ZUp6ZUc2bExxRkdsQl9tVXU1MWZZMHNlUmlQMDhGR3hSaVAxelhZNVliTFc1alhQUUJzRWtDalo0MHpEd2RHbW5NNVY2dFh0SmxHX3hkdl92eHFucmpsZXBtYXFHWjlfd3BKRnZvQ2lSdUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-c2bdcd9a",
       "date": "2026-06-19",
       "lab": "xai",
@@ -17120,6 +17136,60 @@
       "impact": 0,
       "checklist_items_affected": [
         "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4736a5af",
+      "date": "2026-06-23",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
+      "source_url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a0f28f16",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Trump DOJ asks court to toss xAI clean-air suit, calls Tennessee turbines a security issue - The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHdFbmdlVEx3Ti0tb2h6QWk0Um9qUFlndVFnNFAxQXJFcWFLLUpCOE1UZ29uYkRtR3hfQ2pBYWRGTTI0QWtwNEJoQmdWS0dvamZJczNDazR1LWRiV0I0MHhjV2pjcjdCWjI5dkJCbmxVZXJvQlFUcmI0VWlTN2s4YnFuWGFPZjhpWjliTHR6R1dlUE0yeDN4WnI0WUVQQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5ac5b3da",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Form DEF 14A XAI Octagon Floating Rate & Alternative Income Term Trust For: 23 June - Investing.com Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3RUd29CWEdyRnVGNkRQeEYtYmU0Wk9vUFc2OW5jdnVrMTcxLTRrbWpNbmZYdE9YTjNyQVgzNHh3SnJKbHNnZDI0ZVhFRFBfczMxblJwQW5HM2pRaEtYOTBHNjAwYWthVkhCelU1OWdhZ3NLdlZGcFpkM1BtQlJEQ1dDSXBVR2ZqZ2ZMajNkV3Y0QldXaTI0Mk1VVGdQczhIU2g0b2RiUFZObUx6TnpQU3ZvY0ViNlp3ZHN5R0NrenM1TGIzZkxsTkhSVWdpdGtvWEFlNENxeU42UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
       ],
       "confidence": "low",
       "tags": [],

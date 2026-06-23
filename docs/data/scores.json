@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T09:26:11Z",
+  "last_updated": "2026-06-23T14:33:21Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,10 +17,10 @@
     }
   },
   "systemic": {
-    "index": 4.9,
+    "index": 5.0,
     "components": {
       "average_lab_fragility": {
-        "value": 0.288,
+        "value": 0.29,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -307,19 +307,19 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 3.0,
+      "total_score": 3.1,
       "breakdown": {
         "compute_chips": {
-          "score": 0.39,
+          "score": 0.55,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.388,
-              "evidence": 0.635,
-              "corroborating_sources": 3
+              "intensity": 0.553,
+              "evidence": 1.235,
+              "corroborating_sources": 4
             },
             "A2": {
               "intensity": 0.0,
@@ -447,8 +447,8 @@
           }
         }
       },
-      "events_count": 131,
-      "last_event_date": "2026-06-19",
+      "events_count": 132,
+      "last_event_date": "2026-06-23",
       "top_drivers": [
         {
           "item": "G1",
@@ -457,16 +457,16 @@
           "corroborating_sources": 4
         },
         {
+          "item": "A1",
+          "dimension": "compute_chips",
+          "intensity": 0.553,
+          "corroborating_sources": 4
+        },
+        {
           "item": "G2",
           "dimension": "talent_governance",
           "intensity": 0.548,
           "corroborating_sources": 2
-        },
-        {
-          "item": "B1",
-          "dimension": "cloud",
-          "intensity": 0.481,
-          "corroborating_sources": 4
         }
       ],
       "trend": "stable",
@@ -599,8 +599,8 @@
           ],
           "items": {
             "E1": {
-              "intensity": 0.225,
-              "evidence": 0.291,
+              "intensity": 0.231,
+              "evidence": 0.3,
               "corroborating_sources": 1
             },
             "E2": {
@@ -611,7 +611,7 @@
           }
         }
       },
-      "events_count": 227,
+      "events_count": 230,
       "last_event_date": "2026-06-23",
       "top_drivers": [
         {
