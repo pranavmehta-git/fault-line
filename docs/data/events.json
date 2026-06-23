@@ -17108,6 +17108,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0b02d52e",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Trump DOJ asks court to toss xAI clean-air suit, calls Tennessee turbines a security issue - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmZDOEp4Z2FqRzZoTEhEQnh6eldrUjFrUThmNHNjZ2FJM1I5YkEtY1lJb2R6bkdvNDVBT2IzaldnY3RKRkJlOGlWcjVBRkZOVHhnQjhyTFlHbG9BS0pPX01idk40RXBPSzlWVFlFQ0lvNGJOUXJfTElrQzRsbU9DanNPVW9SZ3dyQll0SlVR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
