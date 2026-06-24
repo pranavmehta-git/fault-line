@@ -17212,6 +17212,43 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2f2870a5",
+      "date": "2026-06-23",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Hollywood is bending the knee to OpenAI",
+      "source_url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ec40dd84",
+      "date": "2026-06-23",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Helping build shared standards for advanced AI",
+      "source_url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
