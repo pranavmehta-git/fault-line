@@ -17251,6 +17251,44 @@
       "historical": false
     },
     {
+      "id": "evt-52e89272",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Kids Online Safety Act Talks Advance as xAI Faces Canada Review - The Capitol Forum",
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQX0ttS2s3WXpleHhLcWN3UUxMeW1tSVY5SXdLbF9wNjJIVkdNZ0R6RnpSMHdWUjFsc3JFMTdlalVxZmlxc3E3aEdrOXpMZGJiNFdmeEtxQ1NWZGxnOXFkMnA1NVdVQU1IUDFhN2lCelBseWlTakxjM2JGUGN3WVg2R0lnS1BHZFBjcTE1WUpTOXJYM2NJVlFqVEpReVRNRWhGM2g5cDRROHNBeDRfWUZocVBGRnpMVGFodzREQlFpVm10ZUxSMlJIcklhU3BTR3cybWZQRm05LXZIYkVmVVRCSkF5RndZQm9NRG1vdHNab3hCanZORHFEdFkwRE9ZakltT3dXRHpDLUFVeDV0RU5ZQlE0X3NMLVpsVDM0RjdhbnVHMG1zXy1hX1NmOV9SUWN5M0lYaW9Ib1dSX3Y3ejh2cFBuQnRtOGM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-78550385",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Justice Department seeks to dismiss air pollution lawsuit against xAI data center - WZTV",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0tqME1Wa0dpVW16TklHak1RalRLVFFTUmVlRkJ1NlMtVjFEUXE5ZmhTQVFLclB1Skh6akdzaTdnS3N1ME5jYUVRRGoxUGZQcWtMRTNxa09nR3lvaUpudXZFUV83SGt5MjJhRFNQYkpvX2RMMUVYbTl2X1lKelNyOW5ZLTRLUExCVjZIcTZhU2lSOE54TFNHZXlKZzQyVzhHVkg4UnRoelJSbW5nZ1dKNlNnOWZBTExGS1BUVVF3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5a4cdb72",
       "date": "2026-06-24",
       "lab": "openai",
@@ -17331,6 +17369,60 @@
       "impact": 0,
       "checklist_items_affected": [
         "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d3fd6730",
+      "date": "2026-06-24",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "AI researchers continue to leave Google for its rivals",
+      "source_url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-edd65da1",
+      "date": "2026-06-24",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "New Report Put ChatGPT, Google Gemini, & Grok to the Test of Political Bias: Here's What It Found - International Business Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFRKWmZ1MXN1REFKLWlsMlpaQnpoR0JZVGstY1BKQ1hONmZJeGV4ZndXY3JSdGVxQmNWT2dzR0QwMWpHRnFCdlBKbXNSMjZCQkRxUVBOY1dUUW1EUy1LOVladk1LSU1GNGpGdC03T0p0X013dnIwQ1RRQVUwMjNCaHNzdDRJdDFLUWlfZlZsek54a1IwM05hZE8wWDFzX0J6d3FBdUNqM3FqOWtlTElPRV93MA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9548c749",
+      "date": "2026-06-24",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "MAGA Congresswoman Denies Using AI to Write Bill: 'Love Claude but Grok Is Way More Savage' - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHQ4UmJibGxpWHNMQVRIcGN0TG13WHdncnJTT1pwY210YW9LTk1GSHdZV3JTTkZwOWdjeTlVWGxOajVUQW1GN2tzZU81NEk3TEsyay15STJhSGQzR1hrXzZ5UTRCMWtXWXhwYmtCM2hid0hONnRjZTRpdFl4YlJCekZkSmlWc3FuN3lwSGN6cDVVbGFtSWE3WFN5emtJV3loaUNkbTJCd2JOSTdQcWdPbTM2Z2Jpb19fZXFZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
       ],
       "confidence": "low",
       "tags": [],
