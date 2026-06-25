@@ -17429,6 +17429,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f35d0e0c",
+      "date": "2026-06-25",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US government seeks to dismiss pollution lawsuit against xAI Corp - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBycHdIbjVneThxQ1ZsUWlsU2lVQnZlUFJqcXo5ZnY2QjROM0NqRnVxVUY2SlMzUFVrYUYxZUVoazhScHdrb2E4REFNdHl5WlEzZDBlcU5CMzNJWmxuM2I1bFEwelNiWERwRFE1bHR3QnBvSzRhbGRSYlp0bw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
