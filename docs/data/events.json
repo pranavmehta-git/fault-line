@@ -17289,6 +17289,26 @@
       "historical": false
     },
     {
+      "id": "evt-bd898828",
+      "date": "2026-06-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit - ESG Dive",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUdxemd6SGtCMTAzRWtMa0FWWVpLenhQbUN5d1VFc1FfRTNmdnN4MlNxQk1SeFA0RUhMQjZ1UWF0bXdtY1VlZEd5Ry1jODl6SlVxWlZzeUxDdGxZaTBhUUUzak8yWjZYUW9uUlJVMW9wLXdVd1ZGdDEzOFZuanBBZU9GVHRpYWlqaFlGRGNIcjM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5a4cdb72",
       "date": "2026-06-24",
       "lab": "openai",
@@ -17498,6 +17518,24 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ff62405d",
+      "date": "2026-06-26",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Grok drives adult-content traffic as xAI faces safety backlash - CHOSUNBIZ - Chosunbiz",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wcmtoX1U4bEpWMlM2OURrMkMyMGFqRVJTYnRoQlBFblR5VVZfWmxuc3lqcFZ3TUJXaU9EcUJuOEpIeEJNa1MyMjU3a1RWMUpYSXhGeFV6NFZrYW9QbG9FVDVBeGdaV2RLUnRXcTNtTV9jMW5XTVNEdzZR0gGOAUFVX3lxTE5RREN4YWYzS0hrb01ZZXo1MnlwQ1ZXNVRCck4tWEVLZ2JtX3ZTaXRZVmo1TEhkVFhnYmY4aUxmR3dvTXlPNzRwdzJ4NTJzdHN0eTZydFdPSkpmMEVlc3plWjJ0Y3p0SEF4RGdJdGFhS1lnRTlLMFhyUmhYNzZWZE1aUlJJUGVYazJtSWZGQ0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
