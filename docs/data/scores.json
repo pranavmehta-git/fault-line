@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:09:19Z",
+  "last_updated": "2026-06-26T19:38:51Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.1,
     "components": {
       "average_lab_fragility": {
-        "value": 0.292,
+        "value": 0.294,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -139,10 +139,10 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.2,
+      "total_score": 5.3,
       "breakdown": {
         "compute_chips": {
-          "score": 0.84,
+          "score": 0.89,
           "max": 2,
           "items_triggered": [
             "A1",
@@ -150,8 +150,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.626,
-              "evidence": 1.672,
+              "intensity": 0.675,
+              "evidence": 2.081,
               "corroborating_sources": 6
             },
             "A2": {
@@ -281,8 +281,8 @@
           }
         }
       },
-      "events_count": 420,
-      "last_event_date": "2026-06-25",
+      "events_count": 424,
+      "last_event_date": "2026-06-26",
       "top_drivers": [
         {
           "item": "G1",
