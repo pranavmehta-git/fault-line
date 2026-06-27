@@ -17613,6 +17613,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b7e7e151",
+      "date": "2026-06-26",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ, Mississippi recast xAI pollution lawsuit as fight over citizen enforcement - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHBITnR6RmlFdEE3eGxWWWJVYXlnU1pGTmZjZHRsRFdvVUhHQmt1dmQ3aURBTXJ4YjRiNEJGbFY5QkdHb201cFc2SUpVbG1KX3hBMFg4M28yM3ZjRHhVUUxKVnR1aDB0WTUyby1pSmRadWs5ZlZQR2VmNWFmdGNPcngyaTFHZ0kzMGUya09CX1FsOVBBZG9OdC1LdkEybEZ2T2hLVlgyUE1JR0dhVDlHcTM2bjN5NHM4Skw4bXdn0gFaQVVfeXFMTWFpN2RscU9KRVIzbGo3V0hEeWQwNkExTnpORkZWZ1dQNGtpMVJZZDBSdk9yRmNpZk8zRG01TVVURWE4QVM1SDBtQmo2ck15ajh5TzFuZmRPX1Fn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
