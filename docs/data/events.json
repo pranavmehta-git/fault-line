@@ -17793,6 +17793,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d2b5c6fa",
+      "date": "2026-06-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Files Permits For Major Memphis Expansion Amid NAACP Emissions Lawsuit - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFVVcWdjLW9ncEpaUEswRnRpQmhCTmsxN3RoaW4yVU54T0diZDlsRlkwd1ItWGZ3WkFpU2FpeGRWYTdXWm9tTXNVM2NBUFp4b29TU3VCTFNvcmpMWWtzSFFjZGxDSHBYdnlRQllJY1hGR3hhTjRZY3lWQV9KeWhWX3JXdXIxakwyUG5kRnhKLUpfeDQ3bWxPVFcwUDNMVzF2NlFIRW5RZldOX0JteHJIZWR4R1lkTHEteWpoVm5IaWQ0LVJOVWtvOWZMcDBpRVk5Unh4NQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
