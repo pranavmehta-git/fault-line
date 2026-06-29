@@ -17523,6 +17523,24 @@
       "historical": false
     },
     {
+      "id": "evt-a5a35c82",
+      "date": "2026-06-25",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Washington Post Investigates AI Bias, Finds Every Major Chatbot Is Liberal \u2013 Including Musk's Grok - Charisma Magazine Online",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXlyTTdSNE9tbVB6S3d6Z0VOTHJUcGppQTFLVko4Y2J3ZndBZUIwY0FRTTBfSlVBWlcxZU5aZFg2Q1cyRU5WSkNmQU4tQ2dveFdRcEg5UzdWWkFaNlJwczBINXNfejd1N0hENGVtOS1ESjRja1hKcEJCNFM4NC02QjRUaDE5Nm1kcFpING5Sa2cwRHVjZXgtWU1BUzRTb0QzU3p6aWd0UmpheWdpcElaQ2JBd25yU2Zsa3BidHM4ME8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-ff62405d",
       "date": "2026-06-26",
       "lab": "xai",
@@ -17648,6 +17666,40 @@
       "tags": [
         "tpu"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0914682a",
+      "date": "2026-06-28",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "source_url": "https://openai.com/index/hp-frontier-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-72ec0d7d",
+      "date": "2026-06-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "HP Inc. partners with OpenAI on AI Frontier initiative, signaling enterprise AI\u2019s next phase - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ackZfeWt3ZTd0TllCVTcyQjVHX0lSaDRqUkVsUmQzZF9jS1hNXzBpZTgzVHRhTkFfNjZEN1lpNU1pQ19zdEJFWFRFd1lLc21VUFplZ0hKcUJPSmxFYkRuWmRtc0FmWEJOMFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
