@@ -17703,6 +17703,96 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6a847469",
+      "date": "2026-06-29",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Mapping Europe\u2019s AI Workforce Opportunity",
+      "source_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-90817629",
+      "date": "2026-06-29",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "AM Need to Know: South Korea's chip push, xAI's Grok 4.5 & more (SPX:) - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczBSWGxSeVBRZ3k1Q1hOeWhsMVpPaVh5U3kzWjMzeWJXYVlEejNZTV9LMHh0bnhTRG5VN3RhR3BMNllnMDRTWDA5by1UQWNUdWZLMTl6UEwtZUh5b3c1NEd4aEUzemtOZnBHdEQ4N2JZNm1vaE94SXMtd2RwalFSb2p5WUVzV2lDZVJNSXEybVFnTGxSbHFxeEV3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e082f18e",
+      "date": "2026-06-29",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "The most popular feature in Grok is what you think it is - Gamereactor UK",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQk5tdEJteXZiNlZSVHhrdEsyLXRuajFiLS1tRlFEdFdDaXdpVFhOT0JmeEs2UFV5QnViWEVNVGthZ0NYTGNTLTFMR21hdWtETVRwZFdxeUhwcERDdkFnT3dVVHkyU194aHUzaEJOZWFud1c5YnFGYUtjc3pfMWxsT0VQSzdfeTE4d0FMN1Q2TmpPUDJwTkY0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6eb2c2b2",
+      "date": "2026-06-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI, Anthropic, and xAI now consume 21% of global AI compute - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYSkpQOGs0THlaWDV5cGwwU3IzRm5DTUtlV3dOOWF0YU54TWhyS1cxS1oxc1B3RU5RcVVvb3JBWXZwakNVZ080QzdQcHp0QmVHaWJyWDJSRjEyTnViWG5kNEJhc2dhaENzNU5oQmxCV2VXOGpp?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ddea5368",
+      "date": "2026-06-29",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "AM need to know: South Korea's chip push, XAI's Grok 4.5 & more - MSN",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlo2ejllNjdSQVFKMDJMV2hSZlV5YjdaUGU4eU5IOTcxbzZqbU5pdXpCZ2c4WW5FbjJodG1QdmpseU5VN2RjWkdMc2FxdmwySnVSUUNXWC1IRzM0dXd5R1FibHpvT3RXSlljMDZndF9XdTFwR1N2OXFTdXB2RTE1YUM2am5yTTlQVFFqLWk3OHd1eGhlRmVzWk11REdqQkxKRVNEc2wtcE5fOVpsYmJlNW5LY1NhVWJlS09yTE9VcUhob195WEFqZUw3NV9MNWp5Qkdr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
