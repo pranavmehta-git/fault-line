@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T09:21:06Z",
+  "last_updated": "2026-06-30T14:02:46Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.0,
     "components": {
       "average_lab_fragility": {
-        "value": 0.288,
+        "value": 0.29,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -115,12 +115,12 @@
         ]
       },
       "co_movement": {
-        "value": 0.889,
+        "value": 0.89,
         "weight": 0.15,
         "description": "Trailing 12-month correlation of lab score histories; labs that move together fail together.",
         "detail": {
-          "value": 0.889,
-          "mean_correlation": 0.778,
+          "value": 0.89,
+          "mean_correlation": 0.779,
           "window_months": 12,
           "labs_included": [
             "anthropic",
@@ -137,10 +137,10 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.2,
+      "total_score": 5.3,
       "breakdown": {
         "compute_chips": {
-          "score": 0.88,
+          "score": 0.93,
           "max": 2,
           "items_triggered": [
             "A1",
@@ -148,9 +148,9 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.669,
-              "evidence": 2.018,
-              "corroborating_sources": 6
+              "intensity": 0.724,
+              "evidence": 2.618,
+              "corroborating_sources": 7
             },
             "A2": {
               "intensity": 0.209,
@@ -279,9 +279,15 @@
           }
         }
       },
-      "events_count": 429,
-      "last_event_date": "2026-06-29",
+      "events_count": 430,
+      "last_event_date": "2026-06-30",
       "top_drivers": [
+        {
+          "item": "A1",
+          "dimension": "compute_chips",
+          "intensity": 0.724,
+          "corroborating_sources": 7
+        },
         {
           "item": "G1",
           "dimension": "talent_governance",
@@ -293,12 +299,6 @@
           "dimension": "cloud",
           "intensity": 0.716,
           "corroborating_sources": 9
-        },
-        {
-          "item": "G2",
-          "dimension": "talent_governance",
-          "intensity": 0.708,
-          "corroborating_sources": 6
         }
       ],
       "trend": "stable",
