@@ -17813,6 +17813,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8f828113",
+      "date": "2026-06-29",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "source_url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
