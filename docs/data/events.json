@@ -17831,6 +17831,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c179d1d3",
+      "date": "2026-06-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "MP on deepfake bikini photo and why she's suing Elon Musk's xAI - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXZzeVpEdlpTQ2VQWm1LQkhjeWZ1THdMbl9ZeFYwRkFZOTk5RERxV0FyWl9NVktsWXRFTXZWVllKR3V0VnJMc09FZzUtVWxEUEtsVnByMEdRdDI1eHBlX1lYVmJKTHNyUkctRlF4Nks4aTRHQjJrZXRiSmZlX1VqeFplOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
