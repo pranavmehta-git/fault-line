@@ -17993,6 +17993,79 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-dbe04557",
+      "date": "2026-07-01",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "New York City educators and industry leaders gathered at Google\u2019s offices to shape the future of AI in classrooms.",
+      "source_url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d2cb679f",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI launches Voice Agent Builder in beta with aggressive per-minute pricing - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10aS1zVzFyZ2FhRFl1RjgxQllKTkV0R2JwdWViN1UtbGE2c0Y4T1BJMjdWRmMzMGl2NTZ4NjdRMWV6bmdUa25PMjR2XzJEVUZaNmhKZFo2ZEpVcUJvUUUtZjZhMmc3OF96WHhXRkQ5MTlwUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0aaa1167",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "AI chatbots have Left-wing BIAS, Washington Post experiment finds \u2014 Even Grok! | RISING - The Hill",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGJUX2ZuaEJOVTllZFFTNFRRNjhVSURTRmVFcmQtb3JmWmJWeWY1alhuUFpCQzN5YkdSY094dkV5UkNtbFdJUV84N2oxQXdUWFk1eUxUOFJBRm5oRklObVE1M3ZVM3R3NmJJdlEtU0doSmJ5Z09VRFRHc21rSjRhVjRtbTNucFhLcUZVcnpQRkJ3VVRoQTZUczdmMUdUWl9BZ3UxN1p6MWx4ZlcwNEZMVk5sUDJVTmtK?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-51f144d2",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "After xAI, Meta eyes AI compute rentals to rival AWS, Google Cloud and Azure - Firstpost",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWlISzFFV1F5YmJHeG1KM0diY1BpNTBXZ2ZuUGNIT1FfR0NkQlFKU1JtUlJzSGVHenJMdWsxejhad09mRml6a3FsZzczWXRyN29XdGd6ajZmRDZGY1VWRExSanBLdE5TWUc5Q0dLa2tBelRZakZqNmJ4bjg4cmJobGM3OGZDcHNjZ0JPS1FNYklSVVgzRmNqWkdn0gGfAUFVX3lxTE4yVVJ4eFlkcE9wRm0zLWVnNkNJT1lka2xpRDJ3eWtEQm9qU1NiYzJ3dWRyak4tM0oteUZQQzlZdXJmX0Q0OFY5T1JXT1ZIZXpWZkRIRWhIYm5kS292ZzR5VW55bkc3dTNPSWhxTXNUd01KbVpKekpySU9sSUVlM0FFTTZfRzlabkhYV2xPa0JIcnVNQ1BaOVVmWURUR0dMOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "azure",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
