@@ -17975,6 +17975,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f66224d7",
+      "date": "2026-07-01",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
+      "source_url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
