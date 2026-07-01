@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T02:47:43Z",
+  "last_updated": "2026-07-01T09:33:38Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -471,7 +471,7 @@
           "corroborating_sources": 3
         }
       ],
-      "trend": "worsening",
+      "trend": "stable",
       "rank": 2
     },
     {
@@ -800,7 +800,7 @@
           "corroborating_sources": 2
         }
       ],
-      "trend": "improving",
+      "trend": "stable",
       "rank": 4
     },
     {
