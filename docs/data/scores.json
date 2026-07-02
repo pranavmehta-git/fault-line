@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:43:10Z",
+  "last_updated": "2026-07-02T19:13:53Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.2,
     "components": {
       "average_lab_fragility": {
-        "value": 0.288,
+        "value": 0.29,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -141,7 +141,7 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.2,
+      "total_score": 5.3,
       "breakdown": {
         "compute_chips": {
           "score": 0.93,
@@ -244,7 +244,7 @@
           }
         },
         "talent_governance": {
-          "score": 1.42,
+          "score": 1.43,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -252,8 +252,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.714,
-              "evidence": 2.502,
+              "intensity": 0.725,
+              "evidence": 2.643,
               "corroborating_sources": 7
             },
             "G2": {
@@ -283,19 +283,19 @@
           }
         }
       },
-      "events_count": 433,
+      "events_count": 435,
       "last_event_date": "2026-07-02",
       "top_drivers": [
+        {
+          "item": "G1",
+          "dimension": "talent_governance",
+          "intensity": 0.725,
+          "corroborating_sources": 7
+        },
         {
           "item": "A1",
           "dimension": "compute_chips",
           "intensity": 0.721,
-          "corroborating_sources": 7
-        },
-        {
-          "item": "G1",
-          "dimension": "talent_governance",
-          "intensity": 0.714,
           "corroborating_sources": 7
         },
         {
