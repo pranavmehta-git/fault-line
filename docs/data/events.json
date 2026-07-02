@@ -18066,6 +18066,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-dd3865cc",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ Defends xAI in Lawsuit Over Memphis Power Plant - Word In Black",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzJjQU1mODhjUW9hakZSMzZmcHZXQTVEMmh5aVJKNHA4V25MYzVaTHlVX1QtTnZ5NHdzeW03VTFNS2RydmZkN29hQ2lTR1NHemhkTzRFcDFCWGJDLWR5cjlFWVJnYXU5OThWckltaURkWkNVR3g0bm91aWxONzJPMGVBMlcxX0pMWEN5cg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e2f7acd7",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGtWSC15Tl9MeUpoU0xlSFU3MG90eXBVYy1RTFZ2dVE4emQzY2hkZ1NoT1VoTGExX2ZCbXhSTDVfV0xGM3VMT3VzU2FnSVpLYnBBWkotVXNVUFlsLVN1NU5IZ0pYdE1ZVWpmQnJMbGZ0SUd5ck92LVZLS1pqbE9fdEljSUJ4UmduenlLRkZIMEd4Y2NZNE5TaGVITVVUS0pQdzBB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82bfd45c",
+      "date": "2026-07-01",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Samsung Foundry Formalizes 1.4nm Mass Production for 2029, Expands Nvidia Grok 3 Collaboration - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVElnZHAyOGItOFZ5ZG45N2JJZDhIcTI5UG5mVmJjdFUyazVqcU5fMlViaGNCZ0hVYTMyLVV2QWt4UGtCRklCb01QOTZuT1oyODZtc1FabEEwY1NjLWdzWnlNS0dNVmpia0dueGNhMER2ZHNuYkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
