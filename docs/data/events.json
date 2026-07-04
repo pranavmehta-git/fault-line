@@ -18198,6 +18198,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c2c7c853",
+      "date": "2026-07-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "source_url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d22abc3e",
+      "date": "2026-07-04",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "ICYMI: xAI debuts Grok Voice Agent Builder for Enterprises - TestingCatalog AI News",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUZ2R25FVHFfZkk0QTEwWXZNeXRJbE5LNnhSVi05RWdfZmFtTklUSXcxaHhWcEVOWlo5Rzh1R29acnVUdlJXaUUydGxSTVVCWkF0cEtsZkt5QTQ5OTVQWU9CbUxYUjRPTFpqNTlvcW1nN0RwclJHX212X1lpRWwyWE82Tld4Sk1Rb0ZVd0xpaVl0LWs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
