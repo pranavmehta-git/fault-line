@@ -18272,6 +18272,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b61fb666",
+      "date": "2026-07-05",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "NVIDIA's chips. xAI's lease. Apollo's paper. And the wealth-channel fund holding $621 million of it: Apollo's ADS Dissected - Substack",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LZkZ6cnBLdG5SdGt0RHNBWnV3dTdNSUxES21JZFgzQVotWHltYklSNzVYbGtvY0MxY0dMYUNiNTZ2cmllMXZkQ3dpcFVMbks1cTFQUnRrOXQ4RExWX2c4SERNRGFyd1FoVHJXNjFLVzZ2bEtkN0J1dkxPMUg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
