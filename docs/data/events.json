@@ -18234,6 +18234,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-263b919e",
+      "date": "2026-07-05",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX offers half-price Starlink in Tennessee as xAI faces a Clean Air Act lawsuit - The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWRyQk9iTGk5Z1M3VWtZMlYwMjhLZC1lS2JYYVZvT0diVzRiVWNVdkhGdmNGa3ptbGJVVUxhYVAxbjdfZVVYZVA2NWkzWVZ3N0Y4QjQ0R0FOMnVERGp0R0JWMFc3Z25SbzNGWEI1S1dfV2JTaXI4eHgzVURGdmg1QnFtNm8yR09nelNnRU5GWFdGS1NKbVFRVFQzYjBYTmhNOUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4a3e010a",
+      "date": "2026-07-05",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "LeCun Labels xAI a Failure as All 11 Co-Founders Depart - Geeky Gadgets",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bGx2bi1Ua05iblpydklLUUFETTlLQWhkWGIzYW5FalVtMTVDbExnZ2xMSnQ1dGNhYlJYX2dyTFpQVVlyYWViZ0ZiMHpUSkVRNjlxQWhQNWkxeHNFWTBVUlU3dVN1UGM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
