@@ -18292,6 +18292,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e511f6b0",
+      "date": "2026-07-05",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX offers half-price Starlink in Tennessee as xAI faces a Clean Air Act lawsuit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWM5WlA5TlJGeFFNWlh3S2c1UVBBVHVEcDZYYjh5NXc3YnpBaDJ1WlNmMmI2TmdKR3pxaVpvZzl2dVRuaFFqbm85T19ZV0RiRE9iTXpkM2ZsOEV0Q1ZDdXY4aE5Rb2VvVTFIc2hUd3pETkdtZkt6dE05anZ6ejZGVGVQVGVBODZKNzM5RGxqWnA2eGNnbEZV?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
