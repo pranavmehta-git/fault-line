@@ -18380,6 +18380,80 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c2d3bdd0",
+      "date": "2026-07-07",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI\u2019s Chief Futurist Is Leaving the Company",
+      "source_url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7ef689a5",
+      "date": "2026-07-07",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI's Grok continues to lose market share; Meta AI climbs to fourth in US: analysis - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2dpZmV3YlNTREt2OE1OS3JHbGJYdi1hZmFja1A1LWRzWG1aUVR4R3Q1b3A4ZU1CSTJPYld5ZEFSQzFNMDgzSHBfeGt6N2Ywd3lZcTJBVk1qVWVmSjRmUDM1Yy0xcHBDZDA1WFRYRVAwRlFhblhGWGlBU1BzOGlHNDhjMXFWSmw3bUdYZUNqSEw1Z1FBTUtSZEs5U3ROWnVNRnpWYmN6b25pYmVkQU5Ea2QwT1BPZGI1MEI5NTdBMTA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9078887e",
+      "date": "2026-07-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Deepfake CSAM lawsuit against xAI, Grok expands - CyberScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJfZElLMFIzSjNmdjJZRVVobE5VR0VjUjNKQUJvYkhEWnhSTjRGZ1kyYUE0NkI3bGd0bklXNnFUTnVGS0NDc2VrcldCd3FJblQwT0ZaWjdjbzlBSFBjM2paSy1zaTdLeHVXVXVHcWxiY1FrOXdUWWpNU0JHWDNRNQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-27192a4e",
+      "date": "2026-07-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Faces Expanded Deepfake CSAM Lawsuit Over Grok - Let's Data Science",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ01UV0xMY2owS1d2R0JRTjlYT2MzMzh5M1U5aktyeThOWElDNEtjNmpFbV9nWUZmSkdSRElXNDAwYmlOOFlLUERvWVJGTm1Ed3VzMmExYktZZzB3TXJBRk13OS0xZEx2SDM0MTl1YmtGbENNQ25yZEhQN2hRRHczWlNWUUZzSWQzVXhFNDJuVXNoX1JRLUhZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
