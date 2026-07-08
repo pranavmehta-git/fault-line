@@ -18472,6 +18472,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-45bafce4",
+      "date": "2026-07-08",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "source_url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-057c5ab0",
+      "date": "2026-07-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "U.S. AI Market June Report: Grok's Market Share Drops to Fifth Place, Meta AI Enters Top Four for the First Time, and ChatGPT Rebounds Amid Underlying Concerns - \u5bcc\u9014\u725b\u725b",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3ZXSmhsRzVuOWhnZDFvMHJDeVp6czZIN05zUkxUb2xHeXdfUmJCQUpYcEc5cXZzdFJkeG1iY1JNZjJWMTlWaUlQczNsU3ZRd0hEN3VGSnR2c014elNaQjFPRHFGbEpNOWs1T1BobnhBZkdzOWdQcWNRYWk2bW5NbFNQaEExR3dUQ2tvQXJyYmR1YURUNlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
