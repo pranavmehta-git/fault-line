@@ -18454,6 +18454,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8b10e97b",
+      "date": "2026-07-08",
+      "lab": "meta",
+      "dimension": "compute_chips",
+      "summary": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "source_url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

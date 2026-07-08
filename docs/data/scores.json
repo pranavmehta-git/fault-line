@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T02:01:12Z",
+  "last_updated": "2026-07-08T08:13:04Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.2,
     "components": {
       "average_lab_fragility": {
-        "value": 0.284,
+        "value": 0.29,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -806,19 +806,19 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 1.1,
+      "total_score": 1.4,
       "breakdown": {
         "compute_chips": {
-          "score": 0.17,
+          "score": 0.45,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.171,
-              "evidence": 0.206,
-              "corroborating_sources": 1
+              "intensity": 0.446,
+              "evidence": 0.806,
+              "corroborating_sources": 2
             },
             "A2": {
               "intensity": 0.0,
@@ -940,9 +940,15 @@
           }
         }
       },
-      "events_count": 47,
-      "last_event_date": "2026-06-08",
+      "events_count": 48,
+      "last_event_date": "2026-07-08",
       "top_drivers": [
+        {
+          "item": "A1",
+          "dimension": "compute_chips",
+          "intensity": 0.446,
+          "corroborating_sources": 2
+        },
         {
           "item": "B1",
           "dimension": "cloud",
@@ -954,15 +960,9 @@
           "dimension": "societal_impact",
           "intensity": 0.266,
           "corroborating_sources": 2
-        },
-        {
-          "item": "D2",
-          "dimension": "demand",
-          "intensity": 0.248,
-          "corroborating_sources": 2
         }
       ],
-      "trend": "stable",
+      "trend": "worsening",
       "rank": 5
     }
   ]
