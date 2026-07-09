@@ -18621,6 +18621,56 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fa5b9861",
+      "date": "2026-07-08",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "xAI Launches Grok 4.5 With Pricing Built to Undercut Anthropic's Opus 4.8 - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzBma2tydDVaUjI2ZFJlcS1zbTRfZFRyMHhwYXRocXNTUV9hSjRncEVqSjh3eW1iVU5WanB2OWpmcF9QbS0wVjdSOEhuMFJrUnlMTFp1Zm40VF9qdDE1ZWlkeHFHXzFjazNhdVlWU0llekdBd1N2QXB4WTdsWWRtRF92dUVFMVRJdHBIZGl4azlXVWhMaG1sQ3hRNEZTZGs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-078a034a",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Launches Grok 4.5 to Strengthen Enterprise AI Coding Capabilities - Electronics For You BUSINESS",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaG5fdS1ZZnBtSFpmUmZULUE1ZEhfenQ5V1I4RHphX20ycHVNVmc4bWVLN1NSZlZyYk8yeGlLUjJTR1kzMWt4c2NyanY1QnJJSktXUUI1T2V5dFhCUENkUG9xOEpqVnJnSGlrTjNvbklYQkNBdXJueWhCeG8xelAzckIwODNzd0gwUG1iZC1pM3pvcFRtNVpzMXRWZ3MzTkdtX1ZpbXpUX0dVajRzZDlLLUw3TGhYZURybmd4NmdhV3Y?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-192e97fc",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "SpaceXAI launches Grok 4.5, its most advanced AI model yet for coding and agentic tasks - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGNpVy1reGxNQmJmUjBPUDVWaHdrZWhnaGVyZ2gzM0I1RlNtN1ZERHpDd3Z0N3FIVHZxcFBpNE9WcFN3aTkybGlvVnpQeUREUjl1aHE2WGVxcnI1THdCb0lKZ0tmWGJESG14MzM1NTVFQ1VEM0RKb1pibm9sVWlrUkEycHZsQ3ZmdUtMMWh2eVZ4WEh3WUJFMGhTRUFONWVOTXB0QkhGRGhxVWx1bTVpV3RXYUhlc2tra0haSHlWNTd4RGh6ZFA2c1pzMjFCMHfSAdQBQVVfeXFMTjA3LVhEUkdscHI0Y05vT1Y3eXV1M2tiXzFpek5nYVRERmdtajB3dUkwUF9MZEgzQjJWckFWZ2NzcUJHNVFFVkxmWWozNFhJazBSQkF6dEg0TV9pamlWSG0yVElDbWo5UnMtakowLXRnWkNSbWRVM1h1dEM1MGRaYnpaRkw1YkE3bTl3Q3prdTdqZDY4SXpTeko5OFZZbW9DWWh5ZzZXYnI1WlBlNllDMUpqWDdBVnN4b2FhNXI2N3FRWGFFUVFBZHp0VDhpaUtnUHdfUVA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
