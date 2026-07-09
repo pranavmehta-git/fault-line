@@ -18639,6 +18639,26 @@
       "historical": false
     },
     {
+      "id": "evt-6b9fff35",
+      "date": "2026-07-08",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI faces expanding lawsuit over Grok\u2019s alleged failure to flag child sex abuse images - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IRE5uT1NNd0lKbjhURWFteDVpNzNKSkpNTHR5cGZLVDNhaENUdjB5MDdvUUtBT1VxYWdSdy1wRERRaWczbEVrbUFpYl8taE5PdXRudGtLcHZlNFE4R3hlWjB4SlkxOUVSbHFkSDVnclc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-078a034a",
       "date": "2026-07-09",
       "lab": "xai",
@@ -18666,6 +18686,58 @@
       "checklist_items_affected": [
         "G2"
       ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-30b2ab64",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "\u2018Tens of Thousands\u2019 Nvidia Chips Were Used to Train Grok 4.5. The Stock Is Dropping. - Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3VtYWVGRDdDVl9BbWI1ajdNS01XZ01USjNFQ2gzM1Z3LWtJMlh6eGdmU090MmpLdlZMZkNLd0ZNWmMzWDJXMkRlOTVOcEFLdWFObzItZEdORVJwVGJFTEZKRkphVVNndlpiT1FRME8tbGc0dnVIMWJIZkIwM3luUGRGdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d510cf61",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.5 Arrives With Aggressive Pricing Aimed at Developers - Technology Org",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcldOM3dENFI1VDBkSlRqcmgyYmhVS2htMzRqOXJFZ1lHYmNtcjRhQWFkV2VmOGk2RGJCeGM5TzVRdk13N0dOb3hzX1JQVlVsVjdIaGxSN29uVHpMLUpKdEFJRTA3WFBrUDBlb2tSM2VnQlg0aktTSEtGSTFyTWM2Z0EzVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2db6294c",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Elon Musk's Grok 4.5 Could Rewrite Enterprise AI Economics - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXR2MEtDRFpYQmdmeGpYcFpVSGtpYTVWUHZHd0pFOTlzeUNHRmVWd0Z0ZTZpWTM0NnZUMnRDblJvaFNtRi1JMXFTWVBuZXhvX3FSM2FVWGthTUNJYUxfT0pGcG93N3ZjTDV4a1lUaHRESVdpQVVWSy1wbmJDS2g5QnpzTmxHd2QwOEdPNzJXSXhwVG44c25aV2ZKZHI4V0l3OUNGN0lGV1NDcWlhbTdYdlRJeEF6Y1JERk5PNWFoSmxWeS1CTDBQbGh0RHA0dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
       "source_type": "news",
