@@ -18743,6 +18743,109 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-44783e07",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "source_url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6386ea17",
+      "date": "2026-07-09",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s new Claude feature is quietly selling you on AI",
+      "source_url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d7b2e434",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI rolls out GPT-5.6 after government greenlight \u2014 and announces \u2018ChatGPT Work\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dfa18102",
+      "date": "2026-07-09",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "source_url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-28b5a77f",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.5 Is SpaceXAI\u2019s First Real Entry Into the Enterprise - AI Business",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmtrTWlEMk5YYklQaUlZa3hGckVnOEpmVU1hWHZiSGZSYTREOHFJX2ZIbTZLRnVvRkNwQktyVnRybWc3eWd2UEZTQXpxQkNnd0pOX3dwYndsMGtHNmxlUnJZaWlDMUhyMGI0bDBHMDdxaTV2c3dlR1BrdTVWM1EwY0JuM3ViN1g0SHlReTIydw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9b5ae3b3",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Challenges OpenAI and Anthropic With Enterprise-Focused Grok 4.5 - MIT Sloan Management Review Middle East",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWp2ajFac2dpblpZSm5uS3A0NHdQdndVSklhVk03WDhXY0drZmxGa2lNalpZZW9xVTdzY2ZzQzJYQW9ZQ3hLM0xhMHhkVGl4dVMzUlVNS3dfTW93XzJnUU1YNjlnaUowRHFQeFNVNGtyVXZQc3NSc0phcWJ1a2hwaS1UQy01VE4zbVBlOG9vS1VTUGVQQm1Wdk1YM3V3QXE2VXI3cVBWUElwNHEz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
