@@ -18524,6 +18524,103 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-39b4d17b",
+      "date": "2026-07-08",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
+      "source_url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0db995c8",
+      "date": "2026-07-08",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Our approach to government and national security partnerships",
+      "source_url": "https://openai.com/index/government-national-security-partnerships",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-88fdf1c2",
+      "date": "2026-07-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Separating signal from noise in coding evaluations",
+      "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5d033c1a",
+      "date": "2026-07-08",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "EPA joins DOJ\u2019s legal defense of Musk\u2019s xAI - E&E News by POLITICO",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sTGdWMjhENUQzNmVKeWd2V3duRHZDc0NUQlB3aWVkdlFQYTQzVTlhWUx2U0JDSzJ1TFZPSklPaUQ4TzZsZTdEZDZOcGZ1cWZiTkVEbmZGSXpUZTdOM05VS0dIbmJzTTJmM3dnOVI2eGlJcWVBYndCZU1YSno1TUU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d8082529",
+      "date": "2026-07-08",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself - Ars Technica",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2pOeEZ1SjJSZDZVUDFJbG9yNzhRcnFrLUZHVDkyXzZYWHJpd01zUFVNRzJCa01kWkhIOW9fNnFVWjFnbUdkWmNJR2hFdHlHaEFQZk9OVDJJTlhoal90NlV4N0lmQ2Q4Q0JwZm5KT1JtVWFISUtHbUxaa291MVFnN0dGVmVGQ1NNRUk2d3hvMU9BUHQ2OEpEX25SNmtZZ09RMjQ1anZ3TC1tZFZvc05SZHpTQlpCRi14WnJHODdCd05RLTRS?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
