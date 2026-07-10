@@ -18846,6 +18846,150 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0483c5ae",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+      "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3676629d",
+      "date": "2026-07-09",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
+      "source_url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-16ec18c3",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Fidji Simo steps down from leading OpenAI\u2019s AGI work due to illness",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f7116796",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "The ChatGPT browser is already dead",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bc909bce",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "source_url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-210ef8c8",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Class-action lawsuit against X.ai\u2019s Grok tool expands with new plaintiffs alleging CSAM creation - SC Media",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXE3NW1aNThOTnk2LUM1X284RlZ5NzNDbVdLbjBkSXJZZ2xneFBlSElPV0FicjRMX0U4MHhOSEU5cVNmWUhfdWV3QVdDWFJzaW5SYXlDdVpQb1Z6RGREaHhjZEo4UG1MUlcyRjVkZWdnTDAzdXNHX2o1VlpSUEdPQXJFN2hIUmFua3ZFOVRXcS16cWdSbUl2eUlmd0tSZkdublpkSGNzc3E3RjNMa21pbnJldHRLSU5HTEw4cFFmTmRabVk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-12222662",
+      "date": "2026-07-09",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "[DFAN14A] XAI Floating Rate & Alternative Income Trust SEC Filing - Stock Titan",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEl4bFlQTHlSdjFZSlRtTDFONEVGbC1sd1cxWGR6QkhJd1BGMFBaLTl4a2VHQVo5STExSUNMb0haRjM3enNSSVhFRnNMZnoydi1tMWlaWHlveDRhUzV6RDJrRm1UdDdWNkcxQmwwRTZCY0RScmMwVFFyQ3U1OEpydHBlelV1eUFsUnVxMlBkMHlwYzNkdk9rcjN4bW9xa1dBR3dpOC1FVk4zMUJsWmRELUZRS2kwakJRYTVKdnZnc00?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bd843e3d",
+      "date": "2026-07-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Grok 4.5 Launch: $2/M Pricing vs Claude Opus, GPT-5.6 - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TmZfajlkcWtyU2lCRHBJUml6TGNNYVlvS3d1c2lGU1g2b2ctU1ZWbDk4VGxXQ0FmWU1LejhZY2dmNW5nckhRNEF0LWtsWlhmSGdhVjRudXZhZG0xa2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
