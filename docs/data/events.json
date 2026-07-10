@@ -18990,6 +18990,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7771a913",
+      "date": "2026-07-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "source_url": "https://openai.com/index/deutsche-telekom",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b940df10",
+      "date": "2026-07-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "SpaceXAI\u2019s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing - DevOps.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2ROV2lrT2xTdXFCRkNmcWhYaExiRGVObDJTS1NVaXE2c01MaEt1VWU3WmIxV2ViTFF4Q21QeTgzdEdwYnlHRi1SS3A2M2J5M0tTZnBueksyNkFicFo0U1MtMUNWdUlFcXBmYXc5OXpnWnRoODRaMVNMUmlEaGRiUktBQmxoVUltek9FU3ktRzFVTkMtYjB6Vg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-88c81762",
+      "date": "2026-07-10",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "GPT-5.6 Vs Grok 4.5 Vs Fable 5: One Chaotic Week Redraws The AI Map - Yellow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XbWRPX2pjWXJENld6NXEwMnd0aUdVXzU5T0pzLVlKNklvNG9pS21JT1RsTkdBdWlCYnJWYjV6azVPcUh2Q1hsYjBmdWhRVVBpdzRYTHRUYk9oblJiWGstQ3lydkRLdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
