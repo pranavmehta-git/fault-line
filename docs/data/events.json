@@ -18659,6 +18659,26 @@
       "historical": false
     },
     {
+      "id": "evt-e53d7c5b",
+      "date": "2026-07-08",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Memphis mayor answers questions on upcoming election, MATA funding, xAI and more - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEJ0MnJQb2VyeFBjX0RneUhfVExVU1k4NG11Y2NhSEVaUFE5dE9MOTZ3X0poeVZxcHVRZy1qbXp6SkctS09jY1dqOXJYaWxvbkJSU0VGMEhCOTdaNzFONVBNQXM3TTY0YTVHUTRSWDFwZ2JhbTA5dUpJTHF0NGpsRGNJVlUtb0VPdGxDZDVmWV9kXzd2OExjcXBxRFd0N3Q3VW1hUG9ZWWgyQ1JtQllJQkpFQ1F4clFT?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-078a034a",
       "date": "2026-07-09",
       "lab": "xai",
