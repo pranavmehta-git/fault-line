@@ -19116,6 +19116,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1ff7312f",
+      "date": "2026-07-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok 4.5 ranks second on APEX-SWE leaderboard as AI coding race heats up - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IRVF5TDNXclhDTVNhaTRELUpVNVlhT0JiX3gycjY1NFdNRUllMEZ4cmV6Z3RFT2ZZbXBfNnlHS3d2VWJCQVYtaW9vWkgwcjJOak5SUXM5R01nVGlNaGcyaW5Wb0VRTXE1Qnoxd1ZjNkkza0pnTENxNmw5aw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c40f1e33",
+      "date": "2026-07-11",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.5 Launches With Budget Pricing and Cursor Integration - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVUxUEZaRVBNSngyVGczOWNSQ2dkWTZHNklWY2M4N2s1MnUzY1hNQnhXOElCRXFkd3VySXJaSjEwcUgtRzB5cU1TVHJnX1JvZHhVN3hKREozaERjbkdHTEd3NFpNTXNyUkEwSUlqcUhFTHdLcjNteHJOaDlJeDlEeWhqRmlTSkdDX0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
