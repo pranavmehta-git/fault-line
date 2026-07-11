@@ -19062,6 +19062,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bf230600",
+      "date": "2026-07-10",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Apple sues OpenAI over alleged trade secret theft",
+      "source_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-74cf1007",
+      "date": "2026-07-10",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "source_url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-539c47eb",
+      "date": "2026-07-11",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI\u2019s Head of Safety Is Leaving the Company",
+      "source_url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
