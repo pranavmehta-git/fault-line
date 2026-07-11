@@ -19150,6 +19150,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ddd1c581",
+      "date": "2026-07-11",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "'I Want Everything Completely Uncensored': Here's What Grok Users Are Complaining About to the FTC - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjVGQXlCTDNTVE93YlNFRktNS3dBTzFTcFJrb3dEWS1XWktWa2swN0Vubmo0QTZFaHdibzQ4OGx2TmV3U3J0VWJiOFVEc1VaVjZPQVhNNHEzYXFDd1oxcTM0b29fbzVXSjNLRVJTX3hUaWcyakt3Y0plQmk4THZpV2ROM0N3QUNESGZIbm9kLWl6eENRMmNkSWlsTUhYbXdzNUhfdmlKUjF6NF9ab1VrVFVlUzB2c3puTHF3NThCeEVFd28?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
