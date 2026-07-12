@@ -19168,6 +19168,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-52753de0",
+      "date": "2026-07-12",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Linked to Sickening Crime in Lawsuit That Puts SpaceX in Crosshairs - Futurism",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMMzZPT0RndUlFYkFPaUppbUxMRlZZYUhDT2VCclBySnZhUWJhdVkzUU1GU1Uwc19FSWxtbUpUd1RQQVJwTVhWYXNMTDVNUFpaWUV5TTFqaDZVMURHbHYtV2hEeUR4UU4xeElObGNyc2JobTBtRFFTdld0Z3Y?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a15e71d",
+      "date": "2026-07-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk's Grok 4.5 launch intensifies AI arms race with implications for crypto-adjacent compute markets - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCRFBpTEZNeGh4RWk5Q2diajZkelhQdU84cDdwOUROSHprcnBZUlhOdFVXV0ZreGtfR1pvWkIzMk94bnJXc3ZRVEFPc3RhRjJfRkRHZ1VvVV8xV3UzekZiTXFKdkYyZWlFNjdZcUxoeGtRMGRX?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
