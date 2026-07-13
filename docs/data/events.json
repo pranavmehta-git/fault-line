@@ -19272,6 +19272,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-02f9bcd8",
+      "date": "2026-07-13",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
+      "source_url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7841d581",
+      "date": "2026-07-13",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
+      "source_url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ce30b0ab",
+      "date": "2026-07-13",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "source_url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0db991c5",
+      "date": "2026-07-13",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "source_url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-41c2a293",
+      "date": "2026-07-13",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+      "source_url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-be84561d",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Meta and xAI Just Strengthened Nvidia's AI Moat, Portfolio Manager Says - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUhFUmZkcDlyam1DMDE4MmRMaWY2c1V6RzhNeWtodEJ0MTNZREF2dG82ajJ4R1pJQTJLdExzLXFEUll6cEloNzF1cWdtOXlJc1M4Z1NxXzcyQkota19BZE1iUmREZ0tkd3hhVElDNlV6Vy1EVGVVVnFqaTN0V2YzVGg2U1UtbXd6QVE5MVd2RlhWRzY4Zm10NU9nLWR6bi1paUZZRloycmlqdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
