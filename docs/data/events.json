@@ -19204,6 +19204,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d3329cad",
+      "date": "2026-07-12",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI GROK 4.5 Usage Stats Show Possible 20%+ Market Share Over Coming Months - NextBigFuture.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdS12eHNicVVmd3owQkYwbWhqNS1NSWJDS2hVLVcyeWRwTlZxMWhjY3BqbkM4TjJfQzZpSWwxTzhNa1RmOEc0UDRCMnNSNW5lRDVRSlAtdlIwR1ppUW1yQ0xtOVFaWThCZXUxTm1LZXpPSU5VNWpKRVJWZk5QOVVXY3R3ODc2TThiSTN2cmxHQ3VRSlNWcHlBNVNqb0tMNzRsUTZEV2JPdjJ4QmRsLUlqY3F4NVBmZjBybzJ3bDhB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
