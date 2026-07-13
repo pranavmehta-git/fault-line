@@ -19236,6 +19236,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-97a717c7",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "[DFAN14A] XAI Floating Rate & Alternative Income Trust SEC Filing - Stock Titan",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0pkSUNYTXc1ZUlqMTBLdk9sbjZ3SU4wUjJfLWMxXzJDTlR0Ymh0UUZYQnh2N2NsY0NiR1RWcEx6dEtNM29PdnQ2R2dKdmVGM0F2dVl1aEVVckh5NldHTENoX1VaYXB1TG1DZk81cXA4dmI3QUIwUE0xejZwY0dTZ2xKamVpak9WQlRicmtTUzQ4TGswRU9ZN2hkbnBaR1R5WVBUZTBTLTVETndWMXBOTDlaYzFLUWhqLTVXLXRVUHg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-79dae453",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Provides Information to the Shareholders - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOclFhWWMtMXVXQXExNFZ2X1BvTUdRRU9rMWVBaTBYd1JDS1YyZVE3WEFZSDE5bHlVWkpPSmdTX1d3dm16U0RxbnpJMEVWWjJjLWlkM0FHNFNTYm5yWG1POVJaM05VTlVZcGJleFNZSGxRbm9ET2h4TDQya3Q4Qmlmd0M0TmJhVDFhY3Y0WlVZTEVJY1BIZVBQV0lRVjRrOTNKVDNOMXZCeW1Fc2pFWk9lQmJlcGxBNkNyZjMySFJTWFAyWUVBc3BRYUU3SkV2Vy1nN3c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
