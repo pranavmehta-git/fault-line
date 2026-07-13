@@ -19220,6 +19220,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-10174e72",
+      "date": "2026-07-12",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok\u2019s Ongoing Market Share Decline Raises Questions About SpaceX\u2019s AI Strategy Post-IPO - Barchart.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWVzM05hck13YldreURrOHpLMmhyZ1dONC1rYU9mNENMNzBiQWtVRE1VX2JTZ1NINUhMTzNaMlprWUc4dE80RkZ2eGFhY3M0OTNVb2I1SlgyNE1BeG1qb2pzd0lKYi14YkY3bVk4eUhsN3BQOTY5cUw5MEwyLXlDYU9Xb09qelE1YXpPSXZaRURVeG16aTM5VjY5VzN2S1p1OHBCQnM0ZXJ1d2hoYVpxRmg0dktBMS1DcjZHMlhpMDJkU052ODAwM2xn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
