@@ -19610,6 +19610,114 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-12f3dff7",
+      "date": "2026-07-14",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "source_url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aea25f2a",
+      "date": "2026-07-14",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "source_url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cdf40c63",
+      "date": "2026-07-14",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How to manage AI investments in the agentic era",
+      "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a240a19",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Build Shipped Entire Codebases to xAI Cloud; Privacy Toggle Did Nothing - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczdHX0FMaWw0MVNQZV9mQmZtUHBGa2NkVl9TR0JsRE85ZVNlTUdNRy1YNDI1eGNqNVVpaFRzM0Z5bDIwVXgxdFVuWHVSMjhpQUZLQVltR2FGQVI4eU1QTmNFTlFsNXZrc3ZGNzdoeE81N05LMDRjdEpfTFVScHpXVWltX2Z6WTVXeHdEbFFuamNiVUJMWEJuQVRNYVpTVFplT05LUGFDRkhZOTlReW4wbXlaVmU3UDNCdTI4WXF2bHRFQ2hPdnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f4561ed0",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI installs 59 natural gas turbines for data center project, faces environmental lawsuits - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQWJuaEZQc1Z6WDNwbkN6TjhfLWswUUctU1hPaDNxdlQ5Q1BueHN2Rnk5WGlmLTBUenJZNHdqcW9xdGpVZF80X3piRm1SbzBrTE5OZnduUzJMMmItcEFxUEI3a3hIcmR3ZERoajFUOU5ZeGc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-974eaa71",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's xAI Draws Flak As AI Power Push Hits Black Communities With Toxic Air - NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUJwdE4zNXh6T1U1X0F2Tm5rd2FsZGpQVmFSYmRjMlZkTW52OFRsTmN5RUdZdjV6SlBGbW1EZWVGeHRRM0loQUZqNkVTcDB0cWhZdm5nZlc4SkNvSGppd21VZkdBdEwydTB4U0YzZExCM3U5dVhoSDdhRTdwM2t2QXp1TklGV0g3Rkd2QVh0bTMzdWRmcUQzQVJkUUNkZ3o2RGtIa3R0Q3ROOGE0dThuMlNMdXFxVzlDN2RCcmhYd9IBxwFBVV95cUxOZVcxMXhyTlpwNXV4dVFGUW55Q1V1aVY0VmxaVHlCVVdoX25QN2NXclktZWFocjZmSnZIVko5ZjMxY1JQUmZaZ3gyZTFjSTV0YWVnc29xXzRSbmdaMURCTFg1UmVvc0o1VUV1T3MybDVoc2hBNFVoeWZNTmVTSlU1NDFMU0tkMjJXcXF4YTVZZWljSjJHUHBrUC1nNGY2eTVPbkpSTzNHSGo1VXBHWWhKbVRrbVBfYlJCeXByekhTQnlkdTVtX2sw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
