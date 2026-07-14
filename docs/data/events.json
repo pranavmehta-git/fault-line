@@ -19554,6 +19554,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8c10bef6",
+      "date": "2026-07-14",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
+      "source_url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-72658515",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's xAI Draws Flak As AI Power Push Hits Black Communities With Toxic Air - NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUJwdE4zNXh6T1U1X0F2Tm5rd2FsZGpQVmFSYmRjMlZkTW52OFRsTmN5RUdZdjV6SlBGbW1EZWVGeHRRM0loQUZqNkVTcDB0cWhZdm5nZlc4SkNvSGppd21VZkdBdEwydTB4U0YzZExCM3U5dVhoSDdhRTdwM2t2QXp1TklGV0g3Rkd2QVh0bTMzdWRmcUQzQVJkUUNkZ3o2RGtIa3R0Q3ROOGE0dThuMlNMdXFxVzlDN2RCcmhYdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-691915d0",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Cerebras CEO Andrew Feldman Says Elon Musk Found a \u2018Pretty Good Idea\u2019 in Leasing SpaceXAI\u2019s Unused Grok C - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa2dSWWFNN1doSUdHSXZkd2hlRW83LU5lNjdoeE8yQ3M2eE93QzZQa192TkVJcGdBSlhWSmNHOXVzakVkUk9rMVd1dXFuR25hcUpnUS1WRnItZXpPakQwSjdLOXdPNnNuWjRJcXZQUENQcEtCNnpBcXptTUFTcmlYNXkxQzQtRk11OE1EOThJbUgwcnhfT2ZBTVBRMml6c1NyWFlOeEhKajZwQ25CTkdGWEc4VXh2aXBEQUQ1ZDFKWVhuN0hPVUo3YUViYlBlWHd6Y0MydTNVVERXYVUtX3N3akNuRmgyR2c1QXIzdEZqS2xiWFNycEJtbHZpbVRsZXplVmlXUXNR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
