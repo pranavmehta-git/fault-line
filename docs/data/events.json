@@ -19476,6 +19476,84 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7e98ecf2",
+      "date": "2026-07-14",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI Seeks $1 Million From Musk's xAI Over Dismissed Trade Secret Lawsuit - NDTV",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDhOTkJTMV9rOHZjQ3hZN0h1MzVpNjllSTUwX09pNEpEQ3g2eXJ1R2hUS2NLUzRzNVZhbVprWU13ekMyZjF6Y2ZyMG1uVWhROEdZVGsxTTJwS2xZbExOdXpIajVlQ0lsWWVEN2lKazk1UjdMR2hLV1pFbTA5S2x3d05ZUUE3X05NVGNuOUZLV2NXeEZQTDNZZmFoUG13UW1CTVREazBFSnc2WU8zVE9mbUpmZ2I3aFoxSGdz0gHDAUFVX3lxTE9WLUgtUTdtUjlsTFFTamFJVGVqMk9SdEJ0RGR4c25fRUlEaXZNblpwRC1sV1B4cWlKNy1hNXBVc0FtaGhFMTBTV2ZjR0lJMDVlbEFRanFQWEw4Ymd1YzQtMjVXeFVEakg2MXlDanZ3U3VTaFNfLUlHOGVhTTg2VG5wTGVIalduNFVCa2JZTzI3ckdKbTRZeVFjTmpoSkt0ZWtpUTRXX1NzOVJYQXh6elloWjdIVXg1VFNMcFZsTzYyaGdPdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05ac4282",
+      "date": "2026-07-14",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI seeks dismissal of xAI lawsuit, demands $1M in legal fees - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11WmdZbHRwcUVNZ1ZGQ2Q2ZU5lVXBKSzFZRjZLZDdBT1JCSG5EZC1HVEMtMDBXc3M1VXRzN3N1RDdFSExyYkNYc0VmUTN1bTJ5Y3lWUFlhZ0hqSWc5cjFtVE5rbDR4dzhNRms1WFQ5SmtkOWRUZkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6fba1067",
+      "date": "2026-07-14",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Why OpenAI wants $1 million from Elon Musk\u2019s xAI amid Apple lawsuit - The News International",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2o1RW1hdDlZZ2ZyX25WbzhaVUYzZ0lJbWg3cmVQLWZlZDhaOXBvNGdZNEpZbW5FakJUZjRleWhDZHoxMktSZHllVDA5T2RlcDEzWkNYMWxoTmJqMTJQRC1fTXgzclZWS0pMUlZRWlFEOUNCYTVHTjVjcEh0ZUpjSk8wcjZuVC1jS0piQXYwcmFWZS14bFc4RXpWUGRmSW5SS1M0SFFUU2ZzSlU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a8e7339a",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk says SpaceXAI will delete all Grok Build user data following privacy concerns - Neowin",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkUwOW9BZGRtSi1RbTB6d0Q2UEJ2SERFU1Q2eG1tVmc5RXZMSG5rYUh0YU5reW5BdGVOT200LUdlcHROMS1YUTBGemJrN2VMRkdrQUlOOHZuQ2xpZ1FrLXFNVW9RWDBfQk5jd0YzZHdXTEVQLVE2RGlTWDI4YkZxUWF3V0IyY0xGQjd4Qm9TVXdpaG1yMk5fVTkzYnpQelpwcjNfOF94OHRuOHpud09rY2VEQ2tEak3SAbYBQVVfeXFMTlNQR05fdlRXX1JRblE1VjBzTzhiNDRYcF9GdzlDUGV5ZDRKeHBXRVJSVXJRM3BWMXlNUjBnQXFaYUkwTUFac294Z1Q0eUJBZ3UyVGd2MnBIU2FuOFM4cXc2RDFfS0N2QWxtUzRsaFF2dWRzalU4Sjdreld5cjh1SE1sck5fdTN1UnoyaUJnRUxpVDFrb1N5REtzdkZCbm9fcUUwNG9JRDdfMnVjTG9VcGVQQ2d3bHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
