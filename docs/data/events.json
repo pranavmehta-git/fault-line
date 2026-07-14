@@ -19384,6 +19384,98 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cb9c9b96",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "XAI\u2019s Grok Build CLI caught uploading private code and secrets to Google Cloud bucket - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRngtVlBKOV9BLVp4SldkU0Rta0VYSWkxR3JKSzFDWFVXcVdnY1ZTR3dJMUF2NDRabzlKeUd4bUdBM29GUVVYNWtUVVFZZmtxUk0yLVdyZjQtZGZTRTI5d3EwUFBMRzlPdzdlVVN4WS03QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0ada3d53",
+      "date": "2026-07-13",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "xAI appealing dismissal of trade-secret lawsuit against OpenAI - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmpiTmJuUm9IWlFOSG5KSk14T0g4Q3liNEQtUGtBTmV3QkprRDd3S0hQbXlnVC1wanIzLUxvY1UzVTNUMXBWUy0yUnFQMmNBV2RsaHRncG9GMzMzYkZzTXlEdjdLUnZKb3pkblV6NWlzVzlNLVY1cW11TnlkY0VsdnByUENtSUhKU1pCbGthV09XYm9pSnJoZVN2QmRYT1dHQjBQZTh3Qm9LcnRpUktrMlhmaUlLNXpUWjlCS2VBMXpDYUZCTmJSWdIBWkFVX3lxTE1mS0RKSTBqejNWVlNzOGdNdUNSS2lQczdxNUc5c1hLeFY3bHRHTG1EQmVjVTQ1cFNaUkhqcHVTYkZzOVU1YU1BR2kxS3R3N3NMMWJncFNjcU15QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-64dd196f",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Build API Zero Data Retention: Your Privacy Questions Answered - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTRwZWxiQkU2ZEpZb2I2bEVyV25SMlZ0Qmt4eVFzbjFrV1dfMldmZVJrSUdEbWdJbV81aDhFcHhJQUNWcTN4S1BNeDdTbXRMS2JKNlZRMTJjdUFSTk1yOE1SclAxSkdRNnhtVW9uejZ1THpTRWNZYjdSTWhDVms2U29SWWNXdjJtUFI1VTV1aG8wMy1IQlpFU2M5WDRsTlB4MDk4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ffefe102",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "[DFAN14A] XAI Floating Rate & Alternative Income Trust SEC Filing - Stock Titan",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzQyaWJaVURzLTRnNzJMS1hTc25WWmgtQ1oxVHgtcUdlV21WTEVCWWY3cDdZS1F6d0tua1RFVWQtVV9ybElJN0VSM3RETkVPbkJjcm1pYlptYkxwRGZlQ0x3Y2ZYTnRlenNMcGRtYTBLZGFpWG9pM2xLLUFocjF6Wks2ZkMzZTVlSkpiWkYyZW5YVGxyVUZ6U3VRQktINmpQcGZzcV9PRmpqZXNuU0dNMEtwc1lpdk9Id0NLdW1ER08?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c56f9dce",
+      "date": "2026-07-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI's Grok Build CLI Was Uploading Entire Repositories to Google Cloud. The Company Has Said Nothing. - Glitchwire",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXBCd2J2WGJ0ZkNlSFdoemgtTUh4LVQyNmt5a3dhemptZkJTanBHU2N4b3hFUVpHNFpkaGt3aUNkSkxxWkJqQ25sMmZiby1qZWo0SkFLM3ZzZW5vVE90UEdTSHo1b3pXaFhPVk5fVnNRS1k5SnJVQUZiZG1nTklVVl9BQnNFeEpiNkh0TFh0TVRTXy1uYlFfTmtreWRYQVBWeE5XVXNia0I3WjdVWFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
