@@ -19880,6 +19880,99 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cc8ad482",
+      "date": "2026-07-15",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "source_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e4e1015e",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "source_url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-647e695e",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Florida football's 2026 season, game results, statistical leaders, and a playoff appearance - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYWhWdVdVUGRxRUtXMkx4eU9JRjhNTWJLdkNIX2l2U29PT2RDUDdyU3pjU0ZldXc1aEg2bFlHTGRUSFdCcGhoQ25TVGExalhPNHN6dUQ3ZjhhLUk4MHJ0cWM4dnp0bk0xMjM4WWwyYVNjSFRTN1MxTG1GeW5pTGxtbmRqUmhHZkZwdVE1ZnYtNmpGbmtzZjhNcEFCV1hzd2xEM09leGFwSUNvdXh4SWpPdW53d1lNbkVlV29laVRKM1BZMmRxX3M0bVk3TEFYSkdtNU45aEVYMEQyU2pxalFPSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a18064f5",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "xAI Ran 59 Unpermitted Gas Turbines in Black Communities, DOJ Now Shields Them - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDRQMFRIcUo4UFM2R3puSUVuTjJ5dUZiZkNzLTMzNElXREcwaEhSaDhueUZ5THp5cTlLa2xwM2MtdkgxSkFqVlNvb0NWZ1dWTE91Wlg2MXV4d3kwXy1UM1gzbFM5NmU5aTJNZUpWM0NKOXQ0VVhXRmVLbU95YV85eTBiWmxfUVpOUHM5UDZjRXloNUFrdTNQbGdXT3pCOE9lMWdVSEIxVFk4UXhtSFpjZkJrOFRBVUNOZFBGVDJKMExEc2xXMXczNg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a3134661",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok AI Statistics 2026: Users, Revenue, Market Share, and Growth Data - About Chromebooks",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54UkFtZnUyZnZIRWZHaEttVkh2ODR2WEExMTdYdGlLbFZWZ19OUEp2NEF0bEkyMThtYktKUy1fSkdSaVF5cmhZMmRKQ2Q5ZFhvdUtBS2E1ZkJyb1ZwclFyY0FR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue",
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
