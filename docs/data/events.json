@@ -19973,6 +19973,172 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8e3f8bf3",
+      "date": "2026-07-15",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "source_url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fd3bb935",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI finally launches hardware\u2026 for Codex",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e67c1a3f",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "source_url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source_name": "MIT Technology Review",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-130a513b",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "The US is advancing AI safety through state and federal action",
+      "source_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7f26fea2",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "source_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3020acca",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk's xAI sues Grok user over sexualized 'deepfakes' - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDQ1d2NWZlEwc0ZsM1FvYzdYX0VLZUtabW11MlA0TS1HclpWN0hYblRJTkg0eUFBMG1ybldWWWh2M3RGQ21mNUVVbk1iUllyUUU1MWgyZXZSUnVTbTRkUk9uNWEzcVNMUTdZYVpWYmgxekdSNE5SZWJwclBLbUNsaFZIdEk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-86db6ac0",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sues Grok user accused of creating child sexual abuse deepfakes - Latest news from Azerbaijan",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzBTYUx0WjdWVHoxRUFlY3VFYTd4Q0x5LTFibUFWckpZU2w5LWtnOUhESEJGN1JBazNiMmlfZDA5UWJpeUJnUG1lTTBiQVl2OVBWbUZwMlRlY2pCYm1JRllWM2IyS2ZJMFdPQU5yT0lNd0dqSTJzalpqV0ZlUS1kM1FsMmRUc2dNLVJkc182Vk10UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b7f486e3",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk's xAI sues Grok user over sexualized 'deepfakes' - CNA",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGdja1phN3JRdEQwVnhWQkVSWmZKN3VXZ2ZEUlZoalQ5bTFJdmpTaHFnTDdDc0xRQzB4UXhHSGhHUlRvNGRCQmlLR04wZ3Q1ZFVnM1lLeE1ZTkF3Q0RIc3Y0RlQ4cVQ1aldwWGpuSDdJYUdITmlIN0xuajk4OHFZZ1dRS0JjeHFNdDBWamh4VDRFWXM4RUNqVEJfa0dKdFVh?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2e0dc958",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's xAI sues Grok user over sexualised 'deepfakes' - The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNbFJiQ0t2amFjWWU5cUpnb3lFNC1fVml3c1RrY1JKUTdHcUUtLWgyTjRKdDBudTA1VTZUQkF2WFRSSVVCbUpyXzMzMHV4OGd6RWRoRWVsQjExTzlKY3hHNmxyTndQNWY4a0lfNk0xc0hGUWtYclJTMVBfVEdWQkhwZm8wZUZ1akNKbWNCQ0lJUnFRVEFRUTdtd0h6QkZtc0cwcXpiX0p2LVNHNlRWOFotc0kwa016OGZ5Uko0U2VmZ29FTHRvckJ5WWhWR3hyUDJjQzhpaDRZRlIweFlRVExlTm9rZUlXMEF2bkhWRER0ZEpHWnFWNEp5V3g1RWJkUFFPVTJIUmNnNWUyQXhGYUhVbDhnTnVFeHVrd1diZFNxY2JSLVczZERwU2NQU21xSXFDbFgwZnVpS3I0eHk1NXfSAdoBQVVfeXFMT1gtV0doVWo5a1FxTEtwSEpSQWNxWlBkcUhPWUFwWGxycnVBNWcwMC1JZEJfcTZRVmc3aThXMC1UR2k5dXlTYnNJa1FmTXJlRlVjc3dvUHNmNFFoNzN1SFoxaWFSLTQyMmFLX3BSMGlqSl9URmlpRnlZazZuVUt4b1I2S3ljNkp6NmN1TzNudEZHa1ktVlhyZnlJa2RfVnM4WkJ3THhQZmtSVDNUVVRSYWdTNDdrWl92bzZMd2FBcmFKRlVFUWxBNnhTRXpqY3BVXzN5MGRzZmFfcFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
