@@ -19844,6 +19844,22 @@
       "historical": false
     },
     {
+      "id": "evt-11383426",
+      "date": "2026-07-14",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Interview: Lucie Audibert, solicitor in MP Jess Asato\u2019s Grok case - Computer Weekly",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmtHX1hBNFM4MGNSMHFvUTZUNDUxaVpZZk16M04wUHNSc3Vja1hfV0xJNE1NeUI3TmpidUF6V2gxOGs4T0RIUUU3ZWxHdFVMSkQ1OGpSV09Camh4NjNPd2JZT1pTSXdXRGN3VTl6RXlhZ0lGcW9MM01SOFl6MWE0UHVWbW11Q3JnS2Y4TFBnVU1yM0JtRjRFY2NXMVcxc1dUQ3c4SXFxZWVzWUdu?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-d15770df",
       "date": "2026-07-15",
       "lab": "openai",
@@ -20322,6 +20338,24 @@
       "historical": false
     },
     {
+      "id": "evt-923041b8",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Octagon Credit Investors, LLC Urges the Shareholders of XAI Floating Rate & Alternative Income Trust - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEwwanlSWW5CRG1IY0lDLUFhMmJac3BBQlFlNnViWVEyNFp1WTBmQ2JvTjVqcUlCQXFvQVpsWnZ6S0JXSUt2WHQxSHRMaTZTVWRuT3FzSkZyUjVYY0xhVVVpRFkxbzBnQ2VOdmxNaGo4RGR2cWFNcDZNak5Ka2VNbjBoWXJmc2prZXc5Z1k2SGVteXR1MHVndUhCSU9OOHllTWNyYzhJMktDWHV4MTJueWZnM0ZBYjBmSEd1eDdlWTgyRHY2dWxhR3diX2JoRzJPRlN4RXllVFdkWEZtdkE0ZnMyd1I?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-38c8f229",
       "date": "2026-07-16",
       "lab": "xai",
@@ -20426,6 +20460,117 @@
       "impact": 0,
       "checklist_items_affected": [
         "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c0ff415",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues Grok User For Generating Nonconsensual Sexualized Deepfakes - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0o1dUJfUlFZYWRLenp0c1czT2lVdHM4Uy1ZUzZueXd5VlZ6TDdoQUxydl9CWEN6SUU4UG1Ea2ZyY2xFY2x2M2p1Ukk4Nkk1ME5aS250LUNHdk9yMVFkM25ENGZXa24wYVUwdXkxSURPNVBRRDBLMVJjMkpTczZmaG1fWURQODNBY0w0WmIxVHBzNEZhX0JpcFNFNlV3amM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-078b7033",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues Man for Using Grok to Create CSAM Deepfakes - PetaPixel",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVTZ1WWszdnZPYnZEMl8wc3lScWx0YnBpRlFnV3hIUmxoemZxZmpKWERsUVZWMW91MWFzVl9DX1JETXM2OHF1Q1JrdHViX2xNUWZmQ0F0YmI5ejEwYm4yaUZBOENpVjFmQ181TUV6VjNyOVNDQ2x5b1lST3B5VU1GRmkzVDRvaE9adzRNbG9Ucw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2ff771d3",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk Says X Will Go Fully Open Source With 'No Exceptions' as Grok Faces Heat Over Privacy Breach an - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQTR4UnkzTkUzcVFhb1lDQWg0Zk4yNFFiVlVERGVrTHM2eXM0OGkwR3dWSm1veTY5ZHplVTRnZVBJLTVCUkRXUjF2bVVEVmluT2Vva2E4elN4NXZvZTBDbnlNMnVISXNrb1BpVkpIOTdLREhLcnBlYkphbE1SVVBPV2lpWWI5OThrUVYwbWxjbUtrVGdxZ2JfdGpBbmZNVUlrS3M4RzExYVJFQ3VEX2c3dmNyMmJTNXpBSTJnMGxfQ2Z5TURvN2ozLWJENDZFUXkwUUpnOHpDMGFHbHRDQ1hid2laWlI5SjNjOTZZcHg4SFNSMHBGNExteXhsUkQ3NTY5cnplQmJRY2huajA2TXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6e642dc2",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "X AI sues user over Grok misuse: Lawsuit alleges AI was used to create illegal content - WION",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTN6SDZXTURPTWhjdHdYSkE0eGdiSG95OEhhMGphX3FEb3p6d1BIWk4xbFUzSEQxeGhVNGF0SzlxaDJLYk1jaDZoU0twa1Z4V2ZLb3VRTkprelBHc1JYOVNWX2hDNDV1QXhtSFVlS3IyaGh3X3o1VUFscXJjWkJLMzFOS0tQTi16UlB6M2NhdVRvaTQ5YXpxaW1oRDNSMVlzZFFwNFV6SzU0bVNUdmtJZFV5MnpjaXh3VjlLVHhZcXpRUHpzMDEwUkln0gHPAUFVX3lxTE1wV1ZDQlgxMW02Zjc2eFRMakF3TFcxWnBkS2pmNy1uWXRleVdldUl5c1RxS3k1R3RLRWRjTS1ieWRPNUlPY0h0SlRoRTM0cUs3Vm5tMU5lQV8xN19fWWI5aXl6Z0c2cmNiQkxONFdJempKZE8xQ0s5eWVvdk5OQWc5UFVtXzZqeUlKel9KUEM5WHpVLTJ3MlpONW1PV0Rwel9KWDBkRVI0MUY5RlI1QlRLSXNEU0JiRzl2QzA1aFU4QVlRdHZyVElxUzJLSkt6MA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0d9b1863",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sued its own user who used Grok to create sexualized deepfakes of children - dev.ua",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQTgzTWVpNnlGamxYRlpnS19VclNFeFdUM19ZYkF3LXk2bnEwREtxN1FmMDhkQW1vcDJlSHB0SkJ1N0ZvVmx2S0Y0NnJ0dUw4MnM5NFFneEdQSTBZVS1ZTkRMd1RLb3dKaHNBOWF3SGNvd1dybDVFaDFiSVk4eGpuT0xGdFBCV2MxaTVGTEw4R3cyb1ppYTNvOWNTV2hOcGhyS3lMdTJWXzJDZnh5Y1d5QzlMUmRkRXFNY1JVNnFGc3lmdFVtbVpnYmlVZ2djOHRqNkZ6Qk92S2pDbGUzeGExWU04ZXN1ZW1GZWJkMDFR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fd300ad5",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "SpaceXAI Sues User Over Alleged Grok Deepfake Abuse - Dataconomy",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3pNbXgwbVdTWDJRZ0hNWTl1ZXg2cFFObExqTGN1WTZYUTNZb1VNc2Fhb0pSZ004ZDNCMGhWTHdoTGlpTTdLaVpMWHRhVTZDcnk1LTJXSmNpZDBWWjh3MXhNdjVMSWE0a3ZrTV9SS1NWMnpNM1pDdXdnRlFuekxqMmdaaE5PRTFObktnSndyTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
       ],
       "confidence": "low",
       "tags": [],
