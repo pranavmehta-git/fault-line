@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T13:26:44Z",
+  "last_updated": "2026-07-16T18:59:51Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.0,
     "components": {
       "average_lab_fragility": {
-        "value": 0.286,
+        "value": 0.29,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -215,8 +215,8 @@
               "corroborating_sources": 4
             },
             "D2": {
-              "intensity": 0.62,
-              "evidence": 1.631,
+              "intensity": 0.621,
+              "evidence": 1.636,
               "corroborating_sources": 5
             }
           }
@@ -281,7 +281,7 @@
           }
         }
       },
-      "events_count": 478,
+      "events_count": 480,
       "last_event_date": "2026-07-16",
       "top_drivers": [
         {
@@ -330,7 +330,7 @@
           }
         },
         "cloud": {
-          "score": 0.67,
+          "score": 0.72,
           "max": 2,
           "items_triggered": [
             "B1",
@@ -338,8 +338,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.437,
-              "evidence": 0.776,
+              "intensity": 0.489,
+              "evidence": 0.957,
               "corroborating_sources": 4
             },
             "B2": {
@@ -448,8 +448,8 @@
           }
         }
       },
-      "events_count": 153,
-      "last_event_date": "2026-07-15",
+      "events_count": 154,
+      "last_event_date": "2026-07-16",
       "top_drivers": [
         {
           "item": "G1",
@@ -614,7 +614,7 @@
           }
         }
       },
-      "events_count": 323,
+      "events_count": 326,
       "last_event_date": "2026-07-16",
       "top_drivers": [
         {
@@ -779,8 +779,8 @@
           }
         }
       },
-      "events_count": 96,
-      "last_event_date": "2026-07-14",
+      "events_count": 97,
+      "last_event_date": "2026-07-16",
       "top_drivers": [
         {
           "item": "G1",
@@ -806,7 +806,7 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 1.3,
+      "total_score": 1.5,
       "breakdown": {
         "compute_chips": {
           "score": 0.43,
@@ -904,16 +904,16 @@
           }
         },
         "talent_governance": {
-          "score": 0.15,
+          "score": 0.44,
           "max": 2,
           "items_triggered": [
             "G1"
           ],
           "items": {
             "G1": {
-              "intensity": 0.155,
-              "evidence": 0.183,
-              "corroborating_sources": 1
+              "intensity": 0.439,
+              "evidence": 0.783,
+              "corroborating_sources": 2
             },
             "G2": {
               "intensity": 0.0,
@@ -940,9 +940,15 @@
           }
         }
       },
-      "events_count": 48,
-      "last_event_date": "2026-07-08",
+      "events_count": 49,
+      "last_event_date": "2026-07-16",
       "top_drivers": [
+        {
+          "item": "G1",
+          "dimension": "talent_governance",
+          "intensity": 0.439,
+          "corroborating_sources": 2
+        },
         {
           "item": "A1",
           "dimension": "compute_chips",
@@ -953,12 +959,6 @@
           "item": "B1",
           "dimension": "cloud",
           "intensity": 0.348,
-          "corroborating_sources": 2
-        },
-        {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.254,
           "corroborating_sources": 2
         }
       ],

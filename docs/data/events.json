@@ -20356,6 +20356,22 @@
       "historical": false
     },
     {
+      "id": "evt-56dcc6b5",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "After Elon Musk's AI company's model Grok 'caught' uploading customer code to its servers, Sam Altman 'sh - The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQmFLRDMtZ1pBbGVQUUpaSHNGWjdSMjk5bGJTeExHd1RibW1BTjVsQmlnY2tvWGlRc3A5VDlyeV9jT1FDNjNYeExGU0UzZ0k3YW5wUVA4MWwyaUhMc2E2c3VhU2VEZEFSU0Z4cC10VlVEd2ZWLXNBVlF1WmQ4eU5pclRZOFRRa3pkY3dmR0t1M2pyQmNHNFVuQ19oRkxUMFdPOGVHSXJ2YVlVSDFONWYweGsxLW9PZUo2VmJBallxWlJseUR1Q09BNmg0VHduLVZxLUp1dTJ5OWhHWXdUTERXRFdPQV9MR3NscFRUeEMxUU9iSGFkNWw2bkRkVDRnQUFlOFlvQnNPOFNiaGJ4ZlhDZ3NSZ3lybVNrSjJTZTZfemFmZklRS2dPTmFnLU8zbXFU0gG2AkFVX3lxTE0wQ1Q1VURtaGVWcFd1VWNOb2tLQ0NhN2lmX1ZsaTZIQVNQeFB2VXJ5bkpjc0MzR3dabnFFdmdrS1hEdmRidnlxZzMtNWxZb1RyM1dVQjdwZFB2YjRoRmFYNHdNRWhfbXRXb0NwMnBBVnMwYWdnbE82SEsxUy1HSmMxWVBkN0pmR2VtdHpZTXpjVXc0SjF2ckxHdElRVlloWG42QmxhcHNldnRUaHA3NXdBSmQtSFppbDBCT0taOVZhOHpPZDZUblZ3aEtadE8yS0pTSDZYMlprWEhNRjhSb3VqZUVQOXRpb0JhTlFFZmwzZmlPeThuV3R3NWhzRmpJclJBN1ZObXluWUJ0bTBHbm1sMmtQMTNxS0gxaW1DdVI0NUxkTU5KTFRjemtSUWk2SnZMS19qMmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-38c8f229",
       "date": "2026-07-16",
       "lab": "xai",
@@ -20574,6 +20590,139 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a77e6620",
+      "date": "2026-07-16",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "source_url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1794a6cf",
+      "date": "2026-07-16",
+      "lab": "meta",
+      "dimension": "talent_governance",
+      "summary": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+      "source_url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ce5e9a7e",
+      "date": "2026-07-16",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "source_url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5d614665",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sued a Grok user for allegedly generating deepfakes of child sexual abuse - qz.com",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56b2tZYTdudWgzOFlWM09RWE41VDVTNFUza2dqWTNHMXdGaVhXbUh3NjIybXRpVTFzaWYyaVUzcEdleHVkZzh1QXU3dEhXSWZGVXpKeXFsY1pva2E4bExoRnJCQ2wwSVVWa3BQRlVKSlhzWmgxQzlUcA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f5215b0f",
+      "date": "2026-07-16",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Grok 4.3 vs Gemini 3.1 Pro: 4x Output Price Gap [2026] - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TYlk0Yk5JLXB3c3NpcEhuQzZiOFNlYlNjNkJJY1JUcXFyRFpyOFdfZHhzTzhNNFZjMGV6NVFqbFFsVEJ2RHpfUEJqVDZ5VkRFQ3h0bHJmS2lJUkJxRV9aT0EzMm0xNlZt?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7daaf6d0",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "SpaceXAI Open-Sources Grok Build After Privacy Backlash - TechRepublic",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVAtb1cwaDBnYjJCSzJJalowUlpEMWE2VnVDYzRuQ1JGX3NoRUN5RnJCTkFvMkVJamF6Vm05YzNuQnppcE9aZUtrRXBKVi1OdmY2SnJDSnR0WE54aVk5dVNDdnF6ZTkzcXRuXy05S1J2T0pnZlZNSzliVDJ4aTBpS0VZY0NIRHVtNVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0292f02b",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "XAI files landmark lawsuit over alleged misuse of Grok to create child sexual abuse material - WION",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUzM3R2tkQUtnckN0SS1RTFRoLWQyRDZwU1E2OTlEd2xnanNCaW16TXRtNHpQWDJ6MnZxV1B1NHBTQWVzNlJVOHFXOEdUZG9vVnRFdVFwdjBKS3k3VnlsLXROdWNWWVhxSmR4X29PVUIzdlJaNEVFUFZNckJwOGJhWWlRM3dsdTBTYTdfQy1TMGlNcGZQZ0FQMC1iNW1lRkU0Rjhza3Z5Q1JzRHFDS1B5aUFvR3laa0NzS0g0aHFXdGNZRGdJbDZMY2pRVVk5RlFVM0w00gHYAUFVX3lxTE54ZjRFMnpYeG84ZVFEQ09nbTZkcDVwa015U2lOUHFkQ1BRUGwxV3R0aVlDTVdzeTJCaFZaZXJYb3JoV3gtLVRicWhpa05YRUZtVEVzU1NQeHduN2h5RGNUMExtV25fNEdLQU1GT1MtRWtSWXFkTlg1em9YcUJJODBWbGZWV1g2amlLdjVfaUtIM0w3ek8wWG9DUnJmbFAzMEc4YWlfa0JuYTZEWGE4TFZHT0dFdE9yQzV5TGkyb2J1WVhka2JrTW1BZnowNlVHNFUyUkxmZzFDeA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
