@@ -20320,6 +20320,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-38c8f229",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI sues user over allegedly creating child sexual abuse materials with Grok - CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0VIa0hYbE5BVUp2TDh3WkJKQnFzUWZzd1ZlU2x1NGRNamZ3dVItLWFIOEgzVGhORGV5a1NLMi1FWVFiVFVVNWhjVGQ2SGs1ajBGNEhNWjlJZmg3X2NFeC1feFc4d1I2RjFLSHRZcXVlejZnV2hJeV9wT3hkN2U1Qk1BcHdEbFAzOVdjcG53ZmlobVlD?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0df6fe8e",
+      "date": "2026-07-16",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Grok 4.5 claims second place on FrontierSWE leaderboard, beating Claude Opus 4.8 and GPT-5.5 - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEUFRDNTAxbWdoYkhiUTFIYkp2OTJmWnBIUGtfVDFoTExHOHJoQTctUFlsNFBPSmVGOXY3SEVJemt1Uk43MXgybWVtXzNTWnBwZ3RmSTZQbUs3cWlGQTFka3VhMkQxdVpycm5BdmNseGtaY3NtNTRv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4ec51066",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "X.AI Says Man Misused Grok To Create Child Abuse Material - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcE5ubWR2aXFWSUxqcXNsdnJ3UUJqSmFmWmllMHBPQlVjR3gwLWxmYXN5UHJ1cVMyN0VjUUlOM1lpbi1FT2lXUXlzWTlJLTUyMlJHQ2Z6VUdmVVFSQVdvNUhqdGc2eGItRjhRRS1fT19DLTNxb0piSVMwWGFYRTZWS251bzROLTFBdWlCTWFqU3Y5YkFTZkJGdnppelhyUdIBVkFVX3lxTE10aVNJWTlGY285RDlGUDY0eUlwazlSZDZ4RzVQY3ZTUjNRU0JFcE43Ry0tOVUwa0w1M0kyakdzZG1pRVg0WHFQdVpGb3N3Mk5EbXY4N1JB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ea3f87df",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Amid lawsuit over AI child abuse media, xAI sues one Grok user - The Hindu",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWdzRElKQ0drR3NkVk1PaVZ2UHdaQmdwVnJnUHpseXdiTG50RDNFUEIxZUJVU1lqQU9FZjZLaWotR1Q1NEUtTDlUWVV2eGF0c0tJSFBualNOdHAwZU0tU2ViX1ZNRDRCdDV4UkVGeXdhWE1rNUduVE56NWRWOHpacWg2WC1VM0VxVThGZEJ1WkUyeXluaHNsYUY3ZVlqVm4zS3lGUHVwY19xN0ExYlVpT1IzMkhwOE5OYVp4VkJCNnAxSHN20gHLAUFVX3lxTE9lLXRzMDZQdmZpb0tIUHlkdS01cTBjcnZUdlVlQjloR3pIcTB0LXBjWl9IQjVjLXk0a19UR3lNc1JuSHVyWFByWWVXTEZneklpV1NQVG1MZG42d1U2dHlwVERlLUgzZDFTVC00ZVlCZERoR3NCb091M0FYMmhGZDEtTkp3dEt0SEstQm5ZLWdnbVB1QnBRTktUdVNlSk9KcnFhRUhnc0Vwc25FcDAwVlVXSDU5WDFTN3BWajNaOWJQWVBvNHRfOVJJSEg4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2aad061b",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sues user for allegedly using Grok to create child sexual abuse deepfakes - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFRIMERPUWpqRzVTZll1TVdFM3lvY2VMbndOV0F2YWNxVl96S1Vsdk9CQTZXWlE2aEhWeEZneXFNSXlHNkpaTXBvYTBSWjZXNUc1U1Q1SW05Ukg4dzgxSHlpTENFdmNUcERZSkV2TmJpZXpnbHpDMEZxbTdyU1RwdUlLSFNCbjJYNFhUZlBQS1F6QXZ4NzZQZlhCSlY3Y0ZPWVRhWFZvTUI5WUdxUXVMbXVsM3hXZS1IWUJwNUktbUFZNzjSAcgBQVVfeXFMUEdxdU1uUGVmUzZFTTlpaTBWbldmaGdrbXZ0eU80cjRocU51NWxZOUtDOHVnSERobGZQWFV6c2kxRHJ5WThZOGg1eUdWaHRSTGdxQmZJQndfN01sX2JnX29sUGx4NXdnVV9FaXlTdllIazhXd1ZVc3NtajFkOUIzb0pIUVEwOFlYMkZRQWgxWDVUajVoendodnZnR3VUMTJhWDl5Q3c1Z3hhR296Uk9TODM1OTF4TkVZRmp2ellVRnp2ckJVT0hpR04?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8c834128",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk pledges to open-source X codebase after Grok Build privacy allegations - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS21pb192bUJhSDUzNC1DQ0pYS21mV3hlVHZyQ29yN2E4VXdGVEhhMjhHZTRRc19kUDFxSzZxbzEwMGRkMVNQVmw4dTFrQXlUeE5zYnZMOWVzXzBqdDl6N05FeUk3MnpaSTBzS3JsdmxWb3MyZmRRTWJUcmJuaV95LU1aNlZzZENTRTJWVVdqWlpjaVhsbXVsd0UtbzBKc2xXSjBiajNKb1VJYkt5MGFPV29PZGFsc1p5dFlFSlQtMlBRcWhyeFp30gHMAUFVX3lxTFB2aFFTZzFPSEpkUkRnM2s2bmVmWC1vMTlTM0RUQ29aVVlHWUtfQnlDdGRWQldyUTNPYmw1OXBLdTFaTG9aX1lQcnAybmJaQi1HWjF1OXpkcG1kOUcyMlFtWW11aXotTHFWUUYtNzk5VHBGSk0wdFBHS3JJWG5nUUsxQ1Mxam56VHE4UWcxZkI1ZmRGUC05d0dvZ200cVU2eGlfdXpKcXF3MEd3UUVXNjJwcUhqOHdQeWtmN3BsRGRPX2FlRy02U01xWVVvQw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
