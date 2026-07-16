@@ -20139,6 +20139,187 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4f3cfb3b",
+      "date": "2026-07-15",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "source_url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b7e19af2",
+      "date": "2026-07-15",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
+      "source_url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "source_name": "VentureBeat AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0ea70a83",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-61911822",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk's xAI sues Grok user over sexualized 'deepfakes' - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0huVDEzQnBsMXdtRjJnbk04WkhGdTdBdVZSWDNLVDhxLWs0U05hT042MUlfNFUzbkJtVG5naE1RNVVQdndPZ1RQNkVUUzMyZXRhRWJFYTJvVVlnNjJGSUJFc2E3VzdBNmhnU2tROVpacGNpNjNLVjA2TXpLTy1DZnJyUld2Smxxek0tNGJvZ09qVUZQanQzNWQ1VE9YRWwwek1tWlpn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-620530c5",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sues a man for using Grok to generate CSAM \u2018deepfakes\u2019 - The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmxNUzRxRWpHdUxFVU1pZ0tYNm9FVVBicWMweGlSZnJkaVJGU25kcW1haGZfYnlDeWNjbDFLLXhkbEw5cTNnS3BjeGphSWw0WWpKYjl0b0VKZ0Q4SkFXN3puZzlsN29Mc2RZdndYMklhdHFzYW5QdUk2Sy10bmpLTzJqTXota3ZWcVZUd3R3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-61647438",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "The latest on Grok\u2019s gross AI deepfakes problem - The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VdUFFT0M3QURXRHpXUW9jT3BMR2M3VGFuS2hOMmk2bkc4VzZUQnBtaTNiS0FRSnBQX2J6RFl6REdGN2lWNzcwc0dfUGVUMkxYOW5EU0d0N2t3MDVucVEzVWF5VEFDZWM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d8e9a0a2",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sues Terry Harwood for exploiting Grok to generate explicit deepfakes of minors - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03UmpLOFZvbkNJSlZGMkszeFY1MGphaFgyOHI4blQ2NG1MMU45YlpnRVdLTUoxSmx4TEdETkVJV2U4dXc1QWR3S1RIckNDWndvUDhYTVl4RHVPNnAwSmR5eUpUd2JtaGpkQWxfWEMzVko4cEs3WnAzYzFKWDY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5b4b52fd",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI sues South Carolina man in Texas federal court over Grok sexual deepfakes - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jejc2YTlscjIwRTNtNFhKQWlza3lidUVFczBnT25iYmlFT1FHSnpGcml2UmFkblVUNERNakx4NlVuNlItd0VtMTd1SGFvVmFTR0QzeEJnQXZhNXRob05JM2F3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fba0b807",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI sues Grok user over alleged sexualized \u2018deepfakes\u2019 - The News International",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2wyVXNZTzhId1dtY21wSTYwVDlIRF96WFpXUTBucXhaaTg3NmpYNHlZdjFUNjNyUElsVVpjZU5UWkpKXzVIS1lWVzNfUklQTGhsckhCR25FU0JuSWN3a0tFd1VZMVlRQlBEcG1aRnpUdkNrZFlveUtUYTliUHdOSENNcVVKYW1IYm1DSzE2ejI2WW80dm9Hc3AzOVAyNzVxcWtQRnRzUC0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6139cb80",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI sues Grok user over sexualised \u2018deepfakes\u2019 - The Straits Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlhMZXc5SnN1UmtOdDBaY3NwdjVPNGJiaU1jcDM3TXpudGFjRTY2UmxmWkNFOHBiemhYNkVxM1FPMU1NN0VVM0JUZGQ1aWpzZ2l2ajY4WDBYM3lrSzU0ZE1aVU9waVUwR3hISjQ1Ym1SWnVIOWRiODBGTU9uTmhDQjU4SjFkY1NDYVNzaVNpSnRJZlcwOGMzSFB0bkxOOGRBU3ZmSDIzdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
