@@ -20726,6 +20726,129 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f781ae2e",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "After a Privacy Backlash, Elon Musk\u2019s SpaceXAI Is Making a Major Change - inc.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGtiRmIydTdld2s3NmUwOE5KZ2hxYi1lS0NiUEFoVjgyM0ZpTEJ6a3FCT1lnU2NqSzl0ejJIUjhDMzhSbGdLWVNuemZGQ0pSSUliZkZUai1SQjBPNVRmOWVWRGlMTXJVa2M2ZEVENVQ5bVdtWl9LSVY0enFtUEM4OU5kOU9SbXl4WEhhNV85bGU4Wm11cEpSTTBFeUJhX3RpZFNVd3BwbTVielU0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d8ce32e5",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Automations, Explained in 5 Points - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12bTV0REx6N3N1dElCekl3ZXE3MURHajZMdktKMkpqS19lQ0RDcVBIemJKaS1US2JWcUQ4Uk05WEFDdV9wYU1vNnA3MHFJOFVKREZrNnkzVFZlTG1faWZxZWZDQ3BOS1QxNmNvM01hc00ybUluNnNIMXNjR1NVUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2371deb4",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Spacexai Introducing Automations In Grok - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0s0elJVX1JzS1JGR2xMUElfNDdZZkhTN2RMLUdTdVdfR0luUWRVQkZSZ01iYUhtZkJ3NlhtR1RXQzdYeXM3S1VUcUlEanBqVGFnNDhsYWt4aHlaalhfOUw3bDc4bHd2LUJwSnQ1YURhdWRwSm1tYkZzcG1ZNzhaUVRhRUNNaldHNTVQTDFuNFF6LTdRTGYtd1lWUzM5bExOT29YUUg3WXZyRkVCdHhJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-493ab8aa",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Amazon integrates xAI\u2019s Grok 4.3 on Bedrock, intensifying the enterprise AI arms race - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55NjRoaU51Q3VEa0otU2NDZUg5ZVgxUnNTSHVPQ2ltNG9vLV8zTkNEaXBvTGZ2aU8zeHh5Z3ZJa1gtSnlPYjI1ZEZzbDFROVctQVZDM2VxMnJ0SmFuSjQta0R5aDFCYUpWbEhLYWVB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d99612ca",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok on Amazon Bedrock Has an Enterprise Portability Catch - techi.com",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lN0tva05Lbzl2dEhiRDhicGk1M2dwaE85dkxsLXBxYXNxd0w2RkU4dVU3RXJDOXUtbDBCT1Bvb0E5S3Y5ejZFMEt3VUt1MTVMZnp1dzhicE1BWkFOVkdJdk44VGwyWDBHWVdQWVFQeEVJY3M?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-254f7183",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "SpaceXAI unveils Grok automations - Breakingthenews.net",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2lRdnEwOVlnXy1jZkVVUnoxdURwWERkUER1bTBxaGVnUTZvSk9oUWNSUXNQVU1GNks4eks3T1pSZEhBRUJEY2Z5QW9xcGVoVTU3eDdiYUNCSkxUOUo5UE04emozWmJocC15Z1pydEpWV2w3U1M4OVlGd2ZoSEhfQlNRMzg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3c6c6500",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues South Carolina Man for Allegedly Using Grok to Create Child Sexual Abuse Deepfakes - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQUhIeF9xS29DcVVEZmhwRlp0WWt5X1JvSVlHNzE5em5UdFdtaFRiaGVwTkVJdXBLbnNkaTVtOHhRRXA0bUNGaFp4MVhFOC11VmNWS1kzaGVJQkdDMlNBaXQ3WXZmV2VHYmF5LUoxMkNLZjJRdXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
