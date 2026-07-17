@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:56:55Z",
+  "last_updated": "2026-07-17T13:11:59Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,7 +17,7 @@
     }
   },
   "systemic": {
-    "index": 5.0,
+    "index": 5.1,
     "components": {
       "average_lab_fragility": {
         "value": 0.29,
@@ -25,7 +25,7 @@
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.3,
+        "value": 0.333,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -56,9 +56,10 @@
           "societal_impact": {
             "stressed_labs": [
               "anthropic",
-              "openai"
+              "openai",
+              "xai"
             ],
-            "breadth": 0.4
+            "breadth": 0.6
           },
           "talent_governance": {
             "stressed_labs": [
@@ -555,7 +556,7 @@
           }
         },
         "societal_impact": {
-          "score": 0.77,
+          "score": 0.81,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -563,8 +564,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.457,
-              "evidence": 0.843,
+              "intensity": 0.495,
+              "evidence": 0.981,
               "corroborating_sources": 3
             },
             "F2": {
@@ -614,7 +615,7 @@
           }
         }
       },
-      "events_count": 334,
+      "events_count": 337,
       "last_event_date": "2026-07-17",
       "top_drivers": [
         {

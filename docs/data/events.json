@@ -20868,6 +20868,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6bb25fcd",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues Grok User Over Illegal Deepfake Images - Hypebeast",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWl0SllpX3o5RjBaNGZxMklhb1JYamVXTGxsYV9HYzkySFV2YlBQdzJCVGgzMDBkYXc1M1FJV3hnVF9DQm1NMXp6NWwyaW95a09vSnowSklPd0dhS3UwT0RmVkJDZ0RhcDk0LWdqVUdjRlctQXdKcG5SbkZ1RHJ1cHdR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fcc3c12e",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Opinion: The privacy watchdog hasn\u2019t forgotten Grok\u2019s sexualized deepfakes. Neither should you - The Globe and Mail",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1lYMG5vOWp6Ukh2ZENtdzdBLTNVSXZ3cENoZm9EZ3NFV0VSLV90SjhpXzVPTWQyZV83NW52OHFRRk00bC1RZlhXSEJ5MUotNlpRaDAwTHpVTGQ2MUpKNVlRa0RxVGhUSk9CeC1Ya1NKSEZmWWFMVFVSa1k5UGxYSmJYTnJ4THE3NWh6SldWVWpueng4VTBOWWJKak1XUGpKWnN2T2ZiVkoweWk1eC1MWUs3OA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3c2066da",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk's latest acquisition may help power Grok's AI future. Here's how - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEo1RndRYnNzNDBKZlQ1MVAxOVZIYk51c2xLeDhXZlQwZG1sdmtXQWp4ZkxXS09ZU25iUDhTX1BKSEs5N3M5eFZaYXZ3bmhlZkl1R0hkeXpHbUhPQU1nYlJZRnNURVl2ckdMUTdsMUFONzEza3JMNi1oQ0tlQkNxbW50NkNkYTA4X0Z4cTdIOU9pQ3c1d2xjNS1rc2t1aThIMHBiNk5Dbm80Q2VLX1FxQTdZeGc1VF9XemxnUXBXM0l6SWs40gHKAUFVX3lxTE5Ic2tiREJXOXRQaGVteko1R0ZpRzROZHc4d0NMR3RpUFB4UDBXNUE4RkhMR2JBZ2hBcnpVaDk0SDRqcDk3ODhsSzdBVkRhd1ZxaUp1bkFqcmNFMFN2YkxfUjJ2SFNqMHllRU1zaDd0ZUdyUDFSdEl3NEtONjBLR1VDVUUwMHRpU0Z1NEh0Q0VjRC1CODI0MnYyTFF4YWZON2k4N0ZZWFZNLXFLazgyN1pQS0llZGNvcjRFRDZTWnlpUDJRZW5LOEhObEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
