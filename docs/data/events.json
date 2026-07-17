@@ -20922,6 +20922,130 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d502ce8a",
+      "date": "2026-07-17",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
+      "source_url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c6768b78",
+      "date": "2026-07-17",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Apple\u2019s lawsuit couldn\u2019t come at a worse time for OpenAI",
+      "source_url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b9076619",
+      "date": "2026-07-17",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "A scorecard for the AI age",
+      "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e6414e9f",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "LIVE\ud83d\udd34: Pearson hosts Congresswomen AOC, Pressley, Lee for South Memphis xAI site tour and press conference - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZld5eFFTOVpXdGI3TUpoNW14eGxSSlJkcnFjS3RwV3N1LXBFemxLbEtibG9sMXJaN3RPWkpxNVlfc3E5c0ZPMWZZR003aC1NVGF5VjRlSHkzeEQxNzZ2LVVRS21qTldCZ3lybWljUWpNRE5Lai1GQmtwM2lJalVXZUZCR2hYNkVEUlZMVnNUdlpZTHkxQXQzcV81RUxKYWs2ak9OR2VtSHk5OUVURXB6bVhscmVEM256dGdNY1lYRi1NVktZd0JsQXppQ1dmaEU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-711f7044",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "WATCH LIVE | State Rep. Pearson joins US Congress members to talk xAI - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTZIX1hHblctNm9rMWZab0pjUHdGNTJVY21VYkV4bS11TVR2cnF0X3FjYmlMLUg0WDZuSjRqSklwMFNuRGhzeDJwV1pSQ3ZUYTFTSXU2aER6SmpWU2hjdTVyZ1lTbmJlUFAyUDBycDNGYWJCSlZNUHhmdmxpR2dSV0VRcUlBVE52SkpIZzlBdnE3ZjRHSE9tY1JXbjB2NjRLMUZuSUdaVVRYRlpWSEQ5Ql90dnpxWWREZ0Jj?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ee68fd89",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk Trained Grok Users to Expect Sexual Deepfakes, Now He\u2019s Suing Them - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlNaMmU3ZndTcnVBMlVQOEljTGo4SlNYUHdQcnZMRjQ1VVhfQWlGaXNwRlhPel9wb00zblRIbWF0bDR3ZVNTRDFicDB0c19pblpKejY2SUMzc24wWjhmMXJTaVFkVG5mX0RLcjctZ2lDMnZWQkp0Z0NOcWQ4Ny1IQmgwMmtIUEdkTDd1N0NlRUg3UllTcTdYMW1ON0FJaXpJNTVQRV9KRGY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aafbb959",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI, Which is Being Sued Over AI-Generated Sexual Deepfakes, Sues Grok User Over AI-Generated Sexual Deepfakes - Yahoo News UK",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nd3d3TWtrSDJUTGdZZ1FuZXJQRUx4Z0dXS3hjODN0SC01X3JYT3dRVG5xSG1Db2FHbHJLc3dYRFpFS0x1OTNLZWhtelpGTV9GWFBKYllnYmVJb3ZZWnl0bzV2dzZLN19Ed0wtX1JFblFLRVk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
