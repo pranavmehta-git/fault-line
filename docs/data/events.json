@@ -20849,6 +20849,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5ffb98e1",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues South Carolina Man for Allegedly Using Grok to Generate Child Sexual Abuse Deepfakes - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hUjdDakpWUGpzMmNXZ0djRUFzTE8yTGVfclRjSmQ3V0NEbVBfdnJXeTBCR2ludmtuOGdmNFNnZ0RraWZvYjd2NzJRbU9VWWlVdFNmYkdGZ3FjQzdOSmFORzctNFVYdF9fZ1hjQmlQYlRYQndGa1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
