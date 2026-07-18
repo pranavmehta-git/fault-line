@@ -20851,6 +20851,26 @@
       "historical": false
     },
     {
+      "id": "evt-b10bf5c0",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Introducing Grok on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanEzdlpLRFpidXcwVi16QkhRQTJNSXVWTWZlWUJTSlFYSVYxZ2Q0Z2JhWHFrX1ljcXFhRm1kazJ6VkdGa3cyb3dZeF9BaW1ORjNsc0pUcnlLcmhkV2YxcVVVWTJrbXhXSmpDREhkZ3R3TWMwSU03dnZNVG9oSE5hR1ZkVUpBM01G?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5ffb98e1",
       "date": "2026-07-17",
       "lab": "xai",
@@ -21040,6 +21060,76 @@
       "impact": 0,
       "checklist_items_affected": [
         "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6a88685c",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Community members speak on xAI pollution as out-of-state congresswomen visit South Memphis - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc21iQXAyZEZXZHI5QnVCdERwWjJqRTcxbUZ0VjRSZTVIMk1HRzlxN0R6VDVvOFc2eThkekVyWjd0aUozV0xPNWtaR2RsSVhVUjd5V0FRSkNyOGJINmctWG4wRG0wcmJLOTBKZnhiUzRYUkF6TFAzZ0FIZWNQcnZMS0FsNGp6elpmcHF0SkU2MHkyb3BjOVptbFFUMGJ1V091OUNfd0lvNWRnNlFnOVAzR01ZclBDTHZab1ZuZVBoTmNVdk5wN2dBejVn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-41af89a7",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's xAI, Which is Being Sued Over AI-Generated Sexual Deepfakes, Sues Grok User Over AI-Generated Sexual Deepfakes - Futurism",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaU9LVnFsRXZ4QjRfd0lQRGFMUE52OHRwc1JnbElQNXRQcHFnalZjanBJX2hyb21UcHFvZ1JhVktYRnR3S3ROSk12c3ZtZDlRNHBOSFZ2VVBsVkFTVURKaGpLRzVKOHU5a2FhWktDckNQd2lNeG0tZC1NUXNCREtsblVWdE5STnZOQ1I4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-50de4aed",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's xAI sues users for creating deepfake CSAM with its deepfake CSAM app - A.V. Club",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HMDdWYm1ETnQ4dW1ZX0tvbTBzamxZUmpzNklJM3hya0RueExyZGQtQ283OHJwbGQ4blJCd18zX21nSDNGTzA2YTZXa3FMYjViZ3NkYmUtUmRnUGdy?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-199693e6",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Octagon Urges XAI Floating Rate Alternative Income Shareholders To Vote Against New Sub-Adviser Proposal - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnN2ZkJpTFlKdHB1aFlJSV95QWU1bHpjYXVzcUR0bXBCRG5CcmtRdnRGSEFkM2ZGanRWZk1jNFVqSzZ4OEtxbHpLc2hONlpKOUs3MDJiQ1pzeW5Hd2dvUEVESzBrSHNFdWJNcWNoazEtSXh4QjAzWmtuclIyTjFaYmVYU0tnN2pHMjlodTVoWmFBSWtvNWprZzJBbVBtNnA4ZTZROEZCeEhSNHZOdkVLRFJuSWxwUl9pLWtoUldHRl95eEVsYVA4eDdiTVMyZ0FuZFRsdGtDTjBiR0xfdF9KajdzUk1vVE41UDh1V29hQzJXVk5GSGtyLXRBd2RRQlJLT1pIUw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
       ],
       "confidence": "low",
       "tags": [],
