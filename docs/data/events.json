@@ -21136,6 +21136,38 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-92835b06",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "\u2018We fight to breathe\u2019\u2014Community members speak on xAI pollution as out-of-state congresswomen visit South Memphis - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZld5eFFTOVpXdGI3TUpoNW14eGxSSlJkcnFjS3RwV3N1LXBFemxLbEtibG9sMXJaN3RPWkpxNVlfc3E5c0ZPMWZZR003aC1NVGF5VjRlSHkzeEQxNzZ2LVVRS21qTldCZ3lybWljUWpNRE5Lai1GQmtwM2lJalVXZUZCR2hYNkVEUlZMVnNUdlpZTHkxQXQzcV81RUxKYWs2ak9OR2VtSHk5OUVURXB6bVhscmVEM256dGdNY1lYRi1NVktZd0JsQXppQ1dmaEXSAeMBQVVfeXFMTWhWUTUxb1pXejY4ei1WbmhnS3lsb1BNdFdOTDFQaVM5b2pqQXZmNDliRS1xcE5mQ3YxejlzaW1qdkQtZDhxblR4NG9SR3FveW9rd1lQRllDRUVndHBYd1J3R0dLQWRBOGpBUFcxeUFaRXZ3UUpxOTlVVm5FMllwRGY5c0RtZXQyS2FPZDVpNEN1YzIwOUktVVZ3TDlkQ01yUGUxNmg3d3Zya1R4VEotVmpuXzlrM2VfZFQ1bjZPY1FfM1RWOVZIVDJMYlBYb3owVi1mMmcxQjBkaGhyNjhScjVzTmM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-95d459d8",
+      "date": "2026-07-18",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok AI Review 2026: Features, Pricing & Honest Verdict - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tT0Q3ZU9sNi1ZamJFWkl0Sm5DMy1DcndNdzVsMzlGQ0g1T2U1Wll4ZVJ3UVhzSm9ZRmo1bEZCeHRveXdSSC1fdGVibmQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
