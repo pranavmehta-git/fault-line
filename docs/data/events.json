@@ -21186,6 +21186,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c202c5d6",
+      "date": "2026-07-18",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Detroit Lions' 2026 season, game results, statistical leaders, and a crazy deep playoff run - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaGZseEcxWTNfV25aRHFFWTFaZDVqbDh2NnJFMFNINW9la2VXUUc2bEExSkszS3FsUUVPbmFYaF9EcGJCaTBzdEZKbFY3d2F5UGQ1WWxDS2ptMW9aNk9MdU10SldBb0FEMXQtTklOR3Y1WmZwSk9CSVl5V3RBbWM1TUdtS0NTSndWVFd0RHkyZ0FvT2FyenJBUWdjSXdYUmVqRVlpemppOHE1SE5HTUgxaDhSdGgyN1p2MUN6Mnd2a0lxMTJhdUxjcS1UZ0lsR1Y1YlpDZjZwVkFyVkIzS1YwNzYxeTB6SXB2?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
