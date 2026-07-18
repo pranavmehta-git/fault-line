@@ -21168,6 +21168,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0bff7c3b",
+      "date": "2026-07-18",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XA Investments Defends King Street Sub-Advisory Agreement for XAI Floating Rate & Alternative Income Trust Ahead of July 30 Special Meeting - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa0VnWVptOHctYTJZOHZqYkwtdkItSlA0ZHk2OVZBYTBCSnpVQ0dDWlF4dXNfQmNIM0ZoRWxwY2tXeUtneHdsLVZ5VV9yNVNxT05RaVQ4WllNUFpxRkxXbGxHOGRFMW5qb0x5MlhvQUtFM3N6UVIzNnVhY0tnMS1sSjcwMWp6YWszQnF5bXR6TDZqM1VwS09HQ1VlemZwWGFRMVdBTV9XblFVMm9YMjJnR2oyQkI0Y1hrdHZYUFd0cG9McnplaFAwcE9NdEJPUXlvMzZXX1NBR2NhVWNpV3VSNHl5U2FFeHNROHV0c01XcDN4eTBHcGtSMTJsQy1SbjhUVDRKZA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
