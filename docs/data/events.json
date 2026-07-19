@@ -21244,6 +21244,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-510db088",
+      "date": "2026-07-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's xAI sues user over deepfake misuse - Views Bangladesh",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FaVFwTGhFTEphNnFEMmJHRWgwZUlZempsbm4tdEt5eGZHbDdvR1NaOXJ6cjloN2k0MUdqRjl6UWttaDZNUndRc2dYaGdMTzhUc182ZUNWcE1OcVFJWWxJRUhtTk5xX1lwSFRob1VVY0dPUzFTbzBySkJRWGR4ZkU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
