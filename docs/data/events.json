@@ -20871,6 +20871,25 @@
       "historical": false
     },
     {
+      "id": "evt-cc1a9d23",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI can\u2019t deny Grok makes CSAM anymore. So it\u2019s suing users. - Ars Technica",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanFPYjdydWhqaU5WUjBXRDRTNmlMS3JVQ2tBMGFnSUZHRGQwVDYtQmV4OVFyR0xjTlBMZGtUOWlVOExicXV4NllTS2MyZ01VWldxLUJEWkVrREMtYXlnWkk1b3otNExNNTRDSVRvRXlXSUVVb2FiM2tTSVVMUmVzRllqb0hkRURvMjZMM2dNRU0wNzVpQ25QVWZ5cXJuekprUW9R?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5ffb98e1",
       "date": "2026-07-17",
       "lab": "xai",
@@ -21259,6 +21278,22 @@
         "F2"
       ],
       "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-98b4000a",
+      "date": "2026-07-19",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI Elevates xAI Veteran Uday Ruddarraju To CTO Of Compute - Yellow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tdmNydHpMVGI0akpuV0NtdVBET21hQm1ER3lKVlR2eWdCQVgwU18xZFVyWTNDZ2d6WF9PeHlPckdMWWw2bFNzM1pubWxud3VuNEtrRWhNaGEzOUtxNmQyRFYybnlRVFUxYlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
       "tags": [],
       "source_type": "news",
       "auto_classified": true,
