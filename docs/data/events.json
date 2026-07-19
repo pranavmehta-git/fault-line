@@ -21206,6 +21206,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ed78d93c",
+      "date": "2026-07-18",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Dave Eggers told OpenAI staff that ChatGPT was \u2018silencing an entire generation\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7f54de64",
+      "date": "2026-07-18",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Minnesota Vikings' 2026 season, game results, statistical leaders, and a playoff appearance - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS21rUl90SVlhSGJHZ1J6UTVrS0ZPVzRaSHJYNHkzaUdTTzFraE51MDdXaWItcFg5Y2UwQU5XbzlIT2Y4eklJbnEyR21QQTRpZVFHaXA1UUdwdFJMQ01DMVBwblgyWXhjNHFlUEI0c1V4akM4cmNQNk5Mb3dpRGd5R0hFT2xEa0Z6U3lzd0NEUTRtTmpCWExVOWk0T2lwaXpEVVc1WWFUT0JmbW1sSjdqNWVQZ1I4VGk0eVRHUERpcXBNN3BTajdnenFoSzluY0d2RUVWd2V5djJ3TEJVWVFCeWJxeUI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
