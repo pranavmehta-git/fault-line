@@ -21298,6 +21298,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3925a7fe",
+      "date": "2026-07-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+      "source_url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
