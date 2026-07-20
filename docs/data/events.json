@@ -21227,6 +21227,24 @@
       "historical": false
     },
     {
+      "id": "evt-7d57ef64",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI, Which is Being Sued Over AI-Generated Sexual Deepfakes, Sues Grok User Over AI-Generated Sexual Deepfakes - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUml3dTl4YkZBck5mWmFsbjVDdE5DRnQ1TUJwajdBVnBsWFVhQ1NrLVllN3Vlak0zMHdlbmozWm1CdkNNSm55S05JcmpOSzZJb3d2ZG9hV0hsUzUzUFdFYzNhejBXRjRBUjNIQWdNOVJobHlycWVacGFOQ3NuNW54eW1YTEY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-95d459d8",
       "date": "2026-07-18",
       "lab": "xai",
@@ -21418,6 +21436,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQak5wcWZGNmVwaGhUV21xMW9makxPUjNqZmhlOWMxakVXV0NUNkRTdVN2MGZnV2VwSk1rbnBtbVI1WUEzeFZHZ1BQSVl6bHViem9jR2QwaUctNVRtR0tKX09DUDNqNEgxcEdZbWVfVkhqdDFxQ2dUbFZEM2J4cVBXN2p3T0tNczhnTHMzcHJFSjByOGwxUlQwN0FFeTVGOVJ4azZNVEZsMi1MYXYzcU5yQWh6S3VTMEw0UTV4TjUzV2hqTm9CUDZxSnJxTktmcTZJRHp1QzFKTXg3aWRWMmwyTXpZZzJVSVpPYU01SWtldDdPZ05kTUE?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6b6ff2fa",
+      "date": "2026-07-20",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Safety and alignment in an era of long-horizon models",
+      "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-abccdb64",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Packers' 2026 season with NFC North title, individual achievements, and another playoff upset - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdi1KSjI5ZzNhZ1hjYWJwSG9KbWw1TWZLOXBmYVVweGFINm15NmVGcE1PVWY1U2JvX0h5N1NESkNaX01SbVdlbE5SS3luRFh2aVBRU0VBQW5Wd0pMWkV5SmdHOW9aNGJDb2tESi1MWGNVU1FhbmY0c0YtY2xmX1gyc0g2cUd0M3hjRDFUVU9mcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e5b8c234",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Dallas Cowboys' 2026 season, game results, and a playoff run featuring multiple bitter rivals - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGpXRGlEZWJLSnhMem1xdUt3R0lIMzMzU1UtdWdSejU0TEpTcjZlQ1lIUkRRRm1iUXlvUnR1RHZJaGM3cHB0RUNMSy01T25obXVRRUtvRHd5dVdQU2tueEExeUR0eXhfaEZidnc5YUUtTXlqM2dDZEtHanUxWW0zeWd0WHlqQUFiMWlmbkV2R3B3QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
       "checklist_items_affected": [
         "F1"
       ],
