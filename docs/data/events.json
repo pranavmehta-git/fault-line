@@ -20890,6 +20890,24 @@
       "historical": false
     },
     {
+      "id": "evt-975b5f63",
+      "date": "2026-07-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk\u2019s xAI sues man accused of using Grok to create explicit material - NewsNation",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1JZZkVVVFBXTjdXWm9mbEtrSy1FaXdHQnp3ZUNnbVR1U0tIeXJFa1Z0RnJleDlVaXpQelJHNG03c3YxUkpEZU92cGNFQ3JxaDFuZnJZdEQtN2FPeVVScTVQZzJQOXAxVEhVSHBfUEM2TlIxSTczc3piVTZjTTh6UWoyZi1jTXZLdVhQdVVSTWFrMTJhb09OeHl30gGAAUFVX3lxTFBqbWR2WEhVeGp5UHYtMXU4aDdpUXFHUjBXTjEwZVdNN21HRVRQUzZ3cFF4YUwzTlNldy1QNk9wSEk1SWdTT3k3b1U0TllfVExucnlzZ0JUbjVzZTdudFV2RnprR056cWJsc0NiRnNlclhGRUxGQlF2T0tPQVpFb1R3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5ffb98e1",
       "date": "2026-07-17",
       "lab": "xai",
@@ -21315,6 +21333,22 @@
       "tags": [
         "aws"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c774d530",
+      "date": "2026-07-20",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Indian-Origin Tech Executive Uday Ruddaraju Named OpenAI's CTO Of Compute - NDTV",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFuek52bWRqZUJub3plNG5JcVBEcUhVY21kUzlGYkIyZlZ5ZTc0OXRaZmJZSGxqXy14STBuNlZIaVl6clNTLWE2eHc3MHdBd1BsaGYtdk5SZFQ4WUpOci1wZXd1OXhPSzhCR3V4S2JWMjVJOU5BUWdBWnp1Tl9uVXZ2U3BjLVlqSUhLQlNraGhfcVJwaDc3RDBQdUpIM1B2VGE5VjYtX1BSTmhxazR5cmZpQzNUemdHTm9wMGl6T1B2NVdS0gHMAUFVX3lxTFBkandTTGRXZTg2Y0Y0UXpoNGJzYVZVcXBTX1d2NVdyNzJKaVFXaW44Z3JDS3pLQUR6UUZkTmNqbXA5clh6U3RhN203ZGtVeVVnamhGcGdkX0s0S0NrQlRRUWtTZUxlS1hFSndLdERsUS1BX0NMTDNVQXZEbE5kbkR5MWNSR0NzenQ2MVpzeXRVNGJJSlZDSkpNdEl5X2RvczZiR2JpYkxYd19IQXJ2dmt3S2loNWtnRzhJVnlERlh4QnpHbVZxU3U2ck1reQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
