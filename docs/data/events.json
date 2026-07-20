@@ -20372,6 +20372,26 @@
       "historical": false
     },
     {
+      "id": "evt-2f880856",
+      "date": "2026-07-15",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Florida football's 2026 season, game results, statistical leaders, and a playoff appearance - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1FSV0VPWHB1RU9LS1ZhdDhjRkZGY1VVWGQ1Q081QjFxZ0hRRnhZY096UlBhcllRaXBnd2dPb3g4VjJIOHZsejZrTVpfczJoU3ozMjF6NlFadGp0c01fYnlGclg4R0RhT3VNRHY3ZkhGeHcxRFoyMHUyNVhvYWtwUDFQc2IyQzFFT3ZaS05INA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-38c8f229",
       "date": "2026-07-16",
       "lab": "xai",
@@ -21191,6 +21211,22 @@
       "historical": false
     },
     {
+      "id": "evt-9932ea6c",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Community members speak on xAI pollution as out-of-state congresswomen visit South Memphis - WSMV",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHNFdlcDJka3dETkV2bTBPVkdwZ0tmOU9iRThoYmNfNjZiUXJYXzlrcHhIMm1XQ3ZsSkZnTlkteFRzR05ObmpvUmU0NWpjTENOWFJUb3NuSVExVXM3Z1NWck5VQlV1VnVIeXh5Q2lZSVR1YklpeUwxcnZfRlpubGMtZDRZOW8xRjllRlR2RWowYXJYeDJhR2duNUxQQlZQYnBNcDhvSDlOY3JMcGUtdUJUcnhLTVR0RndIbWJoemk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-95d459d8",
       "date": "2026-07-18",
       "lab": "xai",
@@ -21349,6 +21385,46 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-605da23a",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Bears\u2019 2026 season with Caleb Williams breaking his franchise record, but Chicago suffers another brutal playoff loss - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3VyWGZsRGc2U19lNmZfSFZqNGF3YzFCdDh3a25wVVBhYjZDUXVJRWYycTAwMXlSa215Zks2N3E0Nm1mM0F5a0RwUzYxb3UxQlNMVmxvU2pLWUJBcWlqWlAxQzlPalRId0hXTktBR0hOa2o5UXhZbG1YVzgwWXdjM2ZMWnVlWFB1VDl4YkdRWUFXUDY1SUlha1BBRXdmTVZwYUdFUWcyNkZoeXJ4SHhjRDZ6eDNldkR5UndIZWcybHRTSm8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d7aa3d54",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Packers\u2019 2026 season with NFC North title, individual achievements, and another playoff upset - Yardbarker",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQak5wcWZGNmVwaGhUV21xMW9makxPUjNqZmhlOWMxakVXV0NUNkRTdVN2MGZnV2VwSk1rbnBtbVI1WUEzeFZHZ1BQSVl6bHViem9jR2QwaUctNVRtR0tKX09DUDNqNEgxcEdZbWVfVkhqdDFxQ2dUbFZEM2J4cVBXN2p3T0tNczhnTHMzcHJFSjByOGwxUlQwN0FFeTVGOVJ4azZNVEZsMi1MYXYzcU5yQWh6S3VTMEw0UTV4TjUzV2hqTm9CUDZxSnJxTktmcTZJRHp1QzFKTXg3aWRWMmwyTXpZZzJVSVpPYU01SWtldDdPZ05kTUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
