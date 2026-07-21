@@ -21245,6 +21245,22 @@
       "historical": false
     },
     {
+      "id": "evt-7fb58e77",
+      "date": "2026-07-17",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Community members speak on xAI pollution as out-of-state congresswomen visit South Memphis - KSLA",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTEJMREVXZ0FWNjJaeHlBU2VVdzUzLWJqRzhaRm5WM1ZQZ1BwOGw4UF8zbnhkLWt0bjZPSjRBbFZQYm00MmxBeW9BbGNRZzE4ekRmSWdDVVE5b01zU3VRS3pBb082MUtJYTl6UTFZbzJUSkc1NjF3LUZQWExSN0YtYXJ0VWZNeTl3S0FZanpOUlhmelJjRlphY3ozbzdKZUlNZUpLT2pyTFk3SDZUMHUzRHJkQUNSTFhFSG5kTmFGbG0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-95d459d8",
       "date": "2026-07-18",
       "lab": "xai",
@@ -21518,6 +21534,42 @@
         "A1"
       ],
       "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0252fe93",
+      "date": "2026-07-21",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XA Investments Details Octagon Underperformance at XAI Floating Rate & Alternative Income Trust and Seeks Shareholder Approval of King Street Sub-Adviser - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRFN5S012eG4waW1RM2ZhdktQSUVUYUhzSkhhcVlibk40ZTFYd1J0cmJOTzZHcmxhSmdNNGVyWnZ1X3FmR0tNN1NKM3p2Z0pTNVdJUTdqek9ETDlwQXlsc3BSdlNENk9mN1JDQVJpUXFEY1RkY01VMUR4TC1iNWRKLTYwdEc5Qm9lMTBKQnhEVlN1Mzh6azRyMHJudXQ2MWNnenN4Ui1rWnN6NDhOWmpGVHBRWVRSNU9xZzkwd3FRT0RFcTM3Z3IyNlRwbG1tUWM1MkpreUwwMElJcjdrN1dhTGJTd1JUVmFGQ0J5aUxNMFJvRWV1ekJSX3c5SlBfSEdITWFDNEdSVDRxX2ZGNzVnNXhrZXA1bXM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-14825cd9",
+      "date": "2026-07-21",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Issues Video Script to the Shareholders - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGNDaW12TnVXemZlY3RsaFVldmsyUDVwQUVHZkc4R2dZejUzYjVwN2ZmQzcxa0c3QWxNdjVfN1lHVVhTcDZzS2ROQ1dQemxSb09IZkhkNW0zcG40eVFHR2hmNm1Fams0cUQwNVp1T0VRN3ltQmd0WFFjdlNIX0JIWXFQZVlwU2xHNW9uNTJBNTNFWFNyUjBlY0MxREs2WTNvN29qa0tNeEp1N3FLX296Q25zWXN1d1J3VmVKQjdwLVg1TzVHWHFHVGpoenByRlBi?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
       "tags": [],
       "source_type": "news",
       "auto_classified": true,
