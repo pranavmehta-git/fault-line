@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:21:51Z",
+  "last_updated": "2026-07-21T19:07:26Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.1,
     "components": {
       "average_lab_fragility": {
-        "value": 0.294,
+        "value": 0.292,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -223,7 +223,7 @@
           }
         },
         "societal_impact": {
-          "score": 0.97,
+          "score": 0.98,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -231,8 +231,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.592,
-              "evidence": 1.453,
+              "intensity": 0.607,
+              "evidence": 1.547,
               "corroborating_sources": 6
             },
             "F2": {
@@ -282,8 +282,8 @@
           }
         }
       },
-      "events_count": 488,
-      "last_event_date": "2026-07-20",
+      "events_count": 489,
+      "last_event_date": "2026-07-21",
       "top_drivers": [
         {
           "item": "G1",
@@ -309,7 +309,7 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 3.5,
+      "total_score": 3.4,
       "breakdown": {
         "compute_chips": {
           "score": 0.5,
@@ -430,15 +430,15 @@
           }
         },
         "resilience": {
-          "score": 0.26,
+          "score": 0.35,
           "max": 2,
           "items_triggered": [
             "E1"
           ],
           "items": {
             "E1": {
-              "intensity": 0.258,
-              "evidence": 0.348,
+              "intensity": 0.345,
+              "evidence": 0.527,
               "corroborating_sources": 2
             },
             "E2": {
@@ -449,8 +449,8 @@
           }
         }
       },
-      "events_count": 154,
-      "last_event_date": "2026-07-16",
+      "events_count": 155,
+      "last_event_date": "2026-07-21",
       "top_drivers": [
         {
           "item": "G1",
@@ -615,7 +615,7 @@
           }
         }
       },
-      "events_count": 364,
+      "events_count": 365,
       "last_event_date": "2026-07-21",
       "top_drivers": [
         {

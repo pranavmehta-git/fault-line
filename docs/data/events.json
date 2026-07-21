@@ -21574,6 +21574,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-17c9d5d7",
+      "date": "2026-07-21",
+      "lab": "anthropic",
+      "dimension": "resilience",
+      "summary": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "source_url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-502bd8d2",
+      "date": "2026-07-21",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Introducing the ChatGPT for small business program",
+      "source_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f298cc91",
+      "date": "2026-07-21",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Texas A&M Aggies' 2026 season, game results, statistical leaders, and a surprising playoff run - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRExwc2ZDSXZ3d1lLVWJfSUF5RGl1SE5QQ2Z3N2R2WGxfMjZQVWlvR1JkcEM1SGpXaGRtdUdibjRucV9ldjZvdEZia0VYRUowSm56bjh1dHp3TWxBU29PUTZ4Ulp2T2NKdHFlMTNyREFNN1pFY1h6amdwM0xkZDJCUkxqTjJ4NWJkQ0N0Ukh0VGx3NUZJTzJ0RXdsRG5uTXNPWHNkUFNtTVlGcWV5dmZtcjROLTdGWG1sbGVVbjdYWDdLSHJVWTAyWUZIYkJuWFhMTmg1Z3lGYnV0NDMtRGZxYXNBbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
