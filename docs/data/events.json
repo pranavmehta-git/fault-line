@@ -21540,6 +21540,26 @@
       "historical": false
     },
     {
+      "id": "evt-ca5ce7f6",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Dallas Cowboys' 2026 season, game results, and a playoff run featuring multiple bitter rivals - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFN6dFNVT2ZuamF5OVU5cVB6NXFGXzMzdjJ3ZjR1SVhUSUpZTXFONjM0bzhSZ1RDcEFtWE1pSHBOMmlVdjQyb3RwSnkzRkZLeTRUYmdhMEdmMW16cG8xcEhnMzVqMHZZNEJVTXVqSlBhel95bkRnQkpIa0VYRkFGWFY4bHBaT0x5S3hr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-0252fe93",
       "date": "2026-07-21",
       "lab": "xai",
@@ -21700,6 +21720,40 @@
       "impact": 0,
       "checklist_items_affected": [
         "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d9784eed",
+      "date": "2026-07-22",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Introducing OpenAI Presence",
+      "source_url": "https://openai.com/index/introducing-openai-presence",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8eca9eb9",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk says Grok Imagine will create a \u2018historically accurate\u2019 Odyssey film by end-2026 - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFRsNkVEY1hxbkNpWWhyOHJQdDNmY2sxLWlqdHhsbWJTZ3JJYjJ5Z2lwODd1YTlsWS1DdlZJcTk4WFk0QjR5TDZsejZuWFdBcG9keHprQmFWdktIYVdudkd1TDFWcGtsTUktcENORzJwMklRRnRTaHkzWjRXQXk2eGJOS3BJRVI0MGQ0RDg0ME1MNC0zc2tBdVN1RS10bFp1emtvam5FeElLTGdJR0s4X2Zsc3RkUlpyVEYtbzBhNGdWQWhkcF96WnJsZGFQeS1oUEHSAdcBQVVfeXFMTmx0NUhnX2VIaHdyY19sV043aGstRTZVT0JYcmR3dXZTYTJXTmFfVENGaV9VMFhQSUthVnBBYWdmc2w5dmNXVm00a2QwU3F5SG9mbzhoX3RkRDRqWExSSnRRQ1Vidm5DZHUtakh4VURJX2lrZEItVFBuNUpWVDVlSUx5N1R0M3FsWUtzdE5Hajc5UUtpQl9tX1U0QkRRY0VDWWxfTzA2bjNJcndGZDlCd3FhQnJnaExSLWp1NENTYUx1Q0xvQXJfV3dnekgyaDRVSGNFVFEzcWM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
       ],
       "confidence": "low",
       "tags": [],
