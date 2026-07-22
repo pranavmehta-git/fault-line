@@ -21760,6 +21760,136 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3bb79fe4",
+      "date": "2026-07-22",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
+      "source_url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue",
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-70320c8e",
+      "date": "2026-07-22",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "AMD commits up to $5 billion to Anthropic",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-572b9295",
+      "date": "2026-07-22",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Advancing the next era of national science",
+      "source_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f6c7e6e8",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "SpaceX and xAI are building an 11-million-square-foot satellite factory in Texas to move AI computing into orbit - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CLUgwVjNIZTMwTmlXMkMzSENvbDMwOXdnbm5vYjc2NEdqUWhDRmExNXhVZEpVUU5ERTdXUFZzUVlXZ3FnZTk1cmxaSmd3SnFzSE1lQk1KVVJCYmQ3VFVPdU9rTnZia0s5TGpXcHJYcDBxVnl5bk05TWtveTZYQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1274f33a",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Provides Information to the Shareholders - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0F3RlFZWXRUY214RFVEVHhDemhuOS01dnpJVmM2dVVEZUtsTElxSEx4cWg5QU13NV9fbUtDZk1qRWE3Uk9tNV9MT1paYVVLMzRJUFdXQzhMalhDMVZOQ3p6cWFXMko4OFFfNG1tQl9MRkhRYmQ2S09xdXdOVXNHZzFVbHlIQmVObnFJaVRjUjl2WVUtNGx1Z0xFejdNZXVzRGV4czVIOFBzVV9TWUZQdm1qV3hWLVVwTVdFRVNLVXdZZUdTM2JyenBaZXZVTjZ5elE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ebbea89c",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Octagon Responds to XAI Floating Board?s Claims - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUc2Ui1ERUJnZE44dDdwbkpuMUctaGFueEZPV2xaaDZQZEJnOE5BcUMtbmhpZ0RlVWU0X0dsOFJuWjhObjNaMEpNOGJzQ0ZlcFpONnBqMjYzS3RKUEo1dHV5Y2ZONzFCN2tucGtkc0g3d3ppTnZiWThwNVUtaVpEVm1LTFMwQS1sbTJfNHJreFJUNnBUYlJLRE5OMmFZOEN1bmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-49c4adf0",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Institutional Shareholder Services Inc Makes Recommendation to the Shareholder of XAI Floating Rate & Alternative Income Trust - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1B0SWdmRm9EWjg5WDM2QUl6ZjJnQ25GTTd1dVBJQVNEdldjTmtlenBQZUNjMGVLb1Nza1ItSFBBNzNpR3NpSzU1ZE9Jd0JQRzRQazZnNHVzSmFUcU5FS1hIekZhYnBPZ1dGNkhVSHhQQ19LQkZwTHFHYVAxTXBUaVBJYWU5NW80TnFPMEV6Sm56QzZEYWhvc3B6VkVBeW5BbThqTGNwanlCREY3TzRnYlg5eWJiTzlfaFFwVU5iTmZiTjhuZ3RCN1I2UXYyMWlTZjNmYnlqY19ReUFhNXQ4SjJxLUVEbDg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
