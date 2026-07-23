@@ -22074,6 +22074,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ef32d993",
+      "date": "2026-07-23",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Grok 4.3 vs Claude Opus 4.8: 10x Output Price Gap [2026] - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVVhoYWszMHVtOGNaS1lGdTFHNmt5UFlNS0VsazlNek1FV2l2OTM1Z2Y0NklPa2ZfVk5CZGxtRHgwN0JhbkhELS1veXhrLUlmSDY1SXZlVUlsaDVCM3JTMEtmbnJteUtBRkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1ae6d495",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Kansas City Chiefs' 2026 NFL season and predicts a return to the playoffs fueled by new breakout stars - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbnRrS0c3UEZ5U18xcVFkZmJPbmZlQ242TFdtNGE4TDlvSmJwc1Mza0dBd3d1N2VfODdPX1N1R3gtSF9jQkRYc2ZMZDh1NndMaDVJRTBDX3Vid3ctczNFWkthdXZLSWMzUWxEZm15dXRfY2lfWTNBRlN6RmpEZExBQlRZbFlzdkFVVG1BOTEwcUVOY3VRdXVNNE9RSVZxOWgxNkNZOFFHYXRYSjhZQ3hJeGp1cGZqUFFZTTFTcDdOcWNfMXNsMUs4dEUwTUN6RG1uTXVPbHZ4SjBudw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7b92c185",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the New York Jets\u2019 2026 season, game results, statistical leaders, and a Disney-like run back to the playoffs - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUWNWbUxYbE5YdzFBVkQ0WkZ5LU4tRVNOVjFIU3hYZF9LNkhrd2lhVlRGQWJxcUIxc2JaVFdlYzdscDBDQ0hGeUtiZ1hFU0dDQTRFZ0F1M3BKV1M0YTZxVHBUcDhFdGhvVGhvNzlSMkJyeGNqc0RPQnlpc0JsQUZjaWg0S3R2YmtRdm1RR0dtcWVsWk9xLW15cWNJdC1PbnBSU1pRNmxXZHRieWh1Y1pCMjBlb0J6UjhqZHp0Wm5Ca3U3aHF2OVkwaTN1SWJhRDA0TjVEc2RSN0ZobkIzQ1ZsbkpIOWwyZ01JNUJIRThVZkFPRUl3M3dJYnNqRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
