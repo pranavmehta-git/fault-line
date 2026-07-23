@@ -22018,12 +22018,50 @@
       "historical": false
     },
     {
+      "id": "evt-6cea81e8",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Boxtown residents react to $3M xAI tax revenue reinvestment proposal - WSMV",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0lNOThGQzF6WXVxNU4wQWh5NVFod1NaYlBXV1VKVXBRQWlPeVF3cS0yTzktcklnZnZUd0tETC1iM1V2VFZWb3J1c0YzMk1zXzVhOEVmZXdodDVueS16SkZFRi1tQko4NE0wZ2t5TzI4d1NRZ3dwY1Y3SUZ4TnNLSFV6Z3l6OFlKSVJZM0tIQUtrWVVENlNkcjlHVTZsSkFOeU4tMUF3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-62f926be",
       "date": "2026-07-23",
       "lab": "xai",
       "dimension": "cloud",
       "summary": "Lawsuit alleges Grok failed to prevent AI-generated child sexual abuse images involving Tennessee girls - Yahoo",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1NsZkJFWEFWVEQxQjRTRnBUX3NYMDdpQ0pOTzZBSG1Uc3V2NGlJTUx6RGVYRnpRdFVSOWFjTGhrRlBvejktU2xWOUtlR2JlLWlUS1VFRkdwNkQ1blBRTFRMOFpZQmN4MXBRT2RjblZxNm5QUWpMaElBSndsWUVSNGUzUENIa1FTelZOUTBEY185VDg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f67d34b2",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "The SpaceXAI lawsuit that could kill all AI transparency laws - Transformer | Substack",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjI2VE93emFKVWxEalZiNXc5N1pDTEk4WFdfeHZpY3VoR2x3ZXBfdnhUcTVMN2hVQzFxdnFDUXRoc2ZIeTktREVtWlpiZ05aVzhWRFNHdUtXN2o5bkRXM0MwRTAzOFhVY0NIRnJXUGNLUTVfUURUWE1seG5QVFVBaHNEa3lYOEJFcVo5cmU5bFpuSngx?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
