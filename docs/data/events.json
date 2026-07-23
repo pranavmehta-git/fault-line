@@ -21560,6 +21560,26 @@
       "historical": false
     },
     {
+      "id": "evt-79549907",
+      "date": "2026-07-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates Bears' 2026 season with Caleb Williams breaking his franchise record, but Chicago suffers another brutal playoff loss - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFNPNTVReHlMOW5scF84TkdpZjZDRV9kVHBvbmhhYkxudXRoT1h3UlRhSEQtZTJQeWo2NjZIX3FYOExxSERlUTdSWVRudDNRLVlpWGt0enFadWp5UXdVdjhzVjhOT0NxR25rLXFzbjdkZ0p0Z3NyT2dTVzNJaEJhNFpaZ2RUa3JQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-0252fe93",
       "date": "2026-07-21",
       "lab": "xai",
@@ -21880,6 +21900,112 @@
       "dimension": "resilience",
       "summary": "Institutional Shareholder Services Inc Makes Recommendation to the Shareholder of XAI Floating Rate & Alternative Income Trust - marketscreener.com",
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1B0SWdmRm9EWjg5WDM2QUl6ZjJnQ25GTTd1dVBJQVNEdldjTmtlenBQZUNjMGVLb1Nza1ItSFBBNzNpR3NpSzU1ZE9Jd0JQRzRQazZnNHVzSmFUcU5FS1hIekZhYnBPZ1dGNkhVSHhQQ19LQkZwTHFHYVAxTXBUaVBJYWU5NW80TnFPMEV6Sm56QzZEYWhvc3B6VkVBeW5BbThqTGNwanlCREY3TzRnYlg5eWJiTzlfaFFwVU5iTmZiTjhuZ3RCN1I2UXYyMWlTZjNmYnlqY19ReUFhNXQ4SjJxLUVEbDg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f1fe837b",
+      "date": "2026-07-22",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+      "source_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4ab69591",
+      "date": "2026-07-22",
+      "lab": "openai",
+      "dimension": "resilience",
+      "summary": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
+      "source_url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-97fd65ff",
+      "date": "2026-07-22",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "source_url": "https://openai.com/index/ntt-data",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-963abc68",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Boxtown residents react to $3M xAI tax revenue reinvestment proposal - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFA5czRodG5oWlRRdTBBaGhveUh6Q3V3QzE1N1NkOHRIY0F0ZEFhNzd0ZkJ1YUwzMHlHX0NDUnNwRU5VQ00yWEFpellIX0g5R05fN1BhYzltTzg1YVloZUx2XzFMdG5fQ3BfQ2RzekNoR1ctVllweGZHSXg5d3JGNjkxWEJicVFjbEdXX1VnVVlqaUM3Y2taS1NaVU5zUTh2SC11cWp6TdIBuwFBVV95cUxOVkhvcUI3bXZ3SVpuZWVMb0pETU9KWnhDTEJBMUZGSEJIQnVrMF9GTmM0NFdUTzJadzNsSm9tYzdySm9POWlqcVRyOC0yNDZRczdfbkZPc2NIUG53ZFV0M2FSNElrZzdyN2prUW9yNndwejR0SkhvblBuNXJGYmo0UTNYMVJkSS1xMFc3SVlrV3NRbFVaQXg4ek9lQ0Zvckg1cFJJOFhQbi1XQnJTUHVOUl9ZMThEbkJnYlZN?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1594fbd9",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Musk Suggests He\u2019ll Fund An Alternative \u2018Odyssey\u2019 Or Make One With Grok - Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTC1uckZoZlgtblg5Q0hkVjhSb3hVbG9zX0x0dlBQb2JOZVIwejRydG1IT21wdW8ta0V2dEZhaUQ3RVA2RWJDTEVUd3JUZjBYbmF4WDkxamgwakNTSnk0SGJCTENuc2QzMldPa29DdXBUM2VvT0tvZW4tOXVJQ2dZQUlYUjlBUVZKT2JBUGl3TEJQZ05sMzVtRzA4MlNRMWFicEtzZ3hHeThsMTJXaHFsRlMzclVpLV9lZG02RHBlM2JycU9yLUhwRUx0SHgtS3ZpbFZ1MVRn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-646c32f6",
+      "date": "2026-07-22",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust SEC Filing (Jul 22, 2026) - Stock Titan",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkkzS3E2OFg0WHU3NmJxNjBhQlVGVzhVTVVEeVVIVXVPSmlpMXRPbWlha1pjWmp4NEk1Z3J2bnd2SjlTNmRPOVg0b2ctY0txV3Q1VjdROEs5T0hmZGF6Qk1hVm5PNHUxbXVrSzRaaHUwdGNkWFlFeGx5NXpha0haNjNndlhmWHFQLU9FVnpSOVNBemJJUGtfbTdtdEpmSUp3djVIN3RGUWFaZ19tVXNhU0p0SXhpSEd1WW9kVFd0Wjg?oc=5",
       "source_name": "Google News - xAI",
       "impact": 1,
       "checklist_items_affected": [
