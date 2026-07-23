@@ -22016,6 +22016,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-62f926be",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit alleges Grok failed to prevent AI-generated child sexual abuse images involving Tennessee girls - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1NsZkJFWEFWVEQxQjRTRnBUX3NYMDdpQ0pOTzZBSG1Uc3V2NGlJTUx6RGVYRnpRdFVSOWFjTGhrRlBvejktU2xWOUtlR2JlLWlUS1VFRkdwNkQ1blBRTFRMOFpZQmN4MXBRT2RjblZxNm5QUWpMaElBSndsWUVSNGUzUENIa1FTelZOUTBEY185VDg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
