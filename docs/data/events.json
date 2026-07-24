@@ -22230,6 +22230,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-eeb3106f",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Files Lawsuit Against xAI Following Alleged Creation of AI-Generated Child Sexual Abuse Material - The Bismarck Tribune",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTNjdERZX0xXWXgxNWthRk1JbENuQ3B3ZjA5bzNrc2dYOFdOSE4wUkN1cmg4OEtwVGxnRlZOU1JjNUdqTWRfU1ctQ1FNdU1LeUxLdjl5QzJ0ODQ0cXBSb09ZMk1HTEoxZ1NkYVVUUlFzWDVuX29GM0x4amIyby1HcXVyVVBoRmJOOUxmdTZtUi16R1FhYmRfdm1QdXIzV3loVldiQW9OTUYyLWN3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
