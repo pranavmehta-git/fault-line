@@ -21748,6 +21748,26 @@
       "historical": false
     },
     {
+      "id": "evt-f9190ec3",
+      "date": "2026-07-21",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Texas A&M Aggies' 2026 season, game results, statistical leaders, and a surprising playoff run - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlNCQkV0czM1dnFZVjhhTUVCd0xxUm9aemdOT1hqbTVSV3QzMDg5aGdsYXZOUVF5NV9HYnN5MXNTbGdlc01Hay1Ca25vbXVyQUF0cndnSmNnN3JjT1htWmxZOGZGV0JKRUgwd1RvVGt1bTZ1aDdfR1NyUk5Ed0N0MjNiVWI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-d9784eed",
       "date": "2026-07-22",
       "lab": "openai",
@@ -22129,6 +22149,64 @@
       "tags": [
         "layoff"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a06aa859",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Files Lawsuit Against xAI Following Alleged Creation of AI-Generated Child Sexual Abuse Material - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaFBEMlRtTVRzYzFZVklVQThPRWRmeFRJNHlIQzkzWVNVX1pKVkY2bU5HLWNXNVFJczM4T3pYbjVtV1Y0SjNtTmF2SDhLUlF3Q3h6dTdTaXhvMHpiazl3bFI3TERQMnlNRnB6THU3dW9tX0cwWlp4NVFWZjRLeXgzcmpjNzJfNE90bzk0TEs3SHhxaU9JTkgzdmxRb2lIeTZ5Z3RJVlh4bG1uWWlLY0Q3VkZSSzMtMlZmeWIwOF9QSTA1OVVVSVg1c2M2bERoNjkzOTdsN3ZNX3kxdnBzWmxXMlFuY2xDakxTZzVLU2R5WlZ1OGlMRFNuLXRJYw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2c0e1eab",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the New York Jets' 2026 season, game results, statistical leaders, and a Disney-like run back to the playoffs - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlVa0VYazIwTHdJeHBILUFyMkFpOGU1U1lXcFE3dGk2NVl3d2EyS2N3NXA5OExQb2ozM0lkNUNhSllnMm40UlZ3S0Q0cG9zd2N6SmFDTnV5Y3h2OEpHenNvbEZJVU90WERQWXNCbld5TzVlNFZBUUp6WWVQRDB3ay1Kczg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-89e96666",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust SEC Filing (Jul 23, 2026) - Stock Titan",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXVoX3AxTTNDLV9raW9Ga0Y1MlB4VEZPUGFpZDNLOUlIMVZ3R0xwdXd2QWNsT3Q0NTJUNHpLYUZZcGlvbXZnSzNZdEFRbk5BQmNkTnR0RE15RFRDVTJSU1dsTmJpX050WUxNUklpQkFNSjBabGVZamM0R0lFalYtdW9uOWNfUVpwMDlaYTFmQ0dQRnpRbTVyMVZnRG5qVGlxOEtVNDVjQVJjYnlocy1uTWNSMTdZZnVTc0I3aXpELXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
