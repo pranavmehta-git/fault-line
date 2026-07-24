@@ -22210,6 +22210,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-00c25309",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Files Lawsuit Against xAI Following Alleged Creation of AI-Generated Child Sexual Abuse Material - Ashley County Ledger",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNd1FBYlVQU3puTEVuWmhMd2l5blhvVmFxWFJIWmdwc0JPc0U4ZHFJVVFMVUFfOHZGblBiczZTaXVTRjRvcF83UzA3dVVhYjdvMlNNRUhUbVY0WF9MQTQzYi1pT09COTJTcGRpTW1XSDhTdm9fS0F5dDJIclNZZWxERFRORzFwRW5CMU52SGtEUGRxT0FiUlFtT0ZrMlZOcE4yclZDVnA0MVIxdHhCYkpXZFAyUXh6WGFObmhhbE1DUmZMMld1cGhWUFNUM2NxeU0tdEd5Qk5PZ3EtVG5lekhfMHhYYU1HSWZXeng2SmEzRTFxcUZxLWJ2QWNDQnF1U2ZEcDdpblpndzNfV3ZWXzMyeGItUkUtbndoWVpPVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
