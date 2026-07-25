@@ -22269,6 +22269,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-692d47b7",
+      "date": "2026-07-25",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
+      "source_url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
