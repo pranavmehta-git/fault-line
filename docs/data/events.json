@@ -22250,6 +22250,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f3958af8",
+      "date": "2026-07-24",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Arkansas family sues xAI over use of Grok to create deepfake child sex abuse material - KATV",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3d5ZW9lRHFMcVI5MkNZTFJ5ZTZtYnQyREhPekhZaVN5OFNzdjFTRy00YURTRXNtQ3dtN0Z6YnNqa2x6VXZ0U0dWNzhmZ1RRb25fZXRtWEc0V3NSaG9zbllYT3FHNGQxUDFBVDI4eHZ3TklkUmFVYTZma3FKaTRna29JeHNLTGlHWTg0Y0dtOWZ6OFpDNDdPcko3dlNGZ1R1Z1pwRHd3QWp1c1V5cHc0ZVFQWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
