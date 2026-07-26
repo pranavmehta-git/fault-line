@@ -22287,6 +22287,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7b3838ca",
+      "date": "2026-07-26",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+      "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
