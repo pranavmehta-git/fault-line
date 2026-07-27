@@ -22366,6 +22366,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-907807d0",
+      "date": "2026-07-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+      "source_url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0e4aac43",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Los Angeles Rams' 2026 season, including game-by-game results, playoff predictions, and key players - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEJFenh4d3dDYkFmb1BwZXRIYzl2UkVlSVVTamtmNDZtUTVkQTltWEwyTFBxSVMwMVhqOFhVRHdXUG5Ya2tRZjlMdzY0em9LcFZpR2xZNXduY01WNi1sU3BPS2p2a1hIRXBJeHd0c01WN3huRmRteC1MYW5QV2FvSEFOYmdibXNYYTlxNUkxT3lMeEFPTmg0VzBBMGpxd1RJNHFUc2FFSG5hVTRhY01ieWZNOWxoRlY4cEFMSm5URS1HZFBfanU4S1M1YWZsSjBZMDl2cGp0QTl2dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2730f933",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the San Francisco 49ers' 2026 season, including game-by-game results, playoff predictions, and key players - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb1RXd0FKcFV3U0owdUJ2VzNCZ3poV2lET2ZUYXVfOGdXN0VzU0h3SmlCZnB0RjZRUUV1T1JlbExNU0ZlMG9mbTlWLVNFd1prT0xKMFp0Y2hVLVBQZF94cy1EangwNWFvRW1odWx2TTFtdlFzRG1ka1FNMldFRjRhaV8tZkx5UG9Od0laNnppZEMydFcySGoyQ2pFZEZZY3I1ZDgtWmpUWndKU2ZndFJneGwxUTdsSHRhLWd6Q0JRVTA4bTBWNlV3X1lUblBSbmpaUE1kZzVhRzN5Q0tDbHFUbjFHZW1wWEwxS0JlZUtNMjRfbkMzMFlRUUlB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
