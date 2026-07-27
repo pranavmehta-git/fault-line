@@ -22305,6 +22305,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3de2893d",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "From lawsuits to space data centers, the latest on xAI in Mid-South - The Clarion-Ledger",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa282cmRTOGlfYlIwX2pLNW1KY25lR3NYWUJCVGNUVU94WHhYN094cWllVTBucmw4UGZhSDJpeXlOY2o1OEZuZzlZUGNGdm5nOGY0OGpoWHRfN1VIakVtaXB0VWNTWnlPZnlwVWJQYlVKamNCSGhQN2s2MGxVb29lM2paOEdtb1YxeUdtVTVxY3U1akp4bEtsOGN6QlBpN3RjWk0xTXhyWlYyeHcwaGFwUE5nSFRIM0Z2aTZFVkdaZFNkeF8yTVhLNHZOTldOZ2tPc3dMSnY4dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
