@@ -22325,6 +22325,47 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-eb760e88",
+      "date": "2026-07-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b03d44b0",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "From lawsuits to space data centers, the latest on xAI in Mid-South - The Commercial Appeal",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaTA0NzJJS0ROMVdzclNLY1ZPbmtyYW1qYjlqV2lTTW8ta1gzMWp0eWZUbjFOQzNuWWVqR3R1ZXhiTWp4bzZvYXB5WVRYOGhEUnRCamV4Qmlqek4yTnBPNUlkWExVdG5MYVZhdkhwdk9yN1pDcmlYR0d6clQ1aUhZTVhLWm4zYWFXVm5GVnNxaG1WVVlCc185YzR2QUVwS0tMUzc0WHpDb3BNMkl0VUU4TGFDdE9WUThSajdmZ1kzenhHWUNVRzh2MFdLYlZLUkhreXN6Ul85Yk9YU0U?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
