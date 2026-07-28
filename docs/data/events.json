@@ -22780,6 +22780,122 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8225d21b",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "UK Lawsuit Against xAI Highlights Growing Pressure Over AI-Generated Deepfakes - PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakpjVjZKei1BMkZBWEVWVEhjYmVtY1VPTGpoZmdKMnQxTHI4VVJHeTFiT2FkV1hRM01ZbDc4c3k5ZlBESzJJTjQwZ1I0d2JBOEItT2I3dzRmZFllWHZiSVJ1eWp4alV0aE5WRjJLMVVsM3Z0eWZ0U0kwRFROSV9hRHoyTlN5WWRPbnB5U3QwVFZPNEVpQXgya0Z2WU4wVnAwS04zWENDLWxzVkxXMWhFTDFR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-424d3bd2",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Egan-Jones Recommends Shareholders Vote AGAINST Proposed Sub-Adviser Change at XAI Floating Rate & Alternative Income Trust - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRzA5ZXNUX1BXN3VMb3BydXVhVS13VmRycUFpU1pqSUphTF9FSldYM2FKLXk4WWdhRkt5S19fbmFSQnlFQTRJZFhCMW5ySWhxZnZFRTREb29tRDhjNnVpUnZ5T0VvMGdyTTV3U29OSzhXTEVGbk1SMWV3UGJrWE91bl9UeUdNcEoxN2s1R2NMTmlnR252RFJQMHdHYUpMeWQwVTU2aEVWbmhYTEVVaGxvYzZ0S3NuMUxxVDVTckszYTJRMUYtS0VPQUIzMEt2Yk01dG5CVlotbE5UWmJUdWVkeXJ1Z2Q0cWZPclZlcTJDZ3lVOGRRTktfSlFOQnFPTkQteWUzbzFrV1RNZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-571eb3ef",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Pittsburgh Steelers' 2026 NFL season, including game-by-game results, playoff predictions, and key stats - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjg2cUFRbDBFYmo0ZkdwcnZZdnNsUWYzWllOOG5qeGFsNWFIU29ZQkRNYnRUTk9PVTRnVWx4UVo0Y2FXRzlOZTFySGlJRUJzM09sRF9IdTA2ZF9lOTRFSnZOX2t1RG1oVFFYeUo3NU12WnNtNVJ1Rm1GUUVFRklTN1VEMk43eElBQzdQUEY5N0t5QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-00473be4",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Denver Broncos\u2019 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2NvdjBXbHNwQW5XaDQzZWNiMXZuRlE2ZDBaeUdzVXlBZWdLUENjOVpIc0RWREo3aXM2U3ZOZENfa1hRbzhlU1RHTE1PenJ6RGVFakdvak5XYUNISEthMUNId0pYdVNEZ3ppc2pNWXRlTEhyc2tDQjJ1RUUzTVY4ZnpQWkE1amVsd2JST0JyaEdvNU42YUZnZmxiakVoUFp0bGYzdUZ0ZkYxeG01MnRhc0Ffd1JrTVhxOGRwbDlIM2xJMUQ2RmJnTmh5TF8zWnM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-16125c1c",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Buffalo Bills' 2026 NFL season, including game-by-game results, playoff predictions, and more - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTRoWTZnV0VYNXJ3ajhEdEdMeEFoZWRoNjR1cHllbXRNTXJWZzFXSzl1dkFRTDhNVjd1blZlY1JobWJNVnpqdURESDlHbGFfY2w1cDVVWk5Ua0xjQ2JhOFAtVUNxV2lYUnJXSV8yLU91ejBPekt1YXZ2SC1PYlNobXM1bU01eVlwamc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7bbab3fe",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Octagon Credit Investors Issues Response to Liquidity Plan by XAI Floating Board - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnJIcXdHblM1Z05RR3h2RFdYUWI1eDJ0aE5XblFOLVE3U3hJQV9PMENFcS1nemFBRkFqTDBuNVRuX255dnpDMHdJQWljaDJkTDBaV1d1d2hsWVZsT1o2YTBBekkyRGVNTmwzX0w4MTA1a1lTR0dfcHFpRk9QU2NhREo3eHNIcDBoS2hCQVNBLWhfWFJ5UlB5bWFib1hEcmc1WlpOVHl2T09tbXI2b0FEY3BZUkxTSmlEcElWclRTdUY1NUxhRGFJY240LWI3QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
