@@ -22252,6 +22252,26 @@
       "historical": false
     },
     {
+      "id": "evt-71eb0230",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit alleges Grok failed to prevent AI-generated child sexual abuse images involving Tennessee girls - WKRN News 2",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVERkNEdpUjg5RVRVWkFRSDhtdER5TnY5ZUNpdnRSTXlTMF9Zc1hEVkpxc0VsejZrclg1dEVwWU1iaHcxR2ttOVo4X1RFOXVpbEljeXlmYnFqTllFRUo2cjBnNkxXbEVQWmZ4TWVBZkExVGJyejM0Q0pJaTc3OFlxUm5vTl9ycVFNUXZ0NGk4Znc0T0d5cHBuaG5EMlBVdFk1N3M4WFZoRnJLMDl0N3lQRTFpUGtHbjl5WmRpbm53RlZpN1hnYm8wRmQwSDRGWHB6OWtaX0FEWHdJUkxVbUHSAeMBQVVfeXFMTWlxQXJ0TVpHWjBUb29UM0Q1MFlLaUZqU1Rwa2ozNjZxX2RMcEQ3ZU5BYy1VVU1za3VfYTQzTWlRYk9fV3hGczF2QVh3MXlQMGxyT2xrVVF3NHN3RURTblV5V0pPbUdyWno3bUEtNWRtMHhLSTlqc2YyZDljak1rbjhTR19STTg0ZE51bW5XeS1DWVZSUExGRjFLZG04WWJXX05XVmtWNUt1ZUVoYWZMTHg4N19tOExNUnpuSzJYaE5fWmFVLXQwMWxLdHo1VFhWNnBpd3dZWUotZVJnOGxFSUxDaHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f3958af8",
       "date": "2026-07-24",
       "lab": "xai",
@@ -22410,6 +22430,194 @@
       "dimension": "societal_impact",
       "summary": "Grok simulates the San Francisco 49ers' 2026 season, including game-by-game results, playoff predictions, and key players - A to Z Sports",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb1RXd0FKcFV3U0owdUJ2VzNCZ3poV2lET2ZUYXVfOGdXN0VzU0h3SmlCZnB0RjZRUUV1T1JlbExNU0ZlMG9mbTlWLVNFd1prT0xKMFp0Y2hVLVBQZF94cy1EangwNWFvRW1odWx2TTFtdlFzRG1ka1FNMldFRjRhaV8tZkx5UG9Od0laNnppZEMydFcySGoyQ2pFZEZZY3I1ZDgtWmpUWndKU2ZndFJneGwxUTdsSHRhLWd6Q0JRVTA4bTBWNlV3X1lUblBSbmpaUE1kZzVhRzN5Q0tDbHFUbjFHZW1wWEwxS0JlZUtNMjRfbkMzMFlRUUlB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-da384961",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the San Francisco 49ers' 2026 season, including game-by-game results, playoff predictions, and key players - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajEwcy1ma1laQTRQLVhkNU5xSHdCRzBvSVBDcEk2N2hIbjdKS1NCSlhzMThweUdfaHAtX0QxQTAweXpGb0ViOTMxek11ckk1dEtPdGIxbUV4LV9nbVRwNVQ5Rjh1M0MzWHZDV2Y1T0xoUzZwZUVPT19vOHdHMEg5LUR3Y180aTA2RGhZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dab0dc30",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Bulldog Investors Supports Proposal To Approve New Sub-Advisory Agreement For XAI Floating Rate & Alternative Income Trust - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbzVjRzlrVHQ4THBZbXVLdEkzTTk0WFRhMko1WDRRc0hqMWJ2c014bjc2SWNTX01SU2ZhWmJQenp2RE92WHJCRGFKTjhBOFNxdU1mUDJWVmYwSDE0T0QxREQ2NnpHSEhKVXo2ZDB1Wk1ZMVNCeWQ5c2xRbXlEUUIwVXJOTFI1Ti1PVEZHdWVTbGVEY0N1T250NUR1WXJyLUc5ZHBoU002VS1IYUtnZXJaRkcwQnA3LWpFTXFQYnBWSGZNU2JyMWZmOVZlRnRZbHA4dDZRd0t1N2pNQk9XQlMycGtDdllvWVV4b09BdjZQN2F0VUlWUnFDSkQ5RmZhS2lLSTZZSU5VckxfYnlVVE50UVRBdmg5dzdEVEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fc8a2391",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Seattle Seahawks\u2019 2026 season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjBkVTd4VXdSaGNjd0NkN3pGLUt0aFhwODVBdlZDbGp2a3ZHcVFjM3pqcktINjhuYmJ1dTZVa0pvbWFQNS1kV2FPNlcwUDg5M0t1VXQzRHFoZnBmNGJnSTZMbmlhZlpwdXhYX2V0ZUM4MlgzUG92YXR6YlF5a3ZxLWg1aTBHX3V6SzU0ZjJNc3VTZ01xMnFDS21nd2ZjQldHclVaYnY2anFESjZuODJmckZPUTM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82f92fde",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Carolina Panthers\u2019 2026 season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVh4MURYMXdLSmxwMlpzbC02NVFWWndBSnNyV1o1Tm1sX2x0YmhfNGxsYXNodDJ6SU5hWmxJNk9NUWpFNXMtWVJ3M0w3TVo2NVNzQXlrU1F2dXNKYXZ3ZkR1Q2duVURraDJROW5QS1ptWnFSNHNYYWVxck10YklkWU1MVUh6cmR2LTA0a1ZWYU56T0t5cGZ5S0JYd3YzWlhRTWhlbk5QM2xDeUdQc2RjdURhaUtORms0RzVEdlk5TS1OME1oSEJ0Ul9PclRZSGYwcUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1b212d9c",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Bulldog Investors Supports XAI Floating Rate & Alternative Income Trust - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVBaVTNlZWcxNVR1ZUdLQlYwelNja0FqVjhYRnlGNUlOTlpwak15MWZEVDZLNzVNZEpiOVJTSnUxMzlPUER5VXVObGpqSGJYYTIwaUlQVzJjZ0dWSlM0UGNibk9kdVBIc043RU1PUDdib205cDBFREFRZlNwRzlNT1BuYm1TT1pWNnpHbjEyX21QeTJoejREMDQxa3FYQUlwT2ZhOEQxUzcxM3hFQkdOd3A0RkgtUVN1bXdKRC1Mdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b35df4d1",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust and Octagon Credit Investors Campaign Ahead of King Street Sub-Adviser Vote - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNnJoZXd0VXRuLXBtZXNTN3FjR3hKWTZTeERCV05FQnQzX3dWUkp0ZkFoZE9zUkdGTzFVZmdzLTBFRldwSW1ycmFXM3VEdkwtWkNvaE5LNldvclV1ckNJRFdEWkVlMEJvMGxac3ZDWnVXb0Z2cEx4RlFxZUdRd0doMHBOUE44UGdhUEdZVHNkOXBqVHl4aWtkMkl2dE9WZzNGMGQ0eVNNWXhQNmpGal9LcGc3T21ROUluT014S3c4OXplWW9TOHIwWWNsaVRjN2tZenF2Vk9zMzQyOXJKM1VrYU9oS2o3UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5c82ede2",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Bulldog Investors Supports Proposal to Approve New Sub-advisory Agreement for XAI Floating Rate & Alternative Income Trust - The Manila Times",
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbUYydFJLaUZBa3VnOU1rUTFjVmlIMEp6ei1VeTJGTEp4N3kzRFRJMTBwTURieERKRjl1aUxKeG1GNk1faDBoQWE2WEJWN1k5RXBlWkloYk1mVkRXZWtjSGdncXQxb1dZbExLX3NSOEVtbTE4NVFHZTA0NVR2QldMS2NWVE1zVXVZaHY1QUZMZjdUT21nRkFPU09VVkJqQVQtU0VoYzFtRDNwMWVvSEE2d3VwcE1FNHdNYVBrYzMxZVdONlA5SzBqek5POE5VV1hKdGoxeVFwZDJ5aHMyclpUM0JQNkdFWU1lSGtjcC1jMFpEZzBMRmhPTk5hZWJKcElnbHhNUlhXdjByQU1vRzRmZ2xEMGJSZFpRbnY1d1NFWdIBpAJBVV95cUxPWUlaY3VBOXo2eU1fWjJPRDRlSFRTMG5nZGhxT29seDJoaVRWaE5pcTVXVGRDNUF2VnktV0tmTFJNZFNBdlF0d3dOLTZ4YnhKU0tDU3BZc2xBZXBYd2ZVcEU5Qm9LS2hMcDgwdXcwR1d5YzYtajBORnR5N01nNE1sNUtYOHhxc0N4STlLX1BuQmF4ZGhFUm5nT2J0azY3NXFzTWZEVDh2VVl4dWs3Z19QNHA2eUU4d2xWM1FWT3gyTkZkWk53MzFZcUp6czNaOElhVkxyMGJuelVmVkgyMWEwcE50VkR6WG1WVDA1c1oyRjIzRlM5WTdNZlYzSlUteUxlSkE3dUxkVWRfWmJLdjcwd2Q1akpxT1NjNlNISnhlTE93Vl94?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bc1d32bc",
+      "date": "2026-07-28",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+      "source_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9acf34da",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Tennessee girls take Grok, Stability AI to court over explicit AI deepfakes - WZTV",
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSGFNa0VBM251THJ5TzVGeEwyX1JnbDZmU2k1ckwwUzJIUnVEVWpHWTduSFBac2pBQjdfUTBaUWZqMVJhbE9kdHdHYTJITEFORE1xUWFCVF9vMkZ3YkpEd0xrTEpKOG9kcGhnY3pndVpya09zX244SE51dmlfX0s0ZUh6X25VM1RtYVVOVERYMkM3RU13WVRZdHFleXRocEdWaWZjU2NDbTE5WVRXT2JRUExTTHJzanFJekN1SXRYYmh4ZnJmYjdTUFk2clJhVUZUMmJ2UkZ2elZyQl9WVzlzV3RPMWdLTjVSR2N5VjF2c0FjbWJSVHRmRFo2eWVvQ01BLXdhMjZXaUVwMDJyYy1lQlloZ2poMDF6UEo4R1E1a3U0RWtQVm9F?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c00adc02",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulated the Titans 2026 season and produced the perfect outcome... even without the playoffs - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVZtaWFhb2VJbEVKUjJuOERfSzRhazZ6d2g4UlRibUd1N2Rac3BHYUhpd2hsUWFjaHp0TEdTNThMem16TlRSY3JWSjlZdzdnRFZMOFZSd1paazN6S3VRLVk4TmhPU1M5OGkyRVFuMnZiclgzeExrckZCSlZGNkFrRHMxNU9QaDVaMGh4ZWFiRHl2bE5sUEpyMW5UR1EwNFFrM21nd2RfV3dRQkNKTmNqS3ZBSlRUck4wWGhBekVXSmFRTExrYS1BMk9Id3Y?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
