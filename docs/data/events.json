@@ -22272,6 +22272,26 @@
       "historical": false
     },
     {
+      "id": "evt-c965f0b6",
+      "date": "2026-07-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Files Lawsuit Against xAI Following Alleged Creation of AI-Generated Child Sexual Abuse Material - Morningstar",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUkd5XzFGNnZaQkViMWpPWWZzUC1JWXBXUGp6bUxoNmt3LTI5NUZIWkFJMmdDdE9FLVVLbF9uQW9PZ1N1ckNyTWJhaHBxYnZOX2dld3pEdURiTThhMUtXY09Yam1QQlRxa1hwYmFVaGtzZUM1SGJmYmNnQ21xcjNQY1hYRHFoX3hwckZaLTNWTEdXQ1hNeWx4cjltcHZTUFpNYm4zRFhReTRuXzlmb1RRSkc0alBzZzZnLTNfNmF1eW1zRUFKUGVFMGZKRkt1UXVRd25JeEtvWEY3eW4tRkl4V1ZkRXBDQkpBVUc3aW5Idm1FV3ZEMVluaUJsdlY4eUV5d2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f3958af8",
       "date": "2026-07-24",
       "lab": "xai",
@@ -22627,6 +22647,24 @@
       "tags": [
         "layoff"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1e4c2d3d",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK lawmaker sues Elon Musk and xAI over Grok deepfake images - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVUhOMEU5RS1LblFkMlB5WjB1VTdiWVNUMzhOMm40ay1JdEptNnRUUTZxTjZPajBjdEN5QXlOWnc0emNmdy1iRmpGZnhlVFhmcHQzSWtyTXd0dElfM3htSXU5blU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
