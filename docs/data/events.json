@@ -22596,6 +22596,26 @@
       "historical": false
     },
     {
+      "id": "evt-a9b0f1f6",
+      "date": "2026-07-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Carolina Panthers' 2026 season, including game-by-game results, playoff predictions, and more - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1NoWk1yMEZGODljbGR1NWhfRFVsQmwzSVhqNVFaUFZJaTNyZWIxWHN0WFh5YzBmNkNMTmlqRkFYX1VUTTFvcXBDdEVKczU4aS1jVE9HVXRQdUo3OVUxek5pMXhEMnhCTEdEa2NYVGhva1BRdm4ta1phVHNCdFdCUExrOWczMVBaQW1SWGwxTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-bc1d32bc",
       "date": "2026-07-28",
       "lab": "anthropic",
@@ -22658,6 +22678,98 @@
       "dimension": "societal_impact",
       "summary": "UK lawmaker sues Elon Musk and xAI over Grok deepfake images - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVUhOMEU5RS1LblFkMlB5WjB1VTdiWVNUMzhOMm40ay1JdEptNnRUUTZxTjZPajBjdEN5QXlOWnc0emNmdy1iRmpGZnhlVFhmcHQzSWtyTXd0dElfM3htSXU5blU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1afc99e5",
+      "date": "2026-07-28",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "source_url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-08c9bf88",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK lawmaker Asato seeks court order to stop xAI\u2019s Grok generating deepfakes of her - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMzdxbWpYLWtyODBmc2o5T0FiQnZrSll2QlhNYktOcGd4WWwzVnNMakhVazRrZGxOLUpRX0Q1NjNxTGhUU1ZsSWhzN1FIQzdUR2ZCcFRyX0FVcjBvQWJwcG41cGg0cElZUGQtRUxDYkNkNzh1Qjl4Rm5Lci0xU3hRMXVQbktIU21ZLTctVGsxU2haRjNxUk83TVlCdVZ1UjRDRWJmaGJpMEdsVy03a0tpQmVyUVc5MEdCT1hjSVJwWkNLWHJJTFF4Qk1BMGwzUEVEcjZyeDZvai10bFJ5enVYcUxVRdIBWkFVX3lxTE9Dc19BMnI4d0ZPOHc2dW9MWXpGRGNoNVFKUU1YWEtjZnA1WGhqWXMzNTYxUVF4YmVLTVlfQzhmWlhOZ2c1RFRITUlnOWVsWm5zZzhFMU1NT2pvUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3b0fa228",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Pittsburgh Steelers\u2019 2026 NFL season, including game-by-game results, playoff predictions, and key stats - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUFET0FvenFuWFJrRXpaSlBldmdoenB4ZENlVXhab1JJNkR4ZTFxczdpNHltaVNqOXpZdlgzRTQzMmVvVHhIakNHdUNKUVdoOVNXYlBNM1hIS0JwSEF4cHlfclE5NUJyNXk1QWlSNktLUHJaeWhLb3FyMHA4b0dkQS1IMWctQ3Y0bXRpYkg5UmRoY3FVQ3plak1MUUh5M2NJd1BvOGlidlV2ZENoRzEtU19zakQ3eEFFRUx0M1ZoNW9oWGNlanBkeTJrcG5udlljaGdIUVRjTFFjVDZZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a45897f1",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "British MP Sues xAI Over Sexualized Deepfakes - UA.NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZXaDBYa0hxejJVSDY0Q3llT2NWdU5May1oYkhYT25tQzI5N0lXdFlnNHVMS0FNRHBpQ2t3azBOR2pwZ2pzNEhTamNoZWJ1NldGU0g1WFVaRUpQbTlHWlhDSFE2SHhNMnVUcU5iR1U3VlR0YnlBSWhUNERScV9FUG1rRGNuMEx1NWVpWnhzV2pVcGVTZ0ZtNGxXcnRNUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f84566ed",
+      "date": "2026-07-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's Grok 'degraded' MP with sex assault deepfakes, court documents say - The National Scot",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmhESDRkUEVVRk9xTE1ka2lpNEZ5Wm1JekdubTVpbUtzaDZEcGxtVlBEZm1rbExFM1R2TklnNWdya3Z3WnhxVFBJbXNqV0tOWDlVaTVrNXJHSEVfUXBKbGxhSGk2X1FEUkJLRHJIeU9UaE9OM2VwQzdOcWR0cU9xaHRrOGhBbFBCYW9EZWMxUkRyVmdOZ1hKbg?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
