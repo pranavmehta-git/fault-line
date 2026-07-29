@@ -23026,6 +23026,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e04246ab",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sued to Block Minnesota\u2019s AI Nudification Law \u2013 While Facing Class-Action Suits Over Grok Deepfakes - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVE4UFE4d1F6dGt2SmVBWGtDY0M1Njk5MC1TYUNrRm5QV3ctQjA3QjdyNUZ2dVdpZ3ZSbGdCMXZVendCTFhtSWllNF9zTWRCX1JfV3BJOTRuaTM3anFOSnBFemlhazdsUk81NVcwdFZzV2czMlVkU0VwczBaZ3QxWDc3cGVhSWo4WVhIRFpodl8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1382fd67",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI sues Minnesota Attorney General over AI deepfake law - WDAY Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGxfUUw3WGJrWlhfRVIzY0pIeGhSaEVab1VnNDVhQkttU0d2b0wyYXcxYlVxZUswMlhlbk15cV85THVkbjhYaHhlM18weDRTVXpDb1VMeXF6YnlxNTQxUl8wUzlBemVOemYtMDkxbEZ2c1BkOVRUb1Z6R3R6azliUGs0WVVpZnNZQlNZeDNjSFkxUDZ3RXpOMUkzUGFvQ3BFbTRZYmhRcXNGTXoyWU1qYTRZeFpEZkk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e05b20ab",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "AI platform xAI sues Minnesota attorney general over state\u2019s anti-deepfake law - Baltimore Sun",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUUzNVNhald6N2U1RzE0ZGM2VWhYam56YkQ3MUFwdkVsRmxkUzBPV0JUdENRaFllSk5Eb2JaNGtDRkwtRTUtbjVZdjExaEVqODVHQ3pqWEg3c19MUEZWQjBsbjZkbW5VZHVhX0w5U1RBNTVBYk1JLWNZVDFKZzRRZXhjaVc2dnNRUU1VU1dXVVFwdjhBajdKc2ltNHdxTnQ5VVVrbEtOdHVOVlA5MUVhTEFiZXBpTmgzWUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-afb19ab6",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the New England Patriots' 2026 NFL season, including game-by-game results, playoff predictions, and key stats - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcFVia1ZoOVpBb3N4UkxuQkNfR3FRRmJpc2doUzBBOUQ5cTZ6XzNKUFpsX2dIUDBET3M1UG04emNDVVFoeXpmaXRyd25CUV9lX2JVR3NTY29iWXhfSHNJMG1WdWlpSTNFSFpYQWd2ckZTTTUwWGlRSDVjZlY1RlJlR0pKbUQ5YW9pdDZOajF4OXU0M1ViMVBOTDB2UzRDUkc0YTR3emdBMFZUWm13R25LdDN3bGJhTmFwdmgyWVl4dUpNRC1qVFZ0dXppclRoeDFubGZrcGVVS243bV81dkFncUhUc2RWSjhveFVoQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b74707fb",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Indianapolis Colts\u2019 2026 NFL season, including game-by-game results, playoff predictions, and key stats - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeDdJS3J5WjZwS1NiQ1l3R1JZaWtLYzRIVnNla0Y5Q256dHpoTjh2UXhQTERQVjVHUE1iR1ZzUGFRWkpxNVl5ZzRyQ2kwZnVIXzFTU2pxT1pOUVh1TVk4dnZGUHhaWUo4cG5hWDI3MmNqenNVRXJkUHN6Njlrek5KUXI0MzZSRGF6NEpxR1Zrd2s0dm9UMUQ0NndFOTJxeXRoZmxGTDh2ckNrcWF4NUFxeExzSEFRa01lWjFKU2dZWkplenNWWUM1eEo2eGFINkVDenpkQkg0SmlqeDNfcGcteHkyZTJjeWs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-73d3e368",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sued to Block Minnesota\u2019s AI Nudification Law - While Facing Class-Action Suits Over Grok Deepfakes - Gadget Review",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVo5Z2J0cmFCdzJhbE5YLTlZS1luajVhZVROcjliYzhfenZ1SER4M3N1UkpEbUxYTDJyMnhhVkFJT0Z2bVlnQzlkM3NHeGN4bDR3WlE1ZU1ZRFJaay12VnhQRTNEVWRUVU5kUWkwZVNuSy1hSm9sSmxjVlZta3hTT184RTBjSjN4UmZVVkZZV1JqMWJlNmdnandCV2xrWVRCbkNsQURKR0lwMEZrQlVqMlh4RC1WYmxfN0d1VlpZVXo1cEZjeXZjZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
