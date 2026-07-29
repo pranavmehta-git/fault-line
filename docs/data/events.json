@@ -22896,6 +22896,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-722db3ce",
+      "date": "2026-07-28",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "source_url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-37ddb52b",
+      "date": "2026-07-28",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "AI leaders sign a statement asking the government to do something about automated AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-22a5d3b7",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Minnesota officials defend state ban on nude deepfakes after xAI challenge - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTVRCckJVQWdtOE9yX29CMXZEbmNSYmF4N2JkQXF4V0ltb3RtYWJsZ1pfNWZMUUpJemtDcV9LbHdzS1FkSHR3cEtiNjBMWWwxaHIxVGExOHhiRExmaUZJeHBQSk9lbEJjTXBVSkVUVEEwY0tQaEVjOEVPN0Y2VVhfa1VoNExoLTM1NHFtVF84T29lUjNlVTJuWHhUMG9rZldyb292b3oyWUJ2NGtBTWZYQzFpa0J6U0VQc04xMHdOUWNjVXhDNnRzYmUySi1LMHF3RUdETTRXMWbSAVpBVV95cUxPa2ZoSkJ6YlMydl9TUXZaZ096YmZGamllTGRkQzVUMGdWZ0JMT3N2SFFPdTh0NlhNSVJwTVdYRnZKdnh4MHhRaGJxcTRjemNOMjZEVzZVRi1iQlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
