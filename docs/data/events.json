@@ -22950,6 +22950,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a8fcb84c",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Minnesota officials defend state ban on nude deepfakes after xAI challenge - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjNkdGZVUkVHejhiZUROMGxyNm9xMTJLdElKMFAycUpaaTRKUl9mNVk4Y3F1OHZYZHU1U3hGbGRocDFaLWN6TmdPME16T1ZPeVF0UXozM1Y4cTlaNFBFdFdEd2YyY25PZ1JGbVUtQVF0ZHZLU3Bvdzc2emVqNzRUMnhkVFBCeXR5X2NScjFSNzBaaGZxSHQzaFZwRmx5ZHVlUXNzYzN1NEI4aV9PeHJVMXNIa0ZnMWcy0gFaQVVfeXFMT2tmaEpCemJTMnZfU1F2WmdPemJmRmppZUxkZEM1VDBnVmdCTE9zdkhRT3U4dDZYTUlScE1XWEZ2SnZ4eDB4UWhicXE0Y3pjTjI2RFc2VUYtYkJR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4294a2dd",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "See you in court, creep: Governor slams Elon Musk over Grok deepfake lawsuit - India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcW9jRExxT0ZIQ0RTdEQtU2ZvbXA1bmFqb2d0NnFCR0V2Sjlsc293dTZQQjhYa192MVc1SWZIbGpPellwbng5WnJETmRMQ0lndC1xY3RJMGU1TEJwNDV5Mk91MEhNR196cXlpZS11NFB2bFR3X2R1c3RTX0RCMTk1WV9NNDFqV01XejA4WEtZU0VvSEktTm1feTNRc2Y4TXNKSzNDcGtnMTk4a1RXaW5qMzNvOFhySHNYaGFPWl84ZEl6bnQyV1hFTk55TEN0emdYMFVqRkdwdUbSAd4BQVVfeXFMTUxkVUg4eGpVRGl2Mjh5Y0pvYjByampEV0xESDI3YTlyY0NUS1F2bXJudDNLOUpDTFdBS3d4dlp2NUNSeFc5eklUQS1vOXhKd2ZHX2FzVnV1TDE5VHZVT3lnUlpmUmdzaG5fNk1HbkdRWUhIWlp4alllZThxTW5KbDQ0SlBOU1F6T1F6UUJRWUdNOE5fdW5hYXN5a1V5ckRKdmM5NnAwdTJnRDBHOFhMb01YTnFpeTVDSmhkdlFVQV94Z3ZhbGdyTzNTV3Y4a0tUSDJMeVdLM004dWVwazRR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-13b713b4",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI cites free speech in lawsuit against the ban of nudify apps - htxt.co.za",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFN4ckNQVUVSakJXTy1WeWFqVk1pNWc1UUdJZ0l3YnUybk02VUdCMkFLYWRJcFp3b2NlMllqWXhpVjVNNG5YYUhGY2lMMGxWYXFUZ1ByY2QxR25rUG5wMGMwTWJ4S3VRTDdDR21LdzJmeDgwYkt3ajk4OWFkdjVUOE9aSkhPaC01N2czbEZaeE9ON3dpM2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
