@@ -23304,6 +23304,102 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ee8f81f7",
+      "date": "2026-07-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia\u2019s Open Source Alliance Snubs OpenAI and Anthropic",
+      "source_url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a3532137",
+      "date": "2026-07-30",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Advancing the price-performance frontier with GPT-5.6",
+      "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-31c85abe",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Announces A Second Lawsuit Has Been Filed Against xAI - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenN3Y1hmVWxUOFNjMzZWMkVPdHNwSS1Hc3hRdDQxZ1owLXhLMGtaX2NEcE9vREI0dUJmcEFlTmpBQmVQVTBYcmtWRUFRbGt3a0REeWdHMUtUNFlsd2N3WG5QaFhaUDJZSGhvUVYyWm5FeHktd0lqTXF3VW5xcHdBNDdyU3VwSjQ2QndYTUFDV29RT1BJU2JVMUJNNXVUbHMxc2lFZkFnODJtZ0RJaVpaYkdwMUZxTlpuUmNOejRlRDE0Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aa541ed7",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Los Angeles Chargers' 2026 NFL season, including game-by-game results, playoff predictions, and more - atozsports.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3c4MHh4WXRRQW4tc2NObE9BLXcwUE00UW9jN2VCS1htWDJ2ZEQyTWRHaERoZkFsS05pTlBlZmNyYXluZ3B5aVJfcnRlcE81RXdHdlVUVDBtVmJmSVVtRVo2SkFieURIWWhiUHo3c2ZxSy1KMHYwMmd5UW5HM0xYSWRnbjdCT2VmQmZGak5Ma3Jrcmhja1JEUDdzRFFudk8xNWNkdlg5NmlmX3BRU04zbEVhd2hsZ2FJU3pzbQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-be062731",
+      "date": "2026-07-30",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Elon Musk Unveils New Grok Model: Tops Intelligent Agent Evaluation Rankings at Half the Price of OpenAI's Models - 36 Kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xelRfQ0VBbUh6UndnQ3RtN25yQnVYdU1YNDZmRUlXeTh2U2lKcWI3dGhqS1ZuZHUxcm9feVVYNXBwcWJ6cktnOHdaQmJXbXFsc0I4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
