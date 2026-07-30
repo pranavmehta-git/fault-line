@@ -23226,6 +23226,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3af82a5f",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk's xAI Sues Minnesota State Government Over Deepfake Prevention Law - \uc544\uc2dc\uc544\uacbd\uc81c",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0Vk1WYkJ2dzUzNl83TDZhMkk0VGxlbHNrU3EtaWpvNW9lZ2lnS25KZHRhMlNIT3puTlpmblR5YkIxeXJ3U3pGakx5ZXJ0VkdVQmlKeGI3dWdmaXR3Ui1RdmJlZEo2NkZibTVGTTBwOE5XQnNVVXkw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
