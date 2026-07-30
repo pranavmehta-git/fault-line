@@ -23138,6 +23138,94 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a8e56c4a",
+      "date": "2026-07-29",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "source_url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e6a31fd4",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk\u2019s xAI sues Minnesota Attorney General over AI deepfake law - The Flag - AM 1100 and FM 92.3 WZFG",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWJieV9yRHVzTXRXSjFUak9acUNtN3VuTlZ5eVJocm13NmFmOFMyMGtCOE11Sk9JVXpfWlh5TEc2TDVGR29rYlYyb2t4MmYxZmtNdU5WVGhId1BkMEdzZWpjMUl2VjFpbUZKS1RyeHFZeGNtc1M1RTZVaGdNV2ExSlhWQzFpZmRQM1pRallZcGdLa2NnZ1lVckM0SHJSREJ6WkttY1dn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-216a5e8e",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Sues Minnesota Over Deepfake Nudity Ban Law - Briefs Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRURIQkVkeXAzR2NzLVdhaWExaGVSbnhwYmJESGVDWWJzUE1SNlprRzQyanh1ZWNaUkZHOXc0YlNtRkNWeGZxUXlUQUdlZ0FjY3EtRG5WWXJmYmowR2FxZm51VkJRbV8yUUExN3BnOFBtT0NVQ3JsWEtyZzBiTzFqSjBTeFpVb2Z4eEF4VlpIU0w?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cebeb79b",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk clings to the Constitution as xAI fights Minnesota anti-deepfake porn - Cybernews",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tdFFWV1JESmh4MnA5dEowT3ZZSFhlUGtRRnRuYjJYdTFaLXhwc21BSDVZcEM0VVA2VEl6c09yY0VWQUZ6RUp3ZXZiVVpFMFJCUklNU1dpa3J1emVhbERwT2wtX2NhOG5UTV9VQ0VoRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eccf0f5c",
+      "date": "2026-07-29",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk's xAI sues Minn. over first-in-the-nation law banning 'nudification' technology - livingstonenterprise.net",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelRnLWtZYlZfQmxvaTExcEFUeVM0NFVEN3kyalRuVmhKbDlZQVZ4UWN3NURrc2VPVjdSVDRZb2N1YmZpRUZPdVIyb1djSmNDRXQ3cXNYU2NRNVY4X19qdFJpUmtKcjBfdHpTRnlBdVBQLXdFb2M4WGIycHpyZ18telk2ZUszUnR6UlJvZzhfajBQUzZwdXFWS3ZWUFhxRGtVb3NxaXZJUTlaOGF3R00taGd2NExXUVhrdmx6anhMLVMtdlJNREtNeGlKTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
