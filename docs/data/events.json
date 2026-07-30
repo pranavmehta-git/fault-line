@@ -23244,6 +23244,66 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c0ce7482",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "How Minnesota's AI nudification law differs from federal deepfake laws\u2014and why xAI is fighting it - Firstpost",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTlBmS29vbHlVQXJmTlFYQVFVUU50RE02WjhnaWl2RE52UDBzX1dXLUFzb3RMakdvU3A3SDBObFZiNVVIS1hlV3I5NzZKZU1SZUVhaFBHVTdqTldIbnBOMGRVMU9GN3dRRll0WHFwNGJZQ0xPb284Z0pJeEZ3QTRnVlB4YnZGVF9vWVpUM0FwVEdHV21rR3A2dDB4YlpFQjFMZnRJLWxlUHloWFZuZVYwTnY0alBzN29SWGVDWXVNMU1iVEdWeEJyc1VfRnNpQlhEZUh4RzllNXjSAd4BQVVfeXFMUHZhYTlEVW1LSkhLOHY4dWNwbm92aW5XWU9QYVFSaWZqVUVrT2tEVWhSWWdFNVExNjN5NC1HVExCTEc0WHBSWEVIenlqTkxmSVVjOE9hX2ZCbG5QOHBuRlQ2dWI1TTdyVHR4NVVoMExjaTUtOFhrNUJwSVhPQXpSS2R0dW1NckplTlZEdUJBTTV2Ql9fWUx1eWctQ3FWQWhhQ3laSHJ4SkdLa0VGM2NhNzliTTdOd0FxVlRqYkRaeW5qZXpKRVIxNTBRS1lheW12UVpsbFhfekRvaWFWZFdR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1707180c",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the New York Giants\u2019 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHZVUmVXUUNMRW5LVUExS09EeG5uTmhwbXhPOUFId1FrT0wyQUZ3T3NxMERRS3drWHg5SXpUakNDQ0FPemdZYmwyLVlNekNwd1JpZ2lKZjc0V3d6THdkX2hqX21hYTNodF9mZDh3bGpoRUxnOWVndmNOcW85bjl2Z2pLT2hfdmNqbnIzWUhybnF3Z0ZNckp2RC1ZY2daWGptaldaaG5QN0Jfd3lqeUlmZHBZOEhQcVFtUElLaEUzeHZSNTRoWGJfNmNPZGdJMFh5OFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-157132d6",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Philadelphia Eagles\u2019 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEY4RkhJUnFRdHpta3hiNVVVUXpPYkdBamtMbWVqS3FBSEFFRnJmaWU2SFRWX0dXREpya1hkVnItRUx6SG1tRi1EWWx5SlY5ZDFTcE9GTThKMThIUVZwUWkwVXJSWUpPWWRWaTEzdTlFcmo3NGNoYXdtMnE4MjdZcTBYTGM1dlVISGtMY25ScmNPeEIxSUY2SC1Nc0M1WHEtMlFxSzh1WFMwdkdEZ3FmdnhNbF9OcGpHMENmcG9jTDVxN0gtaWh3SjJ5Y0xLcGJpeXA5dDFLbjltYkNt?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
