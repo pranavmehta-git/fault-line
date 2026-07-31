@@ -23400,6 +23400,158 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6491cdce",
+      "date": "2026-07-30",
+      "lab": "openai",
+      "dimension": "resilience",
+      "summary": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "source_url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "E2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b29f04f2",
+      "date": "2026-07-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "source_url": "https://openai.com/index/avatarin",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-14435219",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Baltimore Ravens' 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3RIX1IySEZJUUpWcXVqZ2J5ZHpEWEVKaHNBM1I2QUx4OGJ4NmkxdTNqQkdXaExSd1RFUWVBckYzQlk1dnBYejJ5YWJqd3ZJWm5ZZnJPelpXcy1yY2JtMXZBeWlObXNjemZyc21vM2pPc2RRaEVKMWQ4dl9JT1IxQlpWZlhSZVI2Qks0bkZabnlZeEVLel9QOEdTWl9hbnlDSlAxTkVsZUljZVFVNDFwZmpmYS1tVUt5OGdrMjZSc1ZFX0xzeHZTMXJ2bWo2QWVEbzN2Wg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e24a4fa2",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Los Angeles Chargers' 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkV6QnZuUkhfMHF0NHQteE1pRXVRVTd4TmRkdVdoWnE3clUtZlFUeV80SHZqbVcycGEyLUR1Z3FYY0pGRG1SUG9TSGMxRzh6QTFDRkN4eTZZSzBsQVRwRklNQzkxTmlCQU93ckREOFJZMVNYNk5QQTBkWEQzeHpzR2Q3SlBIakRxc2x3dzF6ck14ZjlKRDRFMVZ6aXgxZllDQ1VHVU8ybFdFaHF6d25iQmVBWHk3NHJJWnVjSHMtNmRHWERyZ0Z6R2h0X2xaRDVqbHRqSjUtWkViSlVxYWo0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7f9c6b38",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "XAI Can't Unmask Jane Does In Deepfake Suit, Judge Says - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTZHTlV4bWdtVTcwZFJKNlU5SDI3b1JPYUN5VktMc1M1NzVUcWE4SU5mQnlaY2RyaFZKY2Y2cVBYV05HSC15c0NMNFNFOWpFdEFMLW1CSHNPdnI3WmJfMDlTbS10N3I5a2dZQ2RVQWdUbmVsMHhEUGxHQjh4UWZsV2tRRU1LdjBpTzYzOVVLWU5ZanViZE1xYXNnVXPSAVZBVV95cUxPYnZiZmxWcGhVOWd1ZE11NjBzM3RKRF9naE9FRGR5UkNsLXIwbVU0ODQ5Z1N3b3VWRlJQN0hLTU1sQnFGQ25NNVg2b0JGNHhKUlR0Q0ZPUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-53a608d6",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Second lawsuit filed in Arkansas against X.AI accusing programs of creating child pornography - The Arkansas Democrat-Gazette",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1UwVTRuUVNiVDExSWV1REtXWS1nUDFYYzYyV0FZenpldEVOUUx4RXRQeUlpRXN4VTRTNk5UY1N0am9TV0t4R1pKaGpKeE9zVE5FYVB1cE1mN1cwV2EybFFTcWJ5cm9Pdzk3a2pPVUtXdm5ybG1rMS1vMHFfVzE0T2RjQXNVdGtLcjMzY2pwaFIxLW1Scm15RA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-975e8589",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust appoints King Street sub-adviser under interim agreement; adjourns shareholder vote - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU0Zad3JVNDZnU1ZRRTRPVXRST0ZIbGlfQjMwRVM4d25PcDlTNWI2aHRqTnhiNzNybEt0UkhfUkFCbU1LekxEUjU1THp6OEliU2NDdFdwQ2RZOWhwM3BWTjBYU01Vck1KT0haWHhmQXgzNl9OaWNXcjdlN2ZEaU9MSzJVaVJfOGVMYXl6LW5WRENmazhkd05yZkVVRGdDMndtNWdoWHdpeFc0LThFbWk4VW9kZHI5X01mclJaVXc2MWZXeDhjX1Z4REk4Uk1FTi1vd1kyYm5rUU55QTBHSk9sUmdZTTc1QUxrOTFRaVJCOFBZNHc2QVZSY1RSZHZpZS0wOWEyWGg3cVRVbkRkX0dYdjFBNkJOZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-143f238a",
+      "date": "2026-07-31",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "source_url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
