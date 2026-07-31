@@ -23534,6 +23534,26 @@
       "historical": false
     },
     {
+      "id": "evt-ef26fd6d",
+      "date": "2026-07-30",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Baltimore Ravens' 2026 NFL season, including game-by-game results, playoff predictions, and more - Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUtkakdPSG5Rby1GNEdhMFpJSlZ3YW9GM0ctSjhQeXE2QUlXTkN1MkJLZzZjalh4WEptYjlWS3RqNXotelh2cWw0elA4eWdVYm5tSVpyeHNfd3hQRVpFeWVob1FjSUJIMzd5RUd3Q1lESXlyRUpjaV82M21FaHpONmxtX25CNzBHbkxEZW9B?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-143f238a",
       "date": "2026-07-31",
       "lab": "openai",
@@ -23569,6 +23589,24 @@
       "tags": [
         "safety"
       ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-23bdc83d",
+      "date": "2026-07-31",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Univ\u00e9 builds an AI-ready workforce",
+      "source_url": "https://openai.com/index/unive",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
