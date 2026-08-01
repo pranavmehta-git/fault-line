@@ -23759,6 +23759,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-25332ed5",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "US judge denies xAI bid to block Minnesota nude deepfake law from taking effect - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGV5blJpa2xGQUs0WmJ1Skc0cC1oWVUwY1g4TC1xYjFYTGUxY3oxNmZfRUxIcjUyVXlQNmhCYl9BX2dZRWs1Y0l3ZTRpUVE5dUNfRGk3MFRkdzZLM3BYbkpGM0FGR2lic2VJTTB0Q3hqcml1dU1heG1TZFo3Nnl6eUJGRDF3cG5LcTZrM1daNDQxeC1LalNkRlpnZkFiLW5QU2wtaVlGeUZsWVk1NWw4RGE5U1U4aFcx0gFaQVVfeXFMT3JCZXFNRnlYVGx5cHJwZ2o4VVdUbTdoZGtJWmphWVZVV0VDamNvYjRpN0xvbFpOaGl4R294OHFfWGhUcDJYVmx1ZWQzWnduOGprRmJUdGtLaWJB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5e2e1293",
+      "date": "2026-08-01",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Ten advances in mathematics and theoretical computer science",
+      "source_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fae808a1",
+      "date": "2026-08-01",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Contractor claims XAI owes over $130M in unpaid work - localmemphis.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFNSOUkxclB1eUg0V2MtUUNmNE41UzVmZ2hBV1o4ZmFDQWNpbkZoVzdPYVVxMjVPV0czTWxBYS02OG1ua1Zrc1VVNnFjRTFTc3ZuWF9GelhreS1TRU1NQmZnTTJzRmNJVFA0Q2JXN2UyXzc0WnJLMFFIa0JSYVM4WEhmcXRiR215ajJUenE5S1pNUVZyNld2cjBkeVdmcDV4eFRkYTFfOFFNS2xMakRRN3ZIYmtKV3JlMHVWZ1NTUjU0UFlxQXYwdVBzWno2Z25TTnhzOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
