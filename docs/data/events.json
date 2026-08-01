@@ -23779,6 +23779,24 @@
       "historical": false
     },
     {
+      "id": "evt-2c854929",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "US judge allows Minnesota nude deepfake ban to take effect, delaying xAI challenge - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDFaazVGTHBrS2M0RUowRFhwOURpX3ZoQTBNalZETUVRN0cycUVwSHlLajgwTzJEVUJSSXg3dEpQMlRZbzNzYzJwYWV5d21FODJDODY2dTZvTWo4UG9KdkQ1ODZ3VlZmbzRqRFVKSzJDaEtQcmZKLWhJVktfbGVUWkRpbEY5dXA2RUMyQUlPRUR0bGtyck54QlplS2JjN3ZGWGxVa1o0OFZ1ek9US2lhZGRyZjI5ZGhfZ1FybmVpSGpDZ9IBWkFVX3lxTE9pRjR3TGJUd0V0QzNqQkNZQVdzY2s5QmZXMUZNM2dzV1Ywb0wwQUFFNDJ1TkpkWTNLbEVtRGxmQk5iT1N0MjdzbkhsdnMzX2Y5U2ZMSFNZaEN4UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-5e2e1293",
       "date": "2026-08-01",
       "lab": "openai",
