@@ -23829,6 +23829,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-40feff85",
+      "date": "2026-08-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman is still making the case for parenting via ChatGPT",
+      "source_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-df5fab95",
+      "date": "2026-08-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Urges Shareholders to Back King Street Sub-Adviser and Liquidity Plan Ahead of August 6 Meeting - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNDJOYnRMajJRNUpCOXBMVEtpQWZBWU9hR3FuZm9DOUwxTUQ5Z21DLVlCOGhpN3FieWJhLUE4ZFpLNHpXVnVraFF3ZGYzZFBqcUFneXVkb2hENlduRU9FaTU5MlhtaUlQTmFJbnIwTHZoemt6Nk5IcG8xZFZEd3dGQmROUl9Ja1B6TjdKbG02OGh3Zmp6R0M3RVRnVlZHcV9Mb3dzbEkyektLV2pwX3BpV3RKbXpON29lYVFvSzZHbWtfMUs0LXNnUkx2aVMtdDEzejlXT3p1SXVqSVIyRG50WDdhQ0daM010dWhXQU13OVhQb1JaVC1xLXhUNlFIOXIwR1VXYVZ3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
