@@ -23610,6 +23610,155 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-28a8f301",
+      "date": "2026-07-31",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman isn\u2019t the only one who wants to pump the brakes on AI",
+      "source_url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dae26001",
+      "date": "2026-07-31",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "source_url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1462ad03",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "San Jose judge blocks xAI bid to name Grok deepfake plaintiffs, citing threat of more abuse - The Mercury News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2VjaWtnT2lfazdMV3B1MFBIaVg1T0VhU1hWQUdPNF9DVkkxWFB6WjVnNUJvMkczLWt3T1ZVTUhocHdHTnRYeWNEcEx4TUFzTnhwMXZZWDdXMll1Z0hEV2REc0JJdk83QXZpZjZ2dXNHMGx1UDRQVzlBUnVoQzI4aWp5QUJSZE45RkR1S05Qc1hEM3FpWmZESkVTY2NJX3MxdDY1VFdfX0FSQTDSAbABQVVfeXFMTi1nMzREcHRuMXdpbXl1YzVsemh1dGxoQVNOZDlweXRxcXA3b3BYY0U3LWZGamtjUVdfZ2RzQ0pOVm9VZ2phUGpQaVhNaGtGWW5OWHlVQkJORTR5OUE3QnZtQVJHejR6M2ZVTjMxQWN0YTZzanZYMm45azk3b200bEtyazhTR3JkblhrSmJCNV9CYVJUUms3UGw5VWxVdDVXcHkxbTRJRWRkVVgwaXdwTWw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ddd168b4",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI Challenges Law Banning \u2018Nudification\u2019 Tech in New Lawsuit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BFUWs2MWF3NHhJMmg3S2NvcWdJVzNoQnk2NTRXd3pybHlhZFRNOG01dlpvRmQxSmJYdmhPejZCb29fUHg5NHVoamRTSy14ZUVKeVU2Q1dkN0x1STZZSGs4dkpQUVdDZU8wbkY3R1BudG9ZdTJoM2NLUVlBZ1ZFVG4tclNHUXRoeGVTRjdjazEyZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c18f2715",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "US judge allows Minnesota nude deepfake ban to take effect, delaying xAI challenge - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGtGbklhbW4xM04zc2JQUXBLb2ZyVldRcEpfVGJNNDU3eDJ1TlFKdmRwd0JucUplU2otM2l0WmZkRTBwOHFHbmwtTEY1amphcFc0U0twSGZKZm5PdW5EclVvemt4Ujg3bTFUM19LSUkxa0NDN0Y4N1V4WnZJMTU5VDc4czFEZDAwRVVyb2V0S0NuSXZlRlBPa3gySXltbUhoSGZzNlZ0Qmp4dDUyX2hyYTRRVWI4TXRyYTQwUnFrTHYtQ1QwSmVhakxsRnJkclJUWTVMUTY0UXFvYTVKYmVEdkFB0gFaQVVfeXFMT2lGNHdMYlR3RXRDM2pCQ1lBV3NjazlCZlcxRk0zZ3NXVjBvTDBBQUU0MnVOSmRZM0tsRW1EbGZCTmJPU3QyN3NuSGx2czNfZjlTZkxIU1loQ3hR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-451e319e",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Second lawsuit filed in Arkansas against X.AI accusing programs of creating child pornography - El Dorado News-Times",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGZ6ZkZzWjNXR0diWkFBeWZsbkNtN1FzNk1mOHRGWlJNdDlSQW1INERFdi03aDgtaFNxQjg1VjRTRkZZUmlFSnFyRDVhNGwwQ3hJVTVNOEVONGxialZGRTlOM3NYVVdOY2thREJYOWJJcEpVV0c3c1kzeU5TcWQ3bEhLRW1DRDZ5UVI1V1dHWWh3cHFfalE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-79255f33",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "US judge denies xAI bid to block Minnesota nude deepfake law from taking effect - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTM0UlphUjVuRVhFZlZDQTQzS0ZfQXNhNVdDSE8tLXBHc3RMWDVra0EwTTZtRDBnRkgwUk5Uc2tvT293ekhhdHpyVjEzZ3l6Tjc2RHNUcElGdTdrMzdHb1locG1TcXBSUFNGSy15bHJWOXBhNWdzamthOFk1YzZxblFDSFFHT2VUTlU3OVBQYUw3NnRaUW1ET0QydU80UXRoNWlyaXdEbXh5UHlhcFpVT1B6Z1RGUWRSbk9ScmtPZ9IBWkFVX3lxTE9yQmVxTUZ5WFRseXBycGdqOFVXVG03aGRrSVpqYVlWVVdFQ2pjb2I0aTdMb2xaTmhpeEdveDhxX1hoVHAyWFZsdWVkM1p3bjhqa0ZiVHRrS2liQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-936c0af4",
+      "date": "2026-07-31",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Adjourns Special Meeting of Shareholders - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlNwTm5xOXhkSjU4aFl0aVFUWEF4d0lOTzRqQ3hhZ2FOOWxUM05ZSWhMYzFlUnR4bVpTTWNsWFdJM0xuLTUxck1wTzhzS2tDQjBVLWtERFBMdmJZWmdIaDdaLWFyang1TDBDZnZBNFNoS1dZbS0xUjdFb1lGZTNqbXNCeXlNV0NxRXFaQld4RHloNDA4ZGJtbmwxcHNuSmMzaDF0UFNTSGpya3UwempUX2REOEp3TTZxSUJ4UVVGNEdFcHdwRlN0WnhIQ1ZrUjEtU1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
