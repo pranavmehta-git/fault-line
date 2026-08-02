@@ -23885,6 +23885,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5b798d59",
+      "date": "2026-08-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI Challenges Law Banning \u2018Nudification\u2019 Tech in New Lawsuit - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90bDVVYzdzYXBvZzc1VERMLTVUMUJaN1hDci1nMXAwSmsweUVWVGVlOGlIMWgtV1FCcG5iWGJWWk9XNEpHSl85WTZWT2pHVW9JdXVWdHBHNllXOEFvTlhaaFdjZ2lObi1TSEUxcXpBZGhfSUkyVXZraU1UejI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
