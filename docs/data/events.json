@@ -23905,6 +23905,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-937383f5",
+      "date": "2026-08-03",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Congress\u2019s favorite AI tool? ChatGPT",
+      "source_url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05b96b6d",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the New Orleans Saints' 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSzFFaVpjbFhQVTV2cDFNVE1jaTA2ZmhRcjg4NjhpNklaQU5fMmNFSktiamRHek1PT0l3eF9mSTJmTGxZOTFhejVaUjlwQ3hvSG42U0tTUWZiNEFMVWtPVFRXS0ZBUV9Dd2NZRklmdGR6UXNQMmhDbkxpSlp1bEVEZ2owM2Q5WUk2WU1mT3Y1X1luV19FOUd0LWtVSkxxQmoxR1d3WFVWUVNLMklIWWllSTZ0bVI4MUNYQ2lvcjRJNWlxaFBCbmkzTmdDbTdGOGVfRlNkSmlSX0tSZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d752a213",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI Loses Bid to Block Minnesota\u2019s First-in-the-Nation AI Deepfake Ban - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXE1VWJtNHFWZkgyOHNUbzdMSEhRWktVZmktbW9MLU1mOXE0T2ltczUxMFd4RklqMWhHVWhZOXVZb04tM1F5dnFEdnJXMFgtdHN5RVFTcW1adWlNaWpiR2hOa1c5bnlBYUlCZEJYX3g2dkhlMG5QZWx4bVNoS1JXYjF1QXdCV3c3QWE1SlJaUEFhRGxtaXp3d1VzVEpWR3pkeDkycGZFck9COVVleXMySnhhR25NbzdueTF3ZVdFU25WNmRoclRQcmY0dGhGUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:21:54Z",
+  "last_updated": "2026-08-03T19:21:38Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,15 +17,15 @@
     }
   },
   "systemic": {
-    "index": 4.8,
+    "index": 5.0,
     "components": {
       "average_lab_fragility": {
-        "value": 0.274,
+        "value": 0.276,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.267,
+        "value": 0.3,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -42,8 +42,10 @@
             "breadth": 0.2
           },
           "policy": {
-            "stressed_labs": [],
-            "breadth": 0.0
+            "stressed_labs": [
+              "openai"
+            ],
+            "breadth": 0.2
           },
           "demand": {
             "stressed_labs": [
@@ -137,7 +139,7 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 4.7,
+      "total_score": 4.8,
       "breakdown": {
         "compute_chips": {
           "score": 0.87,
@@ -180,7 +182,7 @@
           }
         },
         "policy": {
-          "score": 0.69,
+          "score": 0.88,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -193,9 +195,9 @@
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.452,
-              "evidence": 0.824,
-              "corroborating_sources": 4
+              "intensity": 0.646,
+              "evidence": 1.824,
+              "corroborating_sources": 5
             }
           }
         },
@@ -280,8 +282,8 @@
           }
         }
       },
-      "events_count": 517,
-      "last_event_date": "2026-08-01",
+      "events_count": 518,
+      "last_event_date": "2026-08-03",
       "top_drivers": [
         {
           "item": "G1",
@@ -613,8 +615,8 @@
           }
         }
       },
-      "events_count": 453,
-      "last_event_date": "2026-08-02",
+      "events_count": 455,
+      "last_event_date": "2026-08-03",
       "top_drivers": [
         {
           "item": "B1",
