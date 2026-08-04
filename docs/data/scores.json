@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T01:51:37Z",
+  "last_updated": "2026-08-04T08:25:16Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -170,8 +170,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.696,
-              "evidence": 2.292,
+              "intensity": 0.7,
+              "evidence": 2.332,
               "corroborating_sources": 9
             },
             "B2": {
@@ -282,7 +282,7 @@
           }
         }
       },
-      "events_count": 518,
+      "events_count": 519,
       "last_event_date": "2026-08-03",
       "top_drivers": [
         {
@@ -298,10 +298,10 @@
           "corroborating_sources": 7
         },
         {
-          "item": "G2",
-          "dimension": "talent_governance",
-          "intensity": 0.698,
-          "corroborating_sources": 6
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.7,
+          "corroborating_sources": 9
         }
       ],
       "trend": "stable",
@@ -615,8 +615,8 @@
           }
         }
       },
-      "events_count": 458,
-      "last_event_date": "2026-08-03",
+      "events_count": 461,
+      "last_event_date": "2026-08-04",
       "top_drivers": [
         {
           "item": "B1",

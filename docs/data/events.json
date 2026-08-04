@@ -24015,6 +24015,82 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ff2a8dac",
+      "date": "2026-08-03",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Apple is getting this wrong",
+      "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-12cfc2aa",
+      "date": "2026-08-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Minnesota threatened $500,000 fines over AI deepfakes, and xAI sued to block the law - The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2RpQzlvamVBbHlGZXM2d1U5U1JmR2Z5a25KeHR0eWdET1ZhRnlyTU0wb3NRTjlSblY5VTRBQURHMUkyVFRFOS1KVlVtMWZCWlpqR3RPZEZla2FMZXdmZVdCQWpNenBramlwOW9yb3FDTnQ4Mko3Y29EUTNTR0JKVFUyc3F0MVpld2pZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f177aa49",
+      "date": "2026-08-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok simulates the Arizona Cardinals\u2019 2026 NFL season, including game-by-game results, playoff predictions, and more - A to Z Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWlHWWw0ZjdoUnBOREpjZHN3SWtOOW1VVlBRaG5fcjZDZFViYnlmM2h3Z0NqMzdIeXdERTVxdU5ZTXZGbkZqMlIyTEMxM0E1V09FUG5YVGplODYxMi1vc0VDYm1obXpYLWpuX09hUkRtYW05cUpqYzlCQkwyMXVERWtJWl9sTU9na1VGQndQbHlVOTJnS2kyazhCZFpOZnR0YWJMRTJEcExkaVZwdWI3aXlJR2xVV2NiY1lnQ2o4UE1tUDUwcnA2SjhmV0duZFgwSzRZaFFSQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "layoff"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82ae2cf2",
+      "date": "2026-08-04",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Prince Harry And Meghan Slam Elon Musk's xAI Over AI Deepfake Features, Raise Safety Concerns - NDTV Profit",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdDJiVGxWS29INWdsUk1laUZoQ3gxRUp6aFVUa2pveGtKcjlob3NvWjFsYVlmb1V6OGstVHZGd2dKZ1ptRlppWHJHRXN3RHREamJoRnRHSHNDV3ZwaDlsRlV0c3JWYWxlVFEyX3RrUnlEYmJETXRGTkcyR01jcTlHUVJ3dm5rUzRLOENwa0NQenhXZFpibi1nYjF0UmtGVWhBM0JSY25YY2pJR1djNmk1M3ZJSGQ5aF8zRDg5cm9CcXZ6QmJZZUFRNl82NmowZ9IB1gFBVV95cUxONEpSYVByVVhPTU50WXI4a3FjaTdqQWt3c0pyeTNfREFwOXFhR1paUUp3QjdfRmtoNEctcnd6MVZlYnNFb2sydHMwX0h1ZUZZdWRJWmcwV3U5R3lEOE1HMDF5Zm5tQ2xWVmd0MHpaS211X3hnMkVNeG1Qa1hnMGxvdlBhSnhmZWRjTFRmeF92alZzTllWX25QejRtVEpjZXZjMHIzX1RscGI4TVF4WFVFME5BVWprVlRwa3E4aDFkSDBETV9sNy13MV9qSnZ0VkFRWFZFanB3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
