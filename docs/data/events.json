@@ -23961,6 +23961,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3dc8ffd3",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Second family files lawsuit against xAI in connection with CSAM case - 5newsonline.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGF5SENkSHF4a2I0SkE5czdXWEpUUTVQUE83c0QwTDdYRE8tMmtteVV1N0lNYmNoU2NUZVNXYnJQYmlfclJWb1M0eElSV2NpS0thQU9zZ3NfLS1fSzBQOE5NaDdFem1BdnhEa01ycHVkZWx4QUhaT0dtUXozaTdDX0x3OWk2R3M1eC1FOWxVSFBCLU1oZ2dLVDh1UWVlZXBPYXFLWElwb0g2Ym1PRF9uRkg0S19XVHFqNUFsN3dDbVhKdTlxUGJMMkhwNUZMbm56ZHpsVw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4957d32d",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Court document in Asato case reveals xAI/Grok sexual prompts - Computer Weekly",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb190RHBoX0xneGZZd1RTTFV1XzNKMTh2VDZTaWlDanBBeDRLOGpsY2FIQW1UVHRvbVU4emhmaEI4OEtaQUhqWTJjell6MGFVX1Jyd3AyMURTV0cxc0pWZkpUVzE2LVFTR0wydE5KV1J1aEhUUnNyLU8xMVVlaE55cU54eVhzMWhIMnJtZ0pDbFI4TVZUSTV0U3lXVXFnWGo2NzZFR3hSVjF4QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2902e89b",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - GlobeNewswire",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPellhVU5mcmd6SDlpU1lvdHRFaGYteDc5UmlIc05LVTFRVXFNQXBwZkZmRl9ETEZCbTVIa0tVOERnLVJldnA3ZlRhSWlSU2xlZjFRdVpZZ2RyTk96eTJPbkVfbWd4UmhPZFRwTGdDMTRUZTE3dmsxZk8yZU44bmIyRjhZQi1mMy1WWjB3dW5LaWwtS3JQOUFmUXMxWU9XaHB1dkJNam9WR2gtZ0g5RnZCZlN1c19vS2F2aFhIQ3Y0SGQ4TVlwOUwybjhneUhKaXBFT2IxVU1JSHZEc0xqTG50WjVUcEVDNFJJOEh5V1B5bXZhaUNmRmlPUjhtS3ZZdUhsS0lIaWVWc2tDb3hOYVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
