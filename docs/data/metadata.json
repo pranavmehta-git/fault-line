@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-04T08:25:16Z",
+  "last_run": "2026-08-04T13:53:02Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -33,6 +33,12 @@
       "articles_found": 10
     },
     {
+      "name": "Nature News",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "ok",
+      "articles_found": 75
+    },
+    {
       "name": "Science Magazine",
       "url": "https://www.science.org/rss/news_current.xml",
       "status": "ok",
@@ -54,22 +60,22 @@
       "name": "Google DeepMind Blog",
       "url": "https://blog.google/technology/ai/rss/",
       "status": "ok",
-      "articles_found": 8
+      "articles_found": 9
     },
     {
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 97
+      "articles_found": 94
     }
   ],
-  "events_processed": 1287,
+  "events_processed": 1291,
   "events_added": 4,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-08-04T12:00:00Z",
+  "next_scheduled_run": "2026-08-04T18:00:00Z",
   "pipeline_version": "1.0.0"
 }

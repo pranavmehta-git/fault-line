@@ -24091,6 +24091,82 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-32fd5189",
+      "date": "2026-08-04",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a547eca6",
+      "date": "2026-08-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Minnesota threatened $500,000 fines over AI deepfakes, and xAI sued to block the law - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS194LUZkYWdwaFlydDQ4bklQSldXTDl2RW1qMHZfbnNDd3BDUDI5VXNPNks2Rk5oQjVBUE1qNE1uQjEzMkpIUG1fSTRidDlXVFdYOHlNSld5Mm5kb1dFQzdieWtUMW90eXhrbUJXODkyaUpOSXI3YWRBd0NkZDVsU0F0TGNSb2ptUTlnQmxfV2NicmZHbDJRNnJn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-78ba45a0",
+      "date": "2026-08-04",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Webull Launches ChatGPT, Claude & Grok Connectors, CLI, and Enhanced MCP to Expand AI-Powered Investing Tools - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUWlRNlFUUXJTcTRkdklOZU9tZE5udFg4aEF0ajh3UnRTSU1yT0s0czRiRzA4WjZ5YVI5Z3RTOGhid05XaVBDSklKdUNoc0VKNS1jdVk4cUY1bmstSGgweHFVUzNRTUk5WG9PaHFtNDFjRzBPRVhsalVNbHRtNktpOWZEbEZPcVRMelBmSWFDOV9fVUJ0VXc3QmJ6SE5fV0dOT18wVENzYzY4aXU4dEV2NVJPUl9YbjFkMFpVTVlJT0ZKQ0l5NUxYSW1GbUMyZVZCXzRoQTlvY0Z5RkFmZTNiUXFFRjU3RVJlcHV3eXliZ3UwQlU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d8cca678",
+      "date": "2026-08-04",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Faces Five New Lawsuits as Minnesota Nudification Ban Takes Effect After Court Defeat - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXQ2YUh0cy1QOFV4MTNPa3FXQmhfYlhoaGNvcHZyTTFzY0gtaG0yT1BlX2JOWVdCQW9sT25xdGJpRnEwQW5VOTdPdDNXbWxmdzQ0SkZMUTBtd2F0aU1sU2tUcWM1SVBCdkhTWmlpX2MwaXlqYTRNYXZRaDVRUlBuRTZhTkVKcjVaTjUzakNOamZuNXBCd0dSemVER1MwMDJyRHM4YkJubVgydmotSHllUkoxYTFKTDZFaFpUemhnZXhleVlxdnVENUY5b1ZwYnlQUnY0OEhhSElKQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
