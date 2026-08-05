@@ -24185,6 +24185,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-494673b4",
+      "date": "2026-08-04",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "source_url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-316591eb",
+      "date": "2026-08-04",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Third-party cyber evaluations involving OpenAI models",
+      "source_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
