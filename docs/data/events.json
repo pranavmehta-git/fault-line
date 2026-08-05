@@ -24245,6 +24245,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-553e42df",
+      "date": "2026-08-05",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Former Tesla Board Member Says xAI Can 'Break In With the Big Boys' Anthropic, OpenAI and Google\u2014 but The - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMmdPUXUwcTRrZEE3RGdGYWRycnU5UjV5RzFQemRReTVhc3Zja01SckUzYTBMU2VPbWVvX19oZHZhd2VFVklVN1cxbFFVNkRXZlFmUkw0YWRGUGNLU2lobW1Qc2J0aXFYOVJQX2tZMkx1Ui15UHpORndfNmJxbDU5WWxySkhkd0dMYU5USmxGcnlyZk5BRDNtblpRbEgwc0lSSXBiTFp4SDlmLVYtWmNXV3dXMk9lM2FHOFNKQzJ1X243eU9IRFNfWG9vUF9aZ3gtTU1KdE9VeVZIS2tPdzRJV21FZm1aZ1d0TzhEVUhoWDlEa2tmRUhhXw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
