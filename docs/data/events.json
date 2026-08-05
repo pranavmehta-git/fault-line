@@ -24225,6 +24225,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3cc243f5",
+      "date": "2026-08-05",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk: Grok 4.6 to Launch Next Week With SpaceX Data, Exclusive Nvidia Computing Power - tradingkey.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1FOVJuVDZxRTdva1Zwb0p3eE5SN3BLX3RaeHUtY1BaQUNob3Q2MTBEYkxaNlNkTmF2dVdzNV9JM0M0elZMbWlMRjNkTFRSbDI1RktPQ3ZfN2NCWTNfdy1JTDNnWnIwZFdyeU91M19Sb21aOXRNc25JWkRuTmxaT3RZYnRBN01XNFBkYWNRNEFpSURqd0JiSnhVN1gwWi1vLUdvRTFMMmtiVGxHajBEWGJROA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
