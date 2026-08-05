@@ -24264,6 +24264,96 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3609509e",
+      "date": "2026-08-05",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic is hiring an AI chip design team",
+      "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c9c5da4c",
+      "date": "2026-08-05",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google just announced a major shakeup of its top AI leadership",
+      "source_url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82c9a172",
+      "date": "2026-08-05",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX is barely Space and mostly X",
+      "source_url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-68266e51",
+      "date": "2026-08-05",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Rogue AI agents created fake online identities in another hacking attempt",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-089504e9",
+      "date": "2026-08-05",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Urges Shareholders to Vote for King Street Sub-Advisory Agreement Before August 5 Deadline - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeWhURmRwcDZUcGdIcG5jQXE1TWViN1lldFpzRHM0Y2QySnJraklaLWJQZVNDV3preXd3bHpnWkM4Q2ZqelluRVB3SVZKczVudEducTdtY0doZ3VyRktxRV9aM3lxdHhCZVRJWlJBa05ScVRxbXVMd1ZjQ09Yb1JSTDhPUDRIWEhnRXdBOWw0RjQyVWVEcll2UlliY0FrVWZlaEdFVlhoVGM5QXF1eVM2VnQtWkZHNGZoemhQQnF3ZzdzOTc3a0NES2UtNkR4MXFlTm5LT1hpaDNFTFpyX19pX0xKZ09ud1ZZMTByTkEzQkw5b0ZCX2xmUTJtRVdxRTA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
