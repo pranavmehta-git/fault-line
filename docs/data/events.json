@@ -24412,6 +24412,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-37d0a16c",
+      "date": "2026-08-06",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+      "source_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
