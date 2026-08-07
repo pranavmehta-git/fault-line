@@ -24448,6 +24448,66 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0ecdf163",
+      "date": "2026-08-07",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Responding to the next frontier of critical cyber capabilities",
+      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f687bb8d",
+      "date": "2026-08-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm announce 3rd lawsuit against xAI for generating AI-child sex abuse material - KATV",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTN0cFNlUUVyenhJUzRYdlg0TUJjOVI1WG15N2NYMUVxUEIxOTMyMy1DMEJKVEpvT2RCSC1vbWRVVThSeWdLQUhfRWNyVlVRODItXzc4VEZLdUJhcENiclhYVTUyTUlyZmQ4a2FCMlJ0cGVhbXNLdU9KeTJ6SmliZlNvSHl0T2NSSmVRMmo0NngxM2dzOFZZSEZlWWpRTmNLa2tXYnJRYThEZlJRTnd0NDJ2b01MdGVPU2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c916c4c2",
+      "date": "2026-08-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Announces Third Lawsuit Against xAI in Relation to Alleged AI-Generated Child Sexual Abuse Material - Ashley County Ledger",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOY0ZpTWtRUFJxUHJEWGNyZ014RWRuTFAwU0tOdUYtZVd3ckJ4S3l3bTZfaXZlZzlQYTFSS3ItTFpDMUN4cTBvWlRaSGk2Z3AtYko3cUVCQ1V5REZsR3E0WkNYZGM1NWI3QlZJb0wxRGwwdjQ1WVRmRTUwdVpiSVdTazRNWFNPbmpQX045VGhNbmJUWHB0ZXRXei1ySHc1dEVrMnpJWUVWdUtDdVREdmRZX0o1TGozMmlCSWFWekNXcEliUk14S0c0VEtyMWdrN004NG9JMWZsRjlzbmlpMUMwZlJ3akxqVzRkUGo4TmlJUWVKNl9FX2I3Y09xVjJJT2RGVEZvN1hvXzNraEhSd0Faa1p5bUk0ZHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
