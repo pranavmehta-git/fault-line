@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-08T01:04:04Z",
+  "last_run": "2026-08-08T06:38:34Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -33,14 +33,14 @@
       "articles_found": 10
     },
     {
-      "name": "Science Magazine",
-      "url": "https://www.science.org/rss/news_current.xml",
+      "name": "Nature News",
+      "url": "https://www.nature.com/nature.rss",
       "status": "ok",
-      "articles_found": 10
+      "articles_found": 75
     },
     {
-      "name": "EU AI Office Publications",
-      "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+      "name": "Science Magazine",
+      "url": "https://www.science.org/rss/news_current.xml",
       "status": "ok",
       "articles_found": 10
     },
@@ -64,12 +64,12 @@
     }
   ],
   "events_processed": 1310,
-  "events_added": 1,
+  "events_added": 0,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-08-08T06:00:00Z",
+  "next_scheduled_run": "2026-08-08T12:00:00Z",
   "pipeline_version": "1.0.0"
 }
