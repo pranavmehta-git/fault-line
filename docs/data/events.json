@@ -24037,6 +24037,24 @@
       "historical": false
     },
     {
+      "id": "evt-cd1b404c",
+      "date": "2026-08-03",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDZtVUtkT3hCQ3FXZ0xNODZ3R1NKUWZJcnZKTEwwQXpuRXFhbUpZZHJtbWN3X0k5ejBVdk1rd292UzYzazQyc1VYU3FxRHF6ZXo5MDJvMHJ0U0VxRnUyeDd6WkNNTmNIbHZFdWp5YW92NFEwNThmWVpVXzdUNXpvTEpvcmU1ZnhwX2pHanFYbThwM0VRZ0FJUWdodTh2Nk5ZTmhV?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-12cfc2aa",
       "date": "2026-08-04",
       "lab": "xai",
