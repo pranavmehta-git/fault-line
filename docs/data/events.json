@@ -24452,6 +24452,24 @@
       "historical": false
     },
     {
+      "id": "evt-542456f6",
+      "date": "2026-08-06",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "New liens allege 100s of millions in unpaid contractor work at SpaceXAI\u2019s Southaven properties - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2s5UTY3OXJ2bHZ3RFVLQzgzb1BwR0NRTlJQcjVNeDktcUtjWFp4R0QtemJEQkpweUV0VmUwX1NaaHplMHlEWkhqNmE4X2ZVT0ZDdUpBaTY0WjNrMTFfRENFSlJ5ZG1zVTF5UUk1a29TeWdHNE5IQnM4QWhjVUttYkdDN0RLRl92ZkpaSC1BT0N6UEc3TWtoeUpPdHRpZ2tmdTMzLUJ0TzQ0YUJSVkE3T2xZdGNMV0RPdU8w0gHPAUFVX3lxTE55dGhUYzJVUFZab2d5a3ZUMWM0LW9pX3QtZlVtVUNfejBkQ01pT01ZU0VkTmJrU1dXMmZFYmVuMkdrWTZsa2NBQVRFS1R6WDczRGtRcEE3MDZtQmUxaGEycVdrbHlLUFBGR3lIaGVYMkJDX2tfOEM3RjFSWjF4TEtLQXFpRWdDNEpjbXNqMDFOTUdJMVpiZ2FyOVZLMkl5YlBmYzRXVWNnb1pHejBsSXlpNENuQzRuSjRMRmFrVWJ6ci1NVmYxY3doM3lhb1ZBdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-be770f18",
       "date": "2026-08-07",
       "lab": "openai",
