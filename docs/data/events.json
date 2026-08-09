@@ -24564,6 +24564,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1062f28a",
+      "date": "2026-08-08",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX | xAI bets $16.8B on Terafab chip plant and a new mobile network - Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHRsVnB1VWVRNHlSaExxbk80aUMxUkNTeDNiVVpZcnM5RF9ZeGlubkZlLWM4Y3hzQjBWZVUtMG1XN0ctZi1nZkF4LVFZeVRFSFhQdHpWYjRpMWdwRW1XUGFQRUoyUE41bGZLX2VTV3NOWGZ6czM3MzB4WlpBT3h0ZW1RN2FKUVJKWk9VYlA5QVRjLUZwajhYbV9LTnVUdWwzWUJFTA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bc9aeb56",
+      "date": "2026-08-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "AI detectors are creating a new era of distrust",
+      "source_url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
