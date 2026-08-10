@@ -24618,6 +24618,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b2a1cd1f",
+      "date": "2026-08-10",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "What building an AI-native finance function taught me",
+      "source_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-68a69c13",
+      "date": "2026-08-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Putting frontier cyber models in more trusted hands",
+      "source_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
