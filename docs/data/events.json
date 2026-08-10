@@ -24566,6 +24566,26 @@
       "historical": false
     },
     {
+      "id": "evt-fd6afe82",
+      "date": "2026-08-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Announces Third Lawsuit Against xAI in Relation to Alleged AI-Generated Child Sexual Abuse Material - STLtoday.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzg2d2ZPMXViUS1XdE9OUzlwS1BjWTEzcnJKUHFJR251Zi01SzN2LVZwSm82OXJ5T2JrTHpGd3ExcDBmRUhJZTJwUExYX3pCZWtpOTF2VlZPSm5hNDRBeERIVGI5VkhNTnUtWXg0RDV3WFhzZmdvZXdYUjBOX0QwMTJva0ZzTWJmdjhxeHhPOGJobm5oTWNuUG9qZ1I2QVlSbGs0Rm5FZFc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-1062f28a",
       "date": "2026-08-08",
       "lab": "xai",
