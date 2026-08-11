@@ -24774,6 +24774,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ac4cbe2e",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit alleges contractor tried to bill SpaceXAI for raceway renovation project - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeml6U24xX1NpelJuaDJlT2ROYmhwX1k5eXNVVHM0ZW02cjJxQjNDU1cycUl4RU83YmhNVW5qMGtYUnBHVlVtcE5ZWjkyNFE5WWtLUGs0T3lXSlUyS1ZTSkRMS3lXb21rakxsY3BEV00zV3NkLTlJQWZyWXU1bV8yNWRITW4yTnI0aHVRRUNKOGMxWkNDOFdKYWlrWURucUd5dFJVOUNESTAyeFJaZUttQXdPa9IBxwFBVV95cUxNSEh3MWpKWWJBLUozd3RieWg1dm1BNndUaWZuODlScHJ1c1dHMVp4aUNybGExYWdDd1lMN3FLMFVrdFUtb1RKLS12MEFEU3FaYVlOenJvMFc2ZVlyTG5oOUt4MHdTT3JKWWJWZ1FONlRXYjV3R2JoWEhFdzExLU0xYzB0NlZDNHgyNDIyUElhMWZJTVpKZE02endMNUc5SWNOazJhRFFsdFRYRnJmZG1Va0NpSndIRVQyZTNlX1FBeTVxTy1BbXdv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
