@@ -24652,6 +24652,128 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-58c434c8",
+      "date": "2026-08-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "source_url": "https://openai.com/index/zapier",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-afcf69d5",
+      "date": "2026-08-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "source_url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ac2ed204",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "XAI suing former contractor for overbilling, misusing money - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFVXVThFdFB0Y2pNMDQ4R182N1I0eWJMSFI2aVIwcjJVUXhIa2lWRXM1M3Ffb1JjRGhZV0V3c2xPRnpmcm95WG9GYmFKSXFpWF93aE5wT1U2RV9CMFFRVFJKbkVoM2xpeW5OWWNzVGhyVC1FN280Qi1jbmRvdUxLMHl3ajZJakl3YUJMV2FDTW1WYjBPNkI2aXhONGlEaVVDTjVzS0hIdTV1NnRocFl6c0pQZzJXcWZybElGMk5waTYwWVZYeWQ3SzFiMm5ZOWxMZ0xNWDJKSURZZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ff1948eb",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Voice Connector: 5 Details That Matter - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelZvMUtCcVdMLUM2WkhnNWh2V0tkUzJSREU2dzd2TVJUM0F1QzF5VDFhNzJpZmJIdjg1WG5icTczVjdzUkFGazNUdTFWSGxWMGpXOWFLdG9yc1NIWUJiZ1VmalNUcFd4amQ4MGZJOXVWTkNTQWhOSklrTWdLazAwZ0gwWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-473e558d",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust approves two-year sub-advisory deal with Rockford Tower - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdldYenZnbVAxMDN1bWhrV0hfZ2xCcjU1d2RzSWFDaEtzb25UNmwtYmJvWW9EUjJFWndmS0Jha3cwVVh1ZTEzODkwT0tHTTI3UEdRTW9GVDdUMlhpRmRSbUtteDVta0F6VEVLMFRjODl0OVJTWUV1ZGxNWUdSMmtYS3dWMGIyeWw1N2x1YWZKaEVPOGRVRW5paDJYR25CYVlmN0JIeXMxb0ZZaklIaGpLdDdBMGx2dTZFc1ZmYlBkNGxMWUJPa1ZDNHcwRTUxNXREQkFrQ2ZJeTZ5dEVBeDRCenN2NTNYMHd5ZkgxSWtfVTkydw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f534f8db",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust shareholders approve new sub-advisory agreement - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeS1USVY1VE5FaHBXNnBsN2hMVVFuNE9wMUl1YWRLWGFRSkkyUVpPSXl2SGFMSnc4NnB1TVdpckw1MUVaZ1l2TENnb0VlOWg5ZDM2SEZTZHpfWm5kUGxLRmxrNjZmbUhvRDJLTlFKVzBiUEtmNVZtMlFhaElXNkNwOU1GVHNDdkpCenJhV2VmOVl0UXNDaXc5cUFzQ0x5R2dOMmNOTmVIZk9ENFZ1aG50Sk02NE1fREJrdWMtcFlhdVA5dkwyZjVMUmxpS0xxUEJDSWt4WnV1bFlQeGJrdlJr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7d4a720f",
+      "date": "2026-08-10",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Form 8K XAI Octagon Floating Rate & Alternative Income Term Trust For: 10 August - Investing.com Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXdOTG5LZTl5UktfMElvdFBwNFFMNXg1LWplTDJoMk05Q28zTVlCSG1LSVRrYzZqVUoxcDA5ajJkUzBGaE9zLXNndnB5NTdhWFUzQ2VFUko1bTZ2bnFJWUFvT1MyZkREQ2p5QlFIQmtfSEY3RDhhOGMxR1Q4RnBFdGNiZXllVHNGYzN1WVEzWXFfenhJblN3RExSd3Y0dXJpT2FZLUZoVU9JdVRRZmdmazZ1VUpHRFZCZkZMS09jU2UwU3ZwVGZJNWx1VUNYbzRtNDExbmRn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
