@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-11T12:46:17Z",
+  "last_run": "2026-08-11T18:52:00Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -12,7 +12,7 @@
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
       "status": "ok",
-      "articles_found": 15
+      "articles_found": 16
     },
     {
       "name": "The Verge",
@@ -54,28 +54,28 @@
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
       "status": "ok",
-      "articles_found": 49
+      "articles_found": 50
     },
     {
       "name": "Google DeepMind Blog",
       "url": "https://blog.google/technology/ai/rss/",
       "status": "ok",
-      "articles_found": 10
+      "articles_found": 11
     },
     {
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 69
+      "articles_found": 76
     }
   ],
-  "events_processed": 1325,
-  "events_added": 0,
+  "events_processed": 1329,
+  "events_added": 4,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-08-11T18:00:00Z",
+  "next_scheduled_run": "2026-08-12T00:00:00Z",
   "pipeline_version": "1.0.0"
 }

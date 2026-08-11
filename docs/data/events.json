@@ -24794,6 +24794,74 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9e0d3adb",
+      "date": "2026-08-11",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Another OpenAI executive takes off",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-045ed66b",
+      "date": "2026-08-11",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk Says We Will Widen Grok Bot Beta After We Fix Basic Issues With Early Beta And Release Grok 4.6 Later This Week - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOFctUXZ4THJMc05WMnduUWR3MzQ1TjlrMk9Yb0R0anhrMTVsaW9XbWdZN1E5MmM4UWRoLTk3QzR6NkM4QVJHeVRmOXlmak8zdmVId0xBM0Y1ajR4ME1zbVFnRWptdGlYN0pwZ09DanFuQURSeTFaYm8xWnFRUkN5N1ZpeG52V3pjSzVQc3ZMbzc4LXhrZGxXOTI3Vmp5LXNhanNPVFlGVFdLSUVRb29oclNDdXlERjN4Qm9iZFVrdXgyMUhRd1FXYTY1eFRRS3R1MFV1ckJHTEhHdmpDblNTYW1OZWlWNGtPMzBnWU00NTBLYWlzTzhQc0V0SHFjLVI1bFhncnJMcUU0cjNWSkpsTzl2TGE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b9422d94",
+      "date": "2026-08-11",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "FTC Targets Anthropic for AI Bias, Shields Grok Despite Musk\u2019s Admitted Interventions - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXVEc3dULUtXNm1JaFpNa3Z4R25mNUdpZWJ2Y0VzaS1qclNXeGxwUWdvOThHVU5EY19YOXVKV3Zyc0xGSHFhREQ0TW1wZUZrTzNkLS04ZldzdlprWFhnS1lWQmlqbVJsUU5SekZjdjBhSklETC02RllWblBuZEdVT0ZfbHNpWENuaVpXaG0wTW5xa3pvcVh1VDNGOGhtS2pvSlpESG1iQWQ4Tk5rR3ZVN2NLOGJHRmlVaDh6ZElHZnJ0eWxvbU01RmxKdzRYR2s?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2570c45d",
+      "date": "2026-08-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Launches Grok Bot Enterprise Agents: Cross-App Collaborative AI Teams Narrow Gap With OpenAI - TradingKey",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcG9tSDNIUzlCbVEtb3hpQ2FEV1lfdVZsZE5jRGJmdFc1bTI1bFI2MV9EVjI3V2N3YXh4YVVuM2l4Njg5Snl3NlNRZzgzTnljdW1iZnB2bGRaUjBEaC0yZFBieG5aQ2pleFRoWmxVZ2FNWWhXc1NKaEZZTDVMT2pvNVlUMXRTSS1TS3dVbGFVODF5YVdfREtHZEdFQU4tLVhlNGUxZ3pBTEdyZHQ1amkzQm5Ecw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
