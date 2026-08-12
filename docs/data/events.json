@@ -24950,6 +24950,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2b4cbd71",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "xAI Builds 'Minihard' Data Center in Tennessee, Adds 220K GB300 GPUs - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWhyRFNfNjE3Sk5TSENHWDV4cmJXUzMwV2h4aE5LQXhQSWJNNDZsNHdOTjNGaHZrUzFPWWRwcE5NZmFjQzdkSUtKVDRNQV9qWldZR0FrNFNEVlJ6bjNOUDlScjBMVlJNcmx2eUpIVmk3SmdldGcyYzhlam1YYWs5RHJTQzB6eWh5VHR0ZjlPM0V2TWt0dGN0cW90eDRCczJYVmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f5f326cc",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk launches Grok Bot, AI agent with its own computer that does things for you - India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNGlLQ2JUN1JISnhrWjhVYmFieVRtaG5RVHV4bmdLOExoZ3dZS09zV2xVYzc1UUxlblZaWHhUdGZRdHlIYjFFeFJBNUduM2tVMUg2QWNESG52LW9zb1pHSlhrLVFHWHl1ZFlMOVAwd1Vyd3hrdkJTNDFTU3ZrMWN5X2FNQkR2eWVYSVV6ZjNtNmxOQXgyb3JVSUI5a1l3TzJLT1otYmtsNTdhY040STRjRjdOQzV1NzJVdm8tald3VndsOURMNFpWOHliUVZQenZiVUhScDBTdWhWNG9wbE9ha1kxVWXSAeoBQVVfeXFMUEdmSDc0VUlicERicHBNYU5ILURuVy1ETFZsbW1LaF8yQU0xT0ZBcUo5b3BEYUdoakt4aE9rUHZ5VHpDa1F2Y1J3OGJOQ1NyZFl5V3hLM0FUam5qcU9aM1Nxb0NvbGVFM25TTlBGWDVfQ21WTTRpVWtNUmJaUzhVZEtCQXdMVDFzVkdHWllMTmZUZlFuM21zcVZxSk12Y3pPY21GOU9Ra3hxenZMZGxXOFQ1RXhsRXd5WnFoZEJkYnRpc1poeEZUbWhRN2M4YVp0RHFLQU4tS3E1dEczV3VyNFFLd3VlMEw2d1lR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c7aa726a",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "SpaceXAI Unveils Grok Bot, an AI Agent Designed to Automate Office Tasks - KuCoin",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEFsWkhBQTZvLWdBbmd5SEdQU0FPeVhyRy0yMzRJbFNTY3FiN0dxM21vdEZpTXUzUUxEeXU5c013NWtBb3JzWTNjZWcydEN3LW1UWTctazdXeEdaTmZJb05xRmxLeE0zSVRTeS0wWjA3cy1HNjg3czBtZkRuXy1VTUFHbnd1VXpPRm1MbVRrMEhnZEREUHBSa3Z5cTRmb3c5MEtpblN1YnY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
