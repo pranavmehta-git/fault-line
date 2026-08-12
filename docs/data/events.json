@@ -25074,6 +25074,61 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-19e2fe71",
+      "date": "2026-08-12",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "source_url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9eef9142",
+      "date": "2026-08-12",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "From assistance to execution: How enterprises put AI to work",
+      "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bfc58451",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's Grok dominates alarming deepfake report \u2014 1 in 6 attacks involved sexual images including children - Tom's Guide",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX29xaGNITmZVZ3d4WW9EVjNhUXpZMzJUX0NHWENJWm1ZOC0xQ19lYmNOSFJoWFFmTWs1Q2o2LU9sRWM1SmhkX2k3b1E2SFhPSXR5ZU51ZWN3Y3FPTm5sRFdEODNFNlkzcng1R2YtODVmcHZNRG15TFE3NV8xTEx0ZS1GbC00eUxMSENsdGdMcmJya3VlRzdMSTBibEVDaVdfQS1EdGt2bVNrY0FqaXZqRjRmUy1Gbi1XX0ZxQUhQbi1HejQ5N0ljdDZLT2JFcGwzZ2FkNkRIeEc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
