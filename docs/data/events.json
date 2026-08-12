@@ -25004,6 +25004,76 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3463d2b9",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok is now an AI \u2018teammate\u2019 you can assign work",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3a06978d",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Why sexualisation of women by Grok\u2019s GenAI is a data privacy issue - Computer Weekly",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW1xTFFrUHgwSWxkREIwcTVhYXZESFA4VXZEUmR0Tk82X0w1SzhfRVI4V2h3Y0FnOWVTZVV0MGpwTEJadVZqZkM1Zk9GOUdkS1hiX203WTJTSjUxU2g5cFdwRlVKMWRfWU5Ia0prSl9JT3lHZWxVVEJzODNaUjJaZnA0Ykx1YlZWZ3NxdUlpZ3g5ZExjVldGeDlFX3pqSDJjR0NqSFNGcHM4OUFsYWNVeg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-398c0fea",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI co-founder raises $1.1B for River AI to build an open AI stack - Tech Funding News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjllSVdoYzlNM3RhQmkwaGVNUWZiYmZkSUZ1bHdfYks3VmZKeWJRN3NoZjR6eTFELUZvcEZQT0FDdWFDUHc5RFlMZDZCcV9PbVQ4YlZwLXZia0dKZG9LRXl0bmFGNm9LbWw3dzB5UVoxLTZkRXV5dWZCZDZnQ3l2eTFqV2hKbmJnV3h4UnYzSGlBWDVyS3hBbnB3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dc936a48",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "xAI Unveils Grok Bot: Your New AI Coworker for Multi-Step Tasks - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcjB4dDFVLXhOMFplU2xsbDB5ejNRQkh0bnY4YjhHbTNvNEtHc2VoakZKUGg5Y3ZyeFBiSjhFLXRBbGhvb3htd1hmZ3ZJQ3pTaEFHX1NFaFA2MVdpbTc0LVBhSzZCckRvQjZZejg2VjJzN3pQSVB4SmdsMFozWWk2eVBtSHhPTFUydEx6YlRPMm1KM3c4NWdtT050VmpwWGU1alFuRVlqak5KZW4xNWhTS29hNm9UdVFqa0hyOTRLdkxFQjVidDg0UERnU0g0dnR00gHWAUFVX3lxTFBuZmhISVZGbTJtV0I0dExZc0FLYVZLNlM3SGhweFBFOTdIX2d1S002R0QwRVkzTnNtWWY2NVY0aG5QSUcxOFR2MkVkbTBGYU1ocXZFczYtM0MyZ2lMNk1tWHFXRDJEVHZXY2RPaVgtZ0E1UGdkLWlveGJzcTVYaHpfZVVlRTNUczFmRVFld2I4RTZCenhhUW9PRU8yR1VQekdMZXhsTnA4SmJfck5la2VVNndMTzlxd0lXREVZbkpjWUdLZGlyUHBabnR6bTl1bC1vS2I3SEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

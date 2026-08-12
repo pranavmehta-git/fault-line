@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-12T07:13:12Z",
+  "last_run": "2026-08-12T12:52:17Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -66,16 +66,16 @@
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 86
+      "articles_found": 93
     }
   ],
-  "events_processed": 1337,
-  "events_added": 3,
+  "events_processed": 1341,
+  "events_added": 4,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-08-12T12:00:00Z",
+  "next_scheduled_run": "2026-08-12T18:00:00Z",
   "pipeline_version": "1.0.0"
 }
