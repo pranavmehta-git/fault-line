@@ -24862,6 +24862,94 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-08b0cf5b",
+      "date": "2026-08-11",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "ChatGPT and Gemini both just passed 1 billion users",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c33e0719",
+      "date": "2026-08-11",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Daybreak models are now available on AWS",
+      "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2d299deb",
+      "date": "2026-08-11",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "xAI Launches Grok Bot, Always-On AI Teammates With Their Own Cloud Computers - Unite.AI",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3JScWVlZnBHOHZocTlwd1UzUTV0SmF0SkVZeERZZThRZktrajdOSm5yeWlVbXpNRng5eTJCbUNETUFYZGc3ckZJZnlTYWs0YlFqcmY0LXZmT215V2tMTV9mSkg0Z1h6UXZFQ25FUENDc0JjV3dSdHhKMEs5VEFGa0d0Ry1kdUtIVGNCcW5JUk5VQkcyVG15RXhBRjJYQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-365b8750",
+      "date": "2026-08-11",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX and Cursor have unveiled a new iPhone and Mac application called Grok Bot. According to what xAI and Cursor have announced, Grok Bot is a new kind of AI agent that you can assign tasks to. E...",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0hvNDBLS0pmdDN0R1ZCYUloeHp0cXMzQmZ3em5KU1hpdEdmS2N1VHRxWDJuelhDNGdlRkNQNkIwSnNHZG8xWk9VcERwT1otWHM0aHptTFBJMHpXR2VWVy1HU1JHUnlrZ0ItVGdwcEstdUNnMGRnUk5uajQ2RUwtTHcyUmhvMVpWa09aeGkwbGthYTByS2dtN3VJM3YtWWlXODFycXhQS3BGclJ0cUdKcElWUVlMTEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-50788fcf",
+      "date": "2026-08-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "source_url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
