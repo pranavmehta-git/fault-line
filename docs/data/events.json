@@ -25145,6 +25145,56 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6fc37fc7",
+      "date": "2026-08-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "ChatGPT, Claude, Grok, and DeepSeek in one app for $39.99 - BleepingComputer",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0hMajFHWmc2VXFlZmhPLWRsU3BESW4wUkpBd091cFFfZHFEdWNQTjRFbG9lbEljYjBvOFZoWXg5cWpCeEhWMHFDalllVXRteUltb3lhQTdCeF93LTFFOW9wR3htekVzdTBsSjZ3dkc3R29kTGlTNGV0X0VscjRvTTFSUk1YX1lNck41bW9LVXBraWVvWXo1c0xTaXlpVzTSAaQBQVVfeXFMTlNrTFV1WGZReEFPNlV6SEhhU1RsbUVDbkxDVHFucy1EendVYXZGWjhTbUJyZGV1XzNLYktzWldyZjRaVDBLYTh1Q2xPQ2ozTDJTdTl4WXlKbHZ2NmVhQzVnbzdXdkFTeEY2Vk1rSXFDVWZhYUlNS0sxaWdkdGZGR240Qk9pelQ3WnZHNEhqTmk4QkE1cTNZLXU1X1doWnk1QTEyYWc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9a52392b",
+      "date": "2026-08-13",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX AI Revenue to Top Starlink, Grok 4.6 Debuts - \uc870\uc120\uc77c\ubcf4",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFVRLUFIZnJZeHZCOFhNQ1hZTThlNUY5WEp5UGFJYWhnVWtPQjMyLU40ZWl6M0lIYUJRVGR2ZVdNMkdaQjR4UEVUaHFfVE5XbGRKZWVPNno1MzFoWjJzd1huVFpOWG94a21hbWtUanY5bF9nWjQxeGFrelBObl9tXzdrUWczMGlf?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e9a5ec0",
+      "date": "2026-08-13",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok Bot Puts AI Teammates on Their Own Cloud Computer - Tech My Money",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMTNfaTNkQ2xObndLSExCS25ORVNiX0c0X3FtY0QwTUdEMjM2OUFnaVZ0X24xVDBONWxNR2ZJT3Y2M3pLc0VkaFoxQmRMdFlNTVRaTk43S3FibGFnOEdnTDlfRmVKUDNSTmRtNGFBVndwMGRIZ2gxMnU4QkhaQzdTZzEwQ1U1M0x5Rl8zSE9RMW9oVl9y0gGUAUFVX3lxTE4xM19pM2RDbE5ud0tITEJLbk5FU2JfRzRfcW1jRDBNR0QyMzY5QWdpVnRfbjFUME41bE1HZklPdjYzektzRWRoWjFCZEx0WU1NVFpOTjdLcWJsYWc4R2dMOV9GZUpQM1JOZG00YUFWd3AwZEhnaDEydThCSFpDN1NnMTBDVTUzTHlGXzNIT1Exb2hWX3I?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
