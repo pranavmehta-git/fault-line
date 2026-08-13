@@ -25129,6 +25129,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-646aab6c",
+      "date": "2026-08-12",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok Bot Launches: Any App, No API, But All Bots Share One Cloud Computer and Every Login - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2pnWEF5MDlwNWN0RUYtX1FwbGdNQXBtSWNlVm1aSVIxbGs5UFFrT2ZKMGl0QXB5aXBoUkdxWnZ0WGFCNXVNVkRLaVF3RWR2RlRMR3pxNWo1UXBabjVtU1FuSU95UUg0LW10NGplaWtpRlBBU3hqOWNDaWZreEVWNTd1WVFrVFpYZ0RxUXhkNUNjNGV2SS1PVWdaM1hLSkVVb2lUc2dITndvVHFwOTJuRU10VDltUUJRMFp1cFJoTjZVa2NoSi1vVW1uNHZDQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
