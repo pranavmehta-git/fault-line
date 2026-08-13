@@ -25249,6 +25249,96 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3fabdb7f",
+      "date": "2026-08-13",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "source_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2653a4af",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "source_url": "https://openai.com/index/previewing-ultrafast",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-350cf3b4",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "source_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-49a61018",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Says Grok 4.6 Matches GPT-5.6 Sol While API Pricing Starts at $2 - The Mac Observer",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEFuUV9ReFJzTTh2b1d5Y3NOYUhkcGdjYy1YaVlHZzBXalg3SnBaY2NiTzNtajV4TkdqdFViNTMtMzJxS3JZX2lXUFBMVjVJRUVMd2U0WFc2b1h1TnAtQ05CVHUxeGJTMDNrV0FzaXVUQ2UzWGYzd2k3MjF5dmgwZVZwRUxaOE80R2pyVzRWb0IxZ2xHMUtYRWl2aWNmM1pkOE40TS1iUk0zdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-664dc127",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Exclusive: OpenAI and xAI insiders back Lemma's $2.3M pre-seed to catch AI agents failing in production - Tech Funding News",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0R0tuS3pVclRYNnBaVnlMemY4UUtybUJ6SldkUk9tV0Z2YVc4RGhOOGV5SzEtaWZXNlJOTXlYQko4bzZUY0UtNGhzNzc5WnV4WkdZbVJtT1dleVpUaWJzbnhCdWcxQ3JJU1JwMG5Fcm5qMWRCaUNsS1RBSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
