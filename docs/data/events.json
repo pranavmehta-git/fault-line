@@ -25195,6 +25195,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fc4b3d24",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Grok vs ChatGPT: Which Gets Flagged By AI Detector More? - Copyleaks",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEFzRHoyYTVueXNXRlBJWnFyM3lNRjdQczZ2cFdJaEUwZlVHUDZOZ09CZjlKRHJLNVg0X1pzVUtQVUJ2dVRXeG84TkhQemdYVzBUdHJfR3JGZWcwaWJBa2FveDNyVEE3Qk81dzg4TmIxMlhXV2NGbXBDNzhacTVIX1U0cjA4dEx2N3V1ZmRmOTV1ZGd1?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4897418e",
+      "date": "2026-08-13",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk says xAI will increase data center capacity 7x by 2027 \u2014 targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year - Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOa3ZXX0IwSXZFWmNuaEQ5X0hWUjREdmlTUUVIZ0UxY0pzcnIyZUVkNWNoZDZITzBKOGJMa1lyVUlvT0dZbTBYREhtZHhLUW9lTGM4Qmx1ZHVkMDZnRjlLb0NreWNsYkhOZ1ViRWJpeERNWm5ia3dMc01vQkNjUTJCWDJhdkpmWjduZ3ZDTUdDWE1xSTdrdWg2ZUVHdF9pVk9TM2JRU1Iyc2pYRElRdDV4dDhZLUFsVDRWejlmWXFtUGZMY2xNaG9XcFUyLVZ4N185OUN1NlNWQUVjMi1YMjlwWmsybmQwVUVqVV9meHJhMWhvNF9RM2VEVFlJejhJM2FzYWlOQjFIZmQyNjZRMXNOZWllbmJ4VDhJcFh4VDM0VElRU1Nyb1AyZ3Nuc1NDZkZkeVBINWpuUlNYRzFpMVJDbWItUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-32ac0598",
+      "date": "2026-08-13",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Deepfakes Hit 15,736 Victims in Six Months: Physics-Based Detection Arrives Late - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0dURzBncjZBV0dyOFc0NmhtaGJRQi1VRVlieW14aDFYUzZEaGd1d0k3M0JvSGh2S0JJZ3VzWVhqOTgzekxHZFY5VzlzYUJ5bGt4ZFViOWg2VjFSYmZiVmR5XzZVUm1EV0lSaDFPOUFBWENyOUJUQlJleTdxWndmNkg3ejFWMjA4Z1U3dnhTYThjY3hBenpMYTBUamNYN21BblZkaV9RaHI4NDNTcExPNkNjQ2RDM3hZaDgyUzNBdGQ3SmpYM1diUFc1Q0hrRFp4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
