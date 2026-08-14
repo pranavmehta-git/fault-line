@@ -25467,6 +25467,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ccb1f774",
+      "date": "2026-08-14",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "XAI Can't Send Grok User's Privacy Suit To Texas, Judge Says - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkZ1bkpmUmNtSTNHaFlGNHM4bHh4NDg5RkNsNHVKTEhWM1dnRllRb0hxYkxUT1dKcVNXOUY2MjAzMWVtd3hGNk1rd1R6U1ZJV2xJVzk4ejNwU1hsNllCclY3SFJ5MEIzNUMyb09kNjRHWGRUcG02VnJRRjI5aHpjSWstX3V0TjFKQUxERVNvNVhlU0ZRQ3p3RndhZHU2bzN60gFWQVVfeXFMTzlBbG9iV19ORHg2UEFKaFE0eDlOYUFPRXJsSGJuY2xCY09QOEl5V0ctV1NicEx5VVZMZ2xzdWdzVjlldlV4T0U4MWJsc0lvRDhoYmYtaVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
