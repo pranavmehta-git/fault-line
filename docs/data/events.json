@@ -25521,6 +25521,47 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6657d283",
+      "date": "2026-08-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Potts Law Firm Announces Fourth Lawsuit Against xAI in Relation to Alleged AI-Generated Child Sexual Abuse Material - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVNmdDdaMk9mWElFa1V5YzNjNzBqb2ZrQWdkU1BIUks5dmZndV9JbFpRVzBXMEJlV01xYjNVM2I4T0h0MjFiWVlsR2JUbW9XcUhMYnVleU0tclFCUGU5NnE5MnltbDVWa2FIdGM2ekFsZ3NWYmRNSGdkLWJiYVFEMVo1WmVwUlNzR01CclVUTG92UnFUTHU0QkJpYzlaaFR6cVRqVXJCQXZqVmVTSVlvOURzMElRcU51NEplWHBHVDRpLXhiWHplYkFDa0h4YWd5WjkxVEcxNlZ1NEhiRGVSdjdadXF4bmt3V3BvaHlyWE93YUlfT2ZXVFBibW8zc0Iz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-19755a24",
+      "date": "2026-08-14",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Bernie Demands AI Pause, Nvidia's GPU Bonds, Grok 4.7 - StartupHub.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmpJQ3Jyd0h0bndZVFVUZjdwdFlJT1ZHeTBjR3Q1ZmdWVnFUNllyYVRzcGFxR3c1a3NyMC1tZllsVWU2SU5VRl9rWVdzNV9kR0V6Q2k1YUVjUXFCYXFTa3o3dkFsMGdoZXM1cHQzVk5mSmZuVzU1ZEdUQ3dCZVlYNko0TzFYOGxaWTQzZnhndlpWbC15VlVmWHBKRWVOR2h5RktKcUc4VTZUQ0ExeXdhNTc5dmo?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "gpu",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
