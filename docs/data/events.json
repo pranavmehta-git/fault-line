@@ -25339,6 +25339,134 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-83f5cd52",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "source_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-81aa080d",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "IBM partners with OpenAI to bolster enterprise AI push",
+      "source_url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-15594020",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI hires new CRO as executive shake-up continues",
+      "source_url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-04d826c3",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI is losing its second executive this week",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-13a39f87",
+      "date": "2026-08-13",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "The Safety Reckoning Inside OpenAI",
+      "source_url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fa540460",
+      "date": "2026-08-13",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Can Anthropic\u2019s invisible watermarks curb \u2018AI slop\u2019? Researchers remain sceptical",
+      "source_url": "https://www.nature.com/articles/d41586-026-02503-7",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-946aee27",
+      "date": "2026-08-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "New federal lawsuit alleges Grok AI tool used to produce sexualized images of 16-year-old - Northwest Arkansas Democrat-Gazette",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEJjQzliWVlfd3k5dXpQODJLMXowaWVrUjdWS3NQeV9Ca2hjRGE1Y3VDOUlxbmxxLVM1UGFmX0dkcWg1djZKU2xqclU5aU9RUjIzd0pKcjBlYjNkRnZUZjdtbzJJdzd0bnNnTVp1bTZBQnVCc1lEQ20tUEt3UE00Sko5U0NCNEhJOVNrX2paUi1pamJITzJR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
