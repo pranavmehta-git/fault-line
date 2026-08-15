@@ -25602,6 +25602,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5f33950b",
+      "date": "2026-08-15",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia Holds $21 Billion in SpaceX Shares After xAI Investment - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kcFNkM0dXM05RSXBxb1R3RzU5aTRSWW1nd3JSZmpfV0ZFcTNIQlJudWVKWWJ2ZTdXZEdsckhVUUdOS00wNWVHWUVKUFFtRzFLR0Q0dnc5LURfTURoTVhwUU5jZHk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
