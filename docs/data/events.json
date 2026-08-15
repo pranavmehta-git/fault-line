@@ -25562,6 +25562,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7e2d9550",
+      "date": "2026-08-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok deepfakes of nude Arkansas teen have \u2018completely devastated\u2019 family, lawsuit says - The Independent",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORi1ZYXNucEJNRGV3dlFHU21Ea0ZJbDliQUs4aFZVNzJzLXZLQnJPLXB5ejlrN0tfX0FTTktnMy12dmkxeTBFSE5NaE9YeUs1WHlfYVRLTjNiRU43eWhGelFTdjUxeUdSdFUteHNvUGZNdENOelRsQ1dJbWlmVFAxcHNvaXFWQ2RSVHZiTzJVNF9xN1Y1UVNLeWs5SEFLNXRMbGJBZ0dOU1Q?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-35abfd58",
+      "date": "2026-08-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok deepfakes of nude teen have \u2018completely devastated\u2019 family, lawsuit says - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNenhjSXkxZXB6ZzVSQ1R5WUpFTFF0STJmcG9VYWFMQWJvX3pMYnYxd2swMEpobnFWTzBKQnFkc09DN29aNWhjM1Ntc2lnamlqTlJBX2FpNFdUYXFBSmliUGtBaHJQOW5nWFZzZ0VCTDdZeE9KcmZjcU5wdjJJRnR3VGlrbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
