@@ -25662,6 +25662,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0e5d251d",
+      "date": "2026-08-16",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Rogue AI aren\u2019t science fiction anymore",
+      "source_url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7a494ec1",
+      "date": "2026-08-16",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.6 Released: Top Benchmarks, Steady Pricing, But Is It Really Number One? - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkWXZZWlR5RWtUR0dHTFQ2UTRCRFo3QThzbzROdmsyZGotSV85R1FiLVg1eFJmNmVmb2ZKU1RpM0poYTVCQXdiUmFLRHRZTUhYZ3o4OWx0QVJVdDYyV3RzWk1VX0h1LTVPNTdTczd3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
