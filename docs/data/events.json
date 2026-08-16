@@ -25622,6 +25622,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f0de5a8e",
+      "date": "2026-08-15",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Woman Joins Lawsuit Against Elon Musk\u2019s xAI, Alleging Grok Enabled Child Sexual Abuse Material - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bmZ3bkZ5UmNWRVpHRDhTUktfSm1KYzBhOUJTcFNIS0lyMDJ6T2Z2eDNxZTVqV3dvdFBERG4zZWQ1ektpdUMtUW9uSm56QW54V0U0bnFPX0Z6b09LNF9zWTZPMjA0MkNB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-47b3b65b",
+      "date": "2026-08-15",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "A woman has joined a lawsuit against xAI over the alleged use of Grok - UA.NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXV6M2Zad3VhY0tJZjJxeXZObFprd2FoT0NEOGt1dkhXY2VRbXhSWDFpelR4cWRfRXpCUU8yMzlSb2NMaU54YVB6MlRfb2RXT1p4OG9oUk8wMWxJLUlUYlNKYUN1WGhha014aWNzTEVhV3ZUM1RGUF9SUnlEbDg0RXgyTEpYMWJDTWpoQy1NX2hCaWdEN0V1NmhLY3pvaGxsejg4NEs3Q1MxUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
