@@ -25730,6 +25730,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-75f84225",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Another Woman Joins Lawsuit Accusing Grok Of Generating CSAM - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ19SOWtxdHRXSzdXSDEtXzg1dFdxYXpfTXZpVFJMOWdtR2M0VGhSRzJkQ2RjZFhBalZpNzE1QjhRME83Szc3Tzd2R2l3X1FjcTV6YzhsZnM4djhTXzZWZ3BCTzJKMHVHYXU1QUFpZnZIVXQxOEJUblVpY0VGNG8xeW9ROXlzcExrOURtVWNHaVRlV1NRRHA3SnBR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
