@@ -25750,6 +25750,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ee540f87",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI lawsuit threatens California\u2019s AI transparency standards | Opinion - sacbee.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZzZtYUNpQm9LRUFYU0N3NHRqRkFDNkN0ekgxZlRHOFk3TXQxcDh1THRtdk1LMWVZRHNsbWVfOEFsT1NidEVpX05rOGp2U2FMOWlQazZuX1R4VjZ2T2RuNktB0gFiQVVfeXFMUC1CNkJlMVVFTjI0eXVMTkY4WE9GNWlySzlmbUxxQ29DelhZd1NJX3VzMHFBN3RtdkVZeTJuSlVncW1XNDJPRThUUlN3SUdGWWJhRUVHczJwS2t3WWZHTC1jV0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-adb20511",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Privacy vs Grok GenAI: A Computer Weekly Downtime Upload podcast - Computer Weekly",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZG52a1ktRnNmbFp0VlRGNmxGMUc2bTVsUnpkcTEtMnRfc0ZCMmM3YTEyOURib0k4TVd0bHlLSWRfV3lKZWpTYmRZMW8wUnJZWTNleVpiQnk2X29ucEdDVmNGeC1ZUzlLbDlVbXU0MFpHZGRDQ1ZXYS1JWnVMS1kwMWszeGZQOWFQNWdQWkxFNEZQUWxXZnNTOUhsSm1MZmRQSDVRWA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-28f0f906",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI faces broader lawsuit as woman alleges Grok created 7,000 explicit images - Social Samosa",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3pOSkItQjk4S05BWHZlU3JTZkYyWjAtd3QtbzZSVVh4TUU2ZjVGS3hDNEpxOUZoYV91dUwzQWstMm9CeFdGWlI0OXVobkYzR3pFS010MGlBOE5hbW5PSFY1RlRpQmRidVdJa3hrMlUtZnQ0VmFOSkJycE8yYm1WNFdIcHFUWDh4aFRnNXBtTlJLYkRWUUg2TUQxWFlRT1F1OXBhbUVnZmtDaXNHQXY3UjZ30gGyAUFVX3lxTE03ek5KQi1COThLTkFYdmVTclNmRjJaMC13dC1vNlJVWHhNRTZmNUZLeEM0SnE5RmhhX3V1TDNBay0yb0J4V0ZaUjQ5dWhuRjNHekVLTXQwaUE4TmFtbk9IVjVGVGlCZGJ1V0lreGsyVS1mdDRWYU5KQnJwTzJibVY0V0hwcVRYOHhoVGc1cG1OUktiRFZRSDZNRDFYWVFPUXU5cGFtRWdma0Npc0dBdjdSNnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
