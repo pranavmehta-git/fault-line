@@ -25806,6 +25806,98 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d16ad9e4",
+      "date": "2026-08-17",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "source_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1d2905d9",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Minnesota defends AI \u2018nudification\u2019 ban after lawsuit from Musk\u2019s xAI - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlNuOWlXZzFnVk5uSXJBTF9IX1Z1a0JrTThWQS0yVDAxZ1hGS2hkZzdUaEhTaUQ1bEtsTU1HY1p3YWNvLXpoZlNzUHNOakNDVTR6cWFLbkNXQUNOalFWZGRlYjhwVjh5OEt0cElYQTBFVHBLeUd1Y3l3MHBvUWszYXcyZnhrOGoxMWtZMWpJVm45ZmVFaWZzajliU0QxWTl2Y0wyS1BDLXdwTENSVURtV21ZTzY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-af3bc73c",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI\u2019s Grok Bot Lets Enterprises Rent $120-a-Seat AI Coworkers Instead of Building Automations - forkast.news",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGxFUi1MRUR4S0dTdlZrTE9Cc0RkOW5YZkNweER4aW13a19hVWNSTzg3MkNlTmpMNHAzTWRCdy14V2gwbEIycEZ0RG8tRUJkOS1PdVdPcVVLeXdjS0xaSF9Jd0xyekllQm4xTXgxelF3bGNPTWZoWG9QR1Z2NVhQZGJoUHF3UmhZXzZoTGduNTVFOTUxMlYyNGdQVXJONmdGcWFRU0VkdzdRZDJlQXl1dWl1QVlicDQzZlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2be1c76b",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok CSAM lawsuit expands as more step forward - Mashable SEA",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3hMcHNXSGYzd1NOSk5TVWRPVTlISm9YbDZ0WGRiV1hUemJHNGh4R2J5NW1KWFhfV3hzVVZZZUVPa0p0cHlrb01aOHlGNUtYX2lpLTE3QjV4TzF6blpDaWota2NRWERRaEJ1MEVacGZvemx0Q3VBMXVXaFZuMUxldUxWM0R1cW1BUEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-99ef16e8",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk is promoting Grok as an AI agent for interacting with computers - logos-pres.md",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakJVNmZGelNmaDhuWF9tcjBuVnFnRnFKYUdubnpWYkctVkRibXZXMDV6WW85MHJlSG1ISVZtLUVOaWhEeGtPUUJNeGk4MUZPa0xZekU4eWdCQWpTSE1UbjJ1LWRUcHE0SjV5ek9yb05YbVcwcFpSbmRCUGhrRFdQaVI3LWg5c0FQcnhlN2JsQVd2U0V0TE96WDN0NWZxSmZs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
