@@ -25934,6 +25934,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-06dd2171",
+      "date": "2026-08-17",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok CSAM lawsuit expands as more step forward - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDBFWmQ2cTgycU5TNXFXekpLWURNMnJZTWhVVVZEX0l1X0h3ZkVXcEF0M3dwZ2RjejZkTUZtVWdtXzM0cUNQU3A5Qk1jdlFJTHpNQ0ljYk03c3VqMWZDQ0JPMmxPaWVjZ0xnOHhCallTMEhPZHVzcXcwSWUzOHk4dnZIMUFmdkMzUXRWTg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-41ab37cd",
+      "date": "2026-08-18",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "ChatGPT is getting a dedicated mode for teens",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a0ab8e62",
+      "date": "2026-08-18",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "We still don\u2019t know how people are really using AI",
+      "source_url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source_name": "MIT Technology Review",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
