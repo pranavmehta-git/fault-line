@@ -26086,6 +26086,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-76a89ed0",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Hearing Wednesday in xAI\u2019s lawsuit over Minnesota\u2019s AI \u201cnudification\u201d ban, and more headline - CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFMzaTBGMmtHVkU0MUN0NWNCSkR4ZS1MSHBsaWp3dzF3RmZuejl1cE05bDlZWFJuOUtLVHFfYU9kNFBmZG82UzZzSWdzNkZpeUZBWG9zZDYyR3ZGMl9lemxMNWstcTRnbV9tVlJXZVhnTE5oRHNvVVFlWk90YUdpMjh2cEVud3BDYnZEOFdrQnNwbnNKU1puRERMSEtqbC1GSk9QVDQ2bExMUjU1TGt2QndfWnpEd2hwNXc5SEk5azRqSUd2SkdZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
