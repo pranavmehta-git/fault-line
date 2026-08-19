@@ -26106,6 +26106,84 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0d58ff98",
+      "date": "2026-08-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Offering Zero Data Retention for frontier models",
+      "source_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6bdcbf3e",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI in federal court Wednesday as part of a lawsuit against Minnesota's anti-nudification law - Audacy",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0VmX0EyTFZEclBCdTljcDJQRHpHc2FPN3M5ZGdBckFWUjRMak9aTXR2Y05mR0h4WTdVZDJRRDBIUE1uOVBOd0ZkN0VYU0VGdElFZ2pJWFNrOHFjOGkyemN0WjhyUTBnZ3RqZENJU3hyZHZrb181Y0QzdjdVUm1SZDdJUkx1OURE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-11cde425",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Midday Need to Know: Treasury boosts long-end buybacks, Grok 4.6 expands on AWS Bedrock, and more (SP500:) - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRFNkNxM1YtRmFJRWVOakxnN1YzLVFkWTduaXdhSFdrTUxnaFB1SzlEdm0tSXVGQzVBUzE3MkRGNjRNOG8yZzZzODlZU1JvU0dFX2otQnhsWHNUblRsYVVVenhWTjNFT1ZjckRhMnJOSUxJNWFVcTFvNHFvWlJJcWRoNm53TjFsVDJ5NEdKUFJic1hhX2NXeVFDNThoRDM3QTF4RkN0d2FkLWRvOS1OZzBKZ3JUZHYtb2JvODBuS1Rra1NqQTd6bHNoTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f0c9f877",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DOJ supports xAI in lawsuit over Minnesota\u2019s AI \u201cnudification\u201d ban - CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVhOWk5uaXdRSUhFeS03TmFKNlhZa3ZGT2laZ01ZelZrSkU2a3FOdHlvUzlybDEtU0tiV0N3Mk1ieHVONTdyRXM3WlhDdGQxaFVVdTY2STQ3RGdPTDdsYmd1M2xxYlVTanZMdnNzbE1adlNwLXJKbXlWVkc0WjZ4YzdleWZMVTB0VEJkM3BHSlhDZ0JiTFhqbTI3aE9ZSFV2M2oxanZSVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
