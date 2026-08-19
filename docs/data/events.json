@@ -26048,6 +26048,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-91f22c0e",
+      "date": "2026-08-18",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "source_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fab9042b",
+      "date": "2026-08-18",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "How NVIDIA scales expertise with ChatGPT Work",
+      "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
