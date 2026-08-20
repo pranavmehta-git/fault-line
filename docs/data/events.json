@@ -26184,6 +26184,114 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e40185e1",
+      "date": "2026-08-19",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "source_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a8a2e665",
+      "date": "2026-08-19",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "source_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-66e6d359",
+      "date": "2026-08-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Researchers say OpenAI revoked their access to limited cyber program",
+      "source_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-79756880",
+      "date": "2026-08-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Offering Zero Data Retention for frontier models",
+      "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0b901615",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "XAI Sued Over Grok's Alleged Creation Of CSAM Deepfakes - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDJiVlNQNXpXMFVTVUp0UGJEU0lvdEpONi0yT3kzSXdCWHVLcU9HMUIyWkxfZ1pGQWhESUJkWVYxZjlCeU8xTkpkQmVLQXY3SnVNTjVGS2NtOXdaeGx4VkRValU1REtpODlOcWY5X0JneE1iZE5DOFQ5MFROY0JSbVNiNkJaRUd0a014eGJOQm1CZ0ZqRE1iekRMUnM0UXdURXdZelhuM3h2UdIBVkFVX3lxTE0wRXF6OHI3TVJ3Y1VScUp0R0hHTml1X3FBeXpqb3FhYmlhaGowc1F6bEwyVW01ZzVDYUtVbXoyWXJPM1ozbzhvZEZMT1ZaQ19sVU1Tek13?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ecc0b39b",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI can't sue Minnesota over nude deepfake ban on behalf of users, state AG says - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVJjUkhOTG9UekMxRXFtYThHNjNrNlRuczM0V2N1Zk9OSmozdXJsSlQ3cC1Ja1FJT21MTjZqR0ZDSHJsaE5qU0Z3XzB1ZldJRXNObTQwVE5XYkh3RWxmVzltdDY3MmxwZ3hUbXFmT2NTanlGdmlwNUl1ODhPOUhITHNkdlRUR0h5cjJnNWZBcXRTT1ZmQms4YXdiTVNrVmUtODg1Y19nNDVQd0Q4RHlWcUZRWDQxSUI20gFaQVVfeXFMUEVyenZGM2hQUm1aTDFDeWdRYWxFbW84QXVwdU5fLVlDVkJMOGprZ3Y3TzFYXy1OVTRyaVdTTmlpRTNwQXlEdnFjdEt4MzlIX29UcWJvMzhLNWtn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
