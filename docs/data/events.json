@@ -26362,6 +26362,117 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3399d91f",
+      "date": "2026-08-20",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a5538cb9",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "It\u2019s Greg Brockman\u2019s OpenAI now",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c6c187bf",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Debates over AI consciousness are a trap",
+      "source_url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-afe74900",
+      "date": "2026-08-20",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Throws Support Behind xAI\u2019s Fight Against Minnesota AI Nudification Ban - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmU5SXlRNnkybEh4WjRhZ2J4TV9XWE5hWW1ZV0FrOUFoRzFQczhJc3g2cFhzMVVsa052YW9GLXFfS2ZYSFMtRzI4d2x4RGV0QVlMYW05RXNCZHgyX0laT3MtbGtLNWZoQm5ocWQ4eERUTFdRQ2J5SUdQdDhEdGFyM0pXX05qWlI2SWNyRVgwUWpBMWl4THJjMF9lUGFIQUFoYmNjY1dMbUg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-56e8433a",
+      "date": "2026-08-20",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok Bot Runs on a Remote Computer \u2014 Even When Yours Is Off - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk1WSDg0RmdwWG5YWlk5Tjlra1o2T1dnRmZqeHZzd09GbGRfaGhneGIxcnBobFNqQmFEV2FOa0lDQ0hYSlJVNHFZRDRON0NhYmZLUEhyYW1DZkx6TFVlT2p2R1lJY20taEZVQzdHOF9aX2R5cXo3VFd2Mi1sbEZwSEVxTTh2djhJYnFFMUZvTW9kZUdWUktz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05f05fe8",
+      "date": "2026-08-20",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Silicon Valley CEO: The Birth of Grok Bot Is As Shocking As the Claude Code Moment - 36Kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oMkZXR0xmMFVkS0dVZjkyaXRTcTc3bTlxMXB1NEJOMVlRemZLaUhPUTNzMVZvVUtNbGdTMGh2TUVCUTdpeEphd1JFdEx0SE9lZGtN?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
