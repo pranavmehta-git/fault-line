@@ -26292,6 +26292,76 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6e46c0c1",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "XAI Sued Over Grok's Alleged Creation Of CSAM Deepfakes - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS255RDdqcXQwU3VyWnVlcnlmRzM4M1ZHV0lLMHAyU3luVEYwX21Ga0l6Mms0TVBjejNEdlNCV2g4WjNTN2ZiUFJCZGRiNlVLQzN0bHZEcTdCM1ljbmdwVXpVSVhkN1FPeGlDb1E3MVBvYzdna1pIX0dodU9DcVc5MVY1d05fcVN6X09wcUJnWHhLSjMyR0U0Tm9kd9IBVkFVX3lxTE0wRXF6OHI3TVJ3Y1VScUp0R0hHTml1X3FBeXpqb3FhYmlhaGowc1F6bEwyVW01ZzVDYUtVbXoyWXJPM1ozbzhvZEZMT1ZaQ19sVU1Tek13?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-efa7378c",
+      "date": "2026-08-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "xAI can't sue Minnesota over nude deepfake ban on behalf of users, state AG says - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2FaRmNvejVTeENMS3YtUUVuT3pjZndFN2hWWDVGRVFiblNlTHNFeXVlcFpKcG5lazJ4R242Nm9EQWlrZzE3UmRMLTBCVkdBWERnY3ZfanA4YW83b0Rvb1NvUzBWX0NKaTJsa1psTUg5Uk03V0taX042MDZKWWZNamFsd3B6dUg3MzYzQTBvMzhxNTVBb3lZYkZwREVydVljdzVCNlZqZGlvSVp2Mmk5SVY3NnZDZGcxLU5PTjNlMNIBWkFVX3lxTFBFcnp2RjNoUFJtWkwxQ3lnUWFsRW1vOEF1cHVOXy1ZQ1ZCTDhqa2d2N08xWF8tTlU0cmlXU05paUUzcEF5RHZxY3RLeDM5SF9vVHFibzM4SzVrZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-369813df",
+      "date": "2026-08-19",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic's Revenue Skyrockets Past Salesforce - StartupHub.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW9DVkM0a01jdkVRSWpSVWszbGJ1MmFwenRCblNsVDN1LTlpOHJ5ci1MT2NOaU1XUnlkeE1kenN5Y0pMVWZxRkVfcnQwRFdFSkVjQ3JJRm9KVWN0QW9jNHdxTVIyTUd0UzFLb28zVkVVNXBOWFR6b092Uk9nNmNyQkhZa3c5eXh1NEtGLVRUc0tiUHFfOHlPbUhWOVVwT2hmUXZ2ZkZOb1dvekhRV2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7cc35dc5",
+      "date": "2026-08-20",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "xAI Launches Grok Build: An Agentic CLI That Runs Your Computer - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXJ6RGtlbkM0MmxscWF0Vk9jU3EzbmNTbWl0d1BhcmRSaUxfdEFmZ3FkNk92UGF0TTlDMnNUdFlobXZGeW55eGRGZXBDUFJpV1cwVkYyQnJSejV4Q3hYSGtZbkNKUDd0NW5IbXc1TzBGMGhpc01qOEhRdlFES1lLOXYxdU5abHRUTy1KdWhzclBDVFRwU1JkUnBzQW5vUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
