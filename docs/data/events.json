@@ -26473,6 +26473,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-86381c30",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "source_url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e03771f0",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "source_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e93684f4",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Introducing AI Futures",
+      "source_url": "https://openai.com/index/introducing-ai-futures",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
