@@ -26565,6 +26565,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6e65a54e",
+      "date": "2026-08-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceXAI Launches Grok 4.6 On Google Cloud Vertex AI - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1VwLXNhZUVYU0lhZUFEdHpYNGdVQVRlNGs4VjlWTFB5bEZ6ZVBad01RazlOWlJIQ0pyUjF0RUVTT0NiUmZSOUptMEpYSlRPN1U1dEcwWndqY1E3OHJFZWI5YzFMdGRwb2NKSURNRUQxS1N1alR5aERaUW5sb24wQ1l5Z0hIdjRYQzR6d2JOcmt4cHRGU0lyd1dCS05vWWwyLVRvSXVIb1J0MTgwRWF6R0xtSHlMd3k4MWxwUXVXOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
