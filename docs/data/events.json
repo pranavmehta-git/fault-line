@@ -26619,6 +26619,66 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bfe40f0c",
+      "date": "2026-08-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite - Wccftech",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmladnJHRENLQzczR1Z4YTh6alZpRWR2QUtqRmFnUG9sUmNfLWxmQm9ab0V2Ym5UM2dSbnNZcEhsaC04em9Od3lOZUxZbDR0WmhUSl9MVDNScWRuamdFYWFqMEFlZV9tYWNPZDlyN2VSOWVGVFdvdFNPd3Vfa2NNX1daZElHWHJLOU5KT1hjS0FaVDFKRHVNOHU2SUZLbEdJTDZPamZraTNwT1pLOGNB0gG0AUFVX3lxTFB1a2E5ZFRvcGU0UW4zeG1zMngzSk9lVUFvZ29fMWhjaEx5NGVrSjhiZHlUMEcyTVNGQm5SUEdZczFPSnpXVjVxZF9vM09namRyb3VXTHpzWlBBeGxScFVQc2ljNVFVVDVob0pyWHVxWlFtaHRSeWFldjhjbG93Nk5DWlFJanNCakFwbE5PMC1xd1NFSjlQdk9hXzlSdVVwNFRTSGFGVF9VM1VFZGVHZnVpQ0EwWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4173e6a8",
+      "date": "2026-08-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Bot vs. Hermes: Where each draws the security boundary - The New Stack",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsc19WNTZGYmV0Uk0zWGJTWWdKMUVDUzRocGZ5M1BhMks1aDJBUWJ1U1ZNR3VHamMxUkZxb3R0Wmt3d3RuZG1iTGZNeE5aSTZ1Y0RDblBWSDJYd2JLdWo3akx3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a57dc2d1",
+      "date": "2026-08-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia and xAI Partner on Vera Rubin: Grok's Compute Goes to Space - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmVrb0RLclFKeGhJcFpTczBWcWNXZVlSSE03Rjh3Z2puSHhkQ1hSYkxHaGFSNk1HeldlVTZBRjA5MDN3OThRUzJ3d1RVZmwtcXk1V2g0WG9pWlo1eUtHdmtLR2FlUHVDNFduUjFSWFc5S1VUNFV6UTVNS1k3S0g5R1NFOWFBbnRmN2lCdVVILTRGWUFaX0NTTk81ZXhvSGpS?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
