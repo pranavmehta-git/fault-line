@@ -26719,6 +26719,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1adecb62",
+      "date": "2026-08-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale - NVIDIA Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-76f53e94",
+      "date": "2026-08-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Moderna basically cured cancer, so I used Grok Bot to create a trading strategy on it. It\u2019s DESTROYING the market. - DataDrivenInvestor",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaG50RkVWYUdlVnozc1BxdmNhYnoySmF5R3Y3c0xfamFEc1o2c1RVR0kxNXZPMDhYd21scERUVl90RGppNHhaalpUSmpiWDJGS3FSZ0VONzJ4V1BWeE05d25YVmlqWGE0U2syLWFKY055VTU4dllEY2J6NzVvcUh3NG1iNXNuLVlEVnFMdk44aFRpSXpnOF9VMnhWaGxMTHpZU1lQMjNGMERUekxrRmdhaHA5Sk1QN0hSV3ZQS1hZV3Z5N2pzdVY1Nmo2TDJXZXRN?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
