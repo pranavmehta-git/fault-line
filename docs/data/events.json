@@ -26679,6 +26679,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1c8c7afa",
+      "date": "2026-08-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI Adopts NVIDIA Vera CPUs for Grok, With a Vera Rubin NVL72 Bound for Orbit in Starmind - StorageReview.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSE93cFd1aGhKcG45VVNyeC1HNWF6cmhSTkxEcDZ0WDhyQlUtLTZ0eWV0TWc0cGs3QnM2UGFXOHoxRDVVRjd5ekNuaTFYUnpmRWdFU3pBVVhFUjJ3ZVhTSVg5azlNMW5nZkhzM19GMFYwaFZOelRQV0I2WTdqTUhZWFJaTW1fT2JSMmYxY0FQMlFDb3V6Vjg3QXRPd0h6dFdRRlVUYk5pdHJGekdzSEFEVHVqUFpXVW9oLU9IR25CRXBrSmRNNHgw0gHMAUFVX3lxTE1ZMXp2cXl5LUc1dmtKSUY4TFQ3WW5kR2lpNkMtSXYzejZTX1VORHhnQlQwc0oyQkhQZHhXTlFLODBySXI2emFVZGhiNERYdFFQdVRqR05WLUlWRTdLdzZ5d05yekdzMk93Zk8zTHQtS3I1N0lwRHpyeVhQdDBNb0xsNUdYZTFySEpwc1ZBZ0FrY1dLN3pEYUw0QlExdGJtQldzTUhfa1JaNUM4dEdJMmlJOTBvbHpuUHZjaFdNem9rX1IzdC00LTBtX3g3Nw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-48d3cc99",
+      "date": "2026-08-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia's Vera Chips to Power SpaceXAI's Grok and First Orbital AI Satellite - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93dTcxOC1GRjY4N3hVOE1WdTl1SU5NV0FqU2JneHdyT0JsNmJEcS14MzM3ZGF1WE9GS05uMUtZMXhuaEFNZE9RWUpYcUJ4LTFBWjIwYklYZHdKbVhmdENyZk54UHZnVlpreTZLNzZSQVlZMmp6QWc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
