@@ -26755,6 +26755,47 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-20f45cdd",
+      "date": "2026-08-25",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ce931723",
+      "date": "2026-08-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads \u2014 will use optimized Vera Rubin NVL72 in space with Starmind satellite - Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnp3RndwdmlncFRWSGVueFpqTjVjUnJGVGNwR25LcUpHREpRQ1pwa2JjNGdkNHBIZW5hU1lEcUY2M1U5Nk9QaGpwSlFnWWZVQ2VWMk1RU1JyZjVwYXM5OEZ1SkdTY2ZRZFVFX1pycDJ4QzFvekcySjc3RE1GOTJXemhVUlhIdEF0ZXh2dC0wVktSekFTUFVQeDZKQ204QmY4Ulh6dXhiMFZCNzBpUTVxMVBDZ1VLZjczRGF1Sl8zZ0ItUGtaR25n?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
