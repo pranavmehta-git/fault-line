@@ -26796,6 +26796,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-94adaf46",
+      "date": "2026-08-25",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+      "source_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-075e70ef",
+      "date": "2026-08-25",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-18204844",
+      "date": "2026-08-25",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "The full stack behind abundant intelligence",
+      "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-78b51eab",
+      "date": "2026-08-25",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "source_url": "https://openai.com/index/jalapeno-first-results",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4bd1748e",
+      "date": "2026-08-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia Vera CPU Powers Grok Agents Now, Starmind Orbit in Q4 2027: One Architecture - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSExqaDlHb1E2eEtEQ29wTWE2WnR3X2tKTXZ4UkZCZ2trYWJ1a2g4TG51THNzTlNSMU5qR01IMUItNk94NzMxQkVhWmR3LUlEQkE2Rm4zVjF5QldtbElFTGFOTHNXMV83eTQ1N2FETXd2S1NlT3FfWDY0YlhfMGw4X28xcUFJZklPTzNhZXlVZDl3NkkzMjFGM01ZQkhoNmJDMlZUUGw0Z2dFVjJndldXM0d3T2QxVmtkazE4c2JlVG03QmtqUFE0d0ZZWTV4dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b86f32c6",
+      "date": "2026-08-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI plans NVIDIA Vera deployment for Grok and Starmind - TestingCatalog AI News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDh6NURWVGMzR0dOVlFmSXktMHJRakZVY1pNbHo4SmxoSDdnX2tIaFlnbDRfblRBenJmTmw4VGdRbjYwNGhTX0VhT0lTZjVfX3F5ZnFCSThqaXlRYVFSTzhSQ0x5YzBCTnFPUldHSEtGYV9QQThiR1M5M1pyNGZaYkNUdmgxQ1Fhd2NmSE9Ydzhadw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
