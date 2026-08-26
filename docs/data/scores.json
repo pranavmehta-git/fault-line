@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T12:36:25Z",
+  "last_updated": "2026-08-26T19:38:37Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -615,7 +615,7 @@
           }
         }
       },
-      "events_count": 546,
+      "events_count": 547,
       "last_event_date": "2026-08-26",
       "top_drivers": [
         {
@@ -721,15 +721,15 @@
           }
         },
         "societal_impact": {
-          "score": 0.42,
+          "score": 0.47,
           "max": 2,
           "items_triggered": [
             "F1"
           ],
           "items": {
             "F1": {
-              "intensity": 0.421,
-              "evidence": 0.728,
+              "intensity": 0.466,
+              "evidence": 0.873,
               "corroborating_sources": 4
             },
             "F2": {
@@ -780,8 +780,8 @@
           }
         }
       },
-      "events_count": 100,
-      "last_event_date": "2026-08-21",
+      "events_count": 101,
+      "last_event_date": "2026-08-26",
       "top_drivers": [
         {
           "item": "G1",
@@ -792,7 +792,7 @@
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.421,
+          "intensity": 0.466,
           "corroborating_sources": 4
         },
         {

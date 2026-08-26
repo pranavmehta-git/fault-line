@@ -26982,6 +26982,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-85ba5eac",
+      "date": "2026-08-26",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "Google\u2019s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "source_url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-57d8bed2",
+      "date": "2026-08-26",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX's Grok Voice Now Handles 15,000 Starlink Customer Calls Daily - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EMUxjMUtaaTJkUjNVNTAzS1JlX2tkLVdJeHcwYTkzVFA2R1VnZkZuZnBxTEZ5c3oxMndOdWxHNmtlRUFOenFGWHgzTUdTUDZsdC1iZ0ZBeExhQmxGZndmc2h5X1VLV3QzeFVleGNHV21ZYmExb3c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
