@@ -26944,6 +26944,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7fcf56e3",
+      "date": "2026-08-26",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Former xAI CFO Offers $100K Bounty for Info on Alleged Stalking That Began Hours After Abrupt xAI Departure - Glitchwire",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2MwYUs1S0JCN08zTDU2OEFsdTlNOXctR29kdW41bjlldmFvalAtQnZmSElSQUR2TTA3LWh6QkI4TEM1WHVHQ3N2anl4ZjQxYU5QT3NzUkVjSnZtaGhMTmlJbjVwaWlVbWRCYnZldlRRaXA2ZUJlYVhpWVZ5UWxoXzJucmczVWxOc2pyUFI2MVRKdVhKbzRWZk8zdDdidEg1d2NHeVRCZUdiWE1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c64e45f0",
+      "date": "2026-08-26",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Samsung Foundry to Handle Full Production of Nvidia's 'Grok 3' \u2014 4nm Line at Full Capacity Fuels Profit Hopes - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wLXF6NEVrZ2RaRkozNmZUb0Q2OVo5VTNIU2NIMWNYVjRiVXJUZG1ZUDJHeE9VZnhIVWFuVTNrRzdsV0RYblFFX2F2OTRsVDUyak5mdUtUYXZyclN3Uk05YUxILXRJV0JZY1VMLUZhd3NBNFdQV1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
