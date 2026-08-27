@@ -27052,6 +27052,121 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-03c0fb21",
+      "date": "2026-08-27",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "source_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a7d19d56",
+      "date": "2026-08-27",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "source_url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b0e0123",
+      "date": "2026-08-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says - Ars Technica",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2xvS1BEUmtXZ2ZPVkJlYVE0Ylh2SzNoaExwdGktZ2lRUVRQd2lEbHNaWTN2ZU9qN3hHaWkyWlhVeGdsNURLc09nemsxeGNtQzFpUExrUXY3UlNnbk1DM042N19kbWR0VnE4UEtwOVNvRDcycml6ZUNZbHRpUE1HUWZ6cHpSbmNIRlBTM3ZvZ0hMMWZmb3ZzQVMwQ0lmaXZpZEJrR0VRMTltdWZvZ1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f524b7d9",
+      "date": "2026-08-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Former sexual abuse victims say Grok used their images, videos to train deepfake capabilities - CyberScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ualZCV2YtSnVISnFrYjluYmdJVXB5bXN4LWxBZEdCQy04VFh5bDc1M2RueTZlREdnRDJwQ3F2MTlGcWV1WWVyYV94aXN4VFV0M1JrQlJPcGxVYlZXZl9SR0xHQXlUSkZMS0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ffaa0a01",
+      "date": "2026-08-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's SpacexAI faces another lawsuit from child sexual abuse survivor - Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmk2SUZGYUxfclQ5M0lvemJrZ0wwNVJkamJuQXZnZ0xJeHJpNUd3eWNBZW1qQkZ2SEhZaFcyQmpqeGdZWjVJQ1k5U1dDdmJjM0N5cWhhTmpsLXFXS2ZoZ0p4aDZXVUpEcWVBSFlLTEtwLUkzNW55U1ZIcXpFWmZTM1dFYmxnbG5M?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c13f9336",
+      "date": "2026-08-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's SpacexAI faces another lawsuit from child sexual abuse survivor - Mashable SEA",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0h6VGM3dGR1NWRGLWpENHhDYm1RTHBOTUliU2E5TEh3d29lX2VxSEV0SFNNbFFRVFpGZDlWVm9PZmZJaExlZkxqdHBPdjFsalBQWDEtNVFicERfWDZ1TDhETGxKcnY1N01Ic3JQeEgxQ21jUVg3dnVNcllxYl9td21LNmcwdFBjWEhJd3JOZ2FkTmVRdVJRZV9LaGNtd00tbnBqZTFMMndXdFA3NnZBd211bmlnWVE2M2lz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
