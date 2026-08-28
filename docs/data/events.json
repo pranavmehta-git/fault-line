@@ -27205,6 +27205,142 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5cc16b75",
+      "date": "2026-08-28",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6846aa6b",
+      "date": "2026-08-28",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
+      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-21c80209",
+      "date": "2026-08-28",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Supporting Thailand\u2019s next generation of AI startups",
+      "source_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b832949",
+      "date": "2026-08-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount - Politico",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZJbi1FeDJrVHdzOGFoVWNKTG5MNFpVVDFyc0ZDM3RfYmVXZWtDMlZlYzVLelZ6MVliWGlqYlR5U2hPZGhDXzcyMEsxTU5VbF9UeExqLXBaTF9aVnZsNndBNXMtNUpqazNVcjFlQW5aUUJ4TDR1dm5mbnVDMFkxQzFXQUtjZHM5Y01ndTZBb2M?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a76f587e",
+      "date": "2026-08-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Not Only Generates Child Porn but Was Also Trained On It, New Lawsuit Claims - Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODZyVU8wNURyXzFsV1NEdE9fdkJDaFJWanVsNndXZW9QOE51ZEpZTVEzSDVyRU9fUmxPcjduaTNZTHBtS0dLbkpKdDVRV09rbVY5NXBPX1NFMTBNUXVqcDZlUHRuSHBfSXhLRTdqaURxX211T2xMTXYzZ3M4WVlUWVhiQUtuMWdzY0pLQ1pNQmljU0U0RW1xaXpxcTFkd2dfcWpWRVRCZF95TE53OFdtaA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1b648767",
+      "date": "2026-08-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Class action lawsuit accuses xAI of training Grok on child abuse material - SC Media",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmpBMDV2bzBULUNldjJsRzJxbGJnMHViWWN4NTJUZmVpTXZWZXRhMG5tWTNKd3o5bDZ5MUQySTRReVJwMEpuRnVZVFJicXl5MzlTaWtMRE5SdUFvR1BTSHN6Q0l2bUFHczk1b285YVkxMWRzVVdEeDNBN191dGx0c0k1LXFzbkFCbERzbzB6NEJJRmRSeWdwQl83cTk2QmVGU3ZFTEx3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-790cff84",
+      "date": "2026-08-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceXAI Grok lawsuit alleges CSAM training data - Cybernews",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xWmR6QUJWS3otSTZnQXp0ZWNvamI4Tjl2ZldsR1FselFxTXhlU0pNSHZMbzA0UEFZU0VjdXNzeEQySTZuVUNhU3A1Z3B5a3kwbWRMUW80eVFiVzQzb1NYQ0hGb2NjRk8tbUdGSnF6bHBXRUhqc3RucQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
