@@ -27167,6 +27167,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e92a345e",
+      "date": "2026-08-28",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-67b8c887",
+      "date": "2026-08-28",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
+      "source_url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
