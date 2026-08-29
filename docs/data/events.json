@@ -26529,6 +26529,24 @@
       "historical": false
     },
     {
+      "id": "evt-4100e3de",
+      "date": "2026-08-20",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Introducing Intelligence Age",
+      "source_url": "https://openai.com/index/introducing-intelligence-age",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-d9e372b6",
       "date": "2026-08-21",
       "lab": "xai",
@@ -27329,6 +27347,26 @@
       "dimension": "cloud",
       "summary": "SpaceXAI Grok lawsuit alleges CSAM training data - Cybernews",
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xWmR6QUJWS3otSTZnQXp0ZWNvamI4Tjl2ZldsR1FselFxTXhlU0pNSHZMbzA0UEFZU0VjdXNzeEQySTZuVUNhU3A1Z3B5a3kwbWRMUW80eVFiVzQzb1NYQ0hGb2NjRk8tbUdGSnF6bHBXRUhqc3RucQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a984ccbc",
+      "date": "2026-08-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit claims Elon Musk\u2019s AI company chatbot Grok produced child pornography based on woman\u2019s childhood rapes - The Mercury News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDZaN19vaExqNmE5bnVUX2pjdVZUZ3FGSXBEVjBxQnJGbkV2SjZhYUgzNFlCNUtfYWw4N3BiSE9HLTBTVjJyeUJmVURjcUZ0VlBwYXJPNDJrWkUxX3p4cmJSdEw2NWdlQ19xS01FYWNyOG9sZVBXQmJuT2Y2VmpjNWdzaDFhX09XRXVKSlM2N3loLVdkYmlVMVJET2hQZHNXd0g1SFJB0gGrAUFVX3lxTE9mQ3dxZmo3dEFhMUxoZ2o0UHVPcDZLUWRIV0dEdUIyalExY0F5X093X1Eta25QbzdzbjVYRW1QVU1CRGRuS2hXRFlGblhfWGpWZHJMcFFiUk1lOHZZWFZQRTZRM3VUOGhUX0Y4em1wdWJrbTB5MDVPdmx2bU1oRTZ6ZEladmtpQ2R0N2luTnQtZlJpN2UyX0hhNm1uS3U5Uzc0eVdTc2FaUGNLUQ?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
