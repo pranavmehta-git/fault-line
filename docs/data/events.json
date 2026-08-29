@@ -27379,6 +27379,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-58aa0596",
+      "date": "2026-08-29",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Elon Musk\u2019s SpaceX Faces OpenAI Snub as ChatGPT Maker Cuts Ties With Cursor Over Contract Compliance Concerns: 'Cannot Be Confident' - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORXBvTEJMd1VOUm1Ka3BnMG9Za2NCWjhQbzB4M3pGVm1MM1dqYzVjUXRCek40VzdvOHFNMlZMbEFxbmVtUXB1VUxZSl91SEtfT3lhMGs1OG9LOWxvR1VLMWtxXzFWZUxwbG5DNFctRV93MWNmTFd6ZTR0MC1FTm9XamVkSF9DT3JVdTBkTEdVZm5LdFBqZ3hPNzNjU3lxbzN6Q0RwLTdocHJJNGQ1YlVYU24yOVFrR0w5WlBGQ0psYkEzdXh2TWRfUGFQRmtGa0g0THNfR2dlM3NHQ3ZEdExnbWU4RHBMdkRtV01XNzRmWXh4SEUxbmFxQUd1VkNjQm40bDdDdHdGdWE0VWpZU3VvWTJmQVpjd3M?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "compliance"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
