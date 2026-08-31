@@ -27419,6 +27419,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-039fecaa",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk uses Grok to criticise Billie Eilish over capitalism comments - Storyboard18",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEpVSGNXRGdlLW9OUEowQ3F2UmVIZU5pTWgxTk83MVdXNG1Fc09yeEJkcFNvVnVRY1VNX3JLS0x2VzZaSy02elFaRTlsY1VjY1F2VG1sR21tcjBOMmo4N0ZVdm1pdkY0ejlXTnJqQ1NPaXFMbDhNeHlpaVdmbFpUWTZZNTFfdEV4Wm9GR2F2SDhzVDN4S1pHbnpuWlNXRXJaMllyTEhFZUw2RjhJTXpBTTFQVV82bkpSM2hQb9IBwgFBVV95cUxQU3ZDOTJ6VHZSM01sRl9GZzJHSmRibElxSlVDMWt4a2RxT3RtdU16cFFLWU5BVGdOWXFla0poVVNwNHFXNHJ0eWNXX243Q1lMRDNMWUpyT3JDLU0xTjdfRTRZRkIyTTZqUnBLN0FraU92YUFSLVlkYl8xREtPVS0tLS1kMlQwNWoyTEY1N1pwZ0Yxa1VpaXRrUmVBazhhYXdHUVhaaV8xX2tKZ2p3SlN5ZDF1MnBmaVFDaUk1TG5jb2FKUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8ef0c85c",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Bot Blockbuster Debut: Deep X Integration for Full Automatic Global Latest Developments Monitoring - 36\u6c2a",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ba1lTbHFadG55TnlsbDhKQzFaamdoZHlRRktnZjZwMWw4WFFPNDRrTjVJNnpzUlZwaDkxay10bTNBOFhaeEdCdkpERjZoSFoyOXVV?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

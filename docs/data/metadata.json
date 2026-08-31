@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-31T02:46:52Z",
+  "last_run": "2026-08-31T12:20:58Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -54,7 +54,7 @@
       "name": "EU AI Office Publications",
       "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
       "status": "ok",
-      "articles_found": 3
+      "articles_found": 4
     },
     {
       "name": "OpenAI Blog",
@@ -72,16 +72,16 @@
       "name": "Google News - xAI",
       "url": "https://news.google.com/rss/search?q=%22xAI%22%20OR%20%22Grok%22&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
-      "articles_found": 77
+      "articles_found": 73
     }
   ],
-  "events_processed": 1467,
-  "events_added": 0,
+  "events_processed": 1469,
+  "events_added": 2,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-08-31T06:00:00Z",
+  "next_scheduled_run": "2026-08-31T18:00:00Z",
   "pipeline_version": "1.0.0"
 }
