@@ -27579,6 +27579,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8db546ed",
+      "date": "2026-08-31",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "source_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f5d8dce5",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "US Department of War adds OpenAI\u2019s ChatGPT Mil, xAI\u2019s Grok to military AI platform GenAI.mil - economictimes.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWFRsc2NxbDNESDNWT1JKYUxmaTdSaDJSc25zcjNpTDVkVzY2dlhyRVhCSlJuRDJrbzZON0Ezc2g5NzhNWnphc2NEaXQ1SnNSTkpCSzY0Um1JOUNLdUVVWVF1ZUJFeV9leTlkbHNiVEcwY29ETkotbVFkdVJBQ1N6aHczSVZ3SXRJZUplVEtBM0VsVVdNbjZ0ck1tUmdjeTBsNDVMQTJGSS1ZVnBxaEJ1UHpGQVFLTGVBS2o4MXVHR0U0R01VX0xkdEpxU2hXcW9aVUVIN0NLOTk1THV3QlN2V1VuaDVaU1U1UkNhVHU1ONIB9AFBVV95cUxONTV2Tk5xdElndEwwV0VZaVNLTTN1N3BOd0JZamYzVUIzWEl1Q3hfRFhyTnVGUWFuaVRGcXRrbzRTeHpDQkdTNlluQW9IXy1YLXJwMGZJUjFUVGRBdWhoQ0RXal9lRmVNYjVadzdMNWpvXzI0VmUxUVVsZ2hDUDFrbUF6SUVmUUN5a2RGTXo1UXpJUEFXby1nYzN2dnNsdTFBeVE4MTF5T2F6aDdudEw4MGxQNGFKZ0FtYkFmNHZwc0VDbU0xN1BEU2xaRW1JVWlGdi1SNnJxU2ZTcklaQ2t4ZE9KUkNMZHU5dFRKdS1zQ1JKUld6?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

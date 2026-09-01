@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T02:57:24Z",
+  "last_updated": "2026-09-01T10:54:17Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -243,7 +243,7 @@
           }
         },
         "talent_governance": {
-          "score": 1.41,
+          "score": 1.42,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -251,8 +251,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.751,
-              "evidence": 3.015,
+              "intensity": 0.753,
+              "evidence": 3.056,
               "corroborating_sources": 7
             },
             "G2": {
@@ -283,13 +283,13 @@
           }
         }
       },
-      "events_count": 586,
-      "last_event_date": "2026-08-31",
+      "events_count": 588,
+      "last_event_date": "2026-09-01",
       "top_drivers": [
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.751,
+          "intensity": 0.753,
           "corroborating_sources": 7
         },
         {
