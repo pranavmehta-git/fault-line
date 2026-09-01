@@ -27651,6 +27651,112 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2ce5d57f",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2862401e",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Apple accuses OpenAI of destroying evidence",
+      "source_url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c1154eb8",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How AI-native companies turn workflows into operating capability",
+      "source_url": "https://openai.com/index/ai-native-company-workflows",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-85a5155a",
+      "date": "2026-09-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - GlobeNewswire",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOUxfTl9JN3hpTm1ReEdjVEhLdzlXRTdSM2N5UWRfX1IxaFczRXZEX3VNT0lXZU50aEJJdWktd1hxQnpQSEVydVJsMlVHVUpBTXRPb2IyUjlMU1dFRVlhdlE4ZkJXeXl5UVNMUHE5aW15ZHVxTWNicHNuNDBpTHlyZjROQThBanlzczlOQXk4TnBsbXFXWmw5YS1SQjFpakJVdzhDZjY0MHB0Tl9aYWdrQUFFME9ubUR5Mk5NNDZpZmtnTEswNGktME14SjlMMUltZ2xvU3JWRzN1eVRBaHNZTndncm9TOFVDQWVpZ2diYUpiSzl6c3pFWEt5SXBoTG5pd2hHTUwyN0tpMjdMdEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9d7305c7",
+      "date": "2026-09-01",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Silicon Valley Investor Says Grok Bot Sparks Agent Revolution as Monthly Fee Plunges 90%, Igniting Compute Race - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aMG9rMlZNa1p5cklVdE5Dc2lQTXlIS216N2h1aXkyclkwQkg3Q3c4eEtsZVpSbTFTWHFCaW80cERGMGd6TmFiWm5KMENjbGtRMkVHV0pTOUMyVEtlYWQ0NU11dUs3TFYzVlhQNi1vakJPa1RrQUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-39c31523",
+      "date": "2026-09-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdnRqSnFXVlUzd2J4UXNFRXZ1WWxMQ1JwOENLTVo1ZUEwU3JsNF8tY21YbWdEU0tCZ2Q5dGYzNEg5RjNlQXo5S2pEX2tEUDhoZ3lzWUFJLVh6MVRRd2hwWndnZEJkcUVwWEh4c3pkNTgyV2l3aGJDRTdYMk9GM2JPbEktNUoyRnNYNWJLdzljYnFoV0txU2Zld3gzT2stTDBiQ2lUSHJqNGVQbnpjSERiN1ZyM0RvamsxYzZzYno2dlAtLXpSODg3TWRUNDYtMl95NkdnYkdDamVFcVNSbGtLbVR0eWg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
