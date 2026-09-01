@@ -27455,6 +27455,130 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-456fb93f",
+      "date": "2026-08-31",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "A milestone in expanding access to AI",
+      "source_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2a1f0ae3",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Department of War Launches Starshield AI's Grok for Government on GenAI.mil - U.S. Department of War (.gov)",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWxnTVVjWFNDU1ZfWllpYUROQTU4SENleUFadjdmRnhwMVE0YUREQXR3R09EWEN5OUI1N2x0TDF2bjFyaGY3eWREZHlWbVFyRll3bFlYMUMtYlBDWHBUcjJEUERLNmt4dFZCQUNSN1dzcGdmejV5MHJmeTV4eHpTaEFmX3ppMnFUMHN0X2g3M3Z3aVBOTk1nY01pNGxYMXhaTWFwS1AxRVZZLUI4RHdnSEt2MU12UmY0ZjhwM2NEZzl4Vkk0UGctWFpOTHU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-81ff70ae",
+      "date": "2026-08-31",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Grok and ChatGPT join Gemini in Pentagon\u2019s enterprise genAI portal - defensescoop.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16UjRSUWU0dTZMbzg5a3Y5djU1d08teE55Wl9yM0N4ZjhacHFBS0thanQyTHZnN0lQVmNIWjFobV9hMS1xOE9ud0szbVVqazJwa0lIUzF4MVJrWFRMcjFRSU5OUlRIY1JyNXFkbEtrZkwyNDYxVEUw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d6ed8144",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk\u2019s Grok can basically control anything in your Tesla now - teslarati.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2RHRklxM0pBYWRXUXJaVDhGeVlMUkQ0RHdSdHVKdktoRmFJanJDZUJuWlZEWnlzS2hWOGZMVDljRk5XR2dzemZoSTY5ZnVid01EU1pWdElEZzBFellwX2toQ3JTYWVmMU1ZaEkxbHFZYWU0UTNoNkNybU5Kb1UxM2pTZGdUQW9yRHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4069afba",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI trained Grok on child sex abuse material, a new class action lawsuit alleges - Claim Depot",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT08wQW9rZ2Z0T0xxZDd4bzRGVWpvRkZxUHhqU3N0amhBYkpmVHJ3MmpiMy1xSDBLTnkzaXVzbVMyOG5KZmNFbVV3UmJITlVTVWRXYmgwTC1SdVdRUzVRMzV3TDlmOTlFZW1paFZ0djVmdkYybkF1Y2dBdXJQN0NmOUl2cUx4ZjFLTWxkNDhiMnh6UEJqclptVWRn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-785b2bb1",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Department of War adds Starshield AI\u2019s Grok to GenAI platform - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUllUmluaFprbFFYeU1KUEVGejRlQ1RuX3RIUWZ2SkllcWRGS0RtNXNuQTQ5a19tRVBxR2FfbndLM0otdE83TFMxdDd1UXlFbG85ZEZaYzR0MXNaM3FUT2Q4c0RqNVgtalZsOXJGU3RmOWxqelN0OXBMaEhNRHFwYVoyM0hZZjNmOG1YN2RFb0FiTnoydTdfMDBrckt4VUVvd1g4ZERwVDB4ZFA5NExmWGVsV3BKSDdFaEdoeFV1TQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-17ecc26f",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Department of War adds Starshield AI\u2019s Grok to GenAI platform By Investing.com - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3FMaGJ1ZHR4TUpFS2VScF9lemk5N1VpdEpZUlUxT3dOdE5Vc3dxMlhRM1JsYXJ1d0pUZUktd3VnN1J6Q3hqenEzb1p5bGc0M0lsTGJFSHc4RlI0REoyUnhfYnRjRWxKSV8yQTVBUUo5emFuelQ4TUFSUFhod0ZNdkd5ek0taFZsQjFKNzF5UXMyYUtVYVFVbXBUNktGWUtrbGVfRVllU1pGU0I3dXFQaUJvOWw4ZTJ0a3JKS1hR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
