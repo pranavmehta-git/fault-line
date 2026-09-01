@@ -27617,6 +27617,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-90b22675",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Grok and ChatGPT Join Gemini in Pentagon\u2019s Enterprise genAI Portal - realcleardefense.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZhMzFUTGFFNFlhMXR4TTRFNnN4bndHZWZJak14YlBCcjJVWGhTbGFId0hteE5sQmxOWFNFSklnSGU2cG8yUU5IWGtIbWpiU3YtNGcwbE9RNWYwOXh1Yy1MdjR3dlRrUk5JTXdsV3RQQnhwX2pKNmwzcEJmVXIxYy0yTzQ5MnZ2aWpoX3VWN2JqVnpWeUZiTDdSeWdHeHdsbEJLWXpPU2RUMnhIWHpuSkU3azQ3bTVKSEpBYWhCaw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05374078",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "U.S. Department of Defense Expands Military Generative AI to 3 Million Personnel, Adds ChatGPT and Grok - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hamEyZHduWlR3b3JZVHUwRldZSDBwaDZoWFRXazRJdmZLTS1ib3ctZFVIeWFKZVBMSWlQWURQN3k3YUs0WVJBV1RISWxIajJBWU9uSzVudVJqRTVqZDdTQWh3VWhJeVUwTFBlWnhtVUVVbHhsMlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
