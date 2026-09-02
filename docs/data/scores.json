@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T15:44:59Z",
+  "last_updated": "2026-09-02T20:21:42Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -171,8 +171,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.693,
-              "evidence": 2.257,
+              "intensity": 0.698,
+              "evidence": 2.315,
               "corroborating_sources": 9
             },
             "B2": {
@@ -283,7 +283,7 @@
           }
         }
       },
-      "events_count": 602,
+      "events_count": 607,
       "last_event_date": "2026-09-02",
       "top_drivers": [
         {
@@ -332,7 +332,7 @@
           }
         },
         "cloud": {
-          "score": 0.73,
+          "score": 0.78,
           "max": 2,
           "items_triggered": [
             "B1",
@@ -340,9 +340,9 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.552,
-              "evidence": 1.231,
-              "corroborating_sources": 4
+              "intensity": 0.605,
+              "evidence": 1.531,
+              "corroborating_sources": 5
             },
             "B2": {
               "intensity": 0.175,
@@ -450,20 +450,20 @@
           }
         }
       },
-      "events_count": 178,
-      "last_event_date": "2026-09-01",
+      "events_count": 179,
+      "last_event_date": "2026-09-02",
       "top_drivers": [
+        {
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.605,
+          "corroborating_sources": 5
+        },
         {
           "item": "G1",
           "dimension": "talent_governance",
           "intensity": 0.596,
           "corroborating_sources": 5
-        },
-        {
-          "item": "B1",
-          "dimension": "cloud",
-          "intensity": 0.552,
-          "corroborating_sources": 4
         },
         {
           "item": "F1",
@@ -616,8 +616,8 @@
           }
         }
       },
-      "events_count": 568,
-      "last_event_date": "2026-09-01",
+      "events_count": 570,
+      "last_event_date": "2026-09-02",
       "top_drivers": [
         {
           "item": "A1",
@@ -781,8 +781,8 @@
           }
         }
       },
-      "events_count": 101,
-      "last_event_date": "2026-08-26",
+      "events_count": 103,
+      "last_event_date": "2026-09-02",
       "top_drivers": [
         {
           "item": "G1",

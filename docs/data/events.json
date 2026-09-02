@@ -27976,6 +27976,188 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4550817f",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4b34696f",
+      "date": "2026-09-02",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-942a54dc",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8d9d243f",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-119e87d8",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "source_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f285cd70",
+      "date": "2026-09-02",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Proactive cyber defense for governments and enterprises",
+      "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a94759c2",
+      "date": "2026-09-02",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Coinbase Adds Former xAI CFO Anthony Armstrong to Board - The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjZhRnpiLU9GSHhlbzVGU0R4MG9hdmFzalN4MEd1Q3ZFT1p0c0I2c0tkSXBUY3NzM0YtdkJET1Q1endXYVVMcllKc0VwN2lGb3BwOUptdk5YY3lpMHhqSU16N2wzTnpBTzhQZWFUalZDTVkwNDU5NE1YNkhLWVhUdC1tOWQtUUZES21ILWhhTWItVldKSXFMVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-97a02e01",
+      "date": "2026-09-02",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Is Grok AI Safe? What to Know About Privacy & Safety - Private Internet Access",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03eHVCTUpKLVozYThfd3ZoYjZabVVKUXMwZ0oxU0pLNnc2S0dzWHhCUTFwRWdEazhOSGliU0ptVjZ2cWpNaUtVXzZHc0ptMTZrSFdsMUlaMHRQTEFfd2dhOWlWZFIwdW8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-676d19d9",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "U.S. War Department Expands Military AI Platform With Grok, ChatGPT - Defensemirror.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVJhbFZIbjdMQ1pnR01VYjBsNlFYOGFHNDZfYWtTZ3ZST2dvQWV5dUxxNDZxSjBxUkNyVTJXWDJjcFhYVVpCajQtTklzZXY1QXZIVmtxWlVvU0FoUHkxTDdZMXJobDdkS05pLThIQzdQVW13bWVvSjZjNE9vaDd3VTZaU004LVk4UmVKZVh3NEJKQ2FLV3doaVF1WVVWWUdDQUp5QUk5SQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-920a98c2",
+      "date": "2026-09-02",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor, and Grok - cybersecuritynews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZGxpUlAwU1hoME1HajhsaG1QRVU4NDNKN3VGWElDWWtFZVlrQWk5SXdFSENMbFJ4WDV4UVBrbGtvZEZnUjVEWjVmSkh2ZGVsX1Z0Sk1NMmNEQTFCdlJTWTdpQXgzNXA3VlHSAW9BVV95cUxPa01OSEFQMEtnNUhWd0xGb2ZUVU5tTEFOUlVQOW1JTEY3RVI5Q1lUMWQwaHpxVGxEVS0zNmhoOVBsdVZDTHJGNzVxS252RTB3ZHFaUjJONk51Qk1kb1RKSzdEVnlRQ2kwRndEdGloQ1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
