@@ -27601,6 +27601,24 @@
       "historical": false
     },
     {
+      "id": "evt-899334e8",
+      "date": "2026-08-31",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Department of War Launches Starshield AI's Grok for Government on GenAI.mil - U.S. Department of War (.gov)",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2tBZ3hOdXpDV0xhN1A4QzdiU2dlQjRDSW5TN0ZRY1IwMzN4MGdQTm1jQjRfREhrWVU3bnBQN0tjWHhSTkg5bjUydDhEeUs3VWxRdmZMU2ZZY3Y5UmhKX01KQUtXMG5qVVFvaUx3TkdpWG94b1Zwc2xXX0pwN1ljUWtTWGlhd1BmMUt4V1JoZnhMTl9qQVQtZWhsM0xBSVlERFVMQXFOVDJZbzdSVHhTNlppTUdINE9Kek9lYndBX2U5TDN0bElNa24zZmI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f5d8dce5",
       "date": "2026-09-01",
       "lab": "openai",
@@ -27897,6 +27915,24 @@
       "tags": [
         "nvidia"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9eba4cbb",
+      "date": "2026-09-02",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "War Department Adds ChatGPT and Grok to GenAI.mil Platform - The Ritz Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXN2dld6c1lLU0cwNkZQWGR4dGtFQTVvMjRxeERqRFhaLWl6dHdIYmhVSzF1MXRDMXpzd0NuNUFwZ2gySDlKTVZIbXRLX1lqYk9FWWZFTVVWT3dzX19sRkRXSXVhWEVxVDRpbUctaFA3RUlrclFmX0ZrNWNMUlZrMk92eHNMelRvMXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
