@@ -27757,6 +27757,149 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5849b7cb",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+      "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-058ccab1",
+      "date": "2026-09-01",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-971043a9",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-928ebdc1",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "source_url": "https://openai.com/index/gilbert-tobin",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ff26b9d3",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dd1768ce",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "War Department Launches Grok for Government And ChatGPT Mil on GenAI.mil - Homeland Security Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1h4TGhGQ19UVTgzSEZOaDV0XzJlVDBheEVTbDJQMmlRUFM4V25JQjNPcXRwaExleUFaOF9CaTFxUWhXcHhVNEZoZ05nMVFhWmQ4VVNzNUl0OXl0cnVWNzhQUURMNHhicGVzTUhrMUR1V1ZHSFpoN1JqV2VDTXVBV0dLelQ0TVQteGp1R0Y5a0sycWFZQ3hzSjl0R25tNmJzMVFqd1IxRlNCU1hrQ2hURzM3VloyaFAxMGNtZjk5QWFpUVhnbXAzUHpSRGxycHBTYUdkcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f67b86de",
+      "date": "2026-09-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "War Department Adds OpenAI, Starshield AI Tools to GenAI.mil - ExecutiveGov",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnQwcWJkdDY4LXdsSHpBNTlCUG9ZV1hUTEhLR0RVNE9LcEd4WC1lLUtUVnNyMEVtaFhYdmZYTmgzWEpEamdHMFc2ZFZfeGJEeE1fajJGdkRrOU1qby1RVjY1dkt1Wll3VW1Zb2NyZVZESm1SaEl4dEVUY2NyVXE0ZWJvbHA4NTctSHlVNGNjMGJ5ZDRuZXJLVUVzU1N0V212VGc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-48fedb9f",
+      "date": "2026-09-01",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Saudi Arabia powers ahead in AI race with XAI expansion and NVIDIA mega factory - Zawya",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGdRWE1WV25rZ1RaSUZ3NlVTMl9mUF9EakhCR0V0Q0dLeHJfRFpnREhMNWZyTXNKU2xRZnBPLWd0a01LaFpnVU9jaUl2U2FNb0drQzFCZklkQmlFZkpoZWF3R2pPUVpFT2NSdTlvcEozS3dTcnFQSEFlZHZQZzI4NTRGX1FDRTVTY1VVYUk3QU9wS2FhaXc1Yl9rTTVPbFI2X091VHJxaWN2TmtPU3h0OVpidC1aWFVsTGdoQlVqcnFhNkw3NEYzR2pzZXJUS2VrNncyMkxvTGc2TWpwaFNB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
