@@ -28158,6 +28158,169 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0409fafd",
+      "date": "2026-09-02",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Anthony Armstrong, former CFO at Elon Musk's xAI and X, joins Coinbase board - The Block",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzVoZUZjLXc3NmVMSHdYTE9reDY5dWhHTjROdGh4eGZTbjQzajhQLURhemZvTFZ6M29seXpGSU9RSGdXbk5JWGZGM0RoOGV5alo4a3ZqSFAtT25ObU5xczdLV2RKYi13bS1oMUxhMUhsY29vUGxNRmp6R0UzNTczbDh6TkY2RmwxZFpKVGRFVzBqdjZRaHZNa2dXQWFobGVEVkpLZkhGZHh6LWhLeGpnVzlORjVoLW5nY2dFQzBB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e73ac809",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9cbce575",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c4331bd",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
+      "source_url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f5f79ed8",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "source_url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9920d77e",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Several users report issues with ChatGPT, Claude and X's Grok on Downdetector | World News - Hindustan Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMjEyVzQtWTNMNDhvMlNNa0t3RGVxY1BxTjZhU2M2LU5UdE9fSTlEMkZZcmtpTXBSOVFPUkEwYi02azBmY1c5NTBMRjR4dTVyaTNXTVVpRDdicG1yblFtZUFjV1VWNm9JWHpKeHpkZ1dUWGR4NUdJNXBjSU9oSjlVV0dvTFA3alVXTV9nSG1lUTRlc05PM2wwbUNRWV8td1dvQWFVeFQ3NTZ3bzVkMG1TT0RpZWlYMUd1M2RZNXdIN1dsSkhFSmlrMnkwWnROMEdXR3dNUUNzbm5xSDZoWHM3V2FQNFZ4NzZmQlpmV1BNMURmNDF3a19takF4WGRMUUnSAYQCQVVfeXFMTzlXNWZBdHlaM29lSGFHME1KaFhRTzdlcGIyNG9KRjRseHhhelhmenNWdWlxYnZUNGYwQ2JicmZfRC1jWEJsRExMY01MTUhYZF9wWW1TajUyYWQyMTRROTJyck1GQkhnNmtIeWVIYVVISkpyUnNoaFRuN00wZlJuYTZMSllTcTNvRHpuTlRmZnFCZ2tvTUpvbnI0emE1cEZqeWpxRXpyMGVNSkZsTjRfNkhfSmZkWXk3aWY2eHl3YU83bUVUamlyeXk5RTNpakJCV1VHVTBKOUJ5TWU5VGpoRUF6c0Q1NlVoZVlDMFg5MGlwN1E3X0NtVHh5SzFkTHNoVjR6RmE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1957cc65",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Gemini Survived When ChatGPT, Claude, and Grok Collapsed: Azure Is at Fault - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1VwOUhFTW9mX0tfS0xocVBoSmREUE9JMkktdXF6bmZDVnE5c1VZRnZiSTktUjJ4SGJYWnBJSTM5Z29rR1FqeTRLRnRjSEdXaF9ER3o1RmI4djlzNC1laEFlYUpCZGVFX0tJcXQwTUhfV3NwbFBPN1BtYmtqTnlWS3NLb3VWTzZPTUZrMmZ1OG5HRzZxSXplSXFIQU1VY1owd1JRLXBIOHp1ZTBHWVljZU9nZ3JlSW1B?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "azure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1932fbf1",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "ChatGPT, Claude and Grok Suffer Same-Day Outages, Raising Cloud Infrastructure Stability Concerns - TradingKey",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmRBWllwTDNRRW5pMjJYYlVETXF1dlFBOU9ZWEp1OVBjcm9PcXBUN3VVclFrQ1RZbEl2UzRlc0w5ZFhmLURPbnlfeWZLcTZHalVVbmJfNzBUM2FDb3VzSjA3bm1pMVB4SFBnVzZaVlhkcjh4M3pyVUJNMVE1TFlBWDh3N05xS25xNXdlSzJoVDJhdFM5OWZ6bkt4N1lUNVIzdVBiSmQwQlJKZTBGV0FOZmhiSmQ5STl2MWl5QUZvUTJvVGdJMlVXQmRsSk1CMktrNlZOVjhLMlBCZUF0dEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e21b68b5",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "ChatGPT, Claude and Grok go down simultaneously; Microsoft Azure comes under scrutiny - Views Bangladesh",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazh3R1ZEZjJKS01zUkt2SkFLbFFCT0gwTE5hQnBNN1ZDRno3OTNEcHdYMWJrZS1oMEhrb3hQQkN1cTY3Q2d1YXVrNUhldng0YUlEcmpfVzR3OUoxY2dFTTRyeTB1cEE2Q0w2Yi1lWTllWVRXdDc3RzdxNGVneTNEeGxvMU9ONDN4N2Y1eDhTS1lMT1FsYkRSZEVHUEljLTZ3MnVUX2plcThNaVFrVldPeThB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "azure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
