@@ -28321,6 +28321,56 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-84e63f02",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Safety overview: GPT-6 Astra",
+      "source_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-26af6845",
+      "date": "2026-09-03",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI Apologizes For Outage That Affected Grok And Other 'Compute Partners' - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0c3bkZuVkRyRDJOcHg2NHM4WDFNWmlqNUdKZ0w0R0hyX1Y4WlNxZm5aMFlqaWluUF8tMXdlZ1NFNVl2WnExV0hoUG05eS1jdWdET3NnRDJKZ21UYm1FWkFfSzhEY0w0aE9aM0ZJLVpWTVZvenJuM2FUcWpaa0pXeFpvMHNDS2NRSDE1NHZ2NVpwWjdZSHRvWk54TlBVNW55QVBDRmtFcTVfNVgxYURn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-029d6537",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan - Computerworld",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXU0dGR4VkpnaTlxMExJNXQ4NUlmYkpkMmRIU2l1N2xSMHUwRTRic3pUSkpPaDVWOUJNaHY2bUlUOEpZbGZUU01nTFBONTh2em1tQnFiLVJYS0J5YWNKb2Z1d0l4UGhxUjZfOFAxY3k5LWpTMlBQYjhkSlFxR0dNVDhyeW5iUEpwa2lSUVY0dzJRZkFtbWdSNlgtQ0ZCZjFfZ3ZTdWhTWkpLU2ZrWWxSVzVnMms5Nm8tOGpZSTVsVV80NEl5ZUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
