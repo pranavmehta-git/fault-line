@@ -28461,6 +28461,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-94375c97",
+      "date": "2026-09-04",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "AGI is whatever you want it to be",
+      "source_url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d6bf71f9",
+      "date": "2026-09-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Judge rejects Musk-owned SpaceXAI\u2019s bid to block deepfake ban - Politico",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnlJdWd0VDhPY0VLWW1ZMVNGdHBHbmhQN2NfejhPUGZZNHBmYzlTVDFnVGdUQTJHS1FTSlFDMDNGbnJ2NlVnWEFmUHU1SXZNR0FtOHNFaWJRdGZubF9mTHZOdFdMTGttM2szd1ozLWhSSFZ5NHpONTZCazM0LTRWa3pnX2JSdm1FN2hhUGI1WFNPaVpMc3M0ZHFaS0xlcGUxYl9YSGJudHo5cEozNEVz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-610b7e1a",
+      "date": "2026-09-04",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Coinbase Global (COIN) Adds Former X And xAI CFO To Its Board - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0hDTTRDblpsNi1UMUs3N3VrTGI1WXJfNE9yZEFXSXJjdFJCanpKQklEdFBQSC0tSzlRQmRkSmN5UVZQQXNkNjk3cTFEZ3lmRVhMRkY0SkJRMUthR05WbG0wSlJYeFd1UzY4bml1dC1JNVdhajBlbUJmWmxFNzUyWEVJZlc3MWdQUGZpWXBQMWR5TFZtQUFoRW9GZVQzdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
