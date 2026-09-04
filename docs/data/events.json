@@ -28387,6 +28387,80 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8bd98422",
+      "date": "2026-09-04",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+      "source_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a92438bc",
+      "date": "2026-09-04",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0ffbf6bd",
+      "date": "2026-09-04",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Azure failure likely brought down ChatGPT, Claude and Grok - Computing UK",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWwzaDRJWmhoVmpIUTd3UWxBNFMwRml2cVlYMjZ3dmgyWFNmVlFfMDBkNGRTMmV1U0U0aml6bkdyMWpiNHhGWE1XaFBOeVFUcGQwQTFPd2tKZHlsZnRQMDVYNmt5V0tZRzM0bHUtWGFXMUUzZ2RyRDlZdDUtTmtMdDVNSDBzYXdJQUVYLXplNDJ2cHdrbno0eGgtcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "azure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-81762ee2",
+      "date": "2026-09-04",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok AI's brutal 'Kenyan response' draws wild reactions on X - Citizen Digital",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXFFR0VTWThpaWNocVljYTA4NEs5LTNRM0RmcjMwbjlVV0MyS3ZaUVZWNlVrQW9fUVZGYml1bGdWeDdrcndUMGhTWlF6cU9tWmFmeXBXay1SYldKQ2x3R3l5Zzd3cjBuU1ROajZURmViOVVGQzk5bE1RQVN0SlVkMXFjMXBxWEp2Q19pcmJ6Ui1DVnFpUjFadTQtakw2Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "generated_at": "2026-09-04T10:18:10.750279Z",
+  "generated_at": "2026-09-04T15:32:55.072116Z",
   "half_life_days": 90,
   "event_horizon_days": 365,
   "snapshots": [
@@ -48,8 +48,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -102,8 +102,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -156,8 +156,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -210,8 +210,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -264,8 +264,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -318,8 +318,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -372,8 +372,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -426,8 +426,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -480,8 +480,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -534,8 +534,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -588,8 +588,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -642,8 +642,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -696,8 +696,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -750,8 +750,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -804,8 +804,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -858,8 +858,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -912,8 +912,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -966,8 +966,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1020,8 +1020,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1074,8 +1074,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1128,8 +1128,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1182,8 +1182,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1236,8 +1236,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1290,8 +1290,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1344,8 +1344,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1398,8 +1398,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1452,8 +1452,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1506,8 +1506,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1560,8 +1560,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1614,8 +1614,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1668,8 +1668,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1722,8 +1722,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1776,8 +1776,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1830,8 +1830,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1884,8 +1884,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1938,8 +1938,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -1992,8 +1992,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2046,8 +2046,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2143,8 +2143,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2240,8 +2240,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2337,8 +2337,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2434,8 +2434,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2531,8 +2531,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2628,8 +2628,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2725,8 +2725,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2822,8 +2822,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -2919,8 +2919,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3016,8 +3016,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3113,8 +3113,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3210,8 +3210,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3307,8 +3307,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3404,8 +3404,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3501,8 +3501,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3598,8 +3598,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3695,8 +3695,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3792,8 +3792,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3889,8 +3889,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -3986,8 +3986,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4083,8 +4083,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4180,8 +4180,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4277,8 +4277,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4372,8 +4372,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4417,8 +4417,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -4512,8 +4512,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4557,8 +4557,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -4652,8 +4652,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4697,8 +4697,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -4792,8 +4792,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4837,8 +4837,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -4932,8 +4932,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -4977,8 +4977,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5072,8 +5072,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5117,8 +5117,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5212,8 +5212,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5257,8 +5257,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5352,8 +5352,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5397,8 +5397,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5492,8 +5492,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5537,8 +5537,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5634,8 +5634,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -5679,8 +5679,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5776,8 +5776,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5821,8 +5821,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -5918,8 +5918,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -5963,8 +5963,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6060,8 +6060,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6105,8 +6105,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6202,8 +6202,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6247,8 +6247,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6344,8 +6344,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6389,8 +6389,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6486,8 +6486,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6531,8 +6531,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6628,8 +6628,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6673,8 +6673,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6770,8 +6770,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6815,8 +6815,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -6910,8 +6910,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -6955,8 +6955,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7050,8 +7050,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7095,8 +7095,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7190,8 +7190,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7235,8 +7235,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7330,8 +7330,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7375,8 +7375,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7470,8 +7470,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7515,8 +7515,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7610,8 +7610,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7655,8 +7655,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7750,8 +7750,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7795,8 +7795,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -7890,8 +7890,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -7935,8 +7935,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8032,8 +8032,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -8077,8 +8077,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8174,8 +8174,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -8219,8 +8219,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8316,8 +8316,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -8361,8 +8361,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8458,8 +8458,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -8503,8 +8503,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8600,8 +8600,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -8645,8 +8645,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8742,8 +8742,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -8787,8 +8787,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -8884,8 +8884,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -8929,8 +8929,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9026,8 +9026,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9071,8 +9071,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9168,8 +9168,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9213,8 +9213,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9310,8 +9310,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9355,8 +9355,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9450,8 +9450,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9495,8 +9495,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9590,8 +9590,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9635,8 +9635,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9730,8 +9730,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9775,8 +9775,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -9870,8 +9870,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -9915,8 +9915,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10010,8 +10010,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -10055,8 +10055,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10150,8 +10150,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -10195,8 +10195,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10290,8 +10290,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -10335,8 +10335,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10433,8 +10433,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -10478,8 +10478,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10576,8 +10576,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -10621,8 +10621,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10719,8 +10719,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -10764,8 +10764,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -10862,8 +10862,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -10907,8 +10907,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11005,8 +11005,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11050,8 +11050,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11148,8 +11148,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11193,8 +11193,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11291,8 +11291,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11336,8 +11336,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11434,8 +11434,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11479,8 +11479,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11577,8 +11577,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11622,8 +11622,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11720,8 +11720,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11765,8 +11765,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -11862,8 +11862,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -11907,8 +11907,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12004,8 +12004,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -12049,8 +12049,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12144,8 +12144,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -12189,8 +12189,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12284,8 +12284,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -12329,8 +12329,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12427,8 +12427,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -12472,8 +12472,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12570,8 +12570,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -12615,8 +12615,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12713,8 +12713,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -12758,8 +12758,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12856,8 +12856,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -12901,8 +12901,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -12999,8 +12999,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -13087,8 +13087,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -13185,8 +13185,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -13273,8 +13273,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -13371,8 +13371,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -13459,8 +13459,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -13557,8 +13557,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -13645,8 +13645,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -13743,8 +13743,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -13831,8 +13831,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -13929,8 +13929,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14017,8 +14017,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -14112,8 +14112,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14200,8 +14200,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -14295,8 +14295,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14383,8 +14383,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -14478,8 +14478,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14566,8 +14566,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -14661,8 +14661,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14749,8 +14749,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -14844,8 +14844,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -14932,8 +14932,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -15027,8 +15027,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -15117,8 +15117,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -15212,8 +15212,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -15302,8 +15302,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -15399,8 +15399,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -15489,8 +15489,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -15586,8 +15586,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -15676,8 +15676,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -15773,8 +15773,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -15863,8 +15863,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -15960,8 +15960,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -16050,8 +16050,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -16149,8 +16149,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -16239,8 +16239,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -16338,8 +16338,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -16428,8 +16428,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -16527,8 +16527,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -16617,8 +16617,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -16716,8 +16716,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -16804,8 +16804,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -16904,8 +16904,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -16992,8 +16992,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -17096,8 +17096,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -17186,8 +17186,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -17288,8 +17288,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -17378,8 +17378,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -17480,8 +17480,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -17570,8 +17570,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -17672,8 +17672,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -17767,8 +17767,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
         },
@@ -17870,8 +17870,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -17965,8 +17965,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -18068,8 +18068,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -18165,8 +18165,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
         },
@@ -18268,8 +18268,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -18365,8 +18365,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -18468,8 +18468,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -18567,8 +18567,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 2
         },
@@ -18668,8 +18668,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -18767,8 +18767,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -18811,7 +18811,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
@@ -18911,8 +18911,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -19008,8 +19008,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -19052,7 +19052,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -19155,8 +19155,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -19252,8 +19252,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
         },
@@ -19296,7 +19296,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -19399,8 +19399,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -19496,8 +19496,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -19540,7 +19540,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -19643,8 +19643,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -19738,8 +19738,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -19782,7 +19782,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -19885,8 +19885,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -19980,8 +19980,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 2
         },
@@ -20024,7 +20024,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -20126,8 +20126,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -20221,8 +20221,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 2
         },
@@ -20265,7 +20265,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -20367,8 +20367,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -20462,8 +20462,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -20506,7 +20506,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -20610,8 +20610,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 2
         },
@@ -20705,8 +20705,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -20749,7 +20749,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -20853,8 +20853,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -20948,8 +20948,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -20992,7 +20992,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -21096,8 +21096,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -21191,8 +21191,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -21235,7 +21235,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -21336,8 +21336,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -21431,8 +21431,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 3
         },
@@ -21478,7 +21478,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
@@ -21578,8 +21578,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -21673,8 +21673,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -21720,7 +21720,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
@@ -21822,8 +21822,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -21917,8 +21917,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -21966,7 +21966,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 2
@@ -22068,8 +22068,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -22163,8 +22163,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -22212,7 +22212,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -22314,8 +22314,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -22409,8 +22409,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -22458,7 +22458,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -22561,8 +22561,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 4
         },
@@ -22656,8 +22656,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -22705,7 +22705,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -22809,8 +22809,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -22904,8 +22904,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
         },
@@ -22955,7 +22955,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
@@ -23066,8 +23066,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -23163,8 +23163,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 2
         },
@@ -23214,7 +23214,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
@@ -23326,8 +23326,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -23423,8 +23423,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -23474,7 +23474,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
@@ -23586,8 +23586,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -23683,8 +23683,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 3
         },
@@ -23734,7 +23734,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
@@ -23846,8 +23846,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -23943,8 +23943,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -23993,7 +23993,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
@@ -24105,8 +24105,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -24202,8 +24202,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 3
         },
@@ -24252,7 +24252,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
@@ -24363,8 +24363,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -24460,8 +24460,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
         },
@@ -24510,7 +24510,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
@@ -24621,8 +24621,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -24718,8 +24718,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
         },
@@ -24766,7 +24766,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -24877,8 +24877,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -24969,8 +24969,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
         },
@@ -25017,7 +25017,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -25126,8 +25126,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 3
         },
@@ -25218,8 +25218,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -25266,7 +25266,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -25369,8 +25369,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -25461,8 +25461,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -25509,7 +25509,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 2
@@ -25611,8 +25611,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 2
         },
@@ -25701,8 +25701,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -25749,7 +25749,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 3
@@ -25853,8 +25853,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -25943,8 +25943,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -25991,7 +25991,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
@@ -26106,8 +26106,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -26204,8 +26204,8 @@
               "items_triggered": []
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -26252,7 +26252,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -26370,8 +26370,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -26479,8 +26479,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 4
         },
@@ -26532,7 +26532,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
@@ -26651,8 +26651,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -26766,8 +26766,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 5
         },
@@ -26821,7 +26821,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
@@ -26943,8 +26943,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -27062,8 +27062,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
         },
@@ -27117,7 +27117,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 4
@@ -27239,8 +27239,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 1
         },
@@ -27359,8 +27359,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
         },
@@ -27414,7 +27414,7 @@
               "items_triggered": []
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 5
@@ -27540,8 +27540,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -27662,8 +27662,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -27721,7 +27721,7 @@
               ]
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
@@ -27848,8 +27848,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 1
         },
@@ -27970,8 +27970,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 4
         },
@@ -28031,7 +28031,7 @@
               ]
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "worsening",
           "rank": 3
@@ -28158,8 +28158,8 @@
               ]
             }
           },
-          "events_count": 617,
-          "last_event_date": "2026-09-03",
+          "events_count": 619,
+          "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 1
         },
@@ -28280,8 +28280,8 @@
               ]
             }
           },
-          "events_count": 103,
-          "last_event_date": "2026-09-02",
+          "events_count": 104,
+          "last_event_date": "2026-09-04",
           "trend": "improving",
           "rank": 4
         },
@@ -28341,7 +28341,7 @@
               ]
             }
           },
-          "events_count": 573,
+          "events_count": 574,
           "last_event_date": "2026-09-04",
           "trend": "stable",
           "rank": 3
