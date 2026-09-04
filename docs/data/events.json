@@ -28371,6 +28371,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-994914d0",
+      "date": "2026-09-04",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI launches Grok Bot for enterprises with free trial By Investing.com - Investing.com Nigeria",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejZia3JwUUVjMTd3Yko2ekZySEZrNnVtLUpXdVd6RzZtY2pQc0pTU2dUcGp3N2Q1ZVRINFcxZFRwcHhMYkNBX253RXd5dFpKeGtCQktKQUFEb2V0SThvd0RFYmE3RWJFOWZjR3psem9DOEFNQm5GZDNWbkNHb0Z1WTd5bXRSdFE0RjFOZjZDTlNnbXNnd0JaNkRVMVkxSVh5LUtLWFF5eHhaYjA0OU1WU1U4XzB3cWltYUpJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
