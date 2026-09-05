@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-05T02:20:55Z",
+  "last_run": "2026-09-05T09:45:35Z",
   "run_status": "success",
   "sources_checked": [
     {
@@ -33,6 +33,12 @@
       "articles_found": 10
     },
     {
+      "name": "Nature News",
+      "url": "https://www.nature.com/nature.rss",
+      "status": "ok",
+      "articles_found": 75
+    },
+    {
       "name": "Science Magazine",
       "url": "https://www.science.org/rss/news_current.xml",
       "status": "ok",
@@ -63,13 +69,13 @@
       "articles_found": 99
     }
   ],
-  "events_processed": 1530,
-  "events_added": 2,
+  "events_processed": 1531,
+  "events_added": 1,
   "events_updated": 0,
   "scores_changed": [
     "openai",
     "anthropic"
   ],
-  "next_scheduled_run": "2026-09-05T06:00:00Z",
+  "next_scheduled_run": "2026-09-05T12:00:00Z",
   "pipeline_version": "1.0.0"
 }
