@@ -28389,6 +28389,22 @@
       "historical": false
     },
     {
+      "id": "evt-fa113409",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "ChatGPT, Claude, and Grok hit by simultaneous outages - datacenterdynamics.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxiV3BYWDI5eEdRbmNPQmV5NXpoT3RxYXc1RnpoODBfUWlLN2VaQ3NPTFFqSUtRRjMzVmswZTRQRXJDcjU3dXRHNzhacXIzMnhTajVuT013a1VkWk9MWlc4OW5IV2dwMi1RU2k3eENLZHVacExVdkhKVk1MaXlEX0RfRDdNS2dHRTBjTEloUUl0TnVVVnVlSVY1Yw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-994914d0",
       "date": "2026-09-04",
       "lab": "xai",
