@@ -28585,6 +28585,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d3c09b8b",
+      "date": "2026-09-06",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "DW News. . Elon Musk's AI chatbot Grok is facing lawsuits over alleged AI-generated child sexual abuse material. Now, a new lawsuit makes an even more serious claim. #dwdigital - facebook.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYVB3UVROMUw4cU53bnA2SXl5YnowYmZvdF9YVjhEamhITjA4Zl9mU1M5OFlzTFNtZmI0MTFwSnVmR2pjTVVydFotMi1wV0VQcHVpVVk1Y1VVcDFUaW9uYWdMTC13dmJ4dm9ITDUyNkFHVXppdTdMd05KQnJ2SGtOd3hwcTZHejFYTUVGZnQ3ai10d2lWOXpBN2JOdEZ3UDhHSjZGQWtpd1hvQ0NEZFZjYTVQS2RkZzhfWmhCS3h0cEczUHp2eGFxZ0hZa2NwQV83X2x0bzhCY2hYdlZnbkhoSkFB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
