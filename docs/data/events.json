@@ -28661,6 +28661,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b733bff2",
+      "date": "2026-09-07",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic AI \u2018formalizes\u2019 proof of Fermat\u2019s last theorem in just 11 days",
+      "source_url": "https://www.nature.com/articles/d41586-026-02822-9",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
