@@ -28405,6 +28405,26 @@
       "historical": false
     },
     {
+      "id": "evt-013d3487",
+      "date": "2026-09-03",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "ChatGPT, Claude, Grok Down 90 Min as Azure Fails [2026] - shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoVF9SdjFwTURUU3p6YlJUbDg0RHZ0akJJN2hLOFd3QVBqMTVFQ1N2QXA5ZllDRmNnMi0xSjJMYnFkblJDVHgtTXk3S0EtbFBJcGFXa0I1UUhOZVlhREpaSEJMTUJlOWZQd2VR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "azure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-994914d0",
       "date": "2026-09-04",
       "lab": "xai",
@@ -28622,6 +28642,22 @@
       "tags": [
         "aws"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-64d341ca",
+      "date": "2026-09-07",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Grok 4.5: $2/$6 Pricing Beats GPT-5 & Claude [2026] - shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hT091aVZEN2xLOVBOOVRRbmc4WHNfQnNjeTNjMGQ2NndmR2Q5RHRmaElNckp1Vi1vRFh1cjFhWkhXWE5pMDM4c0FNNW1SWGxXclBxOTV0c3AtX3R4LVdYNTVnbmpQOU0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
