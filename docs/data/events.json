@@ -28697,6 +28697,43 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c4fd99dd",
+      "date": "2026-09-08",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5ef39c93",
+      "date": "2026-09-08",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Funding grants for new research into AI and teen development",
+      "source_url": "https://openai.com/index/teen-development-research-grants",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
