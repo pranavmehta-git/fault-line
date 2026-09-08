@@ -28677,6 +28677,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a6a4826e",
+      "date": "2026-09-08",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Key facts: TSLA: EV slide; 12x valuation; Goldman Neutral $360; Grok 68% - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejAxSXI2R1dhaXVYZ2xsYnUwT3RfR3U2ZTJNWW5pajFoNmc1UnI2NW03TXJNNk0xdXgwZ3VWaGRvbVRpd2hKRnBMdUo0dldRdWRIY3EyWWNWNGpwZ09CMTNtbUpFRFlKTGhxYUZJX0RLVXpxOUxhenlDajIxRUVXTWxOQTNUSVBZamRXMVYxRHZiSk9MQ2JDTkp4eVAxY0VfLUdkdmRrV1R5b1o1WlJyeVdSaVhieFpsa3lxZ2ZNdWpvOXJSLXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
