@@ -28750,6 +28750,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-530b431d",
+      "date": "2026-09-09",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
