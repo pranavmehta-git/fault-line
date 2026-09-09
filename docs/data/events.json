@@ -28786,6 +28786,94 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-055739ee",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Superintelligence is coming. Should we let it?",
+      "source_url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d306a558",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "ControlAI\u2019s Connor Leahy on why superintelligence is \u2018not a weapon, it\u2019s an adversary\u2019",
+      "source_url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-81f051b6",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "source_url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1491a43b",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Paul Christiano joins OpenAI Foundation Board",
+      "source_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a24634a2",
+      "date": "2026-09-09",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Get ready for the game with new football features in Search",
+      "source_url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
