@@ -28927,6 +28927,24 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-de5a12c7",
+      "date": "2026-09-10",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "ChatGPT, Grok added to War Department\u2019s AI system options - forthoodsentinel.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0xkeWJHU0d3VXFRU3hpR3phVE9IT2VBcndqVzgyTE1qa0xnRF9GN3FDbE1fcVA4N3FHUGNZWF82NUZXLVNoUEVPdTN1RHlOVG11VURLbzFFMUlWS1RValAwV3ZHTFpRYmp5UlI5Z1N6WE9ZTmRsd21waGdyN3ZlcHZ1OUJnbWx4SEJ2SWtLVWg5dGQ3SXh1QXFfXzFMbkMyR2N1TFk5UmVVLWk4eFV3LTBMVjhhb3NJN2FVMjhSQVkzdGhIX1BKa0M4amUtTkpUWlk2eGFiTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
