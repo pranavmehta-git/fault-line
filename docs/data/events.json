@@ -28945,6 +28945,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-063073b1",
+      "date": "2026-09-10",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Now everyone can put data to work",
+      "source_url": "https://openai.com/index/put-data-to-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
