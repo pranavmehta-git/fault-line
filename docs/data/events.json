@@ -28874,6 +28874,59 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7b5b8ea1",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI adds a prominent AI doomer to its board of directors",
+      "source_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b6665b8",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "The AI policy window is open. We need to act.",
+      "source_url": "https://openai.com/index/ai-policy-window",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-74b16cc3",
+      "date": "2026-09-09",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "GPT-6 Astra: The next generation in intelligence for work",
+      "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
