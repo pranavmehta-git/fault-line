@@ -28983,6 +28983,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-791d449f",
+      "date": "2026-09-11",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "An Anthropic researcher\u2019s doomsday warning comes at a very interesting time",
+      "source_url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3c867f5c",
+      "date": "2026-09-11",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
