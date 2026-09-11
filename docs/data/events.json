@@ -28963,6 +28963,26 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-88ea839f",
+      "date": "2026-09-10",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "source_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
