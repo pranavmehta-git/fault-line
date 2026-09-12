@@ -29037,6 +29037,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bee4a72c",
+      "date": "2026-09-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Anthropic CEO outlines plan to slow AI development",
+      "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-68b1d83b",
+      "date": "2026-09-12",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
