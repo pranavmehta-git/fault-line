@@ -29019,6 +29019,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a9cd81b2",
+      "date": "2026-09-12",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "source_url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
