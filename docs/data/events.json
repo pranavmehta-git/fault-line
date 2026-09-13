@@ -29127,6 +29127,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-89bc851c",
+      "date": "2026-09-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Trump and Mike Johnson think the AI industry is overreacting",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e662a2e0",
+      "date": "2026-09-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins with AI wins' - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYmRocGlCNXNxRmlhcGNBbk0xcWxmdy03MFFyVDAxVmtUQVR0ZVNrM0plWWc3SktOZGxjSm12TzN4bGFsR2l1NGNOYjlvZGxvbnFWOTlVaWFpd0tNMHJDR3pSZEpJYm1IU0JnRFQ3UG05Q1g0NkpSQ2tmb0hLLWV3QklldnZjaDc2UU5XeVBSQ1YyRmFVMTRFMVRTM0c5S0Zyc1RlWVJ5TmR5VExHLVJKVlphVTJCSDVIVHN0bVNyOEliWWN5MmFRbkV4cEhpY0ozRVJIY01Ba0JHaTRuSFRrbHp3SQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
