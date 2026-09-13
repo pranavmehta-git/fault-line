@@ -29073,6 +29073,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1f939756",
+      "date": "2026-09-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-47584f5b",
+      "date": "2026-09-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f97a6c68",
+      "date": "2026-09-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Altman and Musk back Amodei: OpenAI and xAI CEOs call for a slowdown in AI development - voz.us",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmp2RXFkMlNmVW1LNGE3enVIRndzcU5wMEN0alMwekl0NUVCdlktdlJvLUhTQWx2UEw3ZVAwOWhKQ2N1S3k2MUFwd3pHUGdMeEdXQnM1U1VfVWRJbVNnT3M5YzRDd1ZWQ294YkJFaE9VbVlqTjN6cDFBeGZyS2dWaS14VmtSOTlnZUlQNDI3aVQzbXhGTUVoSlpXR0FMT0ZjNFI5V3dhRnBQWC02bVBxdUp6VktTYklQR0IwSnVObThfV1lyTzY5Wk1R?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
