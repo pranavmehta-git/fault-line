@@ -29181,6 +29181,162 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-141e3864",
+      "date": "2026-09-14",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+      "source_url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e488d4cf",
+      "date": "2026-09-14",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "AI agents blew the whistle on their cheating colleagues",
+      "source_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5ef13691",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Grok 5 Emerges As Musk\u2019s AGI Target While AI Safety Warnings Intensify - Yellow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBONUdUZWZ5WXMtOTJKLVJLU0hhLVV2a2pYemM0aUNScU40cmkyaEtHdktvdnhMM2dpbUhoMk5LNDRlLWJOX0tmY0hqemFmQ3V2VHBaM1dXS09nS2Rrdmtn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-875a8db1",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "NVIDIA and SpaceXAI Link Grok Expansion With Orbital Computing - The Futurum Group",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTRhN2pEdVoxTWdPeEtGNzRLQW5QWmF4eGY2OXdLWnRkcDVQd2ExX0g0bGhKRmVkMkFkM0ExY0lMaG5qTzBxRi10VEUwamFhVUJzWFFGY0ZXaWZ6dFM5X0V0VTJNdE1CRXcxSDhFRDlEeVRBSzZHTlJkcF84dHZKWjJVN1IxM3ctVjA2dkZFb1ZTLU13d2lfQ0V0N3ZLQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-370674b5",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Musk\u2019s xAI and X Corp. settle antitrust case against Apple - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbks5elVQZXBjd0RFeTh2aVdIbUFKV0Y1NW1kbG1XOFZaanJCU3RCTU8yRHhVZnJkYTh4X0tYRGo1VWpmbVpPeWNtOV8zT2dQRVF5VmVJSWVBcUNnRDVIOXNhTjI5UnlrWWo3S2VCMFNGM1NGQWVidzRhUzJ2UG1FMGZfRER0akdqR095NUhFZlVLN1psb3dobGN2V3p0c2QtWXV2czRhaU1qYWdhbUR3YVJFcFU4YWs2NEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-334f9b1d",
+      "date": "2026-09-14",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Musk's X and xAI Drop Antitrust Suit Against Apple, Keep Pressure on OpenAI - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHZ0NScm5aaW5OMm9LSWFFZUU3dnJDMVF1UVZLRGE2bTNTNXBXVTA2N3psTUZycGREajZWODZDdDFvOG5pdjJyYmhrLV9ubTZZZzVfUEhVeGJwSXBnOGdtbkg2SUxEb0M0bGl1OThMNi1kSnYtMHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9aa3a843",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Musk\u2019s xAI and X Corp. settle antitrust case against Apple By Investing.com - Investing.com Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW50X3lQclF6TTdiWnJxWUMwMTlQcldCaXgwVXRJM0wtMWVuMDc0dHFnTmZDM3hCd0xPU3VDRkU5RVVaQUtIYS1JdHR6R1dvRDFUUjVUQmltVmM4VWpEcGRsYzdJandXQkZ0WkYzaWxXc1ViWlN3Q05tamV1Z2Vac3N3cl84Q3pNUVpaZ0xjQzBaQ2xlSkpQaVVzTngxTzVqckRNa3dnN1A4Z0ViREhuUXgzc1NhbDRO?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-12e5a66f",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Musk\u2019s xAI and X Corp. settle antitrust case against Apple By Investing.com - Investing.com India",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXZmNVFCZkdDNXY3RHE2Uk90dVFyWW4xdnk4NTRPb1RGTkhkMlpqN2hqODA4aUNqbEgwU2JvdFVQMVc4RGlxcU92LWtOTUpieENVcnkyNDFrSHNEQ3E4UG5aYXhrMzVQdzc5cnFlbVAxLWJyX05yRUJES1BkR3dqNU9PaGNFRjZoa2cxNEk5bFNzM25oSTctX2lMMjVuUVRwOElJZ1o4QVJWZXU2QmhnZnROOXZMcmIx?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
