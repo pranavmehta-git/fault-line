@@ -29337,6 +29337,85 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-45d77e8d",
+      "date": "2026-09-14",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "The AI industry has taken a doomer turn. What now?",
+      "source_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e1b8021d",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's X Corp And SpaceXAI Just Moved To Dismiss Their Lawsuit Against Apple - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUxkMkZSRFpacXhTYVFTa0oxbmp0cWdZcm8xSk5fN1RuLUt1dTQtczN1RHFXd3FodlQ2aVZMZG9rbzh0NVR6UWQxS0R4djVaa2xNeXB2cEFsTU02YnlQY0FfTzRRNE1COVRGVncycGNaVWdmUHpVSXk2dW5UUnRvNUQyaC1DdFk1cGF4TV9MVk93M3pTNGx5dW1UZTNSMXVRbVNoNk1LT0hGbTdxQThmTnRwTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3b77d96e",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI and X Corp Drop Apple From Antitrust Lawsuit - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVVkxXzFsZDA1TnFKeWFGM0JVMno2SzlwVm9leXByQnpsa05mdjlsUnFYMFNQTGdzOFI3M0dFY1hBR01vUjFGSm9jSjBLdGFKN1RGNEFsZjRhQm9hQ01GN0JWOUwyRVBvc2JkdnhvdFpqeEtiVHZ5LXBCd3YzenR2Q0tCSkdhV3F3LXBZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c134f473",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk\u2019s X Corp and xAI Walk Away From Massive Apple Lawsuit - iPhone in Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1pyUVU1SHRUR0UwSHluYUJpYUJjR0VRX29KMTlkZER6ZkVuUnIzVXFPQWdmLUlzR3gzeWlXNUxpOW5FOUJsVUpYVFdnSXh1LWV6Uk9Qa283ZmZDT09aOVB6aDVadkYzZGVCTU9rSGZjRDlYSTd1MkMtcGpFdWRKVWxLaHlVRXJkQjZhbVpfcWhVekVIVnlLVkZfLURUM1p4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
