@@ -29163,6 +29163,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fee6e365",
+      "date": "2026-09-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "AI CEO Warns It Could Kill Everyone.! OpenAI, Anthropic, Google & xAI Suddenly Wants to Slow Down - OFFGRID Survival",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3BYdFRhNDMycFJwT1U4Vzl6bjBmS1ZwYXBWUkpvMmdlQ2szZGdhaTVpRmV3N1ozRkV0WUo4TmxRX1AyeW4wbWNyQzdoV0JuRUhyenR5NE5xUGFBZHRfWFNZaE84ZVFJeWZ5ZkU0LWU2NkVRbFN0dTFlcFFMTGtWZkJzT0NZc2p5Y2llY3VjemkzcXVzVDczZlFZSjMxc2o5MDR4R3Z4MllIVXF1b1dQZjF1UFFCWXNqM1l1cg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
