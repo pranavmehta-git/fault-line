@@ -29586,6 +29586,86 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2551b210",
+      "date": "2026-09-15",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Building AI to accelerate science and improve lives",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-067806de",
+      "date": "2026-09-15",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Lawsuit Could Have Massive First Amendment Implications - trillmag.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEVFZmNMTE9Ueko5V0FiMF8zSDJOWEZjUVM5bDQ3TmwzWGVYU1ExZHJjMlVpNWVvMkxQQXZoWnFJcUNjeHdnWEZsbGJfRjVCQ2lyYjJ2MzU2NUFyUGI0amtYUHNsaXJ4ZWdzalJBVVY4Nmo1dHd5MnY4cHl2NDc0eTN6QVlZdXZTZWpoNzBTeDVobVgteWhrLWNKdUV1dk1VR1dYT1R2M21kNkYzOENKNWVfaU0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-192e4c48",
+      "date": "2026-09-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk Makes Nice with Apple, Dismisses Antitrust Lawsuit: Not Ready to Make Nice With OpenAI Yet - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGkwMGFuZGZ2WGlKNjJGXzY0eHhnZHJTU1VMYlRwU0sxNUwtS1BKQVpRRl9tVlh3MlBsZ2JDY183dlp6d01aeGx4bE1EUnhqclp5OEtXcFJIVFowcEYxQXh6ckE5QzAyTzFTRHRic0lhUmlWXzg4MHlaS21ILXFzY1hVMWNVRHE0d2dsNE1pazBKaHFuandhY1AxQzAzZGNjS0xlVzlGUkdxOENKWE1QU29BUlNoLU05Z0puZ2FfM3d0elFsTHpiOE00VHhNeDVkVVVma0thTENOSE9TWVJSdTJwX1Rfbk5iVWRCTWt3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0f0ac30f",
+      "date": "2026-09-15",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Elon Musk Makes Nice with Apple, Dismisses Antitrust Lawsuit: Not Ready to Make Nice With OpenAI Yet - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmluVTdZVHd4Q2VDSDhacC0tVVdqUV9kZERZaWZ0czQtcDRVYThRV24wRGFndTd6NnRacTlsWmJtVDBHd0QtWnJaNzNlZ21CRHAwelRCeU96RFl0WTZyWEQ2VGJ2R01XZkRLU25UU0RnZVJPOGlOdXQ4Qzhfc1RPRFc5TndzSkFsMFZsVkRwSTJtSWR6djFyS0hrbzNxT3RUQzI5Rldwek9TeGFFNnkyckd0alpZbW5xRXkwVzFOTVFhWXJRVTY0Z1N3U0gyWWNYanQzZzBRMGtXYzZCVHk4bGZzNA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
