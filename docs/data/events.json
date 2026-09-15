@@ -29416,6 +29416,100 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-96cfec46",
+      "date": "2026-09-14",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dbc606ea",
+      "date": "2026-09-14",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1a84d0d6",
+      "date": "2026-09-14",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "What execs and politicians are saying about slowing down AI development",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-da8d2fca",
+      "date": "2026-09-14",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Trump responds to call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins AI wins' - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbjNZWW01d2R1TG9tN0l6eUdJcWlRbk1LUWMtcDNPc2FTWktjR3RiNm9raDZ1ckNpTjNUcUlvX1lxQkpYZWRheUlRZE5HSUlNRHJZam9DU3ZvVkZjUVFQZ3NvTjNLNVlUSXRUN1FlUURteUhhM0Y1c19BNVNTQkNSRGEwYUd4N0JDVkxudDlCcENCZWRvdGpfb0JsUG94aFR6UzNGMHBYaURjbVk4VldoYnBfQWVvdUdIeGVuN0NPSmw5S2lqLVZPR3E3cVpIWEl6VUVVcUdWMGs3TU9ldnF0TVFn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a71f23b5",
+      "date": "2026-09-14",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Musk\u2019s xAI and X Corp. settle antitrust case against Apple By Investing.com - Investing.com UK",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUgzWXE5UG1sUkk3OWhsRjNLODg5UjJKTWhRN1N1TXV4N29Kem5HRjZyOGlUVnRURjlVV05nZzBmTTBRZWpUempSQ1pWc01VQk9yeU5oUFpXamZ0WHQ2TWJUVDEwWF9LZ2xnSW8wR3Y0aTEzSTcxMUtyTGNKQ2dWR19IbmgzMmJVSW9YTVdDeHJIQUh1RlZCWUMtcDdJelZmOXJKdDdzUmdNakplR3JacVN1RXkwaEVl?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
