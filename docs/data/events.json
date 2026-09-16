@@ -29666,6 +29666,67 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a8b3aae3",
+      "date": "2026-09-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "source_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c131c932",
+      "date": "2026-09-16",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "A brief history of AI executives calling for regulation",
+      "source_url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ab5e5ef6",
+      "date": "2026-09-16",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "Ongoing Study Reveals Epistemological Flaws in Gemini and Grok as Risk Factors for AI Safety and Alignment - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMTIyd29yaF9WeGZsUUhlNHNaVmNQSlFHYWNBSFQzMEZGbUdvVXBsb3lTbE9pQ1pDTThuN0xma1UtcVp2ZlBEc0RUdFlMVnY4X3RLOWZIV196a0hUQ2tENklxaUM3eV8tczQzLXdzMXhiVzcwMXh6M1dUQUlrMXFOQXRDbDVWWXVpTjc3WENwQm10RlNIVnlSN19nTWYyejZqb1FJbk9wR2xfYS0wNy05RE1FeXp0UFlIUlhxNlJXaUNrN1FTMG9tWXF1ZnY2NG44WmUxQ25ldjQ3OENzbWxmUm56ZE8xaGpCSFZtMVB2M0p2VmNY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

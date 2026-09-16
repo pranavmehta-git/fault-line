@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T10:36:24Z",
+  "last_updated": "2026-09-16T15:53:27Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.1,
     "components": {
       "average_lab_fragility": {
-        "value": 0.278,
+        "value": 0.282,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -196,8 +196,8 @@
               "corroborating_sources": 4
             },
             "C2": {
-              "intensity": 0.704,
-              "evidence": 2.379,
+              "intensity": 0.709,
+              "evidence": 2.439,
               "corroborating_sources": 6
             }
           }
@@ -283,8 +283,8 @@
           }
         }
       },
-      "events_count": 655,
-      "last_event_date": "2026-09-15",
+      "events_count": 657,
+      "last_event_date": "2026-09-16",
       "top_drivers": [
         {
           "item": "G1",
@@ -301,7 +301,7 @@
         {
           "item": "C2",
           "dimension": "policy",
-          "intensity": 0.704,
+          "intensity": 0.709,
           "corroborating_sources": 6
         }
       ],
@@ -643,7 +643,7 @@
     },
     {
       "lab_id": "deepmind",
-      "total_score": 1.7,
+      "total_score": 1.9,
       "breakdown": {
         "compute_chips": {
           "score": 0.35,
@@ -665,16 +665,16 @@
           }
         },
         "cloud": {
-          "score": 0.16,
+          "score": 0.33,
           "max": 2,
           "items_triggered": [
             "B1"
           ],
           "items": {
             "B1": {
-              "intensity": 0.16,
-              "evidence": 0.191,
-              "corroborating_sources": 3
+              "intensity": 0.329,
+              "evidence": 0.491,
+              "corroborating_sources": 4
             },
             "B2": {
               "intensity": 0.0,
@@ -781,8 +781,8 @@
           }
         }
       },
-      "events_count": 107,
-      "last_event_date": "2026-09-15",
+      "events_count": 108,
+      "last_event_date": "2026-09-16",
       "top_drivers": [
         {
           "item": "G1",
