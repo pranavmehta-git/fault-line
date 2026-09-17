@@ -29782,6 +29782,83 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bda52b5d",
+      "date": "2026-09-17",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "source_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aec1fcf4",
+      "date": "2026-09-17",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "source_url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "regulation",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a644a0d6",
+      "date": "2026-09-17",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Inside the suddenly explosive world of AI safety",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4681b3d0",
+      "date": "2026-09-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Imagine just awarded $100k to a filmmaker for creating The Odyssey in AI \u2014 but critics liken it to \u2018eating a bowl of wet cardboard\u2019 - techradar.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORGhuMVkyWkMwTFg4enNPMWRxbk9KY2FuREF2aTdPeU1FM0pvcXF1RUdEZ2JITlZVOFFDOUx5WDJYZHFmT1ZGT3dyU25oS05nOUNRTm1DMHNscTI4empVdmI1eTdrUS1BUU1LckZxcGF2UmVCQUZzbmJuZm5aR1U4SUVjSll2M1BHVFlINVpGUjFQTk5la1VOQXRUNjN5SUF4eEFmWVdoZGtmTjRNZUdnd3IzUllLcnprX0d0MHZzV1FuX0lIQTdPSGp0ZHVGVDByV2xnUFVaZC1zaTNZNWl6ekdZZmpyWXlVNk5fUEFnMEVteERwbTVTTVoxR2xzTGE3RGlaakk5QVY4WVRNZllxWkZRZ1FaT0pJSTlpNmphSzFfeld2MDNJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
