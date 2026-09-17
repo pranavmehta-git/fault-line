@@ -29764,6 +29764,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fca1bbc2",
+      "date": "2026-09-17",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk Lives in an Airstream Trailer in Memphis to Personally Oversee xAI Supercomputer Expansion - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45V2d1eGhYWjA4ZTFrOXJRa3loVl9KOHdzcVNYbGM3UkFaX0FydGRhM3NjUUN6S1hjeU81em5qMlpPbjdPaERocTVIbENCcUt4Z2c4UDZKN2M3ZF9nd2RwTGtRNHJaSkxQNVV3OGdvRW8xRE9ZX1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
