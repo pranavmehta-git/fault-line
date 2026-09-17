@@ -29859,6 +29859,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f30bfdd6",
+      "date": "2026-09-17",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
+      "source_url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
