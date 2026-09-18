@@ -29929,6 +29929,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3a3f3a09",
+      "date": "2026-09-18",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "source_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0aaa2898",
+      "date": "2026-09-18",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "source_url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
