@@ -29879,6 +29879,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cf3b4600",
+      "date": "2026-09-17",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI Ships Three GrokBot Enterprise Products as Galaxy Day 3 Demonstrates Full Business Automation - forkast.news",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjgzWkJuVmNmYUw1OFNocDltaWNXVmxUX3JZNTZMaldFWm8ta1VNX090YWU5b0ZDSGNvLUNVb1RtTGFCZ19OWnNHNW5mQXVYeXhldzFiWHBvMDUtVklsTlk0VjhBLUtvSHk2OWw0ZHIwQTIzNDlvUllMUVlSWWVUQUdEcGpSbW16S1V5ZjVHc1N2eTBwbmdkV0doT2lLNjB2YjBFOFZGYXFOOGpRSUNib0hxX1JkU1ZnOTgw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
