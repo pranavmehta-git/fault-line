@@ -29967,6 +29967,48 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8faa86e8",
+      "date": "2026-09-18",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+      "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-870dfbc0",
+      "date": "2026-09-18",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
+      "source_url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
