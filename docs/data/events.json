@@ -29895,6 +29895,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f232da49",
+      "date": "2026-09-17",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX Weighs Buying Customer Data From Failed Startups to Feed Grok's Training Pipeline - finance.biggo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16U0dnY2lkM01ScVFUblpZRnd6eXVoZVpWR3k5TFRUb3AweFFLcVBKa240NXZrdk9QQlBYRjVobDNlNVhfMm9tdG9KaWFEdlR4RUlhUUxCeGRNODVqbmIzeGNFLTBoZ0tmQkpJb1YwMHY1RTRLbUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e42a9da8",
+      "date": "2026-09-18",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "source_url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source_name": "MIT Technology Review",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
