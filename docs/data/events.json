@@ -30047,6 +30047,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-08431d89",
+      "date": "2026-09-18",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Introducing the Australian Youth Safety Blueprint",
+      "source_url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-49f8bff4",
+      "date": "2026-09-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit Claims Grok Used Wyoming Woman's Photo To Make 7,000 AI Child Porn Pics - Cowboy State Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjBMMUJMd0dGMUo2YzBneHN0WEJCWmNFSmVNWVJmbXFJemRvcUMzX1FLcEFWZUFyVGtvbW90YVhPeXB1RDRXMGEzUEtCOWdNTTR4OG9BakNlaEF5a1ZXSXpfanZ6dXc1RGYwWl9zMGZUd0ROV2NTa3pTRVFCLWI5STdQeFhJM3NFOHpZQTBfUUZqWmFWRGt0aXVmNDVoN3hZS2duaFhVTEV6ZndyUW1yRERYaWc2T2l6MWZv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e699ba33",
+      "date": "2026-09-18",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Announces Commencement of Tender Offer - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjhBNFZsMHZJN3daTHNkc09nN2ZaT3JJdGpxcG9SUWJ1LW80NC1fRTZ3ZGdrZDEyX1BITmxkcDVtNXJOX3pxMmxfYlRoS09WTGVuY3ZfTFFINFRxeS1kNW9zYjNSdi0zMWx5Ymhab3FCN2lORjR1UUxaV1pLTEJ6UThZYTYyUlJLYXhnVU8yRVJONjF2YTRQT0M1VWZiRUZaTzFScWhIbDRXNEFxdjJOY2FHbjNLNW1ObGVJTmhFeGRNV1dHcTVvSkgyVGwwRnM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
