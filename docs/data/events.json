@@ -30103,6 +30103,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b882faeb",
+      "date": "2026-09-19",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "The AI regulation smackdown isn\u2019t over",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3889b3db",
+      "date": "2026-09-19",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Tesla's Grok AI Now Controls 116 Car Functions, but Only on the Right Chip - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmV6YU41eGV1S2NsWEhCd2ZpTWN5MTBORkF3R2pSb29uakY1dmhIOW93d0VmYkNTbXZaQnpMenRMNmJSX01IVjRnZHMyRkwtYmZOYWdaUVVObEhmXzMyWTAxeXhIOTNIX1JxQmYzSV9WZHVLUHVjUDFyc0xIdi1qVG03N09ORjZiaHJSaXZkYjhDTlpRYWY1a2VKbVh5Zm1qT1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
