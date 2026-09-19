@@ -30141,6 +30141,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b29e08c5",
+      "date": "2026-09-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US lawsuit accuses OpenAI, Google and rivals of slowing AI development - India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHRQZnNXZHh5YTF0RmhtQXZ4QXgwMWh6Y1RSRl95dWpyc2U5SzZzVFJzWlp1RGNGSlpVR1dYUlMwcmljUFRYZHpDWXRjaXA2Zi10Qm5aRGZ6ZVpIWk1sdnprNzlHMmN2LWpFYmVyRktxM0NBelREYjJTdW5fcjliSVgzekU0WjJCUnJQY1g4WkF0aVZOaHI1cjFxZkhaTGVBbmpwb0t3VW10N2xPb3RoRDJZNEpZLXFrSkJlVmtoS0wzX3JiRWFGXw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
