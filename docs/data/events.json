@@ -30009,6 +30009,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-facb1dd5",
+      "date": "2026-09-18",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Families dismiss 2 lawsuits against X.AI alleging child pornography creation - The Arkansas Democrat-Gazette",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSW1mektoZnc3ZnZIei1RZkprSTJvM1dvRUlBazFEQmlSejJDVmZLX1lycFF3SlBqODhHQ3g0ZUlhMy1iSTdQakVMem5MelhzRDM4WTFzTTB3cU5pN1JscGVsZjBHc3JrOWZZUGRyaDJyUy1uTWZzS24tMEFvYU1hVnZPS0hpZ2NsMUtKbWFLV1N6MEwzTUlIbHBrbHVpZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d72c01a6",
+      "date": "2026-09-18",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Announces Commencement of Tender Offer - GlobeNewswire",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3Nkb2pDN3lIMEo4blJmcncwRjBPMlRaQzNfNTZqcmZNNVhHaHhaeW5MN3IxTzJTc1U2R2hUUU1SMm1xYkpVYmcyRWUxTG1RbXNubTNrMXlwcVdIX2pGT2RfQVIyLUJWZjBGSTNiRW5CcG15UmNLdEhDRWlJUmRmMU9oNzRBUUxueVI2bVh1WkVUQ0NCSDN4RkdXTkJqRkJMczh4cnVnZWI4Nk45YThyQ2xUWmMzZF9Cbjh4WW1LTUxxWEcxSWFtaDZ1Zlprc1p4LUE4Yk12Q0czTFdxTnl2bUNZc3dYdGFF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
