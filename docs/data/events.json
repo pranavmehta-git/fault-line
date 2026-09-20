@@ -30161,6 +30161,65 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-99713726",
+      "date": "2026-09-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "ChatGPT, Claude, Gemini and Grok makers face antitrust lawsuit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0l4SlM1QkQ1UU5xM3RlRkpWSnFwNE1rWFEteGVocS1tcHd1b2Y0U1l6V2I3SE50cHBNSHhLMlhDUUJOZWprZW1fMEh4SlBfTUdTRzlMa25LYjh3d0ZONGFleEZ1ME5lSUt6WVU0dFdZc1RBak1zOURvcVVnckw0RHc5ZFdyTjBuMHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b8bb31d0",
+      "date": "2026-09-19",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "US lawsuit accuses OpenAI, Google and rivals of slowing AI development - India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHRQZnNXZHh5YTF0RmhtQXZ4QXgwMWh6Y1RSRl95dWpyc2U5SzZzVFJzWlp1RGNGSlpVR1dYUlMwcmljUFRYZHpDWXRjaXA2Zi10Qm5aRGZ6ZVpIWk1sdnprNzlHMmN2LWpFYmVyRktxM0NBelREYjJTdW5fcjliSVgzekU0WjJCUnJQY1g4WkF0aVZOaHI1cjFxZkhaTGVBbmpwb0t3VW10N2xPb3RoRDJZNEpZLXFrSkJlVmtoS0wzX3JiRWFGX9IBzgFBVV95cUxNQnBiYVJ5aWdoU1FBNGRNdkdxODFRTnVYdWFTZmRKQUFZS1RwZUpmdkh3Nk1YdVlYd1B2RnlRQ2V1TG1nT0dhUUpjcHFhMlhMVVhvTkdFdFZhcURWUGQ0WVduMXpOY09tZVdJNjdKeWlibHAwa0NzUm82UWFWd3BBOGFlel9mbTBRdGZ1dUFSY1ZETGFXQzFocUhEV0tYaHBBUUduUmIzTjJxUVNENkZjNFF4WE1STVJwQlpEbEJjZ09uZGhWTXJlT0hxekpRUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-02f6e91e",
+      "date": "2026-09-20",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "After agreeing with Anthropic CEO Dario Amodei on slowing pace of AI, Sam Altman and Elon Musk teased nex - timesofindia.indiatimes.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3ZiUXREYVRKNnBpa0JVaEZCay1laGRwbWd2TFJYaW83dDlDdTN3SnF0amhJZ0xJejBHeUx3TkU1SGs5S19acDdmbkhJelZnWUFaQzJxa29pdlI1bk4xM05lbTdDcGZQU3ZUY0ZsSk1Id3lSNXB0N0VDUjQwZUYzejY4b0Vta1BRd3RFSzRwZ2R3aUw1ZjBBVjYtZVdiNkFaRU1FZXlxSTJWTDY0cFBwdWdNSTUxNzlPeVk3ODU5d3lvNUZYT3J0aEdYQmg3QXFXZmt5ZUZpdVFOVU1xYVNYNVdMWEpMZTdrUEI0bmhKaHg4QkQ5OHVIZU9fM0FickktYll5OGYyWUl3RnRLaGFSQXRmYXZUZW9xUHREcXFlYkVycVhxRlNBcFpCemhXZXFHd3duaXNTRzcxUdIBvwJBVV95cUxNUjRMME11dUxDUWpwZjFLTkJ0UGNDanB4MzlCY25vbzRlSC1Hd1BWNjJqYjc1a3pUTGljN0g2YVZqU1BHcTgta19yUWdjQWxaeE9vTHloM0gxbS1lZFZTb0JkZkZUbzNUVUt1a1BHQnNXeUNwT2RyaERjV0RQNjUtYkIwd1FuTm9VUmYwd0s0RTBvdHJodHRTVnpvSHhrRnNFZVM5T0tTYnV5UkhuNTZib19EVWhlQmtfNUgtd0UyQkxPQXhFTXRBQy1QV0ZyNURjLVdJQXR0aGZYS2ZDZXhjb1Naa2daV2paS0J6eXM1VHJrYnE1NE1aSTh0bzJYZTJnOU5XTHlKWFpJRkNHSkpJODZtaldyQ3ViMlYxNlNkMGp5QmNWX2RIbXdsTnpoTHQ4UUxaSTlTai1lYno2amQw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
