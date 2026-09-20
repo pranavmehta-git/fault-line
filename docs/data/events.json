@@ -30105,6 +30105,24 @@
       "historical": false
     },
     {
+      "id": "evt-9d7edc94",
+      "date": "2026-09-18",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Launches Tender Offer for Up to 12.5% of Outstanding Common Shares - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWkVWWDV6MHBNclNHdHoyLXNZdTA5MUg5eF80X2ZXMGJnd1lSRHVqX2ZzQVBOdW5PQ0Y0RHk4T1pfVkw2X2dDQ2JFSjFub0UwYVViLThWNFF4NU5hSlV0ZjRoQTRCUVFpOGhpbEUwV0RObHp1UUIzTWJpMmd6aldDY1ZxWjlESDI4U3V5NW82WkJIbFBva1Z0YTJXRzR1WUR3Yjl3M3lKYkNTRG5NWWJuUk5CSzNudGlSUmVNYThZdkRaMERvcHBHZ25Gamx0ajRfdVN1NGxBT0VOc0I0TWJxMFZn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-b882faeb",
       "date": "2026-09-19",
       "lab": "anthropic",
@@ -30217,6 +30235,46 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e31b8a5",
+      "date": "2026-09-20",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "AI slowdown lawsuit targets ChatGPT, Claude, Grok and Gemini subscriptions - OpenTools",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalRDc3lJOVRwajgyOGhnY3FIUUNIbWx4UEYxbEJ5MzNDbnZpVjVUMHd0NmhEd0ZtVTRLTmJCXzEwYURyc1VNYktpMXJRTnhPRjF2eHQyQVNXNzI0bGQ4VFdUbWVFOS1odmQwTVVoZ2dlQmlhamRva25NNXQ0RlltTXdZSVd3ZEliNkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4720b542",
+      "date": "2026-09-20",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Sued for seeking \u2018safer AI\u2019: Lawsuit against Google, xAI, Anthropic, and OpenAI - The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
