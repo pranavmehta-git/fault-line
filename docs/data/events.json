@@ -30278,6 +30278,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-52bd73be",
+      "date": "2026-09-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Why Four Subscribers Are Suing Anthropic, OpenAI, Google and xAI Over an Alleged Pact to Slow AI Down - Latin Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlNFWjBESnMyOEVib0R2cURhMzdQNG1ZM3NTSTlPZFhtVzhrbzFEM1BUM3BCU2dpR1RtUWNUU0RtbUVTUXNjUEZyLXZCMWJDeHkwRmlaWDVGbzgyRzRwVEtDZGZIbWdZZ2tLbm9kblRPSFFvMGdJNTVQbmwzTzVldS00RlZ1NXBmbjI5d2JEamczWnlkVTFXLVVjUVVCRjROWDF3RUpSUUVpOVRFdXVMdm1NSlFhLVVfblpQVGFKa2M?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3530d326",
+      "date": "2026-09-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Four Subscribers Sue Anthropic, OpenAI, xAI and Google Over AI Slowdown Deal - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnlQT3RxcVNkOUg1R3VRMS01M0NRTkFFTlFVVDZWRGlyVXZ0OWZxaHR2ZEt0Wmc0LTkxVkZXODVIZld0QjV1bXR0NXVla2JId2VrWXRaS0t1ZGpwZUF6dERiSW9NM3Q2WXdoTHY1MXlhTzA0cnVhMWgxWFFhdXozaUhyY2M4eVYySDZRY2d3WGhyY2daM08tN293a0dGZldlZC1RQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
