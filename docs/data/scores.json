@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T17:35:29Z",
+  "last_updated": "2026-09-21T21:31:05Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -450,8 +450,8 @@
           }
         }
       },
-      "events_count": 198,
-      "last_event_date": "2026-09-19",
+      "events_count": 199,
+      "last_event_date": "2026-09-21",
       "top_drivers": [
         {
           "item": "G1",
@@ -499,15 +499,15 @@
           }
         },
         "cloud": {
-          "score": 0.52,
+          "score": 0.57,
           "max": 2,
           "items_triggered": [
             "B1"
           ],
           "items": {
             "B1": {
-              "intensity": 0.52,
-              "evidence": 1.083,
+              "intensity": 0.57,
+              "evidence": 1.325,
               "corroborating_sources": 4
             },
             "B2": {
@@ -531,8 +531,8 @@
               "corroborating_sources": 2
             },
             "C2": {
-              "intensity": 0.407,
-              "evidence": 0.687,
+              "intensity": 0.413,
+              "evidence": 0.703,
               "corroborating_sources": 3
             }
           }
@@ -616,9 +616,15 @@
           }
         }
       },
-      "events_count": 600,
+      "events_count": 607,
       "last_event_date": "2026-09-21",
       "top_drivers": [
+        {
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.57,
+          "corroborating_sources": 4
+        },
         {
           "item": "A1",
           "dimension": "compute_chips",
@@ -626,15 +632,9 @@
           "corroborating_sources": 3
         },
         {
-          "item": "B1",
-          "dimension": "cloud",
-          "intensity": 0.52,
-          "corroborating_sources": 4
-        },
-        {
           "item": "C2",
           "dimension": "policy",
-          "intensity": 0.407,
+          "intensity": 0.413,
           "corroborating_sources": 3
         }
       ],

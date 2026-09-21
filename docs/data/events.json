@@ -30367,6 +30367,150 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3fa32a66",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI\u2019s Grok 4.6 is now available in Amazon Bedrock - Amazon Web Services (AWS)",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHdPbU5wTkQ2X3ZxSUdFX1Z1dHMtTlA1OGhBTTJDYUg0OHFhY0JRSUxvZldPQnlYNEwyR1BOUkhTM01NOVh1dklFUXRZelVZOGVwX3BjWXVOWDc2Y2s2cjRKdGsyR0daYXA3TFVrZFRkdUtEX2h6eDhKZnkyZWpnRnY3NWs4eXhaRGhGLWt2TjhwUncyYjVKaTVENA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9e7e4647",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Former xAI Staffer Eyes $50 Million for Firm to Fight Deepfakes - Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXFYQXBoekh0aTJhd2NOc3N5TFFOenBmZFltYmtXWXRIMUx3VFhBZWxEV1hTWFlpNG9XTXB5MnpOVFlSQmlxbVViMlU0V25vSGpXQmNLcUNVVzZEeDhnNUZVd1FTS3FMejVqZ2p2NlVQblF6LVRvX3ZZWjJlLWQ4OUJna2pjMFUzR0NsOGVZN2xtd1p0TFZuMlFLMUFEMEN2dUJaM0pYRHdaWm42VF9ULTNMbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d1210cd9",
+      "date": "2026-09-21",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Grok 4.7 Brings Big Coding Upgrades to Challenge Claude AI at Unchanged Pricing - Android Headlines",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkg0bjNuVVJVZjV2Uzdqc3l4bFZ1ZXBoeE1TQVlVN3JEdldiX3JBczFHN2lDSzVEcTQ0eXNqUzdVRE5LZ2VocERTYVVWQUVTeHcxejQ3WWJ6ZUhzVXQ5bDNWUVV0SUFHc01Cc2RvX3RkZnRULTE0TlZybTJUUXUwYjVINXRiUWdzWUY2aENicDhHQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dc53c69c",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Former xAI Staffer Seeks $50 Million for Deepfake Defense Startup - PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1dwVHE3QXAtMWxkYU1Rb3I2M1IxbzBaU01VR2dDRVlDOVQ5RU5Bbi1tMjJFUjNnVVZERzRxNERlWWllUjBpa2xQMmhFVks5dWRoRW5xZ0hnaUR4NWVjdFU0YzYzQ1AxTFY5eWJaMl82anh0NUJzUHVZeDBMVjF2aEhUSUZwb1hhckhEVlQ2dk9mT3BKNWE1SExZVW0zczktcGpTd3Jtdm1oUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a556e5d6",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ Files Appeal in Effort to Join NAACP xAI Data Center Suit - Bloomberg Law News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaV9wSzI5RVpjZHlEeTUwZFpzQU9mSWJwV3c1ajk3cGVtLUwzeWZ1dXRxeTgzZUdwQVBYcFFJa1loRUx4QnN4R3FVbi1zM2NXVUxhR0VueUw4ZjNKMGpsaEtEQS1ibTdqWXJucDFXTDVTZ2dZODE1OU5yUW5feENzeTAweDlpWV94emJweEtfM2hZemdCSEloN3V0MDQ3U2N0VEdpNTBjUUF0WWtDTElJYlF1ZlU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f7ecbbf9",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.7 brings multi-hour coding and $2 input pricing - Neowin",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWZEWUw0ZUc1RmkwQ0xPOVFEUEp1OEV4b05fTGI1QVRuUERpT2ZYSmhCZDRiei1rWmNkeHN2OVRCNFlQbEtyQ2V5UklKOHA2Rnk2TFYwN1B3Zll2eC1hTEo3aW1vc2dYcDVjT09zczVWMl95eVFGUnNVN0dDc2FVci1oaTR5M2oy?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e88d80e0",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Former xAI staffer seeks $50M for deepfake-fighting startup Moir - Bloomberg - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY1BMd2ZGSVFjTnNDcmJoWTBCTV9OSnJQeHBxaVlyTkVYdFVtZmNDdldtdVE3ZzNTQ2I1bE95S0JuRkV4bDJWVlprRnlGNHphYUxwX0EwNEw1dHA1b3ZDSHlWZVVsT1E4Y0lTRlM0bUI1a0ktb1JUbGE5TjJBMzBfejVNc1ZKcUc3YUlVT3NNb0hLMmdZbEljdnlhdXk0c3F0X2d0SDRZaHR5LWcxa3JEMEczZnZ6cE02a2t5U1JxSnAxa00tSmhFQmM3clZqNVFZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-46759f5d",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "AWS: Xai\u2019s Grok 4.6 Is Now Available in Amazo - Moomoo",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0FaLXhPc2Jsdjh1UmxEVmtTR0xINzIzRjNxbjVKbENKLWhJS0pXN0lnUVBORVl5NVlTNFVFakdlYkdrN0ZqUUR4VXdIdnlXR1dtS2JNU2FhMC1WWVVnTnU3cks0SUJYbTV0ejVOOFEzWGU2WW9td1dUdzNEQTJHQTVnSGs0Q3df?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
