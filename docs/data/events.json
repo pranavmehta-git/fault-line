@@ -29913,6 +29913,24 @@
       "historical": false
     },
     {
+      "id": "evt-1c2e32fa",
+      "date": "2026-09-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Imagine just awarded $100k to a filmmaker for creating The Odyssey in AI \u2014 but critics liken it to \u2018eating a bowl of wet cardboard\u2019 - tech.yahoo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGVMcXY1dUt0WWt4SGpraVJjWUFPejFTUWhqMDl0VkQ3NDVGWlBuUjNuQks3TVI0LVVrTEprREhoUEtsQy1LakU2VE1rVHVCQVUxVHQwOFdhYi1PS3NRTVoyR0J1ZkpxN1BnVjdLdGF1LWZ6elUxcHFmZUtiSm5IR0dLcW9TeDh6NFNaNGpYWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-e42a9da8",
       "date": "2026-09-18",
       "lab": "openai",
@@ -30309,6 +30327,43 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f1c1e806",
+      "date": "2026-09-21",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Building standards for the next phase of AI",
+      "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "valuation",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5311be99",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX (SPCX) launches Grok 4.7, twice as fast and half the price of comparable models; is priced at USD 2 per million input tokens and USD 6 per million output tokens - Newsquawk",
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQT2dMNUZMRVVGd0lVODBmZkRRYXBVSm5tOHBxSjJhM3Bpbmh2bnlOdGtmZU11eXZVTmZPYm93eUlIQjlreHNLd2g4aDdUT2k5cndVSm1VeGs5T3F1Yzlhc3hoWUhGcWx3TWhoLUtpclRhcFR0QlczUTdBVU9jeU9JQzRHbV96QjJCMzZVOEkwaUh0eVhGRE1zd3p1YlRpTmdYeUpFYnkxWGFBY1pjSU9EV0lrVGphSVo4TFBIWDBYcVRnWm9Td0FKRDF0bFpPbFpFbjBLMFdOVUc1VFM3QlRnR2x5T29NanJyV0Z6Nzh1UFdQaE00T1QtdzZtTERVelhocjluZEJ2Y0NfQjF4c0NHbFh2c20wUmV4ZlhMdE5JdmRiSDQz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
