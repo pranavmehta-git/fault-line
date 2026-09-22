@@ -30511,6 +30511,76 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9d43699f",
+      "date": "2026-09-21",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok 4.7 pairs coding gains with the same affordable pricing \u2014 but high token consumption threatens real-world ROI - venturebeat.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeUZwSlRrRE9PZHp4QlUxemlQekZzelhmYm9Vd1h6VG1CSC1mSEpEUkdxUFdweF9BZTQ0amJIc290X2NfSWdoRWlsSVlOOEY3ZV94SGpKME5SeFhWZWt3VmNpRExhMlFUSlktSzRsdENpS1RFMXJWQmRGVW04cDhRZGljdlV5cVRaRG51Q3lqbnRZZ3lTSmtkU2QzZGZ6aU5SYk9iQzFKdEp1VWRhTV9JWHFiRHNDclVTcURVS2ZkNjBNU3EzREJvbDFKNjlzaHFmLTlYNFNsVjgtYWlNVmtnUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-38f64c9a",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades - SiliconANGLE",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdGWlRNQ0FEWHE0V1hUbjNfbm45cC1VX2NaTU03QkNSVWZpMmFJcE4xd2ZYS3Fkb1ctT2ZKN2s3WU8wcFdka3pJZndqajdwdERKV18wTnNkSjhDVkNCRFBVS1NYNnJaSFVPTDQ0MUkxMU94UVU1NnNQMU1vQUhLSnY3a2FVTE9KbGJXLWwwVDlYQVVGUGxuRDgwOF9OemotT0J5U1RkalBCdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-66fe84ff",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "SpaceXAI Launches Grok 4.7 With Improved Coding, Knowledge Work And AI Safety Capabilities - Pulse 2.0",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUQ3WHNxT3BkRG5mZWZpSEJpNUdtdDcxb1BMTFFiMXpfY3lPZExvUEZyVkV2cTR2V2l0OFhaMjVnVThwaHcwUndOeXFEZ25GdUhMQjBEWi1jamhjdVl5Rk1hcmZRUEgxT21SVnQ3a0hVaU5xUnFuNC1sQ3VqT3dyLVhkMGVxYUlib0cwemdnWjRKZHh2cGxkc0NVRjVZS08yaVA0UXBsR0ZIT0NkZmfSAbMBQVVfeXFMT3QwRU9jTzg5d1U4Rnk3a2N5U0Y2dWtuU3NYTXRKVDVHdTBiNXVLUFFHNFRUWFQ1a0ZUYmlKdW13Z29oX0pzZ3FDWDdvY0RPNGxwejRDMXhYWTlvTXQ1MHFFX3JmM2pISUwwZzU5b0RLYjlNcWhmWVVZU2otZXFfNUFEeXRIdEw5ZVZ6VGo3cUd3SHg3SE5hTzFESjNuZGVGcXk0QWVwYnpSMFJQVFl2YTVLRjQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ed3126b8",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX Unveils Groundbreaking Grok 4.7 AI: Industry-Shaking Aggressive Pricing Meets Disappointing Benchmark Performance - eu.36kr.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xSWUxaXFWdFhhRjA2SUxlZ3l6OTV6Mk05U3FRYnotTU43OVU2bHMzRm5PQV9QMDNnWmk5TUJmY2N3X05lZ3psLTktZ3FiTk9fVi1J?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
