@@ -30713,6 +30713,80 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-dd1531f7",
+      "date": "2026-09-22",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "partnership",
+        "funding",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b66a4803",
+      "date": "2026-09-22",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-13d5f156",
+      "date": "2026-09-22",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Priorities and principles for effective third party assessments",
+      "source_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ac9f9850",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "How SpaceXAI is using Grok Bot to scale customer support - xAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
