@@ -30529,6 +30529,26 @@
       "historical": false
     },
     {
+      "id": "evt-3a7c0d4e",
+      "date": "2026-09-21",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "California lawsuit accuses Google, OpenAI, Anthropic, and xAI of an unlawful AI slowdown pact - The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1N5bVY5MDBBbnlQTkh0bTJyTHJhc2NZbmFiRVVtek5YcGRfTnkzaFJfYjZTTnRKbkJxejNiakVaUmtqU0h4TGIxTUp4TGYyTFRVVGgzWlBtX1V4d1dFNGVkWXdPS1BNLVF4Q3J5dlVSUlBBY0pROVFFX3hGMmJlT1QzSDl4NVJFN3FmNnJOQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-38f64c9a",
       "date": "2026-09-22",
       "lab": "xai",
@@ -30576,6 +30596,38 @@
       "checklist_items_affected": [
         "D1"
       ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9e2ab53a",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Unveils Grok 4.7 With Faster Coding And Lower Pricing - Dataconomy",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OMUNqNDZRYkhtSFktRHFPRnFVWlUyRkV6RHhnV0FieG1yRlA3OVZhdmxvNGhRMkdCSjJsT192VnIyYW4tZGZ4WDMzb1F6emUtcUQ5eG9Tb2hCTnI0bklPMGpnS2VwT3QzcGp2bXhTbzQ5Y1lBTThXZHE2Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9a5dad56",
+      "date": "2026-09-22",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Grok 4.7 Pricing vs GPT-6 Astra, Claude Fable 5.1 - shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhVFZ2M005RWVFVE9uUS1BWDdERG5KUC1WdDg2RVZmNzYyMG1ZTmlabGJUalIxU3lUVE9ZQ0VralJrWUxRUzlaSmstU25yU3dOanpkajNJVUVDbHZ5VDlJaVplMUxCTlZDQ0s4WS1IR2xTSldFU2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
       "source_type": "news",
