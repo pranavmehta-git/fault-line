@@ -30549,6 +30549,26 @@
       "historical": false
     },
     {
+      "id": "evt-ee98cd26",
+      "date": "2026-09-21",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "California lawsuit accuses Google, OpenAI, Anthropic, and xAI of an unlawful AI slowdown pact - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEl6UmlXODkxLUU3NVh5MmY1bmRNT3JIckg5S2I0d3hCOWZWdGg2SExyTlVpV2RZeHdfLU5Ibk5TRnp6c250aE1QZ3ctQnNWVjVCQWljZEZ6eHpaRFZTVHd6ZTR5ZDB5MnlRVVRMRFI1TjhTVHZuOHJ0Uk5xcE54NUhsTXFGcWRmanA4Y2d1RWd3MHVXSzNJRnh2RHY4LXk4a0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-38f64c9a",
       "date": "2026-09-22",
       "lab": "xai",
@@ -30630,6 +30650,66 @@
       "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0ae95568",
+      "date": "2026-09-22",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia",
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5cf9c017",
+      "date": "2026-09-22",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+      "source_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-975f5af4",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI and Google alum Tina Oberoi seeks $50M for Moir to fight deepfake threat: Report - Tech Funding News",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1pWd2ZtbUE2VUVuRS1GZWdOM3JQa0tyUkl5ZVFFeFIyMmZ3VjJpbzZNRnJnYTdSenUxVUZHUDhoWjg2SDhyeW0yelN6V3VweVFMTGNHdjZReWpqampFa2REbnVXbTNfa3V6NnRzWFZwUVhFT2FMVXh2blZwWGxpUXg5OGdvMDBYLWRkdkJsUURSSkoybHluT2N0T1JRWENjMDVlUEUtRlpFM3Z0TnhYbQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
