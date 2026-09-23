@@ -30823,6 +30823,22 @@
       "historical": false
     },
     {
+      "id": "evt-bc39073b",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI launched Grok 4.7 with benchmark gains and $2 API input pricing - NeoTeo",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHp4aTJBQlE3Y3Mta1ZteGl3NU03TEJoM2tGUkNhNW5qRUw4STgzOGV3clJNVUVBT0xwbVdTa2JvdVdUVjA0LWZYd0V5OXJPb1ltUlhHUDdkUGFnS05ZX0lBcmpueFpnYW9hN1k0ZnRsbjdRRkl2RHpyNWlIOXVITk5wSDFwU3ViX1hSSGhnUzY2cjN1ZWc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-36c59eda",
       "date": "2026-09-23",
       "lab": "xai",
@@ -30836,6 +30852,42 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c1a88dda",
+      "date": "2026-09-23",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Grok 4.7 vs Claude: $2/$6 Pricing, Trails by 7pts [2026] - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BUHlaLTJxcllqNDdIX3REY1Z4cmRibDl1ellvemdhTGVUQjRGSzVLX1pmTk9jb2tFWmVQYXFXMzhLQ2xZWGppeXo3aFloYk9qYmFwdDY3TDZEQ3FXaU1WdFAxM3JLT1R3eGlBbHlXTXdzVTA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-00021e78",
+      "date": "2026-09-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Lawsuit Alleges CSAM in Grok Training - NeoTeo",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lWWh3QzNDWWlSalJNZXNlNTFQTmh3RTJkRjVXVzF4YUlPamMweGlRdG05UTZhd3Fwdzd5YldfbmgxZWVvMldGLWd6VGpGZVdkb3p3Z1R6dFZ1QUtONmVndGVhTndnRzNpT1huRFduSTRuRF8zcTZIc0xUYzBpQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
