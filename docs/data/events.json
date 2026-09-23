@@ -30891,6 +30891,59 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e154b2b3",
+      "date": "2026-09-23",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "source_url": "https://openai.com/index/ringg",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bfb0274f",
+      "date": "2026-09-23",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Google Beam expands with new regions, partners, and customers",
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source_name": "Google DeepMind Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1fe629d4",
+      "date": "2026-09-23",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI says SEC disclosures undermine xAI\u2019s antitrust lawsuit - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iQkduQjJvTW1teXFGOGNDQUFtTzliaGJhbTM2d0tnb0RUZUx0SGFLRVdwMDI4V2JSSDAwUFlDY1NjN0NPNEhpN3N4VkhSb1ZDTXdma210NzhVRl9PRF8wMkpXWHhneDhDZ3ZOZjlpMVBIVXNUWkVWLUI2Q1FWRWNJQnA3bExLVWZRS2laLTd5amxwSmV0TUxfWE9qT3ZZeldTdEdkY1hCRExLN1lQLVNZOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
