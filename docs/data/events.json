@@ -28425,6 +28425,22 @@
       "historical": false
     },
     {
+      "id": "evt-395da6bd",
+      "date": "2026-09-03",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot for Enterprise - xAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-994914d0",
       "date": "2026-09-04",
       "lab": "xai",
@@ -30782,6 +30798,42 @@
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cf152747",
+      "date": "2026-09-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI\u2019s Grok Bot growth hits 418,000 users as enterprise AI bet takes shape - The Cryptonomist",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSkpwR05RX1daM2xweGhXcVFzNldOV2dxV1pjbDdTcGJ5aFpWcmdTM2dtZmNJeTVCMTJBNTZ1OU5OTFp4bFhCejc4YU80eDc1Wl9kSFpvcGY3elZxSHliWHI4MkR1UHZlcV91d056YmQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-36c59eda",
+      "date": "2026-09-23",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot and Connectors in Tesla: 5 Details That Matter - BASENOR",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDJJcDYzTFhFN28zdUVRSk9LN21XYWNHNjZraW5jbVhnUzdqVDFMckNWUmpDLU9ybXNpM3kwNGJjdFBsbW5nWnJKSXZmcGFWcXREQ0llMzQ5cEZ1TnZMeDdLSzY2UlRPRTRIVnpEUHVZbVJ4cWlRRUlraHhWczd1WGFfVHpRWHM1VG9aTE8yQ2dIS0k?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
       "confidence": "low",
       "tags": [],
       "source_type": "news",
