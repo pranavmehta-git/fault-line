@@ -30944,6 +30944,63 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4720a666",
+      "date": "2026-09-23",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "source_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-140f3567",
+      "date": "2026-09-24",
+      "lab": "meta",
+      "dimension": "talent_governance",
+      "summary": "Everything new coming to Meta\u2019s AI agent Muse",
+      "source_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-14ac014c",
+      "date": "2026-09-24",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI says SEC disclosures undermine xAI's antitrust lawsuit - The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSUdGSDdRdkY0Xy1vVGlXanhHMlcwdzZzeVJGTFFNMC10VF9lM2xJdXZkdWx5TWEwVWtrdHY5NHU4dS1KVnhoMFJ4VzVxUnZpaURCZlBRbDlSYkVPclo4cmRycUoyLUViODJMWXl3WFNiQ0VLR3dOUlp6a0xlbTFJTWlZZHJmN3FIdXM1NXJlUXcycFgwQ1B3c1ZIQjdjQnBXY0VJczY5dTV5MXdoUEF0SGtDQVppM3h5aGphbzRKVGJmRGIxTDd6OGEzVU1IUUc5U1RUT1VocVdrLTFNbkxXZ2YxYk9aa3fSAeABQVVfeXFMUDBVRGVudDZwUWZKVmtSbDdPTVYyQmxYY21EY2F1LWN0dWVxZGZkVXdVWmFCTXhzQjRjQ2NnZFdOMkRzLXcybUtxeGdETXJXY0w2SEg2LXpfOWtyNDRzcmtieGJhOUtvWWhoYkpTbDBScVpVQVhVQ3ZiaUl1WGZMckxTSkRRcHRCMjFkWmpLRVlMUUpmSUR1M2hSX0t5UU0zeUxRa3VPLWtjTms1bERnMmJOcGQ3aGdyY1BsR2VQb0lMQ0k3QnZ0Y2VpbGVNbXNwaXAybDZTcmR0amtPdm5Nakw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust",
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
