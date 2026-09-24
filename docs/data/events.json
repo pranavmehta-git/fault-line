@@ -31038,6 +31038,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6f137292",
+      "date": "2026-09-24",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Musk Backs Anthropic CEO's AI Slowdown Call \u2014 What It Means For Tesla (NASDAQ: TSLA) And xAI - foreignpolicyjournal.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUNieWRyR0VrM3pSRW04c3NlYWpOTXpEYU5hVnZISWlwanJLd2dKZEVQOVRYQnpPbmRaSWFuR1RMMWtXOG9xZzNITDk0aXg4cXVueGdWeEx1ODFOVWg4ZWVlOEM5S1F6WTRla3RDVXNUOUFTd0JvRFR4OS1GQ253MlR3VW0tSlY3STJzeUtBbFBES2d3SUMtUnNLVXk4WTRQWTFiT0ROT1pkUHRMaDdvS21HX25ubjBMeXFQS3hXZUszallfSDM5U1RlWHgzYkVU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
