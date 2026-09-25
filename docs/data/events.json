@@ -31132,6 +31132,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2f3951c7",
+      "date": "2026-09-25",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "One company is at the center of a wave of rogue AI attacks",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a6a91fda",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Nashville attorney among representation in lawsuit involving Memphis xAI data center - Nashville Post",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQc3I2SlJDbGw2RzBSbDZZRERpTHVMUDdVZXJfS0V6V0N2Nkp0RzNsOVRMd2hLeGFuRW1FTGtVUDlPcUtZS1BIcDhhNnNtYUQ2THFESWlQX1IweGMtVUxHNEhjQ28tcEcyM2JnYXhTVlFhT29LYmpDX0VJc01WMU5LMVlTNXdmSUVRblBsbDMtWjJHdENkWUFJbV9CVVQtcWJnTzBwY0JxX2Q3QnBoQU9CMk9sanA3NjNzSkVvVHQ0VTh6RUpjUFRRYUg4MUg3R3pVLTU4NG5ab2V3ejk2TGRLQU1MV2w0QzdyLVMzLXB1X0pNSi1zY0hYUUFka2JCVWNjQW4w?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
