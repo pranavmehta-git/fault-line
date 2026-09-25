@@ -31072,6 +31072,66 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3947e308",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk eyes doubling xAI's Colossus 2 Nvidia AI chips by year-end (NVDA:NASDAQ) - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUG1zaVJiVXlremkyUFRpdXpMMnR0Qm4teUEycVY2YVdjNEkyME5qUTRqMXZkbWdzd29EX1hRT1E2VjJod1pobGVGUWdVZXh6eFdoT0k3VlRfOE1RLTlmdjA4RDNIM3FBZDg1ZVh5LXZiZE01SGxfaWRONzM0WERud2VuRGRKS1V3MFRzSWdnLVJaNkF4T2FqRVhTTUNXaEFZZ0dZVDRzSEc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b9f9353",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End - Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXBxTEhITGFuWVlDRnZwR091R2poVktlRXFWc19zQkJocmtoakN4WDVkaEpIR2pudThGSDVpYVNjYjN5azE3dHdMUWNnamwzcmVVNTh1RE41U3ZpZXBPVzhweWs1QWN5WFZvRTVtaFZhOGRSa1Y4MmIwX2pjcF9ZRUJTZVhfeVU3SnhOdWwzM0F6Zm5lOWJmZlZDZnpjU3A5ZEFwVE9zUFBxeEd5OUlnX0x1NA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d35bcaef",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX's xAI Unit Could Double Nvidia Chips at Colossus 2 by Year-End, Musk Says - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWNlc0lqQV9yUkJtOUlpMTc0YXdxZnlDSXpSbFdXWWV6QUk5d0JMRm0xcnlyeE1EOTNDMjM4RGFFTjBRa25JV2pMRVpoZG0wMURMdnVUeThmQ0hXWTdyZXdmQVJLRW9lZlpTdWwweDd5a0FTSHJRcTZSTjNFZDJJQUpTSFJONElQV21DSnl6Vm15SFFscnVuVDNJWmkybkQ5QkFSYTNLLVMwYngzUk11YXdRa0JNcloyVU9SOUxKRkRieFR2VTEzV2drZmI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
