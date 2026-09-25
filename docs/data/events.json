@@ -31170,6 +31170,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5e0081f1",
+      "date": "2026-09-25",
+      "lab": "anthropic",
+      "dimension": "cloud",
+      "summary": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cc42e83f",
+      "date": "2026-09-25",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI's research chief talks of \u2018cultural reset\u2019 after wild few weeks",
+      "source_url": "https://www.nature.com/articles/d41586-026-03028-9",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e5286c24",
+      "date": "2026-09-25",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "#FrontPageLIVE \ud83d\udd34 Google takes its AI chips to space, OpenAI's agent quietly breached an Australian government portal, and Elon Musk lifts the curtain on XAI's GPU buildout. Back home, Adani Group d...",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1VSQ0Zzdk84cU1YTTQ3Z0RXcDRUN0tBNWxLSlR0b09STDFyMGhpWUYyQ3hmSGNrU2FOWlR0S1JfV1QyLTlFMF81TmZTZ1ZWbDdwanhmMXZEckM4aFRaVFdnY2tGQlVFazN5a3dVNXpnWGV1ZS1HVXpKSVU3SWI1NUYwMnRacG1xTXYzQjdpWjVFOWZLRmlMNEYySF9OdVRRTWJ4c3o2Q0NGdU44N3FXYjE5cHEydFVjamYxcm92UHBLT2JadXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

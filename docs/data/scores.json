@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T16:15:55Z",
+  "last_updated": "2026-09-25T20:57:02Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,15 +17,15 @@
     }
   },
   "systemic": {
-    "index": 5.1,
+    "index": 5.2,
     "components": {
       "average_lab_fragility": {
-        "value": 0.282,
+        "value": 0.288,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.333,
+        "value": 0.367,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -37,9 +37,10 @@
           },
           "cloud": {
             "stressed_labs": [
+              "anthropic",
               "openai"
             ],
-            "breadth": 0.2
+            "breadth": 0.4
           },
           "policy": {
             "stressed_labs": [
@@ -140,10 +141,10 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.1,
+      "total_score": 5.2,
       "breakdown": {
         "compute_chips": {
-          "score": 0.81,
+          "score": 0.86,
           "max": 2,
           "items_triggered": [
             "A1",
@@ -151,9 +152,9 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.689,
-              "evidence": 2.22,
-              "corroborating_sources": 7
+              "intensity": 0.738,
+              "evidence": 2.82,
+              "corroborating_sources": 8
             },
             "A2": {
               "intensity": 0.119,
@@ -283,7 +284,7 @@
           }
         }
       },
-      "events_count": 682,
+      "events_count": 684,
       "last_event_date": "2026-09-25",
       "top_drivers": [
         {
@@ -293,15 +294,15 @@
           "corroborating_sources": 7
         },
         {
+          "item": "A1",
+          "dimension": "compute_chips",
+          "intensity": 0.738,
+          "corroborating_sources": 8
+        },
+        {
           "item": "C2",
           "dimension": "policy",
           "intensity": 0.718,
-          "corroborating_sources": 6
-        },
-        {
-          "item": "G2",
-          "dimension": "talent_governance",
-          "intensity": 0.716,
           "corroborating_sources": 6
         }
       ],
@@ -310,7 +311,7 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 3.6,
+      "total_score": 3.8,
       "breakdown": {
         "compute_chips": {
           "score": 0.52,
@@ -332,7 +333,7 @@
           }
         },
         "cloud": {
-          "score": 0.71,
+          "score": 0.94,
           "max": 2,
           "items_triggered": [
             "B1",
@@ -345,8 +346,8 @@
               "corroborating_sources": 5
             },
             "B2": {
-              "intensity": 0.151,
-              "evidence": 0.178,
+              "intensity": 0.375,
+              "evidence": 0.6,
               "corroborating_sources": 1
             }
           }
@@ -450,8 +451,8 @@
           }
         }
       },
-      "events_count": 205,
-      "last_event_date": "2026-09-24",
+      "events_count": 206,
+      "last_event_date": "2026-09-25",
       "top_drivers": [
         {
           "item": "G1",
