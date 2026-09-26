@@ -31246,6 +31246,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-141fa586",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Elon Musk Aims to Double Colossus 2\u2019s Nvidia Chips by Year-End - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTRKSjZ6ZmdMYzVXeDBTUHB5MFJzdk9nNTdMSDdRR3U5LU9waWFsb21oY1AtNHZVcG5sdkdMOFoxUERueEJwcG0tUl9SUmRwMnhhTkRXd2hDbGdtUFk3OEdqeE9hR25zcUF6QzNQTzNlWWxvblk0U04yYW15TVdNQUpHWmtNVjIzR3Rqb2RPaWVKSy1Fc3JDUXhn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
