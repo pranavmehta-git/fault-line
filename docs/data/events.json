@@ -31228,6 +31228,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6a2c775c",
+      "date": "2026-09-25",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "DOJ asks judge to pause SpaceXAI suit, appeal to be determined - Action News 5",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGR3ZGFuV1JFdUg2Z2tERnVfSXNmRWVyMDJ6RktiR1Zwb0NVa3c4ZHlPejVRRWJVbHNUdFpDZ21teDZ4OWVIT01pNTg2dHpzUFdaZDFPdi1LOEZ4elFwWlVqeFlXTFJ3SmVsSDA4S1ZsRDVUS3NPN1JNczJsZW11MHhIQXN1X2FZMktaZmtlYmtlSDN0OGpGbklKdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
