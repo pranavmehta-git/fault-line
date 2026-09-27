@@ -31266,6 +31266,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7f7a38d7",
+      "date": "2026-09-27",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
