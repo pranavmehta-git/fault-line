@@ -31284,6 +31284,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-98a5b88f",
+      "date": "2026-09-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT vs Claude vs Gemini vs Grok Pricing 2026 - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXl4MzFaMzFweWZSOGg0ODQ4LXIwNDBUdzJ3VFJ1OFFYd2xnWHkyZzZXQjBHYThsMEh3Qlp3cE0tU29iLU4tcDJpeG1VNmU4c2NKTzJTb0o2RUJJdlZDNkVQcHlwNC1iQ0o1NllBSGd3Z0xGUC0tczJ1Mi1OS2tfeUl1TnhUWjZ4SHVyOGpRODQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
