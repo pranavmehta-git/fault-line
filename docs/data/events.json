@@ -31318,6 +31318,27 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-05c3dca1",
+      "date": "2026-09-27",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk plans to more than double xAI's chips to over 1.2 million Nvidia GPUs by year-end - WION",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1ZSSUN1UkNKVzNMS2JNVy1qbWhPRkt5U3N4M2xGbVliVktDQmlxYmJadjR1RFdEUVR2OEVuSGlpV2poRnhBRFhMNXdETlJBQUxOd3FuMHh6Z1Z4dHpraUZXd3M0M1hucnBJWVJBSVNlSzJhLUtUa0k0cWVCOVZNaXU4RFZKQkxDaEJidl9rSk1NeUNxci1kaHBRcjE5anpFREZ1WkN0c3UwQ3lDbVpubzEyaUJQWFhEanlZXzZfQnI2VXNpV09Ob1pn0gHPAUFVX3lxTFAxVnRKT3o4WjZoYXdXdDNGVHA1N21fZWdYakZrY0IyblQ2T2ctbmFzQVY5SHdDR0FGVU9Obi1jcDg4dy1IY2xKd29TSTBjbC0wcXI5VnRXWmpjeVhCYU9lWVY3dk9JZnhhMmNIcU54V2FoU3J3Zk5veGNMTFNqTmk0ZWtrYjQzRTZBNUYwVW41YlBqdXR0UWtWTG8zQ05jVFgwSHZxLS0zV1RSYm04UlQ4UVdjNEFDbmVxZlpPcHdiR3BjNlQ0QVhwajNzTEZEQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "gpu",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
