@@ -31074,6 +31074,24 @@
       "historical": false
     },
     {
+      "id": "evt-d6c36693",
+      "date": "2026-09-24",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Leads Coinbase AI Trading With 59.5%. Here's What the Leaderboard Actually Measures - Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjEzU2tnOWpaYjE1WHFWMUVqRkR1dHFITFRFOXg4RHROUmdsRVMyYVpsUFByLVZVWFFGVFN6VFpKLVQ4R3hPZnRoNUd3eDVnNUdWM2dibUdTay1oTjh3bThjb3h4dzl5YXlqUXFQSG1QYmRfQ1hSaVJvTUV4cDhxUF9JaGhYYklYcEY1eWcyWVVISERFLUNuNHE3LUUtMktfcGxuQk9wVnN1VkU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-3947e308",
       "date": "2026-09-25",
       "lab": "xai",
@@ -31335,6 +31353,121 @@
       "tags": [
         "gpu",
         "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-73cdf7af",
+      "date": "2026-09-27",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s Dario Amodei gets the \u2018SNL\u2019 treatment",
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dbb4f62c",
+      "date": "2026-09-28",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1d17deb9",
+      "date": "2026-09-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Florida seeks a ban on ChatGPT acting like a person",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-53e1e303",
+      "date": "2026-09-28",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "source_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b1d4309",
+      "date": "2026-09-28",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation - CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVRaV1ZvZGVLN2Y3bG50TlZfTE14R1JfcXotZzRsR2FiZWFwaTJtUHNDbFhjbllzVzRFY3NHYXVmTGRmMVdWb3BfcTdJdzlSazVjQklmb0hQSmZEZVRqdm1tbTJxUURQc0JMZE4xUFFaN2tNZzRvMjQ3UnFPMVJYZkxmdElkMzNLN1ZuakJqX0VQNGdzNVF1TUNsX3hzZzhURUHSAacBQVVfeXFMUGlFS29DakNYYThBSEVpckxsWUtCN0RUX3VuaWdGa3JqOS14YU9wVEpSdjhBWTA3NzJGWFIyaUlQeS11UlRja0U2T0paSzVsZGJMRkE3NGotQi1XSmZ6Tm1nRlNMbkUydzYwalVaMHZkSHNDeExPQTRFOVk1Vl9pUEp4dWJUVDZSQnc2OURoMnVMVDNVdkNucUpSWEU1VnhGYk54UmxFWGM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-83aaa4b6",
+      "date": "2026-09-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "AWS Adds xAI\u2019s Grok 4.7 to Amazon Bedrock With 500K Context Window - Unite.AI",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmxXZXNxR1puamJWRnNybVRSMXZmTmhWTEd6ZEtEM0ZGc2lzNFlEc1FzVFd2QTFXMlh2LW5qcE9kTEpmNENEWm9jUE1HMmRfSnFWeUxVa19OcG1Pb2hfVDBTbWdJWHpZX3ZlejVOMkd4dXNialdVazIzd1dxUmZkNFBoNTNSTWZqclpZbzBZd3E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
       ],
       "source_type": "news",
       "auto_classified": true,
