@@ -31604,6 +31604,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-15730e8f",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d9db8eaf",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI DevDay 2026: The biggest news and announcements",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b3dacb34",
+      "date": "2026-09-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI offers to buy residents' homes in exchange for not joining class action lawsuit - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUVdPVC1STEtKa2V5dWdGNTFseEtMUlR2TU1acTRGb3VGdjZSR1AwYVZqclVoOG4xc2txcno4cjV2ZTVaLXRVUUgyaVF4aFhlSGw4T24zR2xzLVpWODY5eENQVW8yQUlFYUozbkJFd2JKa250UnI4em82TjJ1WTVDVzItYVE0MDVJd1NNaWkxUlpaeHF1UG9kZzFqcEVPbDlld1ZvcW4xYXJaRi1aOVFDd1lUX25jVWVyWXNiZ0w2YzRyazlZX3IwWUNXb2tTWTFGRU9tSVRvZjJRLWFKYzYtZjZHdlFoSFlSSzRBRXhkX3VSOEtsb2NUcDlR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
