@@ -31510,6 +31510,100 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-53639317",
+      "date": "2026-09-28",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Towards safety cases for frontier AI training",
+      "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-51905f61",
+      "date": "2026-09-29",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-40ecc1dc",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "source_url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-acd4c59b",
+      "date": "2026-09-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Failed by the police, Grok deepfake victims are seeking justice themselves - thebureauinvestigates.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNndSNmc5QmRtYnhFOWZSM2lzT1BjQVcxTlZBazJiX2x1akU2WE9RM19yd2NaZWczaDB1OVd5NHJXSTJLR1pzLWhKNWd3TVZ1SUpwT0djRENHUjhna2Y3aXBObmlZSzJBOGNyRzBCMTdmMzk5T2dMMUJpZlRWcl9HNzQyNjhHOVJ0SGdUcjZwRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4fc15ace",
+      "date": "2026-09-29",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok-Maker Can't Get Deepfake Suit Paused Or Transferred - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGgyelVtS3lSa1JoTnpaaV9IZ0dFYmQ1RTdiUktMQ0pqSGQ0UE9NQnNFQzNSbHd3MXozOVlYMF9CQ1RCWTMwNmM4MHpXQy1aUXpBUDVZdVBLajJoTEcwTEV4SFpacDBuejZsNDRhTE9VeXhsYzVSZFE0WTNIcDJaQ2d4ODJFcllrdTNaMmQwRXJFVWRkWTUtTWFLVXPSAVZBVV95cUxOTW9GN3lPZHFRNFFldHo0Y2ZPRmtrOG5TMzQ0WHBKQXdZRmRvalZEeE5ua3I1WlJUTDJTODR3emNPVXdETUJvbW0zUjBDWXBoaE0xSU9qUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
