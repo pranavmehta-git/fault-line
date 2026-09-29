@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:24:58Z",
+  "last_updated": "2026-09-29T21:43:31Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.2,
     "components": {
       "average_lab_fragility": {
-        "value": 0.286,
+        "value": 0.284,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -141,7 +141,7 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.1,
+      "total_score": 5.0,
       "breakdown": {
         "compute_chips": {
           "score": 0.85,
@@ -204,7 +204,7 @@
           }
         },
         "demand": {
-          "score": 1.12,
+          "score": 1.15,
           "max": 2,
           "items_triggered": [
             "D1",
@@ -217,8 +217,8 @@
               "corroborating_sources": 5
             },
             "D2": {
-              "intensity": 0.556,
-              "evidence": 1.254,
+              "intensity": 0.586,
+              "evidence": 1.413,
               "corroborating_sources": 6
             }
           }
@@ -244,7 +244,7 @@
           }
         },
         "talent_governance": {
-          "score": 1.46,
+          "score": 1.47,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -257,14 +257,14 @@
               "corroborating_sources": 7
             },
             "G2": {
-              "intensity": 0.709,
-              "evidence": 2.441,
+              "intensity": 0.722,
+              "evidence": 2.595,
               "corroborating_sources": 6
             }
           }
         },
         "resilience": {
-          "score": 0.45,
+          "score": 0.71,
           "max": 2,
           "items_triggered": [
             "E1",
@@ -272,8 +272,8 @@
           ],
           "items": {
             "E1": {
-              "intensity": 0.179,
-              "evidence": 0.219,
+              "intensity": 0.437,
+              "evidence": 0.776,
               "corroborating_sources": 2
             },
             "E2": {
@@ -284,7 +284,7 @@
           }
         }
       },
-      "events_count": 692,
+      "events_count": 698,
       "last_event_date": "2026-09-29",
       "top_drivers": [
         {
@@ -300,9 +300,9 @@
           "corroborating_sources": 8
         },
         {
-          "item": "C2",
-          "dimension": "policy",
-          "intensity": 0.716,
+          "item": "G2",
+          "dimension": "talent_governance",
+          "intensity": 0.722,
           "corroborating_sources": 6
         }
       ],

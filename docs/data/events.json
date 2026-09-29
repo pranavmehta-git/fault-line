@@ -31660,6 +31660,119 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-4bd2ed76",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "resilience",
+      "summary": "OpenAI\u2019s latest features take direct aim at the app store model",
+      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bf128a77",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-02ba13b3",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a24ff1fc",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-35f72888",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "source_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2a23c2c2",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Introducing GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
