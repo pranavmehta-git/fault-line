@@ -31815,6 +31815,22 @@
       "historical": false
     },
     {
+      "id": "evt-6e7a710c",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI Dot vs. Grok Bot vs. Meta Muse: Pricing, Specs, Benchmarks and the Evidence - Kingy AI",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tYTdVMW9LUXlrRkU1SU0wOVBQLTNSYm5ZWnJHaDU2N3ViTDdYWWJrU0tUWWluenpvejZ2OFhydkdlTFBWVXljZTBuSTdBTHcteWNnV25FX1J4QjJBVGd0NmVNMlhBOGN6dUE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-bb4d9eef",
       "date": "2026-09-30",
       "lab": "openai",
@@ -31884,6 +31900,54 @@
       "tags": [
         "nvidia"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8cc6ba64",
+      "date": "2026-09-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7e289c29",
+      "date": "2026-09-30",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk\u2019s SpaceXAI Considers Overhaul of Pricing for Grok, X Users - Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3RsSVpRZDdQRzdJMDd5Z1ZfeUxXNHhHZHBoeFVYUUdjc2hSX25KN1pDdlZJNHIzTmRpZFV4WTBoQkdNNXJxSnlfOVl3VWkzU0psc181VFlkTGNVazNMZVBUSjM2aHJ2VFl2emlodUhSOEJSME82MzNaTlZnalNFa1pBU2tjaGlLR0RXaEJSUGxsUmdxRTIzMDR6d2d3UEdxTnRuUDJXUndnV3RQZk9NN2pSSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c34e91f6",
+      "date": "2026-09-30",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Elon Musk's SpaceXAI Considers Overhaul Of Pricing For Grok, X Users - Bloomberg News - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSTJ5MVVLYW9uNlVmSFVtQWtxYUxnUEluNlBzVmFaZ0NqY0ZpNVd6S2IzaTZsNUh4cTQ1OERpRWVTejk1OGRVQ0pQR19FWU1oRDFCamZTM1RlelUwMzU0cmx0WXZyMVpGeElmWl9uLXhsNTd5M1BXdmFvVV9IM2xubFNGN3FSazJnY0Q5Y3pRdVMyNnFCeTlpejdIQUsyNjlhZ09WTW1LSFZuS1VsLU5uNWlHRjFtNnE2MjJPWnMzRUY0U0tsRURnLWc4RTF6NlRBVHRHR0k3ejMzSWEyajlqUlNhR3dkVDQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
