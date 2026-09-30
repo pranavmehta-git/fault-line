@@ -31773,6 +31773,64 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1759a4db",
+      "date": "2026-09-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-af464bd2",
+      "date": "2026-09-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Southaven residents react to SpaceXAI offering to buy homes in exchange for not joining class action lawsuit - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ2hHaHlmUk14YWtFWXpiUm5nZkdPalBXWTFoZnQzdzJjc3VIeVVkLURpbFoydk9ZdHZhZ1ZwYU42cFo5SF9mc1FpMnIyWjZmVWhSeHBsbmlGX3d3bEQtdjRQTmRpUDNfMGdtMEh1YUJuMHMtcGhvWUhscUZ2U2NNNWZUTUFZSFJmcmRaNXROOHhKREY2OXpEcnpaeFJrRldNdTFVMTFYcGhaeUlPVF9rR0FFVTJSQnhRX0g3a2lqMWNNaGVBb2hYY0lqcTNveFp5ZXB0b19DTWVDaHcta3N6UlEwWGw1QUNjRWZ3T2VRNG1nN1RoMHNjampDaUw3Tkk2Sm1JbWN0MHI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bb4d9eef",
+      "date": "2026-09-30",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
