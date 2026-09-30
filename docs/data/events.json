@@ -31831,6 +31831,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e13003bb",
+      "date": "2026-09-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b3e35626",
+      "date": "2026-09-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3k5ZWFxWHZkQ05GdFhnMktDd0x6dy0zNWhveWdiUXdleFVjbGdVQVV3NGoyZnJ0N000bm9MY0kyOTdBVEhzSklXVzhIdkNWZHdTX1BUeWVwdW9KalRYYlhna0hHaDE1Uy14cDYzUkZwSUl1VGdYVzg3TFNObk5aaTkyeG9WVmdycFRLVkdzRzNKd3ZLT1ZnaVEwbGxEMFlf?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3c0b3ca4",
+      "date": "2026-09-30",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSm1FZGR0Q2pTc3daZk1MNlBhNEF3bnFzSlppU05rbmZ2S0U0aWRwVDUzbENwOXBaYTNjUFZHWVJmOUI2RjEyOXRUWmp6a3h0VUhYSjBVSVNvTlMxb2tOMWd2ZFJ3RDJyT1JkMklzeUNHZGtIZHpnMDc1ZUE1Q082OHhaSmFnS3B2U2ozRzFhSWZ3TnRKUU1rU0M1eVZmakFGZzVkdEpZWDVqLVBKVE81Qmdjb3hVTDRqOWFWcjBzaUUtcGRSaWROLVFFS1RhekhyTWFqVmJHN2FJa2lxYlZheg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
