@@ -32047,6 +32047,38 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3cf48bc3",
+      "date": "2026-09-30",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI considers four-tier pricing model for Grok and X users - Bloomberg - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVprRHNKeGY1dW5PYzd3MnA0c3NJNGJadXFWamJVd01PLTZrOENjWWM4NHktNVRpYndYQ0U1Zms1NmZycUh1OUgzbGxMLW1ZNDRYdHduWFpwVHpOdWF6TnlyalRJVXNNSzNRZ3hCTlVBdklkLUtQSk1GVW8yTFdiU3JmTlZqRGltZ25NeTlLcWhlMVA3OFg2NzBiZXJ0TkQ5TXNIVTMxQmxLdzk0OGNvRjVPcHZVZXcwZkhzT3A4TjlydzVlcWNZQVVR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-086b1cc6",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk\u2019s SpaceXAI considers overhaul of pricing for Grok, X users - thestar.com.my",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzlCbW1zRERuU2ZBdWlnSHR1WGM2dnI4R3Nlb3d4dVI4dC04d0NpVjAyZnN6LXVjR1liODNRNHFsQ1ZQbFN3TF84RDRralVmZGFGWGw4dTVZYXA3WmJvS2x4T1Y4YnBncndxbk82WkczZmZkVG55X2hNTXc0MGhEbjBNUkdOaE40T0d4ZkJscGJna1hscWNvU3BJTndxZHZSNC1wVzZwcVV6UFlWdkNsQkZRZkY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
