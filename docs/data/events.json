@@ -32079,6 +32079,146 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c2cee524",
+      "date": "2026-10-01",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-66229db0",
+      "date": "2026-10-01",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-350d1104",
+      "date": "2026-10-01",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Albertsons Companies is reimagining retail from the inside out",
+      "source_url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c3b3df63",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "What SpaceX\u2019s New Grok AI Pricing Means for the Stock - Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1weDlya0thT1NMMWlMd2RZM0pGM0lFazU3LUlvdENOeUIxSzliTnB6VXhRX1IxWWhzUnVIbjM0UFMtTFZvM1o0YUJ4dGFWR0JkRGs5Vnd5ZzVMRVp4VjA5TFh1bG0yYndGclA4NElJdTk1TnpLRTRr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b1665e67",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI releases a separate Grok iOS app for enterprise users - 9to5Mac",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUVFU2FaNW42bF94YzQxLXhUVGN3MElwODlScjJKbURtOENHajdKVnZJTlFNQmFNWGZWYkRuZVNQTzZKOGxLTFVrbWh4bGQ5QjN1VWNXVDVXX1dSQnRMOWh3WmYxQjBZbmh1SFMwWnd4WWs5Nnd5UG1UbHhmeHNhVmZBRFV5X1NIeUhPN3ZWZFNmY2ltaXdpWV9n?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c3120f87",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - GlobeNewswire",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcUREcVIxeENrNWttYlJ4em5tY0h3YjhkM1ZGd2ItWTVtTUNxSTZRWWRkX3pwTnNKZnRHQlB4aDlYOUNoeGxSSEhfTVp5dmx1N2FsakIwLVJTaEFXaW90UHozeTdXdVZla1RKZWVJZWFRSVpPd2JSZWN6dlc3NjZRSnpLSl9kZDZnVmdUUF91dTJSVW1FSDFJMHhNaTJSNURvY01IQnYxbXpsSnA1c25nOWFRS1drUnhRYUFYZzg2THE1Y00tM2NXZVcwTldUcl9tVXF0VFFlQ1RsVHZKYlBxcUl4bXAxS19OUjhyTDdTTXlGZFRldGdsdzFHU1Q5NjlDQWdWSVZpX1didk1NYmc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-02a6c319",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Declares its Monthly Common Shares Distribution of $0.225 per Share - The Manila Times",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZURxcTVOSFJHeTVhWGJDbkltYUQzOTlWQnduZ254YXNobjF4TUFxZ1ZMZWNBcUN2c3BLU3JrMElVNXFDVFUtYkdiTm8tR2lrMXlqbWd1dGpGemliUm9kN1FLSTU2bzc1VS1Xb2F5VVFEOWZKOGktdGJscGNHRnZCLWh6Z3RlNnlHRmJyUGVZckxpMm5hTDV1amVjVVdwUUFyTVR5OFhVQ2xPZ0otem5rNzFra2JWNjY2REtVSENoNlY4Z2JJbHpxTG4zNHlnMWl1dnRzaFhtQU84MnBBbXV6c0tQSEYzN2dsRXN2ZjM3WEdZbTIyX0ZsQkpnNFN5MGktNi0tMk1GU0ltVFpoUkk00gGUAkFVX3lxTE02TUZsTmw1TmRjT3FIMU9iREEzZlI1WjcxQXVZVGxNQWtnUnRndmFNTGdUa29MV3RpZXAyWl9yQzZXcDBJWEVLR2NwVGt2Q2NrMVZjS0ItQWxYc2pVWWU3Yll4cnlvblJvdmRPaXE3V1d6aXdSR1hST1JTUTB0NnZMa2NPZEZVWmFfa0Z1eFlvcW8zQUtNZ1V5SzRFLUR4bkx6TG96WmRlU3RTd0RZWll4aEt6NGh2SUZvcEk2N3dxblVVWDhzVmFXNVlOMUllOWlydEQ0ZkVzTlBLS1pzZHFSY2ZZMWh0Wnd3ZmVYZFNOQ2I0bGRxbnhmTHRsUXBiMXVBREZxcDZ5NHV1cXNEYmhwUWdyNQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c834ab7b",
+      "date": "2026-10-01",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Azerbaijan eyes SpaceXAI\u2019s Grok for public sector AI - Kursiv Media",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd29VMmVqWHBIYjhYdHl0ZDRMdWFWZE85NllZVDA4eGxOVXZ5QXMwUlZrenVHSWdqdW9PS0VXYWVabDRacm5qVzkxQ0N4MnJ2UlVFWGs5SEs1bldpSUNTZlh0c2p2QmlxdWJQX3FWaDJCUy01Y0gtSkN4Nm91Njk5OTVnaFFjdFFEZTRXQkhOaHZMclJLVjB1N3VTaUp2NW1uV1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
