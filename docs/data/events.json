@@ -32219,6 +32219,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-20d784b0",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Octagon Floating Rate & Alternative Income Trust declares $0.225 dividend - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0J6Tk9MNFlLMnhmdVRTZ05CbnBOaWhKbTJpQ0Rwa3hhQnB6TjhYTEtvbjB4VEtGZ1k2R2h2UmVhQjdSM3YtazlHOURXMmpoQnFUVEd0XzhLR2NwNzRial9pcGxTUk1yOUVUVE00R1FqOEd6clktQmZCdDNoMHhmcHl6Mk9aOGNYLUkya1dRUlBnNm9FYnlQNldhVkpyRkJ5ZVdTaUxLMXlhYVBNdmMyTGgwM09Pd2RFeFFhbGxKaDdEbUwwSkRXOE9Wc294QktvR1E4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
