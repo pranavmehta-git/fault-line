@@ -32237,6 +32237,118 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5af83f96",
+      "date": "2026-10-02",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "source_url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ff40f5c6",
+      "date": "2026-10-02",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "It\u2019s not AI anymore, it\u2019s \u2018super intelligence\u2019 (according to the White House)",
+      "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dfa39fa3",
+      "date": "2026-10-02",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2bd0002f",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US appeals court blocks Minnesota's AI 'nudification' law for now in XAI lawsuit - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNms5cTdHRjlXODJ0MXpMNUZXM3lmUzl5YlNmNHBRaTcwcXRjeEg5bXB0VFZhcktpaGFBcXpfNFhxVnp0MXEzLUVITzItc2NtSC1qLWhxUjN1ajJzWEFYczhmb1E5a2E3dFF3YjlWVDFocjdEelFxcENUR3Ftd29lejNvbWpsY3NsZU5zNk9feXhVdXFxcGotV1BUVVlJN0t5YUVkZzJiekpvM0t3Mk9DWlFR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f647c3c0",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US appeals court blocks Minnesota\u2019s AI \u2019nudification\u2019 law for now in XAI lawsuit By Reuters - Investing.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVF9Hd2dnckowbFQ1clItNmY2MUUtaUJtUHZvb0ptMEljZ3hNYjR4bUNrX0ZyRmcwQ0NFN2Jqa19NUVhsUWZjeU9OMmR6STl2YmkzNUpTLTQ5TVY1cDViZEpFSkhNN1pPSVdIZEVBTzFnNms4dDluNmhOZE5ubkdxOElfWTh0N2xHQXVacThOZU9iQkp6dXBXbThsVnh3blFjX09KamFWZmxIdjNaRjI3ZXpWTFp4XzhjLVE2UE8taWQxejA2RGF3TnFHMlFrdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f7c7e9b6",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US appeals court blocks Minnesota's AI 'nudification' law for now in xAI lawsuit - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObm1vUTBELWYybnVTX1BKS3lQckdNQWI0eHFoWm5UbWEzNFhQdWFOYTdFdldJMXBuUnJYRWpZNENzYl9BVkNWRWJyM2Z2UGU3SkZVcjhVYVltbVpoN21TOHhrdXZXZklkbzQwYU5YSXQ2d1dRdlYwX3RhTjRBa091dmNJNDNLQTFNdW5XVWxjMkg0eDRZTlN3S3RCMnp0RFhHclFRenRmTzJ5RGJMLVJtTS01SEl5SGgwUUVLV2NnTmJyNklQRDc4clVmYw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
