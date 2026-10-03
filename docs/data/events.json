@@ -32349,6 +32349,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-7fdb5c82",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US appeals court blocks Minnesota's AI 'nudification' law for now in XAI lawsuit - Forth.News",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zSFJCa04xUi1vWjhGNWJoMnFLRkcyZTVjSTNWWVJveGVnOUlidXd5dlZBNldjblc5SDQwdmZ4VndzcjZleS1TWTNmMHhyR1lMcEpfUWJRWHA1WVNHTnJteno1Yw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e14659f",
+      "date": "2026-10-03",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "We Asked Grok Where Dogecoin Ends October After Whales Spent $110 Million - 24/7 Wall St.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS2RScURJTjNaRDB5V1hGeElGTGlSOWQxbmxISHlLTXB1emRGcG9jcW80dGQ4RW1jOHpUbWZRa3lEaVdfeUctV1Z1VndDUDhtZ0tvczJwNFUzQ3I4MUk0bnRfNFl2UTFBa2pERTRKQzRZM3JEd1UzemlzZTJJSWU1ODF0c0JpZDUxdGZFNWwxaUpIbkZBcGpYbktaaFNBU0ZKSTdCcVpzLXh3Q2xtZ2FLbjBKMjVDa01rVFlzMThkZ2dOVnZiVGFSQndnbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-23664f65",
+      "date": "2026-10-03",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "We Asked Grok Where Dogecoin Ends October After Whales Spent $110 Million - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XdGRSeVJqZXJLQ1ZWWUtENUpjWllSTzhfRzZMZy0zTXpjX2k3Z2k2aXpsdkV6VDR3dEdSYmZyekwxU3c2dzRzTHlWR3piLVNSaklnVlRRekxWRmthcEN2WUl5QWw0QS1OLUF1QWZqdFJmVzM2QjNVT2h3Y2VuREk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
