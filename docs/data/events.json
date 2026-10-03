@@ -32439,6 +32439,98 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e20bb4d5",
+      "date": "2026-10-03",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a7f75fb1",
+      "date": "2026-10-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "We Asked ChatGPT, Claude and Grok If Citi's $113,000 Bitcoin Target Arrives Before October 2027 - 24/7 Wall St.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYzBubFVFRlpNSlFIdVZ4cUhpdFhPZHlVWm5sTnB0alM2TUFNenZKYUZvc0F0S3ZueFFBeXh1a3pGRS1RZDN0NlVaSDNLc2tlLWp5bFVRMVRLTWQ4MFI5eldEc0M3THI4bEhfQ2dNOWNHN216QVZUYWJYTHJ3MlFheFhDa3QzVHNCNlFmampuaGpQSk9DSGVvcXZaZUNRcFBEd2JBeFJ2emM5SnE2REFhMUlZcnVjZkxKSGNYWGlka0dYa3VUNmlNX0hDSzQ1YmU2dzVycy01ZUJuckdQZUt6MnlRWXk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e859f092",
+      "date": "2026-10-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "We Asked ChatGPT, Claude and Grok If Citi\u2019s $113,000 Bitcoin Target Arrives Before October 2027 - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWxrTDAwWG1UOGlWSTBZSi1DVG96TTF1djJQUnFiNWpBM2RWamkzZXBibTl4amswTU53TWVTSHNEOTdDWGZmazhzMWZUcHJMREpLejZRMjc5T09fVHZmenR5R1FhSGY2aExUdHUtcEJnZ0tWT040UG4wdGFHbGJGN0lBR0pRLXZKQm8yTXh1M2hkNVozenR6UFFhbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-14f8f6fa",
+      "date": "2026-10-03",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "We Asked ChatGPT, Claude and Grok If Citi\u2019s $113,000 Bitcoin Target Arrives Before October 2027 - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIV3UtQklZV0ZVWW5TRUxCOXBrcUZ0Vms1OGVPT0dXTldNTlJkUzNqUGplb1lIejVhSUEtY20zM0JjMlFNSkZmTVFxUmNhTkxxdnQ5RVZnS2h4ZkY4LXdLYUF1ZjJEVGxvdlc3VExKTlFNcndLNlQ3NV9aZ2JkZEk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6b9b22be",
+      "date": "2026-10-03",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US appeals court blocks Minnesota law barring \u2018nudified\u2019 photos in xAI lawsuit - The Straits Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcExOblljSjQ2R2pwakVIZmVjMWRjR3NZWU9kSmdzaHY3TDgweXNZTmpfdmdyejI3cFZCNUd0TGxJLUc4eTFRaUc5OFJWd1h6SzBIbUpJNEg3eERtXzdKd1BwMlZvd2llVXp3QXplcGJMcmItRXJoNEtfOWVwYjY4ZUZuQVgtblNSQVU2d3JyVGQxY1BpTks2NHVlbllFa2kwbElVZWdaQmhpekdtOUZkTi1zdnhwYUFtRlRland1eTBtVEU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
