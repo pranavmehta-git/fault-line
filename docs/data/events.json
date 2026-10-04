@@ -32551,6 +32551,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-64b361d2",
+      "date": "2026-10-04",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Munich overtook Berlin in 2025 VC funding, Grok tells Earlybird\u2019s Andre Retterath - Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONldMcFpVaGJtbHhBeWVEaW9heTl6aC1pbEoyeGtMRU5tcHBRV2RuaXlDSFNFTkZ4alFCcWpBSEZLTm5GQ2ZuMU1DcDdZQ0NVSWJaem02a1J1RnFZYzZJeU9PSGNDWUwyM3dPdHF1MUVZNDViOTY3UFNOem5YeGM3ZjJzUWpVMkJjX0NfcTZOZXZZRTdtaHBUblpRZHQwNW1tN1c5ZWVHaGVNN3ZJZFFUcGJjZ1c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
