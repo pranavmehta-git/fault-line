@@ -32371,6 +32371,26 @@
       "historical": false
     },
     {
+      "id": "evt-b053126a",
+      "date": "2026-10-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "U.S. appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit - MPR News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONklpVG9pVlk3dENnb3NhWXhpTThBZXIxb2pUa21kOXdZMW04R2lEWkZ6UHc2Q1dmZlgxbnl3QXI0cUdkNFJlYWJ6SUgzSVFWaS1tYjY5NnNvNmUxbzlHUTJrLUtpX251LUFrRFphVTUzd3ZZREhsN0VwUkI1VGN3dmpMNGJieDdHeC1VM2VULVNYeTh6TUphZWhjZF9oc3FSdGZmbW5RcUtEUEVyR0lqT0ZiTS1xRE80?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-8e14659f",
       "date": "2026-10-03",
       "lab": "xai",
