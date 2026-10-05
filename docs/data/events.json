@@ -32607,6 +32607,78 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6a3d5644",
+      "date": "2026-10-05",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b9f1b1d1",
+      "date": "2026-10-05",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-80d1ab39",
+      "date": "2026-10-05",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f4c197c7",
+      "date": "2026-10-05",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman says \u2018some bad things&#8217; will happen, but AI is totally worth it",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
