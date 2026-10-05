@@ -32591,6 +32591,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-56a69182",
+      "date": "2026-10-05",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Our minds aren\u2019t equipped to handle AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
