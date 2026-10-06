@@ -32679,6 +32679,92 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a727a69e",
+      "date": "2026-10-06",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "source_url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a672c35a",
+      "date": "2026-10-06",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "\u2018Artificial\u2019 Roasts AI\u2019s Creators\u2014and Sends a Dark Warning About Its Dangers",
+      "source_url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1cdd2b2c",
+      "date": "2026-10-06",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "A New Neurotech Startup Launches to Rival Sam Altman\u2019s Merge Labs",
+      "source_url": "https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-47fda17b",
+      "date": "2026-10-06",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Advancing computer use with Ironclad",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3cec08f9",
+      "date": "2026-10-06",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "source_url": "https://openai.com/index/atlassian-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
