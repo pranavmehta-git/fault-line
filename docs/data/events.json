@@ -32765,6 +32765,78 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0cb88058",
+      "date": "2026-10-07",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2c0764b9",
+      "date": "2026-10-07",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "source_url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ed999b12",
+      "date": "2026-10-07",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "A Mysterious Nonprofit Run by SpaceXAI\u2019s Top Lawyer Is Paying the Salaries of Government Workers",
+      "source_url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b8fe5047",
+      "date": "2026-10-07",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot leaks CEO\u2019s bank data across company Slack - Cybernews",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42b2R5WEdSS3RZX3hvaXVMNDZkTE5kUHFfUEM5RmViMnc2NHV6aHYxczVSWkJuNlFlN0t1bVBDMEt2YUt0eHhVb0ZZaWs5SVBBWnBFMENMT0pzQXhpYlZDVWhXZzExRzZ2T0c2WlpIOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
