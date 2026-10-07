@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T12:25:27Z",
+  "last_updated": "2026-10-07T22:29:51Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -244,7 +244,7 @@
           }
         },
         "talent_governance": {
-          "score": 1.45,
+          "score": 1.49,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -252,9 +252,9 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.741,
-              "evidence": 2.861,
-              "corroborating_sources": 7
+              "intensity": 0.776,
+              "evidence": 3.461,
+              "corroborating_sources": 8
             },
             "G2": {
               "intensity": 0.709,
@@ -284,14 +284,14 @@
           }
         }
       },
-      "events_count": 727,
+      "events_count": 730,
       "last_event_date": "2026-10-07",
       "top_drivers": [
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.741,
-          "corroborating_sources": 7
+          "intensity": 0.776,
+          "corroborating_sources": 8
         },
         {
           "item": "A1",
@@ -314,15 +314,15 @@
       "total_score": 3.7,
       "breakdown": {
         "compute_chips": {
-          "score": 0.49,
+          "score": 0.51,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.494,
-              "evidence": 0.975,
+              "intensity": 0.51,
+              "evidence": 1.041,
               "corroborating_sources": 4
             },
             "A2": {
@@ -451,8 +451,8 @@
           }
         }
       },
-      "events_count": 210,
-      "last_event_date": "2026-09-29",
+      "events_count": 211,
+      "last_event_date": "2026-10-07",
       "top_drivers": [
         {
           "item": "G1",
