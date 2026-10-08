@@ -32911,6 +32911,45 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-473afb0b",
+      "date": "2026-10-07",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Watch: What\u2019s the deal with OpenAI\u2019s massive dump of math papers?",
+      "source_url": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
+      "source_name": "Science Magazine",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1",
+        "B2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1cee283e",
+      "date": "2026-10-08",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Jessica Tarlov Warns Elon Musk Will Play Massive Role in Midterm Misinformation: \u2018Grok\u2019s Core Is a White Nationalist\u2019 - TheWrap",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXZPVmpuUnZOVUlXaEZoTU0zMU8welhkazFlTGZyYmFTZ0NMS05rZjdBYTltWDJEUjFyektaLXZKNUZtYjl4OFI1akhRcFdkbTZTMi1Xcm1MbHJteDdPZXNoWlVCM3M5R0RXeVhvT1pnMEczYkR2OFNqWDNqVW5QQjlzaDFGVGRKQjdiOVFWZmNQSXlmVndRN0tzY3ZyeTA5ZjdoNTdrTkFOdU5OdHB0bQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
