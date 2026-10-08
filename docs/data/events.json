@@ -32950,6 +32950,109 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3ec68cb9",
+      "date": "2026-10-08",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8e1e5bee",
+      "date": "2026-10-08",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+      "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7706c588",
+      "date": "2026-10-08",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic changes usage policy to ban model abuse and election interference",
+      "source_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e1cdbb7f",
+      "date": "2026-10-08",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute - The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXAyWVV6M2gzOVdfOTdXaDkwZzhXMldrRlRNRVg1SWx4UjBOcm9Wa1JiR0xRbjRfd3JLZ1ozZGRBRmRtRGxfZXJSQ3ItOTVGcXNZT1YtQjc3NGdXajl6bkNqRTlLeExqbkxjSEQ5b25VOTNKTWdIcnNxWDRBM1ltbXdTSzBHMmNIbE1DNQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-69d389b4",
+      "date": "2026-10-08",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX Built an AI Business. Its Best Customers Are Grok\u2019s Competitors. - 24/7 Wall St.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2YzUjBtLW5VRW9hR296cDF0MjRBR2kxbl82WEVfY0dHT2pVSUo0TUswTE1NYmpfWkctNm82WUZjdnU4V3VXM2tlU2pCcVl2X2FKWFMwWk1GVG9OZEdOYWQ3NzRESkNfMmtRanlqTjFPdGp4akRMWDl4OWhZT1R2eXBVOEhJY1NUMWZ2ckFEcWZwOXhIREpGRmlKZjZnVnhoZXNMQ2xkMWh0QzVSNUNjc1RB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-50f04314",
+      "date": "2026-10-08",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX Built an AI Business. Its Best Customers Are Grok\u2019s Competitors. - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdrQ252cmFqN1BkVXNLTFhKUzUzZ3I4ZmF1S2p4MDM3NWhHc2t6cG5LWER1bkYwbXJnd3I2WTRKcXNTSjVQY0tZZDZhT3ZVWkdTZC1UY2RnTExtVHIxUlJYZGg4U21kdVNPNG9HbWQyNEVZaTBGNDNoQWNnU2E5SlhVRG9jZGNQNmdCVng5a3hfd1c0M2hXTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
