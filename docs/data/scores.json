@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T03:58:37Z",
+  "last_updated": "2026-10-09T12:22:50Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -197,8 +197,8 @@
               "corroborating_sources": 4
             },
             "C2": {
-              "intensity": 0.7,
-              "evidence": 2.338,
+              "intensity": 0.703,
+              "evidence": 2.363,
               "corroborating_sources": 6
             }
           }
@@ -224,7 +224,7 @@
           }
         },
         "societal_impact": {
-          "score": 0.95,
+          "score": 0.97,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -232,8 +232,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.564,
-              "evidence": 1.294,
+              "intensity": 0.589,
+              "evidence": 1.432,
               "corroborating_sources": 6
             },
             "F2": {
@@ -252,8 +252,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.773,
-              "evidence": 3.408,
+              "intensity": 0.774,
+              "evidence": 3.421,
               "corroborating_sources": 8
             },
             "G2": {
@@ -284,13 +284,13 @@
           }
         }
       },
-      "events_count": 733,
-      "last_event_date": "2026-10-08",
+      "events_count": 736,
+      "last_event_date": "2026-10-09",
       "top_drivers": [
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.773,
+          "intensity": 0.774,
           "corroborating_sources": 8
         },
         {

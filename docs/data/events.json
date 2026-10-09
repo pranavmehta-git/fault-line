@@ -33053,6 +33053,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-77ff8d33",
+      "date": "2026-10-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c62dbb9f",
+      "date": "2026-10-09",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source_url": "https://openai.com/index/sophos",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fc5b7aaf",
+      "date": "2026-10-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "etoro launches connectors for Claude, ChatGPT, Grok and Grok Bot - FX News Group",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFphTUUzUVR2OUJaMHVMUnJiZ1lDcTZPbW9QbHBuWTZ0RWdhQklVTmFBWmVUTkFYQjc4enlHZTFCQUxLT01ldUhNYTNVZWVMd0VGUVpzQ2E3YkxYd2lhUHhaeTBlNndxTHNjSzVvVW4waEsyVXVDS1UzX3NnVnlyZkVuV1pqRFktN2JFUnRiS1J4eDdlN1doZnRfZ2xMQU1QNk1NNEFwQUUwYV9nYmJMXw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
