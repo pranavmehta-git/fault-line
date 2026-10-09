@@ -31286,6 +31286,22 @@
       "historical": false
     },
     {
+      "id": "evt-7608e581",
+      "date": "2026-09-25",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Lowe\u2019s answers millions of home improvement questions with OpenAI",
+      "source_url": "https://openai.com/index/lowes",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-7f7a38d7",
       "date": "2026-09-27",
       "lab": "deepmind",
@@ -33055,6 +33071,22 @@
       "historical": false
     },
     {
+      "id": "evt-cad2fe89",
+      "date": "2026-10-08",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX Built an AI Business. Its Best Customers Are Grok\u2019s Competitors. - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0za0NYb01RTE1LTkxabUNDVVY1TGw3cDY4aGhNT1ltRWxzZmFCc3NjUGxzdklQa3pxV3pHNmVYeFA4Nmo5cV9BZ2xHaVIxeUxPRUJqZ3VuT0VZR0oxM2EtQjlVTlFjMUVBeFJtSGYySVAtaDFwUllnZDdMQ2tsQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-77ff8d33",
       "date": "2026-10-09",
       "lab": "openai",
@@ -33099,6 +33131,76 @@
       "dimension": "talent_governance",
       "summary": "etoro launches connectors for Claude, ChatGPT, Grok and Grok Bot - FX News Group",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFphTUUzUVR2OUJaMHVMUnJiZ1lDcTZPbW9QbHBuWTZ0RWdhQklVTmFBWmVUTkFYQjc4enlHZTFCQUxLT01ldUhNYTNVZWVMd0VGUVpzQ2E3YkxYd2lhUHhaeTBlNndxTHNjSzVvVW4waEsyVXVDS1UzX3NnVnlyZkVuV1pqRFktN2JFUnRiS1J4eDdlN1doZnRfZ2xMQU1QNk1NNEFwQUUwYV9nYmJMXw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e8327f49",
+      "date": "2026-10-09",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-51e4084d",
+      "date": "2026-10-09",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/asana-browser-agent",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-005e46f7",
+      "date": "2026-10-09",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Sued Over Biometric Privacy 10/12/2026 - MediaPost",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlRPdkhYVlNfWkY4SmlFekd2ZXduVXNES241MTlQTnBvSXZreGUwc3hFQXd6X2VJUkFvN3N0UDdaVUhmNWRwOW5ocURIZUNNb2dPYVJkelduaFhVN1htT20xUTZJT3Joel9mbWVMTS0tT0tDcGFHZWxkR1RidjNXekZpUWtqb0dqTlVnSXd0RkRYUEVxT1JKZ0kxTEFhZ1JlRVVmNFJLM2lPUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a98b0a53",
+      "date": "2026-10-09",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Etoro launches connectors for Claude, ChatGPT, Grok and Grok Bot - Zawya",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTTRmcy0wTUFWMXR3OThCVlFRQ1dTT1BKblQwdFowTURjSFJiZmN1LUV6NzRraU81NjFONmZlUi1pVDJaZHNnWTVTV3JOZXA1U2tRQllYeVhLMU55N014bkZqS2drd214UFA1S2ItTmhwYm84WENYQ0JBb2Exbkg4a1Z1R1RfRGlJaFZtaFZocGNfZUdjTkpBSzZvZ3cwUDZhSzdqbHBrZUdOV3oxN1NxcHB1LTZOZHdlZUlObVV3eWZaUQ?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
