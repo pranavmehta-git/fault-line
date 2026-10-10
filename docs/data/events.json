@@ -33267,6 +33267,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9cbfcbd4",
+      "date": "2026-10-10",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic is cutting off its internal evaluations from the internet",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b2f224b5",
+      "date": "2026-10-10",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

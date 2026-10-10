@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T11:41:56Z",
+  "last_updated": "2026-10-10T16:43:43Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -224,7 +224,7 @@
           }
         },
         "societal_impact": {
-          "score": 0.97,
+          "score": 0.99,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -232,8 +232,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.587,
-              "evidence": 1.421,
+              "intensity": 0.608,
+              "evidence": 1.551,
               "corroborating_sources": 6
             },
             "F2": {
@@ -284,8 +284,8 @@
           }
         }
       },
-      "events_count": 739,
-      "last_event_date": "2026-10-09",
+      "events_count": 740,
+      "last_event_date": "2026-10-10",
       "top_drivers": [
         {
           "item": "G1",
@@ -373,7 +373,7 @@
           }
         },
         "demand": {
-          "score": 0.54,
+          "score": 0.55,
           "max": 2,
           "items_triggered": [
             "D2"
@@ -385,8 +385,8 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.541,
-              "evidence": 1.178,
+              "intensity": 0.546,
+              "evidence": 1.202,
               "corroborating_sources": 3
             }
           }
@@ -451,7 +451,7 @@
           }
         }
       },
-      "events_count": 214,
+      "events_count": 215,
       "last_event_date": "2026-10-10",
       "top_drivers": [
         {
@@ -463,7 +463,7 @@
         {
           "item": "D2",
           "dimension": "demand",
-          "intensity": 0.541,
+          "intensity": 0.546,
           "corroborating_sources": 3
         },
         {
