@@ -33249,6 +33249,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a3a381a3",
+      "date": "2026-10-10",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot leaked XMTP CEO's bank balances in Slack, and why it happened - Pasquale Pillitteri",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnBWNkJFLVpxcVdNOGhDMUJjMlV4M3BJR3gweUFzUHNMODIzejBtSk5nd2l1dVlmT0N5TXFJSzA4elVlN1JWWEg2RmcydnBUVEpBY2JXWXgzdjNfeGpOZGRuMmMzUUExcVBWdlZGVGZITGJ2enVkMjV3WEZZY3d0U3JULVk0c0R2d0ZyUlRCTlUzQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
