@@ -33211,6 +33211,44 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d8b642c6",
+      "date": "2026-10-09",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Sued Over Biometric Privacy 10/12/2026 - MediaPost",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDZROUVuM2I4NHhYWWpEQnNjNW1ZM3dMYWlsaUVEQ0MzZ3FHY05JSlFKV181SUd4SHdnWll1a2g1YjR5cWZnZmZNQ3lYZk1NcXoyLUpPaUdYQTdNaFJxeGJ4cmZQaWhzTGtPdEo5MjhMbXdmaHdkeDVnZmdRU0JIS29MNnlVWTI1LURvWUd2ZHd1WHhpY2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7a379269",
+      "date": "2026-10-10",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
