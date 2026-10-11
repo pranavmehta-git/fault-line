@@ -33305,6 +33305,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-32bd2296",
+      "date": "2026-10-11",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Character.AI Alternative 2026: Meta AI vs Grok Compared - https://tech-insider.org/",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeFpyTHNzM1h5dEJvekxkVVJPVEpwVjN5N1VadmdTbVoyVmNlMUxfQVFiYnpNb29kVU1QQ0tnV0d2SUNrSXdZLXBCc1BYZWNnbUNENjhVTENPLTQ1Z1ByTFA5WENNS1JQcktFOERfcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ab68ea04",
+      "date": "2026-10-11",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk says share credit card pics with Grok for shopping, sparks privacy fears | Users warned about severe security risks | Inshorts - Inshorts",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3FwM3dHdkhBUndmNnIzRFBweVVubVpuMzFka0tpc19hcDN5eGM0NHhjaVQwaUlhbzBfeE1TSDd3MThNZlI0QTZXbXpPYnR5Z3l5d1BBU1FCXzBoaVRRSjMta1BvWTlrLUx3VENZT0hIaUR1WDVjZDlXNXZtR19xekQ4Z1ZkUnBNWmZVVV9OaS10TWh2U0E5bGV0Wkhid0l0ODB6dm56UWRtQ0JhYkZQSWowX2ttWTVBbFZGUdIBwgFBVV95cUxOeE9Dcl92OU56NmtFdXRCQlZVRHZjNTVNSE1JMVNwYThDRmZEbGZkTzY2SzZiMDE5ekNlbjBiN1BZbFBiRmk4d2dLdERUNC02UXF5enBEa0VONV9haEx1QzRrUVNCTkQ4Q3ZkejFPY1RncVFBY2tlSXU3SmF3NFFzZ08xTDE0YzRrZ3BhYktmT1IxUUVGME9SVExtbTRpMkJvZFBJZGNrXzlQc2k0QjJPQWlqVzBXMlgzLVBLeTl1RDk1QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
