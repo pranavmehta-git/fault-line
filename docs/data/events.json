@@ -33341,6 +33341,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1146a2be",
+      "date": "2026-10-12",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Grok 4.7 Release: Pricing, Benchmarks vs Claude 5.5 - https://tech-insider.org/",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG9HTUVVZ1ZJd3RhLWw0UW4zenVvdG1GV3VtaG4zdE9RRlVCOWg0a3Y3aUMyQlFtMWJ1UWplLUl0LU4tNVRPWHhkSmRCUE1DOGtkeDZqR0h6SDhPZmxLcktnNXdmT0tIVGJudGlvX0pfTnVRbmZCYzFnSVhNTDdpOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c435a74c",
+      "date": "2026-10-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "AI shopping with Grok: Musk's credit card-sharing idea sparks privacy debate - CNBC TV18",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTBId0ZaeFlTdTVNQjNFc2tzN2hOMkg1N3FHZjJuV0NLbVc0eDRlVzZOZzJod1RYNWI4SUM3ODZjMS1GSTJ5VTB5Qzcwc2U0U0RjTG9VZWtwemhuZzZIVnBDVTFrZVVoRzg0cTVmejZYTUJvSWtkTmFla0xHQlFGcjg1R3lqSlBubHNaVTZpSGhUTnA4VHB2alY3NUViTEk4Rnl3dnU1R3Ixekg2SkFZenhnWV80d9IBuwFBVV95cUxPb3RLZUdyVGVwdkNBeVQyOGFIS3pSeHloU3d3WGI0WGNPcFJlelFZRFg3OXhGU1BnaUw4UDdzTzRvSGQ5bDZxU0s4ZzdUTnlSZ0o3QWlFc1JOU1dIRkM2Xy0tMk9aM3VTcDJHX01ocko3X3FXZVlsQUNmYURqT0pmMlc5N29HT2ItNllYM09lUHFad3lnejVmODBmczlLMkpTcVpLRm1LOTBxdE9ITHJKYWdaTTd4N1ZIN2dz?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
