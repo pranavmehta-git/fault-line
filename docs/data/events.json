@@ -33375,6 +33375,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-49981f1f",
+      "date": "2026-10-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "I told ChatGPT to \u2018continue\u2019 \u2014 it went too far",
+      "source_url": "https://www.nature.com/articles/d41586-026-02714-y",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05e50eb5",
+      "date": "2026-10-12",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "eToro Launches AI Connectors for ChatGPT, Claude and Grok to Analyse Investor Portfolios - TechAfrica News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUNQNDdLRmdGdFVEZWx3cUxDdk9Ga0tHeTNBRG1hWWVUSVZBRFdBWWQzamgzM0h4TWFFUVUtRWdpSEgzbk81T0JQd0p2cVQwbFg4QmdoZkFzbDRtRXlWaU5Sb3VtQmJlNUoyRER6ZE41Vi1CeWNVdmRyVHpaTl9tUjN3UnY1MUt0U1FleUJpYXduX0lITTcyaTc3ZTF1NjRXekFBcDY0NGNEZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-87ed80d5",
+      "date": "2026-10-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "AI shopping with Grok: Musk's credit card-sharing idea sparks privacy debate - CNBC TV18 - LinkedIn",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2pTdGMyaXNSb3pPeUM0VFd2MGc1RnZLbWZlZU1CVlRVTFZIUzRRR3p0VnVSNFpZV3U0Y0JURHpJQ1ZJMjFPT0VhaWg3Qm9XQVJrQk43UTJWUnV3RFdtR3daS290dktLNHFhN1RDX1FGbW9wVmloMURaSnZRckRfR2dCNjNOakdKZDBGV2d0VDdIckdPbF9IMGtmWlpfR3JibHhoQWVublVCUUxHSnpPTERhWk5OYUczd0dXbmdBRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
