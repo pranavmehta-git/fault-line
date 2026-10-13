@@ -33087,6 +33087,24 @@
       "historical": false
     },
     {
+      "id": "evt-539d4c68",
+      "date": "2026-10-08",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Daily briefing: Mathematicians up in arms over OpenAI\u2019s preprint deluge",
+      "source_url": "https://www.nature.com/articles/d41586-026-03231-8",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-77ff8d33",
       "date": "2026-10-09",
       "lab": "openai",
