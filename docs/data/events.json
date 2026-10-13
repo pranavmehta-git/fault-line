@@ -33465,6 +33465,100 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e103668f",
+      "date": "2026-10-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b808bb03",
+      "date": "2026-10-13",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-53679012",
+      "date": "2026-10-13",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok cases highlight risks for AI companies under Illinois privacy law - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWVJR2pCNjdfWktrdGpwUWVEeWE5NWVhSXNrTnRvTkQyNnFxMUgtR2RPOVU1MFdPV21URGFKX25vZ3pjTGVfS0FBdWRWakMySHl4Tl9nOVBMNzh5UmwtVFFqNzdCZkFCRWRJeG9VVDFWeHg4MHVNUmVuZ2ZVbFFOR2VmdWwzOGtHV29pNExiZE9LQ2ZEcjFKdnk2d2Z5OVpULXY2eUZqTU5qUzVtSUJYU2RlalItakoxNnZv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f41c9560",
+      "date": "2026-10-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock - Amazon Web Services (AWS)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmVFMlgwU1VKNEJOQnBHSUdfTFI1U01iUzNWclptektSNDJyZHg2al81Ti1wWjd5eE1XVTQwdFZqcDlseEh5bWdrUXZCMnNKeGtkYlVxbzc5WjRzLVhLblNMUnpwclJBOVB1Nk8wUm1FbjhGZUotdHh5SlA0eVpyVGFuYXl0cS1uQlhMSGxXYnBhS2t6WlRYX2M3LVp0NmhHa2phTkNEZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ff2edd7f",
+      "date": "2026-10-13",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuits Allege Grok Generates Sexualized Images of Real Children - AboutLawsuits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVc2WmhsSThKZWpiRWZIN1JaZXl4Y052NzZzWHY3NUhBOXpISm1iM3lPVW9EVVVKNU9zTFN1SU1XdERJdHM3VVo5X0tIalQwWnk4WG5RZWwtS0Zhb043dmo5RmVyY29vMTNtTEUwZnhoa3Z4dFQzMWFkWWxlT0x4VTc4a3JkRjcteC1fRFctSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
