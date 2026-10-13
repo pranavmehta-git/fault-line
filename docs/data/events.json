@@ -33231,6 +33231,24 @@
       "historical": false
     },
     {
+      "id": "evt-323d35d3",
+      "date": "2026-10-09",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Sued Over Biometric Privacy 10/12/2026 - MediaPost",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUC1XUkN1SzVHbWljbUNOR1FsUkRISjI3cEo3UGpvQTZnanVjYWt6ZlhaY19MTGVqOFBVYnFvQkZ4N2JqOWdxWDNIWUlRajFFNXhvZ2M4UTZ2Q05QR1MzS29uRUFqNDBxM0Y1VjNhblR0VDYwVlNzbjlMWVk5eTNYVDY1UjFNN0pCckZQb1RCaFRKNlY0c3NYc3dwaFgyR0Jfbm1MVU45bm15UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-7a379269",
       "date": "2026-10-10",
       "lab": "anthropic",
