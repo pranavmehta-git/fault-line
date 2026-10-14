@@ -33627,6 +33627,90 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1f743c41",
+      "date": "2026-10-14",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI again shakes up compute leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave - Data Center Dynamics",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSUxwQzhzNUhnRmJnbmNnVkpXU1pLZjBJOFAyXzlsb241XzhhMFFUV0c0NTJpUUR0Tk5ZQ0IySks4bHNHNTgzZnNHV0JPeTJncmZ5eVNVcWpkcXRXRUFVb1ZzRkVvUzk1OFN5SXZ6QzhhSGR4YjhxU3N0aDBUZGo0d1V2LV8wdk1seDNiaHpQOXJGQ05CUDY4YUJtY294dDdyMzlXejNCZHRBdGtaaHVHX2hyZUtBNk1EYV9BNUY3VFVoRkpxcUl5Vm5IRzhlZkF4aUk5NS1TekpBdWVhU1ZUQkxXYw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3ac88ba7",
+      "date": "2026-10-14",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXAI Announces Grok Voice 3.0 With Record Customer Support Resolution And Lower Cost - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmJfb25vWWZMcnRnNFFLVjRGNVlGVmhTWjdjV2FqZGNJSHJHVW9ic2tfN3RZaG1kNjN2QmJQbUVyektsTXRJRkpyOFFJU212WEdCRTNoNzZEVG1rYmF0Q2FDVkpXRERsZGVnRldLdkczR0VLdmNPYks5OWlILVlKYlM5QzNFVjUwWW90elFmNHhJblF5bDZtU2ZfWDY1TkY0VEc5TDRkYWRXQ1hXaW5FZXlfUWNoNTVtZ1ZZMzhwR1pmX1g4YXVUOEp3d090bEg0VEMtQTQ2WFpEcXdMU0xuUG45OWVhS0hsd1RrY3piZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ede6a463",
+      "date": "2026-10-14",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI hands its data centre and compute operation to a former xAI executive - The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzRzNxZ3ktTjZZVmhvdEYwVVRXSi1mbm5DSkRTeHdpc3pGSWZ4QVQtSGdycC1TOHBjeGY2T0tqbmVES3Z1TGgxZGwxdFhVOG1WNFpLX092R19UaW83VlRnb0NfWllVVDlYZGVlOHl5N2N1bjU1c1hJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a889b5e5",
+      "date": "2026-10-14",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Voice 3.0: Benchmarks, Pricing and API Upgrade - Kingy AI",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzM2tBeWtTN1ROcmxSTHBHNlJjSnZNUUR3M0poQTltaGxCcm9NRTJDbW45a2VpRzFFeUVoc3dSMDYwZjNzTkRZN1RNNW1YYU5keEc3OUdxNUs3bnEwSkFkMkViQjlWZnIxa093eVQ3ZjlIUVEyNlRlbERB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7ca998cd",
+      "date": "2026-10-14",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "The premier voice model has arrived: Grok Voice 3.0 tops evaluation rankings, with SpaceX claiming it can autonomously handle 70% of Starlink customer service inquiries. - \u5bcc\u9014\u725b\u725b",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTRvRlA1MGNUVEtJOTVmZW00S2xFYzN2Q0F1S282Qkp5UlhhYkNsVHYtY3kyeWRzcTJsdVF1cmNJSzJobW9KUnh6dWFMNXVGbXJOSHcyVHpQdnp2VXVFTm8xS1JfR0F0b0dLdXVIcE1OQjRkZ09vUjVicjIzTnRiTURBY29Hb1RKbE8zYTU3bDY1bzR2U0hKSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
