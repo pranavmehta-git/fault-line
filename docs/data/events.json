@@ -33559,6 +33559,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-adc56b26",
+      "date": "2026-10-14",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "The EU\u2019s next chapter in AI is agentic",
+      "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8c94e383",
+      "date": "2026-10-14",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk talks chipmaking while Nicki Minaj touts Grok at fan event - Austin American-Statesman",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTNHNXJROWtyLWEwWi1ISkdPZU1LQWlXRVZlclZxa01OUnlCU21hcHd3WHN5VVVxN0Q1Vks4a2JLeWFuTGxmNjRMdWpPZXdrdGtab3ctbzRuamlOWUlqRmE3VGF6TGJaR3ZxQnJBQmlTSTltX2FISXVkcVE4R3Qzb0lXVGxBdFBDdEF4WWJUS3dDSGRvVXJSY19n?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8c662c66",
+      "date": "2026-10-14",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot can now clock in for your Shopify store. Connect it once, and it can check orders, watch inventory, update product listings and keep routine store work moving without you living inside the...",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvVTZCckJSZnJIT3Y1alJJTE5hWGtZVGlhd3B0Z2Y5a1VXMGxNYUxJTEFQVG0yVmZwU0tFQ0gteXd1ZHlVWnl0X3FvUVRsZFFrN0VvaFdnbDYzdlRMUnBSTzgzakFnVzVTel9sVg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
