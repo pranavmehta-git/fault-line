@@ -33732,6 +33732,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d74756a5",
+      "date": "2026-10-15",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "AI Price Prediction: We Asked Grok AI Which Recovers First From the October Selloff: Bitcoin, Ethereum, XRP or Solana - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTBHT3hqNnNUNGRPaERwM053Z2syck4tbTZjdDQ1cFpxQ2MzdUdLcFBsd2Q5RS1PajNBSDVSNWN4LWNHX0oxaTVYM01xLVg5SGJnQVhlR0gzalg4S1N3czZkb0JJWFhwSjdVblFZM0tWOU16SzYxQWpRVGFGaUtxNW5BZzJIYS1zejFrZ29sMmZVLWU0eDZDMEltTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-daa4345e",
+      "date": "2026-10-15",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "AI Price Prediction: We Asked Grok AI Which Recovers First From the October Selloff: Bitcoin, Ethereum, XRP or Solana - 24/7 Wall St.",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOGhCaVNWZE9NcHNQN0lBNnI4LUZPellobG1vbW1iQzQtcDZWMTNCckNRVzJUYlo2SW5COVNSTm1iZDVWd2s5dGx5cVJDeWNMYUplR2wzWUNyUlJnY0RycUlGRkM1TE9GTmZXUFY4bGNpT0Z3WmtSZ3hxaU5fU0gzdUNXdDYwOTY4ZU5QVzJtZFdKb1hRdXdZby1rVjdHWnhPSWVOeU82N1JCdmE5MVVueW1fbURobk9KbkNLUU54VW5NTmRxMUtxdVBpQ1NYbHJ5d1ZoY3Z5dGRQWXFUVjJ6Y3g0RzdRNDNubUVKNTNDRmM3U2NPYWYzVG1vUmZHTl9WWkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-feaed8c1",
+      "date": "2026-10-15",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI appointed ex-xAI executive Uday Ruddarraju to replace Sachin Katti as its infrastructure and compute chief amid leadership changes in its data center division. Ruddarraju joined OpenAI in Ju...",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YZVo0QjJQS2NhTHFPaVlPX1puWXluRm51LTVocktTVHktbldqSWRoYm5Pak4tQldNcXFkYjNyUXJTdjFOMmlEODZVVHBGVjJIVnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
