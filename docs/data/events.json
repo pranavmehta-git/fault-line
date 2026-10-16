@@ -33820,6 +33820,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1ceed79d",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Calling up Starlink customer service? You'll be talking to Grok. - Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFbFRkQXhGVUtZNHR1WWw5SHpXODNIRVJ0LWZ5OXVBUkNkTmw2TUNuSlRkVExyM2xiTGxuSHZscGozMEY4YzNfUF92XzJvZ3BsRThsaFozTTN2U2x2dGVzNXVuMEZfOUpHXzhhQzVRVFJUX3ozQzF6YWNR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
