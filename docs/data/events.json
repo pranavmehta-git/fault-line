@@ -33836,6 +33836,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-fdb55daf",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images - CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVUydUw1OHZyeFA5VXNWNFoxY1AxcFQ0RTRjR3VUb2NPN0xnQWdENmN5bjBnLUZhd29WMTB1U1E2aFdka1JOZzd6d1lZWjFxTWZTTk15WkxhNjlJbGFRWEpJU0ZUZUF4ZmdXSTFGeU9tTnpPZnhNLUFOUVF3VlBOTjhTMXBjUFpRZGN5TmwtN05yajBpRlI2R21jaS13LXNnSDN2WXpfcUVnZjTSAbABQVVfeXFMTmZtRmpLRTFHSDBXbUVJMUNkQ1RBZGNsRUVBNVpoRVJ4cGg2eE9Pb0ppVTFBaVNuRXVUaExGOEEtV0VrRW9tVF93NUNPejQ1QzZndWVUazR6clh2RS1IWDRuc3VYOGZmWF9ZZGVCQWZsd3NSR25uT3lvdTEzY2RzSTBoWV9BSkhleElkX0hpWjlwYVNSUlJOOUp6d0xiT0E0NnRFZGxxaWhHbURvWHJ4NEw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-66963e38",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk Talks Chipmaking Challenges, Nicki Minaj Praises Grok at Tesla Fan Event - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRW5IQUpVbDU3WmdJN081LWMzczhEWXV0RkhCTXFiMlBwQ3FwcDdSSi1ORXROUVJGSUF0eVJqZGJiSzNKaFdrUkdJLXhNRXZZYVl3U1NYeFh0bGtUc05oQWJLeGRObUJjazBfYWlmcElsbFdpUm1adllOQkZhNDRpbmFqZlpUYkFIQ3lfUWQtN2E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
