@@ -33986,6 +33986,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-aa0c5940",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Benefit Street Partners answers questions faster with Codex",
+      "source_url": "https://openai.com/index/benefit-street-partners",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8eea175f",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Calling up Starlink customer service? You'll be talking to Grok. - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTFNbExuRFJPUVFJWEFHd2VKOFJIQ3dFYjVqQVM2Y2hSNGZ0Q2diMVJXZnBuS1ZwbHBNZU5IMlRpeDJPTDluZU8wM2xKb2NiSHBWQnJDa0NjWmZ5aWwzbVpaaFFFNkdJMnRfejUtMUxaNjFMbS1NZ2FDdXc4TG9IenFSN3NocGFjUVNF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
