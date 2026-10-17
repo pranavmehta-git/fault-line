@@ -33893,6 +33893,99 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cab494dd",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Replit is no longer working with Anthropic, CEO says",
+      "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9148bb06",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source_url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source_name": "Ars Technica",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7a11e50e",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b003750c",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How Ita\u00fa is building generative AI for its entire customer base",
+      "source_url": "https://openai.com/index/itau-generative-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1",
+        "G2"
+      ],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d73e3dc6",
+      "date": "2026-10-16",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Apple Bans 'Nudify' AI Apps After Grok Deepfake Scandal - The Tech Buzz",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMW5UQks3cUVJSXhwN3FmS0pISVF4LXpiNTN1dm5iM0pMMnhndlJWRGJBaVhaa2htUEc2ekJDTnhiNDV6eThzQzBZRm1WMWtxbTIxbFU1QlpSNVVXazBMSnh0OFotLXZSMml3Zk5MSHM5WGR6QjlpRGR4bTdkWVh5aDZ0THUzYWlTZHhBS0R1cw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
