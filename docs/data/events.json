@@ -34056,6 +34056,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-efa940c3",
+      "date": "2026-10-18",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears | 'Screenshot of credit card is the easiest way' | Inshorts - Inshorts",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFJKblgtWFhPdVhJNTVibUVYWWllcG1qV25oWFlxdjNwVUxWYXNTVG5NaXJQVURUWC1fakdnRmk0UVFmd2R3am1pQUlmbmszR0QxQnY5U2huemlGZzkzUk1xZTdwOEt6aGM4MzREWXVGcS1ISEx3UGxBclZmVm9Oc0V0OXdDNXBxTGlCeG9rZkVINzcwVGxoT0FQekcxZElRLWg2UjlYRU1OZW5QUm5NS011Q1dIWnNGdWl4LXZnOTUxU2hRY3fSAcsBQVVfeXFMUGxvalctZG1FSENMWlIteDVIUE9maDFJZUFkR19EbG83empxUzFBdDJlODVhcU9KYTVyQkZobng4bG93c002NEpfN2lYZmRyRDllelQ1ckRGWFFSbjhQSWphYXFIWHRGQVI2WUVKRGNvTjM4TXBLLVlJME1RLUMwOURCd1FzbzczNzRTQWFkaFNXblZOck5GczhEYzJMZEV5Y2dqN1ZrSE9IV2M2MXZsZ3lMV3BGbVVPdTFEMkIzbmZHQ1h6MktUY2t2MUU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
