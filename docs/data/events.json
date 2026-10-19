@@ -34058,6 +34058,22 @@
       "historical": false
     },
     {
+      "id": "evt-b5ac94cd",
+      "date": "2026-10-17",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI hires former xAI sales executive to lead cybersecurity business - ET Enterprise AI",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjVVcGJpbGtibjBNUTh3ZjJ6OElyeFNkenF0RHVVZW1Jd0wwT3hTVTBnZ1N1N2VmNnZkYnlFRDlBT0diVzNBdWR4VDlYVTk0d01UMWEzSWR6TVRReHJ2UVJZaGlrRlkzWHZseTZ5THdkV01FME5YTllrajZVZDRQckNBeE9vWTBlaTJGZDNCaUU0a2VCaUpOdllRVzJxbmpsTzd4eHdrX2NGdTJRa0QtdUZGSXpHdS1TMXFvdTVoOG4tN2RGMng2Tm55LXdNOXV2bE01SmhyZ190Ynh10gHiAUFVX3lxTFB1NXBCaWdyUGFjWE04eEV6dHV4cXVleEhCSVMweUdXQnBuNk1xV3J1OFFKN3MtTG9JdnQtVldCWnB0d05GWGNuU1pvM01aaHVsaDZtTDI0OUtMem9CcG5qakJGT1NTTy11SXl4bHZObWp5QTJ0bWdnYWhlMGRqZGxKUmFTb1V3UUJ3elE5UzBJVnpyazJtbXRQbFBuSXp3VTJXeGpnZDZDci05UXVlLWFTM1MzWjY2Z3JLM0tVV1dzQk1zU21PNXNjZU5EYklzRHN5ZHdJWS1YWm1GLThWbGZzRFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-efa940c3",
       "date": "2026-10-18",
       "lab": "xai",
@@ -34069,6 +34085,22 @@
       "checklist_items_affected": [
         "F1"
       ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7e07205e",
+      "date": "2026-10-19",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Starlink deploys Grok to handle 20,000 customer service calls a day, resolving 70 percent without humans - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSmpYTkxVMkNSMVRVX1J5MnVsd28xWVBhOUdRUy1CTktkVkFqelhmMWZjaDlTcHNUTXBpYTY3T1BFQ2ZuRzBUc3JtNnlkQ3RCMDl5QURIbVBSMjFnZXNEWHpuRkROV2VlMFhqbEE3SHh0ekc1TzdyaWpod1V3S0Fqa3o0emp0WDROb1dkTnlOeml6TDUxYUdNZUpjS1c5bG55UVVuUWtiVTF6N2s1TFpJSXJUMzhBbC1ySUIwRG1MajhnWER0aXpPZE56MEVHVUJyVXh3Y0V3VVBYOGpwYWQwOVNR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
       "confidence": "low",
       "tags": [],
       "source_type": "news",
