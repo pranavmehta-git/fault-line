@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T11:45:07Z",
+  "last_updated": "2026-10-19T18:05:42Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 5.2,
     "components": {
       "average_lab_fragility": {
-        "value": 0.282,
+        "value": 0.284,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -311,7 +311,7 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 3.7,
+      "total_score": 3.8,
       "breakdown": {
         "compute_chips": {
           "score": 0.49,
@@ -412,7 +412,7 @@
           }
         },
         "talent_governance": {
-          "score": 0.96,
+          "score": 1.04,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -425,8 +425,8 @@
               "corroborating_sources": 5
             },
             "G2": {
-              "intensity": 0.329,
-              "evidence": 0.489,
+              "intensity": 0.412,
+              "evidence": 0.7,
               "corroborating_sources": 2
             }
           }
@@ -451,8 +451,8 @@
           }
         }
       },
-      "events_count": 218,
-      "last_event_date": "2026-10-17",
+      "events_count": 219,
+      "last_event_date": "2026-10-18",
       "top_drivers": [
         {
           "item": "G1",
@@ -587,8 +587,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.319,
-              "evidence": 0.469,
+              "intensity": 0.323,
+              "evidence": 0.478,
               "corroborating_sources": 2
             },
             "G2": {
@@ -618,7 +618,7 @@
           }
         }
       },
-      "events_count": 695,
+      "events_count": 697,
       "last_event_date": "2026-10-19",
       "top_drivers": [
         {

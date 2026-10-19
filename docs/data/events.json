@@ -34092,6 +34092,24 @@
       "historical": false
     },
     {
+      "id": "evt-049c3e7e",
+      "date": "2026-10-18",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "source_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-7e07205e",
       "date": "2026-10-19",
       "lab": "xai",
@@ -34101,6 +34119,42 @@
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b4e3a883",
+      "date": "2026-10-19",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "xAI Safety \u2014 Former Engineer Exposes Grok Risks and Wrongful Termination - The Korea Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UTHNIcjZaTzZzUGY0dm5Md0Zwcjl4SkZDWGNBSTVoUjU3eEJMeFk0clBZcXgxV1J5ZjRWbGh6Ym1qcy1LRlRqWmhYZ1FlUTkxOGxfR3RfOS1XaVZYUUgteGNkVk1LajRGNG5vWUFUQlljc1g3b0E3Q0FYSmI?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-90c83cba",
+      "date": "2026-10-19",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Whoops: Grok Bot Spills Tech CEO\u2019s Bank Data In Public Slack - Techdirt.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0tZdkd0RFoyZ2xkQV90MmdJdGNhZnB4X1ZWdmlkTEhRYTFaUzE1d3M3UkxURDdaZXAzdlpZVm5lWTg5Z2l0d1prRl9HZ2RYMVZDcHgtOW84OE11X01QMmRvdjc3VFpxVlFmVkl3T2tfdmNQM0ZURGdkZU9oemVXa3N3TGtzcm1oLTRyTlZqNzFMVXlQdEN1c0JZUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
       "confidence": "low",
       "tags": [],
       "source_type": "news",
