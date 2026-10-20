@@ -34230,6 +34230,118 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5b5d8114",
+      "date": "2026-10-20",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "The Gospel according to Peter (Thiel)",
+      "source_url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-606a816f",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US judge rejects Trump administration bid to block NAACP lawsuit against Musk's xAI over data center - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1kxeC1DeDNreGdqNWs2NVZraThJQUhKZ0VHMXRudXFVcmNrYVRaYXlCeHo1ZjlyNHV2WS0zZTREak5ZQnhlTUw3bUQyY2oyTHRBTHlPdzdnQl8zLXpBdmdTdy10dFlfRV94elZCTmRjLUZzRnV3bDg0VzFYa0FWUnJRTzNXMmYtb29UYVc4bGthTGJQMEhmMnlmWGdVTzNhWGNiYUF5ejVwVnRaQkNMWWxRY0RjczA2OEVfQ3loUk9ZOUdLQWpiTzI5cng?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-05d5f2e1",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Announces Expiration and Preliminary Results of Voluntary Tender Offer - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemJGbW5vWXpadW5rZUJfNjJkN3JpRXJRVDFWWkQxV2ZxMjRWQlpFRFVxMjJKX3VCNlQyMGR2VHhLOG5VaGpEQk1sSHRESmZDS010SGFiUWMxazJZT2VhVktBUVZ6WW1DRTNOUks5dmJFMVpHU3h0OWxXeHBYU1ZHYXlOUG1Vb2dURUlpR04xZ2dMQzFRV1lObFRqUUdCa2Y2eW1n?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fc3c57c1",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge Says Trump\u2019s DOJ Can\u2019t Get a Citizen Lawsuit Against xAI Dismissed - notus.org",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWc0xwZTM2bXJCalF0aHEtanliZUtmbzl0M25KYVlHLWVtTjhyeVVFa3FIbXZaN0tsUExXTnpNdTRqcGN2RU9wdGFjZmprMGhqdkJGcjJwRXFZcV9TcUtKTHp4OUd0blhYZFZLMzU4T0JRbEw3R2VubDF5Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a789baf1",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Announces Preliminary Results of Oversubscribed Tender Offer - Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa19XSFNRaW96RFRaMzBpRk5QVWs2VDdDRWJUMVNrazV6Rm9mOWlkQWh6WjVWMUpwOTNOMll6Y25GUVdMRVhrT28xcXRkczFmVzlJemJYQW9nWlpybW82ZVdIWUFiazV3QVRJWFhhTHAtcnpqeWczd1FwQ0tqSDFsc0lySnA4TlJGa2QxdzViTjByeUZkeE5DcmJvdmtHaklCZ1dnYkpVTU9sWWRQX05Qcl9SUnNfaV9pMUtad2duYXVfYjhUaFhIbFhYWDluZmNBSlNDemU5bw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e1e79dad",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK regulator weighed urgent court action over Grok deepfakes; bar was too high - MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemVtblZqWkxqcTlZbklnZ3RicnpHelpDdmtrR2hGTzhmNVBsM1lDVlAtSnVhWnZ0cDhQb0MtdXdMUHk1cVROVmQ4WUdGS0ZmUnhPMGxWRDB4T1cxaEE3aGwyTWZ0M2FjZ0FydWpyMmw3OFVkSFR6d3A4dTNSWWZOZXZzaXdFQVVvM2VPREFmbkNncVBIZmpFNmt6QWFZVU82TkRJcEJZYWxJV19RdTBUTjVTdFFCRE9OVmd6ZjFYdjVQWjRyLUs3UktZNndrSGt3NlZ1Y0lOQnNGaDcw0gFaQVVfeXFMT2tKTDdTWW9QdXFOSDdXOFBjcEZPMzExdl9mZ2R5d0pkRnNlZTVvZEs4UDBnRG8zeGliRC1DMEpRWFAyYU9BQ01wNnpEcU54OVJzMVAyNU40M3R3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
