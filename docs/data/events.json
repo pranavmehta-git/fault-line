@@ -34873,6 +34873,78 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cf0006cb",
+      "date": "2026-10-21",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "source_url": "https://openai.com/index/empowering-cyber-defenders",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5e8fc020",
+      "date": "2026-10-21",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Hackers used Claude and Grok to automate attacks on 400+ Latin American banks - Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRiOFB5LTdTb0RBdHpDSGplT3NzZ0FDOHZDUFdsLWdnbWhjdkZnN1BYRzJmUkpGUk1JLTNBcVM5TmdheVpvZ0lXRzQwaERRV0xFVFh0WEd3ZlgtX1lqUG5fdldPeS1nRXpoYThoeGk2WE93R0tVZnloN3ZaX3hkSXAyR21PNTJaLXJuNXpOT0UwQ3VtR2lVWGx0c0VwbFBCRTFhV2lhU0xnLWxjRk1Z?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-17bc91db",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX's Compute, Starship, Grok Progress to Support Growth, UBS Says - Moomoo",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW9pN09sSmdzNHp0Q1BEaTdPcHY2WVNLV19ONWVEbjhaeUNpVjlyTEtHSndDc0RrcU9ucmJiOUtpRnUwZXZOdEVWalhTYmRrcEcyT29tZWs1UlpxVmN0eF9UQURxSUlrTnVHREdWalR5RFJNcXNDVlAyaGNuSXRpUDB6RnJrTmVGQUlUc2gyb1Nxbk9fRzRYZzM1T1pjc0x3X2Jfam4zeXo?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-56c231a1",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX's Compute, Starship, Grok Progress to Support Growth, UBS Says - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEdNMnJBbldqS21EME81by1Ea2cxeUVrSm5ZR3dOSEtHbDZQdU5yZW9KSkhvMms4Q3hYb2h3NjJGWTFKRHhGREJoQXdtQjBHbDBoUzBCYkdLZXhZYTFfUW1WWFV5Z1N0bWxQdmUwcEV4VEc4a1R3c1hsLU5XZ0V3anJHU0pKeEFPYTB1aml1cHpyMUNNVWZSTGJ4am5iYUM1MkJodkl6elQ3T3h2Zk9TT1ptY29CLWY3d1E0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
