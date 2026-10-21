@@ -34649,6 +34649,46 @@
       "historical": false
     },
     {
+      "id": "evt-4cedc10d",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Federal Judge Allows NAACP Lawsuit Against Elon Musk\u2019s xAI to Move Forward - New Pittsburgh Courier",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeW1wSVpmU2x1Ukl0UXZBdk8ySjZfX3IyaXdjX1B0Rmxpd1kwTWZWM1BxQ1NGMlBlTFVzQUJhQUZYTlJSSk1NUzZlWDFVYnBBb2phOEp2OE9MbHpIMkt6Ukd5M1prVTVXUDYxMm1jSTM4R3MtNlFRVHZ1aU9rcFpub08yblZFdmdfbjRMUktZUDB1NHRTOTlzTmJMcjhVUF9KbThDdEJmNlE5M1otUWJ5NXVkWHI5ZVNUeVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2d10ea34",
+      "date": "2026-10-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US judge rejects Trump administration bid to block NAACP lawsuit against Musk's xAI over data center - TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTi12VlZjS0lHYTNhdlNrWHpDWWtCSnRHcTMzU01rczd6b0s3MmZmeFpXZVBpTXo3RDhlb2RoUVJBTlIyQkktMkx5eFRDNDFiV3FTOUgtTVVEbVZoU00yQTVSQ3pyLXg2VVJvWDE3V3lHYVN1LWkyclU0NGQteTcxQTFveVJUUm9kYzBkc19JUFU4anBNZmhkcWhieGNwM0pmNkhPaEd0eEttbmVwc0VPcEdPMWdQS0pHcFpWRUV1QlVoRGcwTUFka0xsOVlXSERSa0g4cXJhZmxGaFVwRTB6YTYtY1dLYzRtcC1fN2w3V1ZZY1RVdTItVmd0TVVYYnc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-3a18c638",
       "date": "2026-10-21",
       "lab": "xai",
@@ -34665,6 +34705,24 @@
         "aws"
       ],
       "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3c3ce8e0",
+      "date": "2026-10-21",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Southeast Asia\u2019s digital economy to hit $368 billion",
+      "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     }
