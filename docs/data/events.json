@@ -34725,6 +34725,154 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ffb29928",
+      "date": "2026-10-21",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6c4be8bf",
+      "date": "2026-10-21",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "OpenAI models are coming to Google Cloud",
+      "source_url": "https://openai.com/index/openai-models-google-cloud",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-70e49346",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge denies Trump administration request to dismiss NAACP lawsuit against xAI - Mississippi Today",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUh2Vjk1dkJVYnUzVHhEZFdCSkNuekFjZHl0Y0hPbzhzdlBMaTB6QTZJcHhSVkppd2RLeEJGd0l6WjlEcTRfWExuYlVNZzUyeWFhMTVYd1pBQ2F5LVp1eHVaUlljZWlBUkVCY19LejVkMTZheHpUVEJsQ0ZNYWZRWEMxc3Myejlvdk43M2dKOV8tMDAyd09uc3ZMWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9c8e5254",
+      "date": "2026-10-21",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Hackers Used Claude and Grok to Fully Automate Attacks on Banks - The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0NBbGFsUGJZNTRmZ1h0R1M4bVp6SUF5ZkpnSGxyR3E0WmROOWxaS2lzaDlMekNxNWRxOGRPcldSMjE0THNfQV9rNW9qUVloMXlBYlY2OEt3OWVvZWI4ZzhWTVRHQ2xGbS1vSnlqZnYyXzY0TWFJZ3I5eExMQ1FfUmRqZDdnUFpEdmZqczhVbkhBb3lsRkJDWg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cdb8cf61",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "X.AI class action lawsuit alleges Grok subscriptions are difficult to cancel - Top Class Actions",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3hGd3VZY1A1bnBBcDlKUjJXSUlYcjlaY0s2VWd3VzlQVzg5cUJYaGJRQmFIZ0wwZ2lBVENGV3lQMGpzTXlPQlZ0R2hwcjNLRTF3a1hfTW91UlJhdFlCTGcwR0FkSUxUYjZqQXViYi01dUlFb2I2ckVEU1l2MmEwUEd3QUZ2aGtPOXptN04wTk8xYXNUbmFDOGI4aENHTVcyUEJ5Vk95c19raHBMMEo5V05NX2tMLVAtZUpyaXRmTWxfU1V0SFgzeDZQSjVWd2tVUkpMSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-314d281f",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Floating Rate & Alternative Income Trust Announces Final Results of Tender Offer - WBOC TV",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPR1JHOV9YUzJ0dWdOSV9vcjIzS0NlUWkzTlNiejBKOFZESG5Od1laVS05V1BQc2g1VHpTMDZWMU0ySVBzbWMzbUQ5Ry1LYXpIRUZrS0w2Ym1vdl9scGZGSnpmbzNmd09XcmVVNUtBelgyUjd1MXZZNFFVNnBmNFNNZzJkc3pCSWFoSkVITVZFNjJfNHZweXdDLVdDM3dzN2h5QlFYeWdhVk5yWk9EMXhBdVZKdU5MR3pNcGlLNUtJczZtUThRVXNvdmU5eEF4R1NKZXR4aDgwMEtGNU90X2s5eGdZQzBJcUY4Z3ZJSklxck1UdmlDZ0NzNW1JTWFWNVE0SU9VeEVtWmJqWlQ3OUVZMDRn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-11549a99",
+      "date": "2026-10-21",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Hacker Group Used Claude, Grok to Automate Cyberattacks on Latin American Banks, The Information Reports - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHpKZFYxazRsUl9OTjlhZ1pTbFY5azRXOGVvSEJ0MnlTLXFzYzlxeGV2RFowVFlvZVhiSDVFaml4aW9jelRZZVIyakVJeG9mVDZ6cGhNdHFzdkNYa1luV3RGNUFYclBKMG9yU0ZLUjdvNXdpQ21ORUVWYnFEZ2t3b240S0VPSktaU3NzSmwtWERaVHRXRk9sUzVyRlpuN1Z5Nng2bjYwdHRKRjNFOWRWOFRFRk80bW5mYllpSXlwaVV4blp1VVVqTFRWMm5JdGNnX1V2WGZpaXJDNWkxcmhtMTZOZHVzUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ba793505",
+      "date": "2026-10-21",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Hackers Use Claude and Grok to Automate Attacks on Latin American Banks - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQV9hRmphUkw2QW9uM3NqX2lPWFNZOTNmRXRlOGNlRzN1XzNsYmZQZnNhZ1g0UGFrLXRMZ0xaeEZJSG4zQW13c2JWOW9oSHo4aTVXTkRPc0lyT3paaU84blFmc2JRSlhEN2xkUmo3Q3FBTU41b2lxNmZMcUhTaEpLQ1hEcFBXNkVxSEl6MzQ3TUk3MVh4WE9QMWNEM04wdUpVNFh6M0hYanlfeEZESmFtbEE5c1dvQTlBcVVZTERqVG1fZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
