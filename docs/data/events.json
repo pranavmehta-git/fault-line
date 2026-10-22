@@ -35170,6 +35170,62 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-336a14ed",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit alleges Northwest Arkansas photographer used Grok to create CSAM of Bentonville student - KNWA FOX24",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORFNJU0NLWUFZU3kyLWFJS0NqOGN3bFpjcUg0ZWVGZWg3QVN0QXhyUEgxVWVLZnJza1NfQkhvMWNDUnJXaHdNZnZoaWQyaTFadXB0TXRqYVF0ZFIzSXV1SDlfTE9hWXR6dWIyTUtGSTllNWcxbG1JUnY4TU40RVI0akVCbnVVbGREMURTSkNzSmIxcXdtbUtIN28yc0U2OHp5MzdvM0hCZzE0bl92c1c4NnJyNUU1Szd0N3lmX3NyX0hkZUd4b0ozQnVRLVdNR0NkMERkVVBuV3VkTFZiR0FpS2Jn0gHnAUFVX3lxTFBDVHlZcElRSEVXN0VSSWZ6eVRHM01rbVFXMm5iSmtkSDRsLXkycUQzaFhEQS0xZGNqQlduTTdkYmFyRTEzSWFaZVd5SjBtY1ZYMGRETzNMY3BseG4xZmJwVHg0LVB1bnZSTjFDT3VoNUtGZkhETUhXUVdUazdCVlBHYVBISE5qMVliYVFSQTRSdU1xZ2w2V25ON3QwQkRMekFnOHd3T3VwWU4yOVhfTURSYnBieGh5V1dVNWNrQkVFcmNZbm1JUnFBd1ZZZnRzUUpicTByckItNDRvZU55N21QNHFfdnRkOA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-713fd533",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX signs up Apollo and Nvidia for a new Grok partner network - The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIbjhHOVltZ3pTMjM3NnhQSlgwUEVmMGh1R1l1M3hKVzZWYkRpSEpjQVFXM1E2MWxpLVZRV05iMlZ5NHdORXhlYnBxMjAtc2k4TmxmbXBIM0sxYUxHalQxMmJiaC1BX0lOblctd3lrZm5hTTRwV1E0Sg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-279734b8",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceXSI launches 130-firm Grok partner network to push agentic coding into enterprises - Techi",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1dKcG5wSHkxRHE3Q1ZNeXVNbTh0ak5RaVhnMWlXdHZzME1YOTZ0X2FhRzhKYVZtUVlmbjRaWW1ERzhkbUJVeHJPQzEtcjNRVE1RYk1zbmxOSm9hNTVkeHVDeXcwOEEwcmtza1VfclV4QVc5RmZybUdnRnBBVkJvV3JBTV84cUpD?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
