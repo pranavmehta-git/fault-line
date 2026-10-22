@@ -34945,6 +34945,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f68012ef",
+      "date": "2026-10-21",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge denies Trump administration request to dismiss NAACP lawsuit against xAI - Northeast Mississippi Daily Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX3dIZDY1VER6X1JMS091dzhPd2xMSVRPYlhYSjJDY3hLTmJGMFVNODdvX1RLODRFNWFrTGhGSGhsWUJ1YUQ5WDB3U25Yc1ZhSWxGcnJrWkpsM1ROWGtrNWJqQS1NVWQ3MTdBQUFCcFlyaHo1cXpBTXRhVnpXWWhqZFM5Rklpa055Mktwb0QxTGNhSXFOd2picDlDZzdwTmI0ZF92UHgza3p0TzFrU2NTa0IzTkJjUDB6aFJtUWs4N3BFaE54bHJXbGdhMl96dEt0SmpTZXBicUJ0YkJNUl95WGxidHRWNnBhZ21xZHAtSHVHTDRDUVY1b3dGbFIxdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5c5bf86a",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge denies Trump administration request to dismiss NAACP lawsuit against xAI - HottyToddy.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjZxZ3lQczJVclc2ZFFOVE9semtUUktWMXk3UU1PVnFxWTdKMWs1ZDdNQzA2UkxhanRBWklxQkxaYjZHSzJkb0l5dFJxVDJiZ3d2UGxiMm1WMlVnSGNqNkNfQThyaXpUdG5vaWE3bTBrVjhqaEFIM0tFZXpUZENUcEdTaFhYckpqemtZOTJOQVdKMlF5cjdJSU9fOV9mZ08zajJZOWd2LXVGdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
