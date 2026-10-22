@@ -34985,6 +34985,84 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b7f8441c",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US federal judge rejects Trump administration\u2019s attempt to dismiss Clean Air Act lawsuit against xAI - JURIST News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd1p5X1FyWWhXQWJjQ194dFExS1Z3bng1M1B4aXJ3d3VLV3VCVHJGU3VGa0ZvcmZNUGFpbnlJWmc0OVp5N3NpRFZGaVZtOHlPcEowQUpiYktBcGhUTFNoVnZZQ1prdUFsTTZTQVFvWkJYVVZVNVJxa2M3bm5melVVYnF0UERhYy01MDhicmplaFUxZkxydi1nY3BBUnZqdndvQm1paGVuTEV4UDVoMTZWTkg5QU1rV2JMblZlZGZ6UXJaQnVCVFYtR2stWUd0ZUxSZXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5fc969e8",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge denies Trump administration request to dismiss NAACP lawsuit against xAI - Northeast Mississippi Daily Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZElwYm1uaTVsVDdWX2xwRGJ1M2s3bEJnQ3ZSNXVMeGFOUXdUSDdhdXI4QUFRcUt1U19RQ1hYVGNsdVB4U3N3UUk4aG43cnc4TEdNZ3hmQXpqYnBsY1hEMk9KOWhJeXBfclpyQ2JjOVhFR1RBWjRndzFoSjRtSnY1cC1lQXJoRmloUUdvMFYwcElEeHAyUE1WaWw1X096MHVFQnZKd1hSQUNrdFZteldURGtCcnBjUVh0OUh5YkpHUFNoTUcyZm9Bcy1CY1ZLVXJ4dW9tdUc2cjNNMFQ1WnhqZmo4YTJUUTVVemZjaFN1ZzNRS2ZQSE0xSU5ISEZtVjNB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1c2470b9",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "US court allows lawsuit over xAI data centre power plant to proceed - Digital Watch Observatory",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ccy0yOWxiUzlfNWRmMzN5a3J5Q3VYVndXX2xFRmF5YkJ3U2pGbTNxNllkcVdXalRET0lEM21kOV9Fem8zem5kTklwcTBZbGE2QkR2QWdHdzZLMm9TTmJ5T0R3eFU0WnRkN2lPcmRNODg3RlZPOGFxRjVpcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bc28a3de",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok AI Predicts an Insane Price for SpaceX (SPCX): Is Grok Biased? - Tokenist",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWVJZ2NlaXVMUUdDS3VCRjY5OXk1R0FtTW8tUjNMM1puQmZtOHNZeDBCakNVSUFqMEw1eUZ2T1NBRWZkTEtLem8zQV9yY1lIc1c5T1MwejFOb0VObG1qbFdaVnJCLU9LS0w3RFFETmlfd3pqM0d0SFg1d19lMU9OYTllRzZ6b0cwaDJLMHN3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
