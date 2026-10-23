@@ -35322,6 +35322,22 @@
       "historical": false
     },
     {
+      "id": "evt-1e854b16",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX's Grok AI Joins Enterprise via Partner Network - Briefs Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSkxFeVJqZktZQ09lYWdCR2dNNXlaZWhya29fRTcwZVZzbzljMW9hZkd2cTVYXzZmdXV0WmVEXzFkVFlFenJoVzJfeWNuNnYyYk8xemcwVXdGLUt5ZVRxbFRLQ1dteEt5cjl5ZmpPXzhlUGZjcHljT0I3ZFlDc0t5Zlg1dTNHblRCamc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-75014023",
       "date": "2026-10-23",
       "lab": "xai",
@@ -35355,6 +35371,62 @@
       ],
       "confidence": "low",
       "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c264c688",
+      "date": "2026-10-23",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+      "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3520c773",
+      "date": "2026-10-23",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Hackers Used Claude and Grok to Automate Cyberattacks on Over 400 Banks and Financial Firms - CyberSecurityNews",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVmpwSVRYNXhDMTRzU2dmdlBLNkdsdlVpeWpDZXBMVVFrUXdNQXlUQ3d1RV9oTkFRVmJvbkM0M3k4b1JFOGhVcTZBaWdWMzc4Znc1OVNZZWRkVTZ2cThfbmJNdVNraEY5Vk000gH8AUFVX3lxTE51alFzY3ZGcGlPUUhaLUdZV2JiOEJMeEE5R2RDYmU2cFZHeUQ1c1BwVWhaY1oyUHRTMzJjTnp3U2VsOHVFQ1ZNcUMzazkycjFlNmQtSTZmaFFQZ19EaDJIbTB4akEzajQyOV9EVF83OHJBemhfQTBxOE4tUmtvbUtMaEJWUmtfaHJ0SjZ2WnNtQ0E3VWx3MUZXYlg5NnZSTE51OHNfNHgzc19vakhvNW9aZEd6YnRMczh6YUN6eE1tV0NvOTNZYjE5Tl9LQjhZZnVCak1oNVl4aFRNYzJ2cEVoOU94ZnRWSXdVdWtUb2xxLTFJS3FFdmhWUmVNTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f9c8c91e",
+      "date": "2026-10-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Bloodworth, xAI named in lawsuit involving 5-year-old alleged victim in Bentonville - 5newsonline.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSUxBeElKcnVSaHUtRVhsVEo5bVRpdTY1eFM4NUpOa0l2RnJyem1FWWU4NkpIWUxlMGhfbzF5T1ZXMldPcWNxeHR2MXlWS0dMWHpmblVxOVp2a3lqcGVBM2taaFB1ZGZndnlGeHNfQndfX0dEUk1VelIxcVd2YS0xRHk5T1c4dFA5djBQOVhIbm12MHhfcDFaNERpSzRBNVc2Q2hqQVN4V1lta0JyTl9SM3BsYVc0dzA1UXpaUEVvYnF1NzFFaUp1S3Y4OURNQTV2cXpRV3VtalV1MFNOWmhwWUt0X3N4Uk5tZk5rNnJQeHROMWlaaTZiLVV4SXU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
