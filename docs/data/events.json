@@ -35502,6 +35502,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-2d94aa2b",
+      "date": "2026-10-23",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Securing our frontier model training environment",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cb62a8e5",
+      "date": "2026-10-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Study finds Grok stands out on political bias in AI chatbots - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzU1RElCd1VPbHpYWjNsbFgzZm5vSlgtOWN5ODcwVlE0MWVKT3ZQbFVGOERjc0x1UW5idTlaaFl1ajdtQjhoX1JOWFJLd3ZlQU1CcEVueFB6U3NxR2x5ajgxZjc1eGh1TTBJQ3VuQ0FtcE9HVUVwMHY2eUY5TWlfTEpMQ3ZDLVdIZWRING1NczVZV1haVm54Tg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
