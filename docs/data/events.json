@@ -35338,6 +35338,24 @@
       "historical": false
     },
     {
+      "id": "evt-2499494f",
+      "date": "2026-10-22",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Cybercriminals Used Claude and Grok to Launch Automated Attacks Against Banks - GBHackers News",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VFl2QlVEMVBEcnpLM1ZscHV0bm5vQzJqQ2s4RUVSdnFiandxd1NPWjZhdEhkOVJ5QUhubTZJa203WkwyZnhNN3duLWg4dkQ4RVplbUdIbGkwNHlX0gFiQVVfeXFMUFlQbmNocnNLRzN3S0NnZ1MzT1MyUUFTTndKWG9hSktOUjdlZ3FINFd5b2dSMlphMF9GS3h5aUxVSVdfX0lCVXBZZmhFT3ZTVVo3ZFcydUNtS0FBVmZ5T2NpX1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-75014023",
       "date": "2026-10-23",
       "lab": "xai",
@@ -35427,6 +35445,60 @@
       "tags": [
         "aws"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-86086580",
+      "date": "2026-10-23",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "azure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fd2dda5c",
+      "date": "2026-10-23",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions \u2014 passwords and details stolen from over 400 institutions, including banks and payment app...",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a95bed32",
+      "date": "2026-10-23",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok Bot's computer just got 3X faster. And that's only ONE of the upgrades. It can now read and reply to your \ud835\udd4f DMs, jump into \ud835\udd4f threads when you tag it, and remember what you discussed on recent ...",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USGtxRmhFMVNkNWtWYlJjMkVfa2JGN2YyQzVuZlgxb1Q3ODNzSVkza2Nhb1hzbzZEdEhyYnhKZ01nOTFhaVMzc0lTSXNWUV9FR2QwQlc0dTFPVF8waTZGQkVmTi1YTU9TMUJNTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
