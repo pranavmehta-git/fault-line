@@ -35538,6 +35538,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-6ac0dbe4",
+      "date": "2026-10-24",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot Will Route Your Tasks to Claude. The Moat Just Moved to the Switchboard. - forkast.news",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXVnUHMtSllmR05NWHBYYURqWGF6MmtzaXpZVmppTXRmYUFxbUlKT0tYTWozZUJoNE1HbXp5U2dRRjVjTWozZmQ1UVJEd2FhNTY3ZDl2LWJmTkZtTTJWRjNZdjFIMmJoR2Z5aXFYTkhCdVBibXJUZHByZUthM3p4WDlKWXBlYU5KZTYwWmI2UEdHMmppTndYQmlnYXRtVTNVR2ZB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
