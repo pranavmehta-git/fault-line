@@ -35556,6 +35556,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a3da85db",
+      "date": "2026-10-24",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Study finds AI models Grok and GPT show strong opposing political biases in US midterm election picks. - Pluang",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY24xb2RkQVB3cG1qRmNFWmYxYjhKS3Y2c0J3WUR3Y3JYbzluMWhubWNtdmktUkFuWXBXT3ZsQjFnRWZQSlQ1a3Q0YU4wemdYVGVaUmtldUpNRDF6UG1NbWxEZUNlU2w3dk50YV9pR3FZODJjS0dzQTlPTEE5UkVUODduRkdrVmY5RHphaQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
