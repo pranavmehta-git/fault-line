@@ -35356,6 +35356,27 @@
       "historical": false
     },
     {
+      "id": "evt-1671d90b",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX Is Working With Nvidia, Apollo And Other Top Tech And Consulting Firms On A Grok Partnership Program - Stocktwits",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQODdRODcwV0dXN2EzSFZJMDhxeF9aaHlVU0pWb0JiSE1rWTByZm9YT0R4aWxHN1hhQmpLc0lDbU5NRWdvbUVoalk2M0o5Y3BWbmhLd0VMMXh3VFZISHhJUTlHRzd0bkkzYWJacllZVzAwMV9OYjVkYUFWR2VoS0Zfdkdyamo2cFpDd3h2OERQV3lBVVZDZmM5WEJpbmF3clBkdHB6UzJuRjREakt1dGlVWWwxTXRQNmdDTTJYVl8zNElkNDd6MWk3aUVBMEhNZFNENmhBVE54ZG5pbkxKVmdnWVhjdXVyZ29QazZCLXVXS2Y5THc3RG1VaXhyZGJ4dHM0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "partnership",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-75014023",
       "date": "2026-10-23",
       "lab": "xai",
