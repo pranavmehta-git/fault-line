@@ -35377,6 +35377,27 @@
       "historical": false
     },
     {
+      "id": "evt-35d4061e",
+      "date": "2026-10-22",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX Is Working With Nvidia, Apollo And Other Top Tech And Consulting Firms On A Grok Partnership Program - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5cVBsQ0VRdEhfeTN2dXctTmFfaDNXS0phX2dvdUZwTnZlbDVBRFRuWUx2cllXUmhHTWhGN3p1ZnNfM3MwakVhTTUtVUkySE1RcC1Ld05uU2RKdFB3bmI2eURiNHJ1cDFyUE1YVmt3OWhIUk9lMEZ1RXQzX0JDSXEtQ1NGbXJkNk1ZZ091U1NVNXluMlVlRjBNYVItMG8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "partnership",
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-75014023",
       "date": "2026-10-23",
       "lab": "xai",
