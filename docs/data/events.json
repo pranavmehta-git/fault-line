@@ -35616,6 +35616,131 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-95c00165",
+      "date": "2026-10-26",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-226cd615",
+      "date": "2026-10-26",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic officially files for its public debut",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "high",
+      "tags": [
+        "safety",
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a3316b9c",
+      "date": "2026-10-26",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+      "source_url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "source_name": "Wired",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a1216ad7",
+      "date": "2026-10-26",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "source_url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c36117c2",
+      "date": "2026-10-26",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Introducing GPT-6.1 Terra",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a5665dc0",
+      "date": "2026-10-26",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX agrees USD 40 bln GPU master lease for xAI data centres - Telecompaper",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSURreGxnVWNQV24zbVRMb1JjSVdoUnlzQUJua3NQTEZVQzBwUVFVLVgwQ1FKLThRbE1HTEhTY1ByREFSb04tbUc0TnA0MUNObUpPbXBXc0FGTzZZUjdDTUpJYk9qaGVHaVR0SEtiay0xbjFsSEk0TTlOT2tFbmZ3MFA4d3oyemhxb1p4bG5obDVGR20yX2pWMm1tYVlsSFozdVNKZnVLeVc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-73f84702",
+      "date": "2026-10-26",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "Form 4 XAI Octagon Floating Rate & Alternative Income Term Trust: John Yogi Spence (Vice President) For: 23 October - Investing.com Canada",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQX296V3pxS1FZRDl2SGVKMm04aE9ZUUdlZnFRSDY2UEkxbE52b2N3bHJFdnpLaEdYOExpRmN1dDJtVjRySVQydXg2d0NfWDBZd2xobHBaRWFiQkwyd0dnTGJmTm00cTQzcDNzcXN6dlgzUDFxYVdzc3VpdVRxUmh2YmFFUUV2VzUwOF9DNzJNODdVTUlpaFlSX2lKSF9VTjNHOVRmTDk1RTBtS09WeEdwNnI5Ukgyc1BsQlNkNFN1eWtuaFZ6X0VFTHFTWkozZHFfTXFUVVo5U1ZDVTFBMWlXYktXd1Bvd1JTSmNkWEdBNE9Ua3ZXRmpGY3JOYnFlSnVf?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
