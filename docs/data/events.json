@@ -35773,6 +35773,131 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-c04916d7",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eca1a9a8",
+      "date": "2026-10-27",
+      "lab": "meta",
+      "dimension": "talent_governance",
+      "summary": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "source_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source_name": "TechCrunch AI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "high",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-21358b47",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "source_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-45052c91",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK Politician Jess Asato Got Deepfaked. Now She\u2019s Taking xAI to Court",
+      "source_url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6d988d07",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Jess Asato sues xAI over Grok deepfakes and consent violations - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84YmVNU2ZKbEpRLU91cjdVRkw4Qy1Vc2tkUVZfenJCNlBoVmRFLWxNZnZudEFJbDJwYmRJdm5QVVhRWTdTbWV5b1FsYUNKbzVTSV9jeUEzOS1fN28xdWw0SkZtTGt6MS1kblFpbkNrZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-70995038",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK Politician Jess Asato Got Deepfaked. Now She\u2019s Taking xAI to Court - WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBldDJvRkRSN2tHbzFsMnduVElkRkdPT3Jfc3ZFdmFVamNsWjRXM1RwbDFNRWdodGMtQVIxZzRMdDNXNlFYdC15Y3VIaUprdHZ3MFVyNmx0bTVtOXMtWW1hZmY1R3hQYWxIcW0zYVF5eW1weE0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-efb16970",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot Uses and Pricing: What X Users Are Doing With It - Techloy",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MlQxUEdXTXotVUh6WU1pT3BTbTlnUm01WElGWHZsVWNQSU9vR2ota0lGZ3VsZk5FMTh0ZFlySk9xNHcyTDl2elFacnhvT0ZTNmJzQnNMd3Y4dw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

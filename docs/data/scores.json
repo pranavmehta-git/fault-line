@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:21:30Z",
+  "last_updated": "2026-10-27T17:09:29Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -17,15 +17,15 @@
     }
   },
   "systemic": {
-    "index": 5.1,
+    "index": 5.3,
     "components": {
       "average_lab_fragility": {
-        "value": 0.276,
+        "value": 0.282,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
       "correlated_stress": {
-        "value": 0.367,
+        "value": 0.4,
         "weight": 0.3,
         "description": "Share of labs simultaneously stressed on the same dimensions - correlated rather than idiosyncratic risk.",
         "per_dimension": {
@@ -58,9 +58,10 @@
           "societal_impact": {
             "stressed_labs": [
               "anthropic",
-              "openai"
+              "openai",
+              "xai"
             ],
-            "breadth": 0.4
+            "breadth": 0.6
           },
           "talent_governance": {
             "stressed_labs": [
@@ -256,8 +257,8 @@
               "corroborating_sources": 8
             },
             "G2": {
-              "intensity": 0.717,
-              "evidence": 2.53,
+              "intensity": 0.721,
+              "evidence": 2.588,
               "corroborating_sources": 7
             }
           }
@@ -283,8 +284,8 @@
           }
         }
       },
-      "events_count": 777,
-      "last_event_date": "2026-10-26",
+      "events_count": 779,
+      "last_event_date": "2026-10-27",
       "top_drivers": [
         {
           "item": "G1",
@@ -301,7 +302,7 @@
         {
           "item": "G2",
           "dimension": "talent_governance",
-          "intensity": 0.717,
+          "intensity": 0.721,
           "corroborating_sources": 7
         }
       ],
@@ -477,7 +478,7 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 2.5,
+      "total_score": 2.7,
       "breakdown": {
         "compute_chips": {
           "score": 0.49,
@@ -558,7 +559,7 @@
           }
         },
         "societal_impact": {
-          "score": 0.62,
+          "score": 0.83,
           "max": 2,
           "items_triggered": [
             "F1",
@@ -566,14 +567,14 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.401,
-              "evidence": 0.67,
+              "intensity": 0.467,
+              "evidence": 0.876,
               "corroborating_sources": 3
             },
             "F2": {
-              "intensity": 0.217,
-              "evidence": 0.278,
-              "corroborating_sources": 1
+              "intensity": 0.366,
+              "evidence": 0.578,
+              "corroborating_sources": 2
             }
           }
         },
@@ -617,8 +618,8 @@
           }
         }
       },
-      "events_count": 745,
-      "last_event_date": "2026-10-26",
+      "events_count": 749,
+      "last_event_date": "2026-10-27",
       "top_drivers": [
         {
           "item": "B1",
@@ -635,7 +636,7 @@
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.401,
+          "intensity": 0.467,
           "corroborating_sources": 3
         }
       ],
@@ -807,7 +808,7 @@
     },
     {
       "lab_id": "meta",
-      "total_score": 0.9,
+      "total_score": 1.0,
       "breakdown": {
         "compute_chips": {
           "score": 0.26,
@@ -901,15 +902,15 @@
           }
         },
         "talent_governance": {
-          "score": 0.35,
+          "score": 0.52,
           "max": 2,
           "items_triggered": [
             "G1"
           ],
           "items": {
             "G1": {
-              "intensity": 0.354,
-              "evidence": 0.548,
+              "intensity": 0.52,
+              "evidence": 1.083,
               "corroborating_sources": 2
             },
             "G2": {
@@ -937,13 +938,13 @@
           }
         }
       },
-      "events_count": 50,
-      "last_event_date": "2026-09-24",
+      "events_count": 51,
+      "last_event_date": "2026-10-27",
       "top_drivers": [
         {
           "item": "G1",
           "dimension": "talent_governance",
-          "intensity": 0.354,
+          "intensity": 0.52,
           "corroborating_sources": 2
         },
         {
