@@ -35898,6 +35898,112 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bdeda52e",
+      "date": "2026-10-27",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "Who\u2019s really in charge at Anthropic after the IPO?",
+      "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6aa97318",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-86045ce3",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Check Point accelerates vulnerability research with Daybreak",
+      "source_url": "https://openai.com/index/check-point-daybreak",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c5fdb8c1",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceXAI class action lawsuit claims Grok AI tool violates Illinois privacy law - Top Class Actions",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZzF5ckxxS3kxZWg3Y2o1RS1wUU1OeVF0dWJvWEVrM2xOZWd2M19oOGoxcmlXdWNXS28zX0s1UUp5bkFMcG16WndWZ3VxMmFieE8zNE5sLUVpTjBpRGF1NlJDLWJ2TDNpZ1dDdnEtblVkMUNqazFvMDZEMmFobXhJUUhEVGhYcFY0U0RiTUdxdTZvbV9aQ0NuaWt1UktRYV9PTzlCZjF3Q0hFNUFWQmFqcThyejNMOXF5bXA4RWU4MjVNOWJfYUNhaW1TN253SkdqVW05UVgyQ0k?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-17d06ab2",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge blocks federal government's bid to dismiss NAACP lawsuit against Elon Musk's xAI power plant in Mississippi - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUZOaXdpYUxOaVpyNDlWS1E3b2tRMjNtaWVpRFhUdDdvc1VCajBzVVlUTWhtaEpmLWlzWV9nMXlDSWw0U3VqcERlejNrUmZXb0lGNG43OVZtTnIycVF2dldBbUFEWUQ2UkZaS0t1QUYzQTlvUVcyNVFYcUI0OXl3UVFFc2ktR0NGMndZY1U2MXJEM1c0QldFaw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3b1e7b95",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "You can give Grok Bot a job, close your laptop, and let it get on with it. It has its own cloud computer, so it can keep handling tasks even when you're not online. Inbox cleanup, meeting prep, \ud835\udd4f r...",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fYnlNZWxxZ3FLd3YwdkpFTV9hXzVzOXdXbFRGYzlZcDZjX0RkWDNwdjJVc2lCOTR5LVV6RE14T01yOEJ2YnFZWkROM1JiUW5yRHZPd3BPMmR6YnVLQkdibnhxdmN3dWJteW9WQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
