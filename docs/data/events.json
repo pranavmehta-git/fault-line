@@ -36095,6 +36095,78 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-46037718",
+      "date": "2026-10-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Watch Grok Deepfaked This UK Politician\u2014Now She\u2019s Taking Elon Musk\u2019s xAI To Court | The Big Interview - WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dzVnc1RPU2NaNXhIcHFJRGRTcmR1bzUxNFFXNUk1aFNKWkVBSXB0VUtsLWlTalJUbUhGSmtsaHVGVzh5bHRKWHB3TFVJeW9taW9PS2NNVWhCb3pPdHdLcUpnU050YVVfeXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-092a30db",
+      "date": "2026-10-28",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "\u2018Elonville\u2019: US residents say Musk\u2019s xAI offered to buy homes if they don\u2019t sue over datacenter noise - The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlRSUXF5ZTFxZy1oN2lWRVFiclVxM3ppQjRfRHpmRWRzMHNzU0xMQmtidmF4dFB5WXF0UVpRMjlsSGc0cW9jc3NJOVBobUNYTThPSTcyTUUzYkk0T3NsSzhzT1pOdFkzSk9XU3c5WnMzUVBSVUgtUEgzZHVaZWxpN2ZXUXE0V2xiUDBzdjhsMFRkMjVsX1JrLXNn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-085f05ba",
+      "date": "2026-10-28",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "XAI Offers Home Buyouts In Mississippi To Quash Data Center Lawsuit - Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkQ4cTNla21MS2dBdlZUVUNQbFFZYnRFQ0xvbmVCUmRiWXRWMXJrV3Nhbm9yU1VVS2hsbGltZmdDZXluQ0M3ZllyS0YzWHlJckJqUmJVOS1uSjRFMm9qQkFvaXFzbjZaRHZyZmFvR0xuVTRSUy1DZ21SUHVjWnpKSU52ZkVYNE56bzA4bUExRXdpelhUX1RUek05Q2ZLc3BRYkdPTy02NVZLZkxGckpzVHIzN01aSHNnMDROY05R?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a6b1a57d",
+      "date": "2026-10-28",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "OpenMausBot is an open-source Grok Bot alternative with a virtual machine that bots can use - Adafruit",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnhGNW9idjNoSElMWlg0RWJ1NEd4VmF5Wk5aYzJqNmJ0LWFIcW9RWi1KeG0tS0hxemluUlVrZFR3SGpyaUtBUngtTS1aelBxNzhidkpoZVF1eFNMRm83eW11UUNTaEowbU9yU2Z4NzBtTWdFS28xMmx4YWNraWFFZ2xaYWJwUVQwT3Y5ZFgyYlVRX1RTQU02cmpPMnNaNk5uWWV2aTdFYmxBenZFcE5XdWJsOTZiU19PenB4NjYtb0xjSlZjU2d4RQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
