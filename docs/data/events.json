@@ -34024,6 +34024,40 @@
       "historical": false
     },
     {
+      "id": "evt-d797f992",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Localiza reorganized work around generative AI",
+      "source_url": "https://openai.com/index/localiza-generative-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3feabe2a",
+      "date": "2026-10-16",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+      "source_url": "https://openai.com/index/grupo-boticario",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-d02c2593",
       "date": "2026-10-17",
       "lab": "openai",
@@ -36002,6 +36036,42 @@
       "confidence": "low",
       "tags": [],
       "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f0ddc9ee",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6e77eacb",
+      "date": "2026-10-27",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Retell uses OpenAI models to help power 100M monthly calls",
+      "source_url": "https://openai.com/index/retell-ai",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     }
