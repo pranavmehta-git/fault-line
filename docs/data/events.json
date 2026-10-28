@@ -36167,6 +36167,77 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b852bc18",
+      "date": "2026-10-28",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "partnership",
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0355333d",
+      "date": "2026-10-28",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "source_url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "source_name": "Science Magazine",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82eabab1",
+      "date": "2026-10-28",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "partnership"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-678549b3",
+      "date": "2026-10-28",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Deepfaked This UK Politician\u2014Now She\u2019s Taking Elon Musk\u2019s xAI To Court - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHk0QTB2ekFUa0FfN0kxT1pDTFpZSTMxYkVEX1N0R3pZdkQ5dDlZSUltTnFFNTU2SzBpTlVjeFN3dXphbDBqUDF6NmhiQVFoTGRoa0R3ejRhRElhV0ZmUVY3WUNpM3hrV0dRa2tuQ295VVVsNDZwcGNHT1FBTjNKQi1OTktQSmstdkR6MElVUkVJTjk4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
