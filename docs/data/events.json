@@ -36074,6 +36074,27 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-ff399a5e",
+      "date": "2026-10-27",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI Valuation 2026: $250B SpaceX Deal and Funding History - AI Funding Tracker",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aSmFMS2F2QVdHT045bk84LUZtS21wZWsxUzIzWjB3S2pXUjF6OHIwb0xGenBsYVdUWXhHOS1RQXhtUWVUdjFZMHA0djVqSE1uMFlqbm93?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
