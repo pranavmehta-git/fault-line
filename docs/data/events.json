@@ -36238,6 +36238,42 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5186d5f1",
+      "date": "2026-10-29",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
+      "source_url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-70c6647c",
+      "date": "2026-10-29",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's xAI offers to buy homes if owners drop noise lawsuit claims | Tap to know more | Inshorts - Inshorts",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0xsTGJ6anpxVlR6UlBzTTZHNWZUMUwzLVFwaGlKaVFrSFV3SG5kM3NRR0VRckZqVjNDWU1HNk51YmxQcWNOMXJtMW9ta2trX3dKYmN3czdzS0RYSVNPVEh3b0lCV1d0YmJFZG9ZZnFnLVhReFVFY0ZqcE0wbkxBRVFXMURTcnJfQVA5cVg0OUpHdkRsNUd6MzAyT2ZCMWlsRURuNkFBeWQ4SkVIS2fSAbMBQVVfeXFMT2hTeFJ0b0hIUXNjMWhxSlhrT25mSGRXZ1RUeVMwN2xHZnZTdDMwTlJyYlFOWVduTXI5S1Q1NTNGR1VONmRyeDMzTUo4a1dqUWs2RXNhQzNiOTk2UHB0N2FBLWwxTEpJaFRjdG5qSGRQaFJmM3BybjdPMjFBNkRjcC02TTMxU2JzQXBQbHpKam9DdERzLW5STVR4aldhUWFoLXNsTEIxcVdXcHZnSWtTazJ2MzA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
