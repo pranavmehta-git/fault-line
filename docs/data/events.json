@@ -36274,6 +36274,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-60d69861",
+      "date": "2026-10-29",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "source_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0e61d4ff",
+      "date": "2026-10-29",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Pricing, Explained in 5 Points - BASENOR - Tesla Accessories",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14ZG1yNU1DSldJX1ZpWlZpeFlDTGRBcTNMdjRjWHNVVHZaaksxdTJZNUhFSzBPNlhxVnlxWXNKQk56aFhrSEpjaVRzTGJaUlozNlN5Y1FxOW9Wc3N5cGZjckJUS1c0REw3SkZfLWc0VkhrVWRGVlVsTw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3e6e3082",
+      "date": "2026-10-29",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nemotron 3.5 Transcribe vs Grok Voice Transcribe 2.0: Open Weights on Your GPU, or $0.20 an Hour - OrcaRouter",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEtQcWY5Wkw0ZzFCMUdRUHRGMHhDbjRKUGsySU1UcDVrV1lYbnkxMy1zNm5NT1BEV1pESEZLZUVMTmdRbGFQdHlCNjBaRkxCcEl5a1NSOURZZ0dSZndCRXF6TFh5dW5qQk1NRFJNZFZmcXJraWJZejlmdmh4X1lhY2NVbjZpRGVFbWFF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
