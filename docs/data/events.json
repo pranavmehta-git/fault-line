@@ -36448,6 +36448,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f3d447f3",
+      "date": "2026-10-30",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bf916af6",
+      "date": "2026-10-30",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4cb52775",
+      "date": "2026-10-30",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Congressional Democrats are asking Trump to preserve discussions with Grok about the capture of Maduro and to explain AI\u2019s role in decision-making - Informat.ro",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDFJMnRMbEVOTjU0TVViT2h4NzJTbXVEQ2Z3Z2wtbjI1ZUZ2dmRaamVuNWUtNzVHcnUzeHZwYnlzeE1NdlB2dWw4VjhISjFMQ3B0aU5NeUxSSklCWm5VTGYtcmVNRWhuWGFpY1Fkc3ZuUWpqQ2RLWjZBWW1aZm1XU3V4TXgwTVNJTTVHekxTYU1FYWFtbUcwVDFsaGlzZ2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
