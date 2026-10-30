@@ -36328,6 +36328,126 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-bf80807e",
+      "date": "2026-10-29",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "source_url": "https://openai.com/index/credit-saison",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-73c41a34",
+      "date": "2026-10-30",
+      "lab": "deepmind",
+      "dimension": "compute_chips",
+      "summary": "Google\u2019s first data center satellite is online and writing poetry",
+      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-763458df",
+      "date": "2026-10-30",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-63da5341",
+      "date": "2026-10-30",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Community safety report and new protections for teens",
+      "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-57259efe",
+      "date": "2026-10-30",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "SpaceX launches Grok AI partner network for enterprise expansion - MSSP Alert",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWG9oa0J4OGZpMmlhZlh6MXVJNW9Hb3d6WmdDTWtQRGVuM3lfbkhadkVuWVFGbFNIRXdOUWgzMUVtRHVaSU1zSTktaDNPU09PcF80bDY1QU1XektqNFdIQjVDb0NHOW5SYjAtSmdwWXgtZDlUS1Vtbl9scUQ1UFdLQnV4TU5CaDZQVnMtYTJtN1V0Z3plRGtqMDE1SQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c8caa3c6",
+      "date": "2026-10-30",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Risk Factors Identified in ongoing study of Gemini and Grok - App Developer Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkd1T2tHT0Z1NWE1ZFAtaHpHSEkxOThhTWhYMXBrcWhsLWxQYlNNZjNuRE41MFhXZHJzRkJxMWxOaTE5UVhLOGNuTzNJSnZTRDRlWVJPc3FxQVVVOVAyMm5xelBNZjBDeGNscHZITHdwckg2VU5xX1FKN0xLZk5YQUo4Z3hNRHd3S3B5TllnZEh5N0M1bFRDbg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-98993938",
+      "date": "2026-10-30",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk's Brain-Computer Interface Connects to Grok Agent, Letting ALS Patient Control AI and Make Phone Calls With His Mind - BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROEQ2NTBtS2pxNDFEZ1hoRmlfeVZLN255TkEzbTFFc1ZnTEs2N2xjcW1fY3R6UEZ5dEdYemkzaVA4RnBEbDVRdkVfdUtYbEVyOG9DN2M2TFB4N0xqS1l6NmM2eFhkU1h0TVJzbnAxVnl1T3lMOGc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
