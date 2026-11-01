@@ -36698,6 +36698,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cfcf21b5",
+      "date": "2026-11-01",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge Says xAI Must Face NAACP Lawsuit On Data Center Pollution - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnRGYUdGOHdGM2FHSmtKdkZjNGM4eWNqY3pRdlczQmlrcUFVYjgzNExTRjlibW1YWXdveFZCdHpxdE5kSDhUYml5MHBDWHQ0RDdJVV9VQzhpN3RMdTVMaFhfVUUtb2pFMHg0dmM4MFRNTlVkWW1fWTF2TExMWVJ1eHRubGhrM2IwM1J3WEtNUklnX0ZBd0R1UlVnTFh3UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8409d24d",
+      "date": "2026-11-01",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge rejects xAI\u2019s bid to dismiss NAACP lawsuit over its gas turbines - The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSS1pOGFFTE5KRnZ6dzNlbDVqUUlrMVJ2TnZXckE1Y0RicldtNURRLTE4UHhWQlpONmEyUG5raDdxX0hwZlREU3hBWnRXR0VjLXpUdmNIOGFlY01nZmJwZzM1X2J3R202eVh3ODg0S201U3hndmJrbng0bVVuSVdqcFBmZHI4RDIxVVpr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
