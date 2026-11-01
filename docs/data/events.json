@@ -36678,6 +36678,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-17dc01a4",
+      "date": "2026-11-01",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge allows lawsuit against Musk's xAI over data centre pollution | It accused xAI of violating the Clean Air Act | Inshorts - Inshorts",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFVsTWYwbVo0aXBzU1ZjekE1MS1adUlpWE11eDFIQVpadlA2R3JlZzUzcGtfbGdTSk9qT2o4UE9GWURRM3MtSzF1VzhkSUZXZk93NWhVdGQ3ZmR5YnZUS3dDVWVYWUdGanJ5MTJ4R2d4NU5LLXJMVGFBRGFrS0JnVE1fd1Z5WTVtbXNlV2pGZkpMV21oeVJMOUtoMmN6RGd6Ny1LX2pkakZMWEpSRFHSAbMBQVVfeXFMUE1kMFVpSUNnSm5QNmlFcXJEZDE5QUotUFN3OVlMRG1kWms0N0FQMElvLXFwdDJydm5fTUV2NWdUZnhzbFBhMkthXzFMN1ltR1JmYVgySjhSdDhmSFU0R3YwQ2x5S3B0WldXOXFsWHB5ZGhRNjJuYzcyaGNwWkN3US01cWlyeWZhZUxma1FRUG0wLU5lc0RVREF3dzdWX0tOR1hod2ZZSGNqb3BHNUg3eXJuck0?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
