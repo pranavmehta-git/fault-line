@@ -36738,6 +36738,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-480d3070",
+      "date": "2026-11-01",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e880a315",
+      "date": "2026-11-01",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk Says Grok Bot\u2019s Serving Cost Was Too High for Revenue - FourWeekMBA",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONExtVUI2bzFMR1pjYmRJcE5nelNBMS1CQzhzakRhNEYtV0wtNmlWMVRLZ0t1U3JQNWs5X2hnQWtjOEhaVS0ycmd3X3VmVDFUQTdfVFNlOGl5SU5JbklYOFdhNTlnN0RiSVI1NU5QQ2Y4dzdsY1ZLU2FoWmZtREhDX2xmdGxZWDVGTXZtZS1n?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c8d41762",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk says cost of running Grok Bot 'unsustainably high' relative to revenue - Anadolu Ajans\u0131",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTFDUm9qUmxiNzNIVjVWYVI2TU0tTmFvUVZnVS1QeEJ0UnlBV3pNYlBGb1pGM2hQXzRBVmYzMEJBdnZ2dDhlMmtZWFhoT3dncy12a0NvTjdFN2VpNVhXRkxYbUQwYW13ZTRJalowcFBpZzNXYUFCczJzODk1dTBjTzVTT0p4NV9SRk40azEzd1lkcjRsWEZsaFNPRVd6aDVjajU3UWx4NzVTRWo0aTBvWm5JWGtVc054QllPSzRYbm8tY3l3cXpPNENR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
