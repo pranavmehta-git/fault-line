@@ -36774,12 +36774,366 @@
       "historical": false
     },
     {
+      "id": "evt-3ecbf42a",
+      "date": "2026-11-01",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Elon Musk says he is taking over an old Spam factory and a gun range to expand his Colossus 2 AI complex - Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblNHeVNwZ3NJaDN0UmpkUnc1SzJoNnFYbkEwNWVubEpnbFQ2Sk9qQ09EXzlGdTlpUEg5bkdoWmNIZmZVa2p3M3FlSjBoa3RGbG9QcUtsTzNzWGFaOXY3QVRTZ0JCQ0s3TC1kSG8wMm9Ra0V0SUZkYTVfSDhRSThLR0FQUEd6TkpvQXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-c8d41762",
       "date": "2026-11-02",
       "lab": "xai",
       "dimension": "demand",
       "summary": "Musk says cost of running Grok Bot 'unsustainably high' relative to revenue - Anadolu Ajans\u0131",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTFDUm9qUmxiNzNIVjVWYVI2TU0tTmFvUVZnVS1QeEJ0UnlBV3pNYlBGb1pGM2hQXzRBVmYzMEJBdnZ2dDhlMmtZWFhoT3dncy12a0NvTjdFN2VpNVhXRkxYbUQwYW13ZTRJalowcFBpZzNXYUFCczJzODk1dTBjTzVTT0p4NV9SRk40azEzd1lkcjRsWEZsaFNPRVd6aDVjajU3UWx4NzVTRWo0aTBvWm5JWGtVc054QllPSzRYbm8tY3l3cXpPNENR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-931c3544",
+      "date": "2026-11-02",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2b04f913",
+      "date": "2026-11-02",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d4b58275",
+      "date": "2026-11-02",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Introducing the Grid Protectors Program",
+      "source_url": "https://openai.com/index/grid-protectors-program",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d85aaf1b",
+      "date": "2026-11-02",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "The latest AI news we announced in October 2026",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b54bfaa7",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk says Grok Bot costs unsustainably high relative to revenue (SPCX:NASDAQ) - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUVLc1hfQndfaDRkVjN4ZE1JN3ROUXhvX0NYZDFHa1ZVZXp2ZGE4RWVEVTlQOHFpNFpIRUdSeFpTb2JSRUlQcERCTEhzd2lja3ZsQVo2V1h1ZFNOdEpuWUZOcUhnTWNrMTFzZHdUbVA2UmxfNlRlZnR5enN1V0lQUEZRcl9MR3F2amFzcjRQdXU5TnY0THdRRHJ1cGNubGVsZHFR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5900d20e",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Federal Judge Denies Motion by xAI to Dismiss NAACP Lawsuit Against Data Center - Truthout",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjY4VDg4aU9yX2FMNVNvMjRJMXp0aThaSU1iMGF1d0J5cWw5elhvWTFfNm00OGJVc0dWb0dhR0FUYlhCckhpaHIwczdqd2pHM2RKWmxhMFBnRk9MejBfZ3BSZ2RzY09lUmhuMndHRENZMU9iMzZUN3hoNUIzdS1BMjViVTQ1ZjVYMFhCQkhaaU5LNUJjTzdkdG85RWVtb1pnZnc5Y1pIM0M3U3l4Q09F?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-aa40b262",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot Throttled After xAI Costs Outpaced Subscription Revenue - Gadget Review",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXdNNHV2Y2gtUFhyMGlFa0Q4UmRwX0UwY3pLMnI3YlloYmg1RlQ1eXp2bHJtUGpoUXAzVHFlaWZVV3ZLbzU4eS1RRi1ZY2ZmMXR5c3Z5YWVuSlJtbG01OXBxM2RvMmQ3UVktMEZMRXh6ZmdSQjV1MmJVbXdITThDU1dURzRwXzdYdjZBR1g0ajdjTHNLem9BNA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5ac35257",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "What Using Grok Bot For Two Weeks Taught Me About AI, Job Automation And Interest Rates - Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQy1OaVktdVgxUzFJYnBqcV9QdUFtRlNOdDZTVFVQNzdiOEFuYXUwZFU4VXA0d210ZEl5OFF4U0JzNGt0T1g0S0lHYkFRSkJteWh3X0lOVlpEUXN0aTBCbVdDRHVNOGZyTkd2RlQxVVozZkx3WFlqdzhpeklBQlRYdkthSERRMmdUeWMxYXVBQkU4Mi1ENkxsbnZOS2JhOXUtMlpxYXZrbjNfam5sVTVHVTVFVWpnZlhrUVZCRHVYVnBKOThXTEE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8cfb4f0d",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "\u2018Unsustainably high relative to revenue\u2019: Musk on Grok Bot costs - The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnFJaW5SYXNTdFUwRDlDYTR6MnBSVnlvazYtbmFrd2tSLTdLdXZxUlk2Q3VCclZrcHd6ZUFwWVJWaDBVcVB5ejI4dEdlb3NxcFlDVnZjMHdQaFVBSlB5NG9aWEcwQmJmazRXMzN3aThJVkttdjJWZWRnYXVGWVVGb1BNUFdMdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d590fa2f",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge won\u2019t dismiss lawsuit over xAI data center pollution in Mississippi - Baltimore Sun",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUhhM3I5NFJraGZMalRKWmlmRUtGajlMY1RYdmE5RzJETW8wSkYxS2dPRDBkbURoYVdXandOT1BhSGlSYjhPM1FUNEJlOS1zLXhyRUJZbUhzWUd0aFJFemdubUpSaWhMY240SElvYy04QWx2dnFESzRtTllPOEhVRldONDhZLTNfUkNqMWh6czdpZ28ta2trLVNKeUdoSlE3MFFCYTY5ai1ybnlSXzM1LWFfYw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4649747e",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok - Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFI4TnZ1Y0kybmZSazNaTXRvVWFocjZwemI5Ukp5WFFObFBCR3RWdmM5RkRRM1hUejl1NnRoeDN2NW53eWZZOFN5a1I3a2MxdXlGelI4Y3pfRW9iT1I2NmdXN0ZNUlZjSThjX24xa1k4YXBHZUx6aDZjMFZNTHg4b0xQRnFadw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-68ae7dfc",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge Lets NAACP Lawsuit Over xAI Data Center Turbines Move Forward - Technology Org",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1VvckdTcW42VVRaQnhyeWpIcUpSZGZKNHJwdDZpSExjTWdiVzZacHZpdmFsdVBfdGotQmlSaGlyMXphUExocU9uR2ZQNEdkYV9fUlJaaldYdUhVbkNmUHlwT3FEQndKZ0h2T0NVUEJibm1FMC1QcEozeWttNFNKbzJfM0JpLUVWMGlkazZZTXV3Y2FXRWxaYUt6emk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1900880d",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution \u2014 facility allegedly emits over 5,000 tons of nitrogen oxides and 47 tons of cancer-causing formaldehyde annually - Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPN056XzB3dnBhMEVmd1l5cWRwUkZvTmx2Si1QVEpuUGZ2UXYyejlKOXNzQUlOYV9FSGgtMnMyZm8wNGRYX3hob1FxZkt4X0ZKd2ZORks3N0I1OHFCV0Z5SHU4NzhFb1pSbHVBTXdiczlwdGd5U3c5bWliVGxuMFhHeDhQVHNQTDNQQ2hIZ21pUEt1R3l5em8zZ1N3TmdoaWxYTk5Nb1BYNWt1X2M1MHJ3aG11TUFPbkVXNDNVME1HcldudkJTeVFCVVVlUTZRUUZJOWRlV3FQamV3czlRWXRNeWF0OENCVlZ4YVd3aE1JcWFObVI0cE9oc3hzVjVZUlhnczN5ZG9SNzVqZW0zcUNYSURhYzRoUU11VUpuRHpmM0RsTG8?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-187133ad",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Elon Musk Flags High Grok Bot Costs Amid User Limits, SPCX Faces Valuation Scrutiny - GuruFocus",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkJvTENOLVBJTGVzUjlqSWJKb1FRVV9jcmZMY0U3SDFUYUtjZ0JFc19sZm93OWxtMFpzbWdVSERoM0ctWE1KMktkc2UydlNIZS1heE1YNVdOb0xoTVNwLWo3ODlhdS1qRzlLMm1FWG0xekZxeDV2eDlrNFZQZF9VSkR2V2dXR0ozT1Z3RmE3anpwamx5MndfaXpFelZYMnA0UUlaTWRFaF9jZjEwc18ycldwb1J2ZFlXNHVocVV3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-486d7a8c",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI's Memphis AI data centers face EPA action and a Clean Air Act lawsuit over dozens of methane turbines - Latin Times",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUmxzeWN6LU9mVDV1VDdVZkJLd20wb3c0Zl9GM3lrZG9iaUVKNVkxNzdXckp1VVJRalVkWTZ3ck4yM25GVW9IS3U5cFV5VzlJNmFUc2lKbndGcjFHRTZDV3MtdUY0ck5CUm03UHJKUHg5dmotQVRfckdmaVdIRVpRSU1ld01EMFhxS2ZtaG4xblY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3cdcab8d",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk Rugpulls Grok Bot Users. Calls It \u201cSensible.\u201d - Yahoo Tech",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVhySHpXNmUydEFISTVhRzVCYnZaNFdwdmlNNXFxbkJQeGt5emFFcm5mdzZsUjc0NmV3T0duU0FtVzg5SzVySVBScWdkcjhHT0hmT1VJX19xemlCVXE5OFJqcEt1SlpEQUVHMS1KY0sxcHVqU0xHek1yeW5Bb1pDa2ZacEZtQ1FHNllKbGRmbndkQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-def4dbcd",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk: serving Grok Bot was 'unsustainably high relative to revenue' as paying users hit weekly limits days early - Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXpvcTZlVnlLckV5VGxIclhPNXU0Y1AwcW51UlN0bmpFSGJzTEtMazZ3ZDNQa2VnOE5DN3hjcXBBdm1mN1R4VFJadVFoN2RHVlNzZl9pbmRQYnNndHY1OWU5WTU3MWpTdnZLMXFxNFotRXdmWFY4ajk0WEhlcVVuOVdHNGNRNmM5UzVfZkFEU2pvdzlUUWlScEhTOUxpMnU0aWFBUXF6MDhzbWdDMnZJQnpGSGZnQmR5ZEgtdEpiaUNMYk1IRU1CZHlrNldvU3Rta1R3QjdSNU85Z1U?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3bdcf1e9",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk Pulls a Switcheroo on Grok, Claims \u201cUnsustainably High Relative to Revenue\u201d as Users Hit New Limits - TIKR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHp0NHBBN1hVMXhpQk5LSFM4RHE1OF94Uy1MMVZkWjBkSXVINXF3X09naVRuUVFJMXZTWEdERmMzNXpld0JENzlwMmpiVll2SnZfNHZQSTFJUUZuVG1veW5CNWt0a1lUX1o0dDgtMzRubklBRzQ5cmdici1fekl1eVBPeFpZeUEzaTdrQ3pTMEFYWkZua2piZkZQdnJreHlZU0V3OGJKX0ktU0xkaUpXMFh0VWd0aDdQc19CM0NGSXVGa3hXSXdz?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [],
