@@ -37184,6 +37184,24 @@
       "historical": false
     },
     {
+      "id": "evt-d26bfa3b",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Donald Trump\u2019s Secret AI Chats Are Under Scrutiny, Congress Insists on Grok Records Following Venezuela Operation - AOL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uTWtKSXpvV1ZLOWR5emdkdHBTSE5TZno2VlBFc0xmSUc5M3c5SHYtMFF1c2ExU042MXVCLUhOaWg3Q2RrdkJSZWd2WFR6Y01hNmJxeVI2eGQyd3ktUVlnSlBGMURaLUp3ckZHQ0JYMnd1czc2U1hVMUdROWE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-e7b4c1b4",
       "date": "2026-11-03",
       "lab": "openai",
@@ -37248,6 +37266,128 @@
       "impact": 1,
       "checklist_items_affected": [
         "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-631b8f30",
+      "date": "2026-11-03",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic is still grappling with the economics of compute",
+      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-90f1a778",
+      "date": "2026-11-03",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
+      "source_url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cdd58e2d",
+      "date": "2026-11-03",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Cisco defends at machine speed with OpenAI",
+      "source_url": "https://openai.com/index/cisco-cyber",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1bff6d09",
+      "date": "2026-11-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are \u2018compute heavy.' - Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc3hsdGF5SGpmX014STA2VXN1V3dBQUZKNTVvMDFwSlRFaTI3a0JIVGdQVzNOS0k1WmtNNi1OemRoaWdOb05wNFR4T191RmRodGVCYnNDcXF2TWpqVUg4MTEtNUR0Y3l6T1lBTnM0djZTLXBNWEp6SEVvbVhqSmxUd0xLeThNMEtYemI1ODFfVWFHODhRY1R6ZmZ5aEhfYVpROWx3cWM1VnI4TlY0U1RFTk82aW9JUDJjVUVNUm80Z2NzWXlIMXBYRXFocV83eF9aSmc4UzQxV1JoQzB2VWI1TmEzT3c5eXpOVjdDRjY0ZW5tYkVhSFpEdkF4Y21fdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a1ebe619",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot is growing fast\u2014but Elon Musk says its costs are \u2018unsustainably high\u2019 compared to revenue - Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlFka3hQX0E5WndUUmJQWHhub2hFcElVUTNTUkUxekJLM2Jwb1pFRE8za09sS2xvQUxhZklvWFR1Y0FEY2JlTGFjRUh6Y0FfSko0TkJRT09wZzhrSG5Vb2pOQWQ0U0VLMlZwY3lYSkhIUkpaZ1czVmVlSXRJWGMxcUJVOWNFV3gza09mVldiMkw3a2FwUHRJaThoeHpTMEpqQm5aVnpZdDhpS2xhdTgycGFoVWlTMUpkQmdPcl8wdzBYUTFjaE1J?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2c9d0273",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Judge Allows xAI Air Pollution Lawsuit to Proceed - EP Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTlnUVhpM1cxR3p5MlJIU01yekFUbGRocFNyVGpfZVdNcDBsQ0Z3VGtRWm5WXzJuSU80MzJlMThXT3hrbFZ2YmZXaWpKSTg2WUxJQU56MURHX3VMdS12Z0tCYS1INFotNV9OeHNNNW51OG1kLUxMbk1lczhSUG81ZENqOWpxX0pIWlNNSnRqY2JxR1VUcW9DWC0wRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-57935eb9",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "SpaceX CEO Musk says Grok Bot costs are too high \u2014 Fortune - UA.NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXQyWVA0blhDVVI1cklSNmp5bmxSRVR2bTMtZkNyY2JIX2hkemE0X2w0TDVCZWlVQ2JKMURUQ3ltemxGbmY1X0RadW9kZXcyWTVZY0tjblpJc3BGUmktNW5vejhnNHBEWW1abDF5MHRRUkd1V3I0dnFmdzJSd3Nra1JMNk9abmVlSWZXQnpJdjhWbUNQMkJOT09rRGxTbzBkV1BBS3BGYldpVGdi?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
       ],
       "confidence": "low",
       "tags": [],
