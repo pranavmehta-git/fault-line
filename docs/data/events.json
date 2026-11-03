@@ -37144,6 +37144,116 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9c358ab1",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk Pulls a Switcheroo on Grok, Claims \u201cUnsustainably High Relative to Revenue\u201d as Users Hit New Limits - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0NfeUJxdlJMT0xtaGt4RUNINW5NRi11N29DT1VGUURTcTlvX2NsSUFsQ1B0X0l1eDJvT0lWeEp3RF92YlFna21vN0R5X2c2azExejBTVkx6NWRXZE8yTElZTzdlU3BISGxqc25OajhpUjNsMWtPWUZjb1VKdV9QREN2bTdmcjZBWkpnWWdIQVYzZFlxSmMwZndUVlVLZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-adcb1540",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "xAI Faces Funding Pressure as Grok Bot Costs Rise - GuruFocus",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGF0QWdVd1Uxa2FIajVCb25zaHVHR3VsLUlQa1l0aWxHS0NYYi0xYmpvUDNSYWk0M0V5RzdWbGJJLXFELW4ta0JENjQzUUpXclNwNmtLOVQ3X2hPWi15Qm04V3Fyd2JuQk03WEdRSHdudUVGRElyTzJjQ0NhdHc3RHdzNHR0Q2tmN19hOWtqN3Zzdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e7b4c1b4",
+      "date": "2026-11-03",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Heimstaden is changing residential real estate management with AI",
+      "source_url": "https://openai.com/index/heimstaden",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-358c5dcb",
+      "date": "2026-11-03",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Mistral Is Racing OpenAI and xAI on a Fraction of Their GPUs - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2o5UkxYdUZRUEZNS245SXRwQzFJOEI3N002UUU1eTZVRTRWbkd4WGhBWDJTMVJYdmtONWYyZGpTQWNkNFJNTXUyVl82WWU3RGtkSzcwam1LMjlHV2w0TVVXdU54LTVEZTlzdG8yZjN3RW80YUx5eUhVOFVMTVlsdlRaZE1GY185VThLVWJZYi12QQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "gpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ea9b5735",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk reveals the dilemma of running Grok: AI costs exceed revenues, raising questions about the service - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYUt2aXdoOWxzcFE4LV9WcFpKeVdweUdpR0pSbzNQWU56bjBfS0FrbmZIYzJCXzNla0xraGN1ZHpjd01oUzZPVHV0Mkl0NlBVZEdFWTE3bmZxeEQ2NjRWSUV0TnlFVHBvLUhNVnpINkNWYkhJR0hSeHFKd2E0UkVvRXJVOFNIbExFUk1JbkxGbkJLbzBnYUJXdDVyRjhDYTFYakhaS21ZRzdrQlpvMDFpdjJCVEczRTlfQW54cUNiOXA0R2c4ZVdIYzNUMkNhUU1jRmdFVjlIYk1WVGhrZUVQZ2dtMGF2amlULVg0cHVjakVfXzBSbXYwZg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-005cef8d",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "resilience",
+      "summary": "XAI Octagon Floating Rate & Alternative Income Trust (XFLT) Decl - GuruFocus",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcEFXZ2NhUF9PTjlhRTRjU3dabWZZRWM3U2tpeHhVa1N4M3dkTlgyUHdBUC05amswVi12alBfcHNHaUVXUXFTUWhHVWRVSnVXbGJKRktEWGZacHN0ZlZaSUxkOC0zQXo0eTJnVGlueExjMGhzY21OVnVkQ0hKTmhJYUhqQlpac1NvZnVCQ2lqc2ktM0lsUHJGb24xcjNBeEEtNG1XZ25DUk11b01hd29wQVpTdmZ0OUVKUTBWMnJrV0xZYkVydlBxeTdYT2JlWC1hLWNoNll4Z3Z5TnVH?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 1,
+      "checklist_items_affected": [
+        "E1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
