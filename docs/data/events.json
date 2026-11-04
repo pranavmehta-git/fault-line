@@ -37394,6 +37394,132 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-45cb05dd",
+      "date": "2026-11-04",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0051d28d",
+      "date": "2026-11-04",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9f1857b8",
+      "date": "2026-11-04",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "source_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f3a2a0bb",
+      "date": "2026-11-04",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Grok vs ChatGPT: US$6 vs US$10 per M Output [2026] - tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTM5Z2lFQjdOU2ZQTnQ3TWNQaTltYThDUmIzXzJlZTJXdEJGNlM0Skp2MTkxUjZYd3J5djBYazB6dnk0VExtOWJLX1RlNHVpa2FKM3lNZ1hzcDFmVHRmQXNxMEpWN1o4NHZvTU9yc0Iyam1oOXBjT25xLXdmNFdIbi1PeU13Z0QtcG1B?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-72751f34",
+      "date": "2026-11-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk Grok AI Predicts Best Privacy Coin: Monero (XMR) Vs. Zcash (ZEC) - 99Bitcoins",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVVzT1B3Qlg0THNEZHgtY0M1b19sVXNVVE5QcW5mUkVnY0tXVUVHWm5SQXVBM1ZJcEFYb05pWmthVzNINWJtZ1FNbnB1QkR4bU5BRHFCUFNCVkRHUFR3Z0lsUUlSblctLWlhZWRxQmZuRVJya0xrXzU5YmwyamsxTmRxeEZ6T3Fqb1YxTzQ1MnRyMXBBQ3N0emlpRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-83ebe488",
+      "date": "2026-11-04",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Jess Asato MP On Taking Elon Musk\u2019s xAI To Court Over Deepfakes: \u2018This Is Part Of Women's Freedom\u2019 - ELLE",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTVqbXNiNzlsN2dkSkllYVNfdkJZUlhSV1RCSTRsSFJfMTF0SEtOQXRBQkFuOHMyRjJpeXowLWZadjVVMWxmV1NuWHpvX2RiQm9HMnp3SFIwX0JUamh3Z0pjQ011TDhqdnRaS0lseVRZa3llSUI0bno4S3NTUEdFbXlGbkI1Y1Jydjg1S1lmTXFLQ19uZHJ2eA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3107d8c0",
+      "date": "2026-11-04",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Why Elon Musk will keep funding Grok, no matter the cost - Yahoo Finance Singapore",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmVsVDFsVTk3UlZJd2hoUEtlQXRZbktnR0xnOWtjQWVsSlhodU5kVTZRZElDZXFaT0huZUdYcE1SX0lnSU4xY0EzMXNCVmdzd1RJOHRxV1dTODFzZlFvdDV2QUFEUnRKeFdBWklDMFhGYnFQbDNORm96eVF0SldTSmJCVzMtQWI4OEo4UXBFd3JTSGNQV0pMOFlkVGdTdVhvdFgzUTVfS1k?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

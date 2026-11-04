@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:34:51Z",
+  "last_updated": "2026-11-04T23:02:56Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -171,8 +171,8 @@
           ],
           "items": {
             "B1": {
-              "intensity": 0.667,
-              "evidence": 2.004,
+              "intensity": 0.671,
+              "evidence": 2.035,
               "corroborating_sources": 10
             },
             "B2": {
@@ -283,8 +283,8 @@
           }
         }
       },
-      "events_count": 802,
-      "last_event_date": "2026-11-03",
+      "events_count": 806,
+      "last_event_date": "2026-11-04",
       "top_drivers": [
         {
           "item": "G1",
@@ -566,8 +566,8 @@
           ],
           "items": {
             "F1": {
-              "intensity": 0.456,
-              "evidence": 0.837,
+              "intensity": 0.457,
+              "evidence": 0.841,
               "corroborating_sources": 3
             },
             "F2": {
@@ -617,8 +617,8 @@
           }
         }
       },
-      "events_count": 799,
-      "last_event_date": "2026-11-03",
+      "events_count": 802,
+      "last_event_date": "2026-11-04",
       "top_drivers": [
         {
           "item": "B1",
@@ -635,7 +635,7 @@
         {
           "item": "F1",
           "dimension": "societal_impact",
-          "intensity": 0.456,
+          "intensity": 0.457,
           "corroborating_sources": 3
         }
       ],
