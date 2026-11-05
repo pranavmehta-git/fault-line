@@ -37522,6 +37522,26 @@
       "historical": false
     },
     {
+      "id": "evt-57e5595a",
+      "date": "2026-11-04",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Why Elon Musk will keep funding Grok, no matter the cost - Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlVTQUNyRV9hQjFabDRSX1hFczZmREdYdDgzMktlNnFYM01DT2tfSTBPUnVVSy1qXzZ5ejJ4c3NGazdOM2hXSlBXM2VaMTAxaDQyeDZ3U2twTU5QRUZrTHZaMG5RNFh5UXpzdTZGOTZVU0t2djdsd1hZTFZNOG10d3M5TDVGejVGRlJ6d0xTVTRxcFYzTVdWMWVGVXBvY0J4d3lYSA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-594757da",
       "date": "2026-11-05",
       "lab": "openai",
@@ -37568,6 +37588,58 @@
       "confidence": "low",
       "tags": [
         "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cd0210f3",
+      "date": "2026-11-05",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dcd59d05",
+      "date": "2026-11-05",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Perplexity launches its own take on AI agents for work",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source_name": "The Verge",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7ce96406",
+      "date": "2026-11-05",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI NAACP lawsuit: judge denied dismissal motion - NeoTeo",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGhmUUtvMmwtUVo2WFlwM2hvZFpXN0lvSlpSOUFGRHo5RjBwRXdUV25nbHJNQ1NaQ3dnU1RiSzNucnNzR3dCYkNJODZBczNWcldwTlNQR1VLa0VBTG9aaUNzZEpScnhNWXRYWTYwd0dXZXctMW1XQVJVY2piZkpiSQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
       ],
       "source_type": "news",
       "auto_classified": true,
