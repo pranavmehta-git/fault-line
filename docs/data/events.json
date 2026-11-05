@@ -37520,6 +37520,58 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-594757da",
+      "date": "2026-11-05",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Setting a new standard for responsible AI infrastructure",
+      "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-262d622d",
+      "date": "2026-11-05",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Musk and OpenAI Hit Compute Limits on AI Agents - Technology Org",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3VTTFloQlQwYlNmamFScXoxbk1WS20zcE56emg1RkJkVmFlc1NJOWxVSm5MSjA2Ml9JeFJPajhRUUdjTTRyZVF4RWZnM3NVbmUxa1V2ZldXVVVLSm1LajZSMkNvWUNjTVZZZm5yZkRBWHl2c2oyT2FERWhaZXJNT1FiMTBYSDBsS1cwUl9HUXJmSGs?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7055ebd8",
+      "date": "2026-11-05",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Researchers Put 10 Grok AI Agents in a Virtual Town With Safety Rules: Four Days Later, Every One Was Dead - www.techtimes.co.uk",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjFVZE85SkEycC1ZLWtabVZYRHZDaUtuSGJpcjk2SUQtSVNkNXRsYTBuYmpDMEh3WXNHS1FkUkNOY1dfX1JXX1dfMDRsaDd5WGlNWDZxZVhBT210eWFSVktJdVBlbXZBcDlvUWRBak9acTVXcllDM2VxQlFpMGJDajFlaWZVa2cxeWhn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
