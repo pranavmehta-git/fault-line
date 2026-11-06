@@ -37396,6 +37396,22 @@
       "historical": false
     },
     {
+      "id": "evt-73ecb23b",
+      "date": "2026-11-03",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot halves subscribers' quotas without warning - Korben",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWJjejEzQmRpNks3bVBsemQyTXVKNU9mZjBPNWE5WGlRcldUQXktTGxuTGpaUm14THNPZjRQaE9PWVJYaUJyZVBKYTJITlN5T1NTZU9ha1oyd280Z1QxanEwUnBNVWhpMDE5R2VKTlFIQzZtNkpwVjctZno5ZTQzMUFfUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-45cb05dd",
       "date": "2026-11-04",
       "lab": "openai",
@@ -37642,6 +37658,24 @@
         "aws"
       ],
       "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d12abd2a",
+      "date": "2026-11-05",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Australian universities are creating AI-native graduates",
+      "source_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
     }
