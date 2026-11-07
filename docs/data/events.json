@@ -37202,6 +37202,24 @@
       "historical": false
     },
     {
+      "id": "evt-5b9e6a9c",
+      "date": "2026-11-02",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Musk says cost of running Grok Bot 'unsustainably high' relative to revenue - Anadolu Ajans\u0131",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWJfekdXdjl3RVBwbS12Umhud3NWTGNNbWVfMEpZcnlHbjhuMGR1OFpYVjlxYzBSM2psOXhTRS1oYkZ5S3Fka0tIUEdtZzc2RkZWMjFfeTc2SDA4cGRySmEtZjl0U2FyUklnMEJKRG51aHU1UF9UUV92MENyd1IzZFlDTGZIUjBhU281eGpEclFaQmNxNW5DNHVnQ1FPVndyb0ltRkxfdmM1ZmhGNjl3UWxxa0FzSWRiS3pJQ1B2MWg4X0xPV3NF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-e7b4c1b4",
       "date": "2026-11-03",
       "lab": "openai",
@@ -37966,6 +37984,26 @@
       "confidence": "low",
       "tags": [
         "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-360c686b",
+      "date": "2026-11-07",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
       ],
       "source_type": "news",
       "auto_classified": true,
