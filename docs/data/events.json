@@ -37950,6 +37950,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-9f7acbe8",
+      "date": "2026-11-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Draws 3 Copyright Suits Over AI Training With Books - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzQ1N05vRXB3UVY3RlgzUmlxLTIwd0F4WnQ4SnZmN3ZDc0RTMjFEbFJ6RjdKcnlRV0trakU5a3IzWENvcUF4X0ptZi1XbnJ0OE1ycngyakFLamZwNE81MDM5WHlVbF9mZWh0NmptN1pjTWI4OC1acEgyNnNtWDRFcXB4UnNpcTBlMkdoVThNaTlaUXlxRXlCVDBxMW3SAVZBVV95cUxPdXF2WldhanVaRXY0MVA0SUtoVEhaNUswblFEd3RlZTdrWXpveGs1aEtiNGJJdzgtNTJwcld1bG9tR3R4SW11WkY1MW5URng0a0pkUk9xdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
