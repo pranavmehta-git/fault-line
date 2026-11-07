@@ -37872,6 +37872,84 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-5c86fe12",
+      "date": "2026-11-06",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "high",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6fbdea9b",
+      "date": "2026-11-06",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding",
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b1eadee6",
+      "date": "2026-11-06",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises - Central Oregon Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdExmNUFxNzJnempLcFVoR2xPeVd5UllJNnoxSnVNdVN0MFhnb3l1QkNrSlJiZGQxbW8wc0lwSm1DRjJMdlpZU19tQmo2Sjk2dW85UDZIaFBjTXRNLW44aVdseDM1dFlHcFloU21QMWh1Q01TUDVIMDNFNmVtRkczR25YZ2ZtdFZDVmxJSzdlY0FkcXpDa3k1elZta1hyWER3MUtnT25BQklNSS1CZVRvRFhjSjNSQ1BfS2cwd1EzTEwyLUtQSlVRNlVTQkw4YllxYy1xVG96eFNZMTg4M2NpajQwZGR4TUx0TzhRNmtic1BaRzlMVDVGZENac08za3ZnckRzT3I5Qlp3bkxBZHd3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8868b696",
+      "date": "2026-11-07",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Draws 3 Copyright Suits Over AI Training With Books - Law360",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZndnODdtblF5ZXpoSC1XNFFxd0lzS1NPeTMzdFlHd3JKTGd5WGtqTld6RlhILVhER3hCaFB0TlRyaXkwb3lmeGtoTVZPOEh1cV9feUZMcE9qOFRnUmV4dVBhWWpMU3dLOTRKbGpQRUtjOEMtSERQMWJEMEFSaU80elBKQktLWWRhcmZEc2RfR0xka2t2aF9yakZ6VDR0a1dpRE5FNkNJZ0Z1WTDSAVZBVV95cUxPdXF2WldhanVaRXY0MVA0SUtoVEhaNUswblFEd3RlZTdrWXpveGs1aEtiNGJJdzgtNTJwcld1bG9tR3R4SW11WkY1MW5URng0a0pkUk9xdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
