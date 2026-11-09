@@ -38044,6 +38044,72 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0236f328",
+      "date": "2026-11-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Bot Calls Customer Service, but Humans Remain on the Hook - PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkJQaHZxVW9uWkhkWlpLUGpJd0FOSHlsWGtpY0E5Nzl2UTBFSDdIeXhpMmZWejd1TmhQX09lY2twcm9OMmgxQ2JrNnB1SDQ2Q1oycTdIQXRtRko2Z1N0el9TaXVMRFU1TEMtUFl2ZGNXejhhQU5GdHFzQmdQUXFITExVanFqWTB0VW9HVDlkNXNMa1ZDNGQzWmRLTVd1cWhCczYzY25FYXlOLWFpNTJSWmZ5NVZUQWY0OUdF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-445b1f65",
+      "date": "2026-11-09",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok App Hit 93.4M Monthly Users in October, Similarweb Says - FourWeekMBA",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3FKS0pEVi1VenV0SUVLeU1td0JXWjFmTDNsM2piRUZrYk5ET1dDaTJLRGxBZ2traks3UU03YXJnYm05dUd6ZXZtZFk0b1h5SGc3aTVTU1lSRGZxUXZkY3VqbGtfdTJSdDhiZ1RQclNxUEUwSmxRT3QzRmRjeFRTV2dQNjlKRk5UZFlVZUN6Z2I?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e33a2f8e",
+      "date": "2026-11-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Coforge joins SpaceXSI partner network to deploy Grok for enterprises - varindia",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbF85a0JYaXVrcV95NEZWUzlZbjhMQ2gwRWE2aHlVYmpieWJwVWZJVlF1SUJhejlWd1BEOThzekYyRVJJQmp4WC1jZjF4RUlFY1k0NmdjMVBzdzZtUmtzNTJmdWNubkhJUFlrZlJsNTB5YmlPcVBOVC1laXdJQ3lSbXlFRnhHWlJmQ2poaTlVV3dtemhSRlp5d3hXQjFvenU5?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-69d517ce",
+      "date": "2026-11-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Coforge joins SpaceX network to deploy Grok AI tools for enterprises - www.verdict.co.uk",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsZG9uaU9hT3Vvek1tWlJuTlVGU3BlX1BUT0xQenYzZnVKNGtONHFjT3lfd2RvZWpuQlBmOEozdWZqTUdLX1d2cjN1ejdBZlZKZXYxaVRfOTRHUFVzeG5PVU1SNlkzQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

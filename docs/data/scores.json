@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T03:57:31Z",
+  "last_updated": "2026-11-09T14:51:12Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.276,
+        "value": 0.278,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -474,7 +474,7 @@
     },
     {
       "lab_id": "xai",
-      "total_score": 2.6,
+      "total_score": 2.7,
       "breakdown": {
         "compute_chips": {
           "score": 0.46,
@@ -575,7 +575,7 @@
           }
         },
         "talent_governance": {
-          "score": 0.65,
+          "score": 0.66,
           "max": 2,
           "items_triggered": [
             "G1",
@@ -583,8 +583,8 @@
           ],
           "items": {
             "G1": {
-              "intensity": 0.304,
-              "evidence": 0.438,
+              "intensity": 0.311,
+              "evidence": 0.451,
               "corroborating_sources": 2
             },
             "G2": {
@@ -614,8 +614,8 @@
           }
         }
       },
-      "events_count": 822,
-      "last_event_date": "2026-11-07",
+      "events_count": 826,
+      "last_event_date": "2026-11-09",
       "top_drivers": [
         {
           "item": "B1",
