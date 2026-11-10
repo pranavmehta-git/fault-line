@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T01:01:28Z",
+  "last_updated": "2026-11-10T14:03:08Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.276,
+        "value": 0.278,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -369,7 +369,7 @@
           }
         },
         "demand": {
-          "score": 0.51,
+          "score": 0.52,
           "max": 2,
           "items_triggered": [
             "D2"
@@ -381,8 +381,8 @@
               "corroborating_sources": 0
             },
             "D2": {
-              "intensity": 0.506,
-              "evidence": 1.026,
+              "intensity": 0.518,
+              "evidence": 1.074,
               "corroborating_sources": 3
             }
           }
@@ -447,8 +447,8 @@
           }
         }
       },
-      "events_count": 246,
-      "last_event_date": "2026-11-09",
+      "events_count": 248,
+      "last_event_date": "2026-11-10",
       "top_drivers": [
         {
           "item": "G1",
@@ -463,10 +463,10 @@
           "corroborating_sources": 4
         },
         {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.514,
-          "corroborating_sources": 5
+          "item": "D2",
+          "dimension": "demand",
+          "intensity": 0.518,
+          "corroborating_sources": 3
         }
       ],
       "trend": "stable",
@@ -641,7 +641,7 @@
     },
     {
       "lab_id": "deepmind",
-      "total_score": 1.6,
+      "total_score": 1.7,
       "breakdown": {
         "compute_chips": {
           "score": 0.26,
@@ -663,15 +663,15 @@
           }
         },
         "cloud": {
-          "score": 0.24,
+          "score": 0.37,
           "max": 2,
           "items_triggered": [
             "B1"
           ],
           "items": {
             "B1": {
-              "intensity": 0.243,
-              "evidence": 0.321,
+              "intensity": 0.369,
+              "evidence": 0.586,
               "corroborating_sources": 4
             },
             "B2": {
@@ -777,8 +777,8 @@
           }
         }
       },
-      "events_count": 118,
-      "last_event_date": "2026-11-02",
+      "events_count": 119,
+      "last_event_date": "2026-11-10",
       "top_drivers": [
         {
           "item": "G1",
@@ -793,9 +793,9 @@
           "corroborating_sources": 3
         },
         {
-          "item": "F1",
-          "dimension": "societal_impact",
-          "intensity": 0.327,
+          "item": "B1",
+          "dimension": "cloud",
+          "intensity": 0.369,
           "corroborating_sources": 4
         }
       ],

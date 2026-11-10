@@ -38203,6 +38203,64 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-8a145782",
+      "date": "2026-11-10",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-303a335e",
+      "date": "2026-11-10",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic reportedly plans to move forward with IPO plans",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c940896f",
+      "date": "2026-11-10",
+      "lab": "deepmind",
+      "dimension": "cloud",
+      "summary": "Google Cloud launches Gemini for healthcare.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
