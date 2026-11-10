@@ -38110,6 +38110,99 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f48f7d9b",
+      "date": "2026-11-09",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-163bd28e",
+      "date": "2026-11-09",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-de56a1cf",
+      "date": "2026-11-09",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "ChatGPT Enterprise now available in AWS Marketplace",
+      "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-02c7a73b",
+      "date": "2026-11-09",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "source_url": "https://openai.com/index/control-room",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure",
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-edb52b0d",
+      "date": "2026-11-09",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Want Cheaper Starlink? Try Asking Its Grok AI-Based Customer Support - PCMag",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXhKMWRNU2lJUlN2TlZmU3VwQ1pFcGUwcnBOUFpWcGFsZnk5d0FIN0l3ZGg3alZCbUZ1eTd4TUJneTNuOG9jd2VNV3F1am1OQW8wTWt5VDNyVUVqTjJtbXNVUlJ4UzlUdUhuQ3NiSndXUmpKOG9tbGVTTERNWFVTZy1NdWNDbFJ4MFZtdTdMcHJFS1FzVjZZZHRB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
