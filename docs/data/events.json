@@ -38317,6 +38317,56 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-478cb3a6",
+      "date": "2026-11-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "source_url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2fecda67",
+      "date": "2026-11-10",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "source_url": "https://openai.com/index/cogent-security",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7d62b0c2",
+      "date": "2026-11-11",
+      "lab": "deepmind",
+      "dimension": "talent_governance",
+      "summary": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "source_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source_name": "Google DeepMind Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
