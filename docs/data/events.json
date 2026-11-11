@@ -38367,6 +38367,40 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cbba364f",
+      "date": "2026-11-11",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-67de2b9a",
+      "date": "2026-11-11",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Grok Build links leaked SpaceXSI sales data and thousands of customer apps - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1hIUEFnWVcyNTcwZmZBSlgxMVRCdTBaVW0wS2ZIRkw3Mkd2Q0xFeDNjNEtUU0I4RTVUU2FoU2NJdENiTk9Qd09xc21ZZUdXTnoxcU92VnhYa053eWxXWHAxWTc2WWNielVyMlRmVkROQ2dwaEZBWEl1aVk4Ql92aF83N0VUOE9iNG1SbzhWYzNCeFVPcTc3WDdpUklPTThaZHE2dQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
