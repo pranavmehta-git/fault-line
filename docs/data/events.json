@@ -38401,6 +38401,96 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f3073cae",
+      "date": "2026-11-12",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Holiday Extras is rethinking what it can build with Codex",
+      "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "growth"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bcc1b340",
+      "date": "2026-11-12",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Supporting research on AI and children\u2019s safety",
+      "source_url": "https://openai.com/index/children-first-declaration",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f9329d4d",
+      "date": "2026-11-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Grok vs ChatGPT: $6 vs $10 per 1M Output Tokens [2026] - shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTNWQ09GdHZla0ZIZDhTM2p3cGJDWFN5dE42bkUxTTZfeTdBYlluWDB3QmltWG5zaEJYb2RQMmF5YUdtQWhRLWY1d1lGRTJFVWtERlNxMUc2dzY4TFZIbGliRGtEaWpRSnhnMllQcHhvV3pmR0x3TTYtcWVqMjdKNjN2UEctTmdY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "tpu"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-82c3a494",
+      "date": "2026-11-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Elon Musk's Grok AI Leaks Internal Confidential Data: Full Exposure of SpaceX & Tesla Salary, Performance Details, and Patient Privacy Breach - 36Kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42LXdWQlY4Q0hkZU13TUFlTExoVVVUQXdoYW81Q09ZWDJDTXpvYi03cV80SDdOWnhqajh1WTNEcm9yaGpmajZaZm1pcHFTdFBEeXRF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0cd72605",
+      "date": "2026-11-12",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Major Upgrade for Grok Bot: AI Coworkers Are Transforming Work Task Automation - 36Kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JajAtcEhZakhmNXI5RFZSeml1bTZXb0Q5WnVvNHVKNEdBLTRjRHJORVBMSHM1MVlvdjRhTWNQV0R4eXdEZHJTRFFDRnRJRWQySlhR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
