@@ -38491,6 +38491,25 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-1e04b5e1",
+      "date": "2026-11-12",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Gondola doubles revenue as its team builds more with Codex",
+      "source_url": "https://openai.com/business/customer-stories/gondola",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "tpu",
+        "revenue"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
