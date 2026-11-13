@@ -38528,6 +38528,38 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-b8b6d9b0",
+      "date": "2026-11-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ef87faea",
+      "date": "2026-11-13",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
