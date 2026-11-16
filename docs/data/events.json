@@ -38581,6 +38581,24 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-dc5087e7",
+      "date": "2026-11-16",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Southaven xAI Spill Update: Contractor Hose Error Blamed - DeSoto County News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXVFQS1TUzNpLW1UMGpJaml2Rll3cllUSzVGUU5CQmU0VEpnYktDc0tDOEZtOUJ5LXFQY0RQaW1mMjU4cmtPT3MtTS01enNod2xwWkcwYnp0dmRtNVAzRlkyR3ZpQnlESVVfVlh1ejBZYnpfYWVPZWt1bG9qR2FGTUEtMA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
