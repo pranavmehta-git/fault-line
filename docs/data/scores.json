@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T04:09:38Z",
+  "last_updated": "2026-11-16T14:27:06Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -588,8 +588,8 @@
               "corroborating_sources": 2
             },
             "G2": {
-              "intensity": 0.333,
-              "evidence": 0.498,
+              "intensity": 0.337,
+              "evidence": 0.509,
               "corroborating_sources": 2
             }
           }
@@ -614,7 +614,7 @@
           }
         }
       },
-      "events_count": 833,
+      "events_count": 834,
       "last_event_date": "2026-11-16",
       "top_drivers": [
         {

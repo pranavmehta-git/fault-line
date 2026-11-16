@@ -38403,6 +38403,24 @@
       "historical": false
     },
     {
+      "id": "evt-59c1ffaa",
+      "date": "2026-11-11",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "MDEQ Permit Board Doubles Down on Unlawfully Flawed Permit for xAI\u2019s Massive Colossus Gas Plant - NAACP",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWm52SExOWUFZS0lnakkwSXZZRF9Ebi1ySHZwZ1IyY3YzanlqTlNveGRJVHNJZ042V2ozZ3hqU3RDZ2lteDMtdm50VG1HSFFTUHZOUFpMU2pvZ1JpcHRKS1MyQkZzaXRjZE16ZDBDclJKOHFGS05FYTRxd1l0aU9qNEJNSUdOeWM3czJJUlA1Zk1Ea2hUdW9BY3NIVlpEcEgyLU0yLU5DQk5UN1AtWWtmSndqdmo?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f3073cae",
       "date": "2026-11-12",
       "lab": "openai",
