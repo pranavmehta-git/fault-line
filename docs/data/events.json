@@ -38617,6 +38617,153 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-de3a9c7d",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "California state AG sues OpenAI over rogue agent incidents",
+      "source_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6b3b3725",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Sam Altman on Nvidia without Jensen Huang: The industry will be \u2018fine\u2019",
+      "source_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7cc2deed",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI will embed safety researchers to investigate AI subversion",
+      "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d819372b",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "cloud",
+      "summary": "California sues OpenAI over rogue AI hacking incidents",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dc52edd5",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7a3895d8",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Building trustworthy AI by fencing it in, not predicting it",
+      "source_url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source_name": "MIT Technology Review",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-42f17957",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "Advancing computer-use agents for healthcare teams",
+      "source_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8c85dc29",
+      "date": "2026-11-16",
+      "lab": "openai",
+      "dimension": "compute_chips",
+      "summary": "More ways to move care forward with ChatGPT for Healthcare",
+      "source_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
