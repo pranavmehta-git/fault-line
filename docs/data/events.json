@@ -38764,6 +38764,132 @@
       "source_type": "lab_blog",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-e98bf6c1",
+      "date": "2026-11-16",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Southaven residents question water safety after 5,000-gallon chemical spill at xAI facility - FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGZ6UDRFTG5yaTJHOW56VDIyMWRsZ05KbzlUY0xPX25ROXdiY18tSkF5REhyaE5KUUlPWTNoOGYtaHFqT2JoTDlwQS1MengyM1pTWFM3d3JHRFVxTHdTd3JyTXpYZmdqeTd5djJ5MXgwRnF0THFfeFkzSi1hclFDNEFCWDFZQ2lGT2hrcDNLOU91NlNqblN0UUg0bVg4VWIwVzhUV1lrTS1EbVpXRkk1a3pzT1lid01EektoRURITkZCWjlKZmY1Y1RTckEtenRvTWV6REwzTHdnVlpvb2hobkdUSG1fUXRNSzJ6SE5yUmJBS3lWaEFUTXNxT0NtODV6TU5EWUlB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6a8c401b",
+      "date": "2026-11-17",
+      "lab": "deepmind",
+      "dimension": "demand",
+      "summary": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "source_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "funding"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-57ced867",
+      "date": "2026-11-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+      "source_url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c296bde0",
+      "date": "2026-11-17",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Introducing OpenAI for Chile",
+      "source_url": "https://openai.com/index/introducing-openai-for-chile",
+      "source_name": "OpenAI Blog",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6e1849c6",
+      "date": "2026-11-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Sabre Announces Grok Bot Travel Connector and Proactive Agentic APIs - Unite.AI",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnJzOUU1djVZVEZzcmZ1VklNRDNFWUVIUGEyYVRGb2NXM3VMYnlIbFFlTlllQmwxTjJiVzB1amZmNmZ1Tnp4clJBOE55enlmdTlScTNNTnlFRFZRLTB2aXk1QXdMQUZhcHZZNVRpYnI5bjZwMGUtRnN1a3otdlpZQnp0c2RhZmVZaVFmNk9Obks2d01H?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-07ad0266",
+      "date": "2026-11-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Chemical spill a xAI\u2019s Southaven facility caused by contractor, xAI say\u2019s - Substack",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemV5ZmpjSkkwSjJ1aUVFclc4U3pMazN4bll4V3FNTkpUUzBLWVJMMkxQb1pIbHVzMTdaS21TRm1JZWRWdGZkdjRkZy1OazY2Q3JRWkh1Q3BndGU0OHJMR3VQUDBSbWhEcGI4RGxWbjRmWFF0bjNhVkRJZkhnSkgxVUlnaHdLOTJO?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": -1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cc27c98d",
+      "date": "2026-11-17",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Sabre Accelerates Agentic Travel Leadership with First-Mover Travel Experience within Grok Bot and Next-Gen Proactive Travel APIs - PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObFducER3bnZCcS1VS1lmLWFWX05xNElGdlY5QXJmTklXZW10bUpBeE5tUk4td0lELUdqbU9UeVR2ZVdZbUlCOWZkMVNfcWQ4elRZR2NQS19GeElYaWQ0OTdjRjFacEtEOC1xOG05UmdCVFV5aVY5T1BiZU5yVWdMQk1DN2Jpd0lNSXNudlh6NWJES0pWUnYzSS1xSjFSQ0RlQUNNTnpzZ1ZueDI0YVVXVEtrM3ZrTkdRRHhTQWNWN0FQRXQ2emllWVZzWlR5VTBaS1dDMThBSXNjcmMtOTZ3UVNKU0NaSHhwajBUbFNqNXc1SmZOWkFveDBocEZPYkIxeHhQRU4yRFV0cjZjRzBMd3JRcw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
