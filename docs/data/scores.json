@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T14:53:55Z",
+  "last_updated": "2026-11-18T23:45:21Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.276,
+        "value": 0.274,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -138,18 +138,18 @@
   "scores": [
     {
       "lab_id": "openai",
-      "total_score": 5.0,
+      "total_score": 5.1,
       "breakdown": {
         "compute_chips": {
-          "score": 0.77,
+          "score": 0.78,
           "max": 2,
           "items_triggered": [
             "A1"
           ],
           "items": {
             "A1": {
-              "intensity": 0.69,
-              "evidence": 2.223,
+              "intensity": 0.694,
+              "evidence": 2.263,
               "corroborating_sources": 8
             },
             "A2": {
@@ -180,7 +180,7 @@
           }
         },
         "policy": {
-          "score": 1.19,
+          "score": 1.2,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -193,8 +193,8 @@
               "corroborating_sources": 4
             },
             "C2": {
-              "intensity": 0.635,
-              "evidence": 1.736,
+              "intensity": 0.65,
+              "evidence": 1.854,
               "corroborating_sources": 6
             }
           }
@@ -280,8 +280,8 @@
           }
         }
       },
-      "events_count": 842,
-      "last_event_date": "2026-11-17",
+      "events_count": 846,
+      "last_event_date": "2026-11-18",
       "top_drivers": [
         {
           "item": "G1",
@@ -296,10 +296,10 @@
           "corroborating_sources": 7
         },
         {
-          "item": "D2",
-          "dimension": "demand",
+          "item": "A1",
+          "dimension": "compute_chips",
           "intensity": 0.694,
-          "corroborating_sources": 6
+          "corroborating_sources": 8
         }
       ],
       "trend": "stable",
@@ -496,15 +496,15 @@
           }
         },
         "cloud": {
-          "score": 0.54,
+          "score": 0.58,
           "max": 2,
           "items_triggered": [
             "B1"
           ],
           "items": {
             "B1": {
-              "intensity": 0.542,
-              "evidence": 1.182,
+              "intensity": 0.582,
+              "evidence": 1.391,
               "corroborating_sources": 4
             },
             "B2": {
@@ -614,13 +614,13 @@
           }
         }
       },
-      "events_count": 839,
-      "last_event_date": "2026-11-17",
+      "events_count": 840,
+      "last_event_date": "2026-11-18",
       "top_drivers": [
         {
           "item": "B1",
           "dimension": "cloud",
-          "intensity": 0.542,
+          "intensity": 0.582,
           "corroborating_sources": 4
         },
         {
@@ -641,7 +641,7 @@
     },
     {
       "lab_id": "deepmind",
-      "total_score": 1.8,
+      "total_score": 1.6,
       "breakdown": {
         "compute_chips": {
           "score": 0.25,
@@ -757,16 +757,17 @@
           }
         },
         "resilience": {
-          "score": 0.26,
+          "score": 0.46,
           "max": 2,
           "items_triggered": [
+            "E1",
             "E2"
           ],
           "items": {
             "E1": {
-              "intensity": 0.096,
-              "evidence": 0.106,
-              "corroborating_sources": 2
+              "intensity": 0.289,
+              "evidence": 0.406,
+              "corroborating_sources": 3
             },
             "E2": {
               "intensity": 0.168,
@@ -776,8 +777,8 @@
           }
         }
       },
-      "events_count": 121,
-      "last_event_date": "2026-11-17",
+      "events_count": 122,
+      "last_event_date": "2026-11-18",
       "top_drivers": [
         {
           "item": "G1",
