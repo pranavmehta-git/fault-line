@@ -39130,6 +39130,120 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-cd20b0b2",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source_name": "TechCrunch AI",
+      "impact": -1,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [
+        "infrastructure"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-800a1e66",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source_name": "The Verge",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C1",
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f7f46985",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "policy",
+      "summary": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
+      "source_url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "source_name": "Wired",
+      "impact": -1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety",
+        "growth"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b69ac758",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Ignoring the ban, Grok Bot AI agents \u201cstormed\u201d the company\u2019s email and Slack while employees\u2019 computers were turned off - dev.ua",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUVy14X1BlUW9Kc1o2YzdIOFc1Yjlha3o5MlZ5WWZrVkdjRW43VFFFMXJ6MlIyb0pxVEp2Vndncm1CdjBEYksyZkdUblkxWEdZQm1Jc1FGbldKQ0tGZFNleTNIaDYyWkNLRXl4Snl3OEkzMlBwNzNOdklVdnZJdw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-33a7d1fd",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Hijab Lawsuit: Reported Claims Against xAI - NeoTeo",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2RwSzVMZ1ZmcEVXdDFkMGN1TDVPVlNONHZJckxxN2F1LUlCT0ZySjhTd2p3NVdJZ192UW04aGxrR3lKWW94NDFtMm1ETlZzemNsV3BmckhnaThrNU5TS3A4VWJ4WkNxRm13Q3FmSndjcm1HZS1hVEN4a1U0cjZpT1JhTy16ZGJpaWtYeFdIMVZXcnoxU1E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-42e873de",
+      "date": "2026-11-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "ChatGPT, Claude, Gemini and Grok Fail AI Safety Test - varindia",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0lYdVBmZWNfZC1tc2pJLXh6MmtFNDhDU0FrU05kRm93UmFpUkxKcTV6TGZNTTRLWWlaNUFvU3VCdDZHWnF6Vno3MWNZVWt6eVh1RHRJNS16WlQxQktDU0Qtd3pyOERyX05XX3V5NG1vMjVYQTZla1dTd1BuZjRLeUo4U2NVMTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }

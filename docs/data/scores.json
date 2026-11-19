@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T05:23:52Z",
+  "last_updated": "2026-11-19T14:59:58Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -20,7 +20,7 @@
     "index": 4.9,
     "components": {
       "average_lab_fragility": {
-        "value": 0.272,
+        "value": 0.274,
         "weight": 0.35,
         "description": "Mean fragility score across labs (0-1)."
       },
@@ -280,8 +280,8 @@
           }
         }
       },
-      "events_count": 847,
-      "last_event_date": "2026-11-18",
+      "events_count": 848,
+      "last_event_date": "2026-11-19",
       "top_drivers": [
         {
           "item": "G1",
@@ -307,7 +307,7 @@
     },
     {
       "lab_id": "anthropic",
-      "total_score": 3.5,
+      "total_score": 3.6,
       "breakdown": {
         "compute_chips": {
           "score": 0.47,
@@ -349,7 +349,7 @@
           }
         },
         "policy": {
-          "score": 0.84,
+          "score": 0.93,
           "max": 2,
           "items_triggered": [
             "C1",
@@ -357,13 +357,13 @@
           ],
           "items": {
             "C1": {
-              "intensity": 0.306,
-              "evidence": 0.44,
+              "intensity": 0.39,
+              "evidence": 0.639,
               "corroborating_sources": 3
             },
             "C2": {
-              "intensity": 0.539,
-              "evidence": 1.171,
+              "intensity": 0.545,
+              "evidence": 1.197,
               "corroborating_sources": 4
             }
           }
@@ -447,8 +447,8 @@
           }
         }
       },
-      "events_count": 249,
-      "last_event_date": "2026-11-10",
+      "events_count": 252,
+      "last_event_date": "2026-11-19",
       "top_drivers": [
         {
           "item": "G1",
@@ -459,7 +459,7 @@
         {
           "item": "C2",
           "dimension": "policy",
-          "intensity": 0.539,
+          "intensity": 0.545,
           "corroborating_sources": 4
         },
         {
@@ -614,7 +614,7 @@
           }
         }
       },
-      "events_count": 841,
+      "events_count": 843,
       "last_event_date": "2026-11-19",
       "top_drivers": [
         {
