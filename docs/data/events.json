@@ -39096,6 +39096,40 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-0cdc42fb",
+      "date": "2026-11-18",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fb871af6",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Muslim Girl Founder Sues Elon Musk\u2019s xAI Over Deepfakes Violating Her Hijab - Muslim Girl",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjdoRzlJZlMwaWM2SWd3eXNOSzZ4TXFodTY0emxFQ0FYNHNQTlZNM0J1OER6ZGN4aHlQT1pLTzRJZ1dzY1QwUUkzNVNjXzM3cWgyV1hTNE52N0VrOWRKSGZuMUFOajdKd1FYYTlhWnRNZWVxdTl2dEVDUXJQZWs1ZVZFV05mM1lHa2Zj?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
