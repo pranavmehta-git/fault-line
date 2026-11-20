@@ -39244,6 +39244,174 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-a31f55f6",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "source_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1e1b0577",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "compute_chips",
+      "summary": "What\u2019s With All These Outages?",
+      "source_url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-666f101f",
+      "date": "2026-11-19",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic IPO: four ways the AI giant wants to disrupt science",
+      "source_url": "https://www.nature.com/articles/d41586-026-03788-4",
+      "source_name": "Nature News",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f7110d22",
+      "date": "2026-11-19",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+      "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-22257f7f",
+      "date": "2026-11-19",
+      "lab": "openai",
+      "dimension": "talent_governance",
+      "summary": "Get started with Daybreak Blue",
+      "source_url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G2"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a6776e6c",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "CAIR, CAIR-NJ Welcome Amani Al-Khatahtbeh's Lawsuit Against xAI For Enabling Grok to Strip Hijab, Other Clothing from Images of Muslim Women - CAIR",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMzQ0Z05PWlMybzU4blh4blQzUnEwVFJIbUNGSk1sYTNVcF9CaUxPNDY5cThxZ1ZGMHRDNHFMeWdrdFJqbDFJbFdBR0dPRC1pcC01UDlZUmNlVjdVd1IxeGpjXzlCMGFqbnE3YXJpd2pqSnBaNDB6RGFkM2JlUHE5TnYwUk8xVUF4NjhFZ3RQWUp2T3dzZmhnUng2QTk5OGFYTUVZcTRGV05mSE1hZHhrbDlJdTQ5NW5DMHI1X1hSaTNObkFaak9LWmNHZGZnd0JnM2hYQTdPbnBRa1Y5Ykdta0YxQ1Y1dlFHR1EwYzFVNlNpOE5hNmYwOHBwZk5PdFFkTDZUeA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0a1143ce",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images - The Lufkin Daily News",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMWYzblFDbFktTmpKVXNYQW0tcUtaVkY2dXdtZXdsRDAwLVd6cE1iTkR5SUZHUFJlTmpobEVrWWtCMWtiVFBVVVBFb2pOZ2hhZS1SLWRwaGUwQ055T2poQmh2cG1xdHFvSlQ0TG1keGlQQU1XZXJKRjJfVVpaVFJEYzRMM2JpdnVfSGtmVjRhaEpGNEZXcGdOSGxNVmlrMnlpTDE5TTZyNUd5S0JnZXFVbFJWMmlDQTZ5OFU4YUgwVC02dWxXdDF5ZWVUczNvZzZZcXlDdUVfZFdqSTBvNlQyVGp0c2E3WF9zdXlPUks4bjJRZWtBVVdmVmNRc001VjN4Y3c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a228fc00",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Musk at TomorrowX: xAI's rebuilt training stack, half a gigawatt of new compute a month and a first Terafab test chip next June - Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3NlNFpsUlhvaHIzZGhrRVBSZ2ZLaDhHNW5nY3R3Y05zS1lrTUFMXzZZZDBoMTZscWI5a2hCSE5MY0VENHBmOXhHVjlxUmxHOEhMVnRXb2lsdmw4MXhhdUhlNkRTbm4zMFhrZnVEbm42azJLQ0JHbHJkY214cnlvSmJrZHQzZV9sYXF1M3o3cXVCanRDUFVTOXNZajhCaHBsYWNQOE1oVU1rSERubjREMDRwaUpDSmxFV19pZEllU3NtaHFLZExLdm5GT05jRjk3Z2NQR3BQUGlBMjFZN05IS0g4QVBsRG4xWk5iSTNWY0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b8da2301",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images - marketscreener.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHBUNVktYWpBaEFYYkVFei1WZllFRk52eUlKYU9LSXZuVlZoNnFMWUNVanRnZ2t3YjBJNnE2S19ZT2xETHBLV29jTkZ1Z2c1LWtYV1dGaTVycUVBSjZhNlVWTi1RUGh6aEl3Yjkxa3lSczR0TWhfQWtMcWNHZGZ3Z3BEbUJYbHBDeGtUV05OUi0tRDNLYjJTdy12YkZGajhnUG5nTXFlV01nN1BuN3Vva2N5X3B5NHo0UHRXN3duZVdLTmpmR2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
