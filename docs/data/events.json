@@ -39412,6 +39412,212 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d731a437",
+      "date": "2026-11-19",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "Deploying Daybreak Red",
+      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source_name": "OpenAI Blog",
+      "impact": 1,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-85b0df07",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images - Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG5SWVVRUERNQ21Rd3NIMG1ROW1weU5qcC1RYnJBVnB1bDFXaHhjWTQySVY4LXV5cXBVZUwzZE9ZMjN5ZXZtZzRPRHBIdFdaZ3VLZE16aFNTTVhmckhmQVNMNERjT3lCWTNjOFVlYjBlVFpPSWJvcjFXZDRfQ3p5c2FiaFdvTm0xUV83VE5fRjA4c0Rwa2lVM3I5dWdrR3I2SVRNNTZOR0RKakJZNG4xQ051c2xsOVRQUUtxOWw5bw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a5c94f44",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images - CNA",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUhDcEdjb1psZmFNbm5pTTVpalk1Y19WZXlhdGJ6UE8xU3VJdWNrb1JfSTJoN3ZOWFVldmdWT2VESUpHVTAyMVpvQ0Y0RjBHMXBBZlJCTFZ1MWNPMlhZM0lpV3ZvWFlSSl9Sa3JKMTlyR0lRb1pxMmNyQmFjN2djS2pYYzd4blJ2S1lnZTNueFlNYmVxcFE5Z2R0dlpnZVBpWk9KVEdGYU84aXhXNFNXd3FHeGhJY29PN2hxUlpR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5343aa1e",
+      "date": "2026-11-19",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Musk says Grok 4.8 focuses on usefulness; Trump reportedly rejects globalist AI regulation - Digg",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLU3ZOMjNnclY5Y3lveS1BT2tiQmpoWnZtT0ZiMkhmU1pEQTZULXRFdEx3cksxZmhJZnRjUkc5VWlQYlZk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "regulation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9c9791a7",
+      "date": "2026-11-20",
+      "lab": "deepmind",
+      "dimension": "societal_impact",
+      "summary": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source_name": "The Verge",
+      "impact": 1,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-51cb7c3f",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Muslim Girl founder, an NJ native, sues X and xAI over Grok deepfakes - Bergen Record",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY251SXZBVHBYalIxZEExU18zdU0zdHRiNTIwTFQ1MldyaV9xUEJkSUxUM3B0TV9lQlRaUG45RllPeWttc2lLek9rekVyUnIzUFdzSWR6OF9pa1ZGcy11ZG5XWlJKVUZhRkZaM3hIT3Z5ZENUcjlsaEJaR3ZjMkE3czJwQ19CeUNwV1ZnU3RQZkNTbmFua1RnMGs1LVQyX19GbTBaWEQ1d0JkaFRJLWZyS1ZTOGpOYU82ZFFLOFZkc096MFNoVnFJd0pURldsdjI0ZndHb0VXZ0pKR0d3LXVKNUZn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9621a15c",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Tesla update 2026.44.1: hacker discovers transition from AI Computer to Super Intelligence, Grok sync, and more - Tesla Oracle",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1RpVnY5blhzanBQVnlsLWQtV1I4NGxLcVpOWkFYdU5ORE45QnUwYzZmZThNb0JmWnJ4cmVwRjZ6TS1PcWxQRUtBOUp0VEV0d2Vzem9UYTJrR1JOS05WRXpmZE01T2hEWW8yTzQ3OTcyVmdodVRmell5eVJMS1dyLWktZm1vLVIydE03WGRYYmo5ZW1pNDZXbkItcUo2MElvMXI1VVdxLVdJYnQ3ZG0xTTJ3THprSF9mN1FKN1NLRFJGdlR1V3hXTjdOamhLOTZaRTdVNGNvYjBYY2ZBR29id3Bn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4ce813b7",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "UK Lawmaker Sues Musk's SpaceXSI Over Grok Deepfakes as Company Denies Privacy Liability - BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVVWeTN5a2h1V1dNZmY0dUQwRU9qNGJSM0lyQUdOOVRQLU9BYldiMDh2TC1palpzWHBZSVpJd1R2NUlUNXFhQWtZaUhjc082SGZOZU15dDJmbzJWazdCMi1jNDZ0MWJXc0VwUkxmLTF4bS1aSlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-7c87aabd",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Muslim Girl Founder Amani Al-Khatahtbeh Sues xAI Over Deepfakes - Bergen Record",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm1yRHFHNHdKVnl2a3lpZ0FxMlJicFE0QXpkcUlmdUstVWxTV29oZ00ydlI1VVFRcEpNQTIwUjA3YjNtQ0FhNTYySlhQOWwzemFQQkx2NTc5X0JlYk44bWRiemJrbVg5VjZ4OEJiOVNla2ZtOGdJUzdjZ1ZlZHpUWnRKbFozWnZlMUs4OG9UVEVQNU9aZ1ZOaEFISWVGOXVWcnpYTUt5ZmhMRWZvejA2WF9QZkFwa1I2ZU15VUkyd3pOTjBEZXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8f35a948",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "SpaceX's AI unit denies liability for Grok images of UK lawmaker, arguing obviously fake images cannot breach privacy - MLQ.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0RIaWJ5YzVhMmIwYjhhd2plUzV6UmhKeDdJTTlicXJwdjdHLVRCRzVWY2xtV2JhUkxoTnBGT2hDUkk5Vm80OW9vWE5RQXBfRDVLSnRCcXdQbWJZSHJwZmMyNk40cFdrQWtQZUlmVVdnbWdXdGotZUtYTjBpblFORjRPazUzTEVRSTIwUW5YM2tfUVBQTzA4d2ptcXNZWlpQRXZsVjFLY2MxOTdaS3RMbkxYRlliTTkySlFuSE93QmZaM0htOTRsTVZZS0FiYktnSlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3d807cf1",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceXSI denies liability in UK lawmaker's Grok image lawsuit | Tap to know more | Inshorts - Inshorts",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXRDS0F3dUl4V0ZvMVEtTlR4SFhDX3M2V0FuRmpCaVpFUnZzVWFSdkMyTXpkMjhKSE40eHVMUWRKVHdQUlhCU2xWZjlvdGttelA4MzhHV0Jza2lBUzQtSHdONHJiR3d1d3VwWTFFZWUxbmdKUHlQdjRNYmxZM3kyZDRkUmtXM0ZaR0JMR3pkeG0tazZDelVhdDlfcG9TeXZ4aXlWXzQ5RdIBrAFBVV95cUxPWFJqeEJnU1pCVVhpVGFjUlJPZ28xS0o4LUt3dm9yQkl4emVrckdjVDFScWtmZ0hlcHJLeF9LYkhRWWdYc2NlaFdQS2YzQlFPZjJWY3ZNUkZza0N6WXJjejFYZ09kNzVfX0FDallFUmZ1dmhKeEJuX3pEZ3FsbDBJVEl1eDBwOTNYbFNuY3VGbUhGczZjWXNSQ0wzTUpPaWJ2dk9WelhZbnZLalhX?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
