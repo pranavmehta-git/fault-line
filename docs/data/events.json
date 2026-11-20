@@ -39618,6 +39618,46 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-d3040ce4",
+      "date": "2026-11-20",
+      "lab": "openai",
+      "dimension": "demand",
+      "summary": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "source_url": "https://openai.com/business/customer-stories/hebbia",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e177405a",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceXSI denies liability in MP Jess Asato's Grok lawsuit - Resultsense",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkN0OXZwWF96MGxKVFZfMmh5THo4YkZpMS04SlBlUUwyNUR1U0Nqb2kzSTFsQ2FyeDlNMVowdmVTb1p5TVJrdHJlRGowUTJaaklQaFh4Y0xrR0pwYWNoSzVLU0VKeDJ4ZW9WT1VQd2otZEFPUUstUVEzVzVVMklsOHpZRWpoZGNxS05oUkRKWQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
