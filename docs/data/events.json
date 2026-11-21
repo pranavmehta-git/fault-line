@@ -39658,6 +39658,22 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f77155bc",
+      "date": "2026-11-20",
+      "lab": "xai",
+      "dimension": "demand",
+      "summary": "Muslim Influencer Files Complaint Against xAI Over Deepfake Images Showing Her in Bikini - Metropolitan News-Enterprise",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QNlh2V0xHSDlGdzhZRkM4VXRuaUE2YXFuLTgwdG05N3B3TlhMbUNDX2psM1Z4eG9lTzhxLWtQOVZmbHV2bHRSamtURlZtbHgxaDNnREM0NDFCX1JwT2VvZThrRHd5N2swdDRJZkVjQ2F1STg?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
