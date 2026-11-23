@@ -39764,6 +39764,482 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-3c5ebd31",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "States Sue SpaceX Over Grok Deepfakes",
+      "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source_name": "Wired",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ec7c4dd4",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "States Sue SpaceX Over Grok Deepfakes - WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10aEd4SHJ6SGl5Ymd0SG0xVFFtbHpnWUxMNUMtRDQzekxMOUNyYUVncFhYYkFsZUVjYkRQV1F0dVQ0Q3U0VjEyM3VqQWhoNmNmMV9XVHNpazAxMFcxSjROVmxnczNkb0dwSmtxQU52OTdJYmtY?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0eeabfbb",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Oregon and Virginia sue SpaceX, alleging false Grok safety promises - Digg",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBnTGR0cU5wTHZ4STdUamJqb3M2dTA3TlNDNU9Ubm5CZWRxYjJwUFd1Y011Q2ZWMXM2RC1DSnpUNS0tQm90?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-9c687e20",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNWNVZoWUNJLXJxQl9wTkZnTFdZNkVTZXllR2pxSlFMeWxnS0xENDRnUXZBSENCV3lybG1tSXFfWF9xdWJiMHVxYlhWSXVkMU9lTFlFR200Qkg2eVpOR2NzRE55RXhudHRnb1QzTEZIdXFQUWl2bDRVMDVxT2FqbkNnTXJVS1J5bGfSAY8BQVVfeXFMTzdXQVNETlE0OGxPY0FSejh4THJESzBWQ0ZnV1NXRWtwUEE5T0hpbGs2SmpYMXVTdThMa1BqR2xQTTN2ZWZQb1JkZ0RfOC1KZm0yRldLX19pWWZpZUpBVGxpTXRyWF9KTW1hSUdHcENaVDlQN0QtcFdnSTJyMEl3ejNGNHRYc093blFaakhHS0k?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5f5515ca",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk\u2019s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims - Bloomberg Law News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3NBMUEzSHh5UWNyYUxGZmViak11RWJhNmlQcWp2cVVsWExiZm5KcHJOYjIxRTk2Rzdvbm9lRmtacUNjZk5RQ2tDN1hvTnl2RkhqQmk5TU55SGQwdkhwVkVTZGxfTk50SzVrVE5zZWlQMy1ibDlmbDE3MGlpZVo1OHg0VW9UWlVxSEVhcGR6b2s3cDc1VzZTQWl2ZkkxaUt5UHBpYktB?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d6fe22f3",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia, Oregon Sue SpaceX Over Explicit Grok Deepfakes - La Voce di New York",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakhEemZaekVjNDhUNXdXNWNFYmtHdzBpZkN3VlpXQ2JMcTVhVllHelJqUGd1STZ1V0Y1b1BWYTN2NTNGeHk2UlBjOU5MMTVHU29jNFpWUXBveWRPdXh0d09hR2ZFSldZQmpsakhtSWx5cDlCRWhIY3Nxc1UxeEdiX3VSVkVObFAteWVtV25jLTJrS1U3QVctdldNUndGenprVTFsenJn?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2c18b620",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon And Virginia Sue SpaceX, Alleging Grok\u2019s \u2018Spicy Mode\u2019 Allowed Pornographic Deepfakes - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUy0zMHlvVExoTHRUY0FoN0tsWXJhQTR2SFVrQldDRXlrRS04Tnoxa0xSc3o2MUU0X1I2TURxckI2NmIwY0R0bDJiQ0hCbUtTUjluLVBGMXpBZ1lMS0Mtd3YyNGNaWGtmTURpZDhMT1B3ck5vbEFjbUtTeUVMRkp2WEhZRkdxbG02X1plWXFOaEx4V2c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c55d162f",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Two States Sue SpaceX Over Sexually Explicit Grok Deepfakes - Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWENuZl9Sa04wT3VCRnFjUjdka2VGYW8wS2FFdTV0Vkt0OWRqX1cwTkM0TmlmY3JLU0tlY0pKQjBUaUJlZ3RYLXhZWGlmSnM5cXZIcU1FMG96RWNVZmluT1M3ZGFUWjJNQzhobXhhM3Y2MUJ1S3R2VkVoeDQtQjZkSWhvb2l6LXo4S2MzLWhHZUtZZ1JMSWtFbw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-eab14732",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk\u2019s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims - Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUU0Q3h3VGlza3ljelh2VVpkQzlibFlnSnhPdS1aZlJham5MV2VLZzctVTFLRWh4dERTcjB4dG1jQ01wMExhTlk0cHZwNHhjN290dERrZGQ4NG1hei1ER0hMTERDcWQ0MGNyQ09IUENNNFNyUEpCcEZxejRMNks2cVZhTWRHN2pIemphV1E1REhnNEtwclV1S1BMZi1BajlqcDZtNVVzTXNBVTI2d253bDdHX214YTFCVHpFenZrc2FLUE9WZ3REZ3YxYXlPMXJl?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1e6830f5",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia take legal action against SpaceX over Grok deepfake allegations - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iMTVxd1puYUJaTHJwWE5FNzFWSWtHMXdOWHp6MW9ZRVBYbERvVE9SMmY5MGxwOGJEV3dvaXFRelBELU9fZFFXa3lxMGtNbTI0eUZ4b0YwVC1ZU1J1MU03UlBQUUVVdU1hZTk3aXd0QnVSTEl2NHY3NA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4d022c4a",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk's SpaceX sued over Grok AI's creation of child sexual abuse images, DOJ lawsuit over lawyer licensing of military spouses and more \u27a1\ufe0f - LinkedIn",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkUzY3VZV2xrZEZpUnNaTHd2bXFmUmpwekN0UU9BSThoQ1RhOFViQTMxMlV3NUJyRnNDODRlVlozWVdiMFFZa3JOZG5wZ01OeWZEMjdDR0lSRlFyS1BYem9tV3RYQjlyQVFqbG16VEFMSzViZ2FwZFNlOVNfd0FyVmI0YldaRmtpMEt6TlhxNG9RNHRXdzdSVnBTVlU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-278d3c93",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia and Oregon sue Musk\u2019s SpaceX over Grok\u2019s sexual deepfakes - The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00d2lBNlN0X2UtN0Z2UUxFZ2VaQWZLYTJveGxlNFF2Yi0xa1NDSHQwR3plSjNGckhhRzExWmhNUm5jOHNybnZONFBraHFjODhQcXVtOTZsQkFuQjRtSWl2X0dpMGJjdGZuZWNudnVkc2U?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-771f4d93",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon, Virginia attorneys general sue Musk's SpaceX over Grok deepfakes - CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXBtQXZvVnV4cU5ycHpQaF9lcjltczVqU0xMVDFxUm5BT09XRnRIZldLUTIzMEFlSi1QN2tXV3lMTC1HcW5KWmZLSWx4UVBxR25jNlU2Z0hyRmx4Nmk1RHZSc0xxbkZ1OVJVblhlWEZDeE5jNjdPWnFoa2Y0NU1ucDFqM0JjTzExWE12c1BDR2ZwU3pRdVc4LVMxN1pmcnN1WVhqek1qcUdPVjhkNi1j?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1cd31559",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's Grok exposed: 3 Israeli studies reveal serious security flaws - Ynetnews",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeGEzTDJYclNGX2ZiM0JCNnVDYWF1MEJWaGl2TGNpZ01WUVFTNHdmOC1uU2lZYjFreldNcDIxa1BNSUhEM0ZBaDA4MFpFU0xIV2U2VUh6UUVQeTBZTTM4QUZqTUJMNk11WWg5Vw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-16fb211c",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia sue SpaceX over sexually explicit Grok deepfakes - Mezha.net",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcml0cDZETUpISTFjVF8tekVRNWdfbmc1R3JxcEkxNmtUTGhoMGdKZ2NFbzNIU2R6bHoyZTdBd2R0MHpmMzBUc3BUdVRKWkRzYUJ0ZDJQcTlQZFhnLUJmSWZvREtVbkhCaFRnaFp3NVhuV1RuTEV3M0h2SFduV1c0Q2RrQ3g?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6ee6b451",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia became first states to sue SpaceX over Grok deepfakes - Quartz",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSE0xNFNOMkdzakVyZWNuMHdfSGNJYndoSU1ZQ0lYTDN3eWtxMFhrZDlPWkx3eEJsSUREZGY4RnVSR01oc2Zid2MwMy1TX29wRDVlUDZjb0dwdE11Vk5qRXRIZWlVRXRPSUx6UVYzNVQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a32050c5",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia sue SpaceX over Grok's sexualized deepfakes - Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXAwOEIyQk40Rmt1SjhaYWNiVWdRUnVSSEk2R2ZmRzZScXBsaU1KaWtsNXVSdU81cEtEODZzSkFZeFJsRFRGYm94WUpFRi1hOU5UREQ4TjdxaUlmSko3UDRiZ01uTnM2SWlmNTVyX2o1SkszVm81d0doc1F2OUt1bmZqenR3elAwRWt5dHhua08yaEdr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-65509bef",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia Sue SpaceX Over Grok Sexual Deepfakes - gHacks",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWm5OVDM4bDEydmkxTTdRVDlTa3pQMzFwR1N1cV9id3l1X3ZiempiNTFRTEdiMmNzT1Y4bmZQejc0WnJxQXp1b19sVmZ3OGdKRWZXRHUzYjdiclZLc3g0a05jb1FvVFFYQktSQnVWdkdDM0wzWE5lSkpDb1Jidk1BYXBUYzQ1WU8wd2hUamh1VHRfa3NuUGRv?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2dcf666c",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia and Oregon Take SpaceX to Court Over Grok's Sexualized Deepfakes - BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdnZLSGpKV29fRnhpZl9xSjVmQmNzbk0waU5Kd1V6bEpmVjVvYTJvaUpBeVF4cUQxUXNtZGtuWGY1LXdueXlIRmV2YVJNY09xeDlUTmtuSjdGZnd1QlZWdXQ3Rl9CR3V6Yng0TzhBTUo5bUNKSFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e7e3e791",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia and Oregon Sue SpaceX over Grok and X Deepfake Images - Briefs Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaW5rOTBXQjZ6Y3hwbmRUSkxPSUNqcEtHdXk0M0dDSkJPZS1LbUJmOS00OU1jMWNaWURORzk4dkEyN1dzZWJOdTFOck1mbi1VZlZwZE1HSXlkamJxeWZVNEZUWXRaam1iMG8wSXJNQno2clBZNnFYd1BBZE1EVWhmSXp0UllTZXp4YTliU2h1aGdtZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4638f756",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Oregon and Virginia sue SpaceX over Grok\u2019s safety claims and sexualized deepfakes - Superpower Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWYzTGwyQVdBazdCOTBZR19BbFM3cEM5cXpzT1hzZFA4cFg2WXY3cjZzVU9fTHozUnU1M2xkX1dqSEhVZi1aR2V2S1RGZ2huOEJGZ1hjYldCc1k4SGRCcmhpX3BZbE52dVNzT3ZwNjU2T3p2X0ZmbVhON29ZMThYbEtyMEZTRnhNWUpUMzFzZnNRZ0VNc3VpLVJsQzZaaEdGbHVKWDBfVWdUaUxFeHhFU0VUZXQ4Zw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-bbf0598a",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Musk Brushes Off CZ's Grok Bot Experiment With a One-Word Reply as AI Agent Trading Data Draws Attention - BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nT3pwU0ZGaDVjZ2t6SndQWUpuX0FpRDMxdmhjVmgwQXVxY2Z2Q29LVlF2Tm4wWEVlbDY4WHRibWc5dXlCWV9nSzJqMmc5QnMyTE14ZzNNSXktVFM1bEJpWFczNl85Uzd5YTA3cVVHWmYwV0ZRWlE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fbbd3979",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Why are Virginia and Oregon suing SpaceX? The states say Grok made sexual deepfakes, including of children - Nacionale",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklkVUNTNGZyREVwMTY1cEJTZVZwZGtSUF92ZGxuM2Z1MVE3SnM1SVhlRUlyOGhtcDlrN0Z0WmlTY0NPdVpSX0dVOHBMS1YxczJJdWIyanJSQjNzSng0WlFITVJoR2FTSmd1bFUzNXFraXhReFV1N1gxMUxSLTl4dFhVUDBlenRPN25HVFo4NDhGZ1dKUm1nTm9WNF9yMWlZOXc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f07d38f6",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia and Oregon Sue SpaceX Over Grok Deepfake Images - cwibc.co.id",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waWNlbTNxSlFIclJCc255NFVxLVNHZlRDWFNDTG9BbDg4V2I2LWJkQ1RweFlzYk1XSFFoNlRlZ2x6VGhyQXYwLXhJVW0zS25jNGQ4cXlhdnRVZWJPQmVSMk54a0Vxb2Ryb2dJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-ee9ee39b",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "\u200bVirginia and Oregon Sue SpaceX Over Explicit Deepfakes Linked to Grok AI - The 420.in",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3VTdlIwdGR5RlF0STk5aF80ZXVybW1WaGhNQmlSYWNKUlR2Q1FlMmJPLS1lU1laMk0tdnNlYmVPT19ybUJ5U2F5cnplUGM1TGxUOUMxQjBGMFBSNG5FR1gwVmtyUGRVd3RQb0txT0NhVVhoaGc1cW5FQ282UzNHeUhhQW9kU19WZkpFS1ptTlRpcDVNc0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5c708b28",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Oregon and Virginia sue SpaceX over Grok's sexual deepfakes, saying it misled users about safety - MLQ.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFVNc2RVSTY3R19EbXlUUnk4QnFDN2pYdGt4ZTZWZkVvT01MTUVITGlDT2RqSmdOX0RXaW9VeUJjRWlNc1BBVFZMU29pa3BZaEVTWkx0ZlE3VFlwUGxBalRuUTVaMkNtVkpDdXJWQXhWOEU3ME9WX2h4dm5oTEJNYUxCSGNSRF82QTJraGJTWmtsSVJ0aG1YNmZzQk5IQWlZX1hXQ0YxRmZPUnl2MEZBOTV4elN6UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
