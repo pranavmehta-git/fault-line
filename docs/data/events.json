@@ -39710,6 +39710,60 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-215b3eb5",
+      "date": "2026-11-22",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok created sexualized deepfakes of me, N.J. author claims in suit - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXhIaHJDNXBaTE9pdkYyNnFhVGRualRCZm5kc2o2MnZrR1F1WFI5cVNPZ0Z6MDQyb2pIc1ZYemZieE84V0lET2V0Z2ZrSWJlRV95YVA3aHJQdm5abExScmlMbG9waS1xVnJfV1VSRC1IOEhDSVpRNzRiM0FkQjRKcUlkUkRPQ0FjRzg0N0YxX21hU3c?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-887c672f",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok Bot to get local Computer Use and Dictation in any app - TestingCatalog AI News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEVOTk9oMUtNSkNpeHVoUEFOUkFGZzRmWFZtZ2VHRUFGdGxQYkd5ZXdxMS1BSUZBUTVYdUt3ZXpDTkROWU1BUXZublFpZ1hvT1hSOXNLR0ZWZVJNajVaWVk3UkJzdUxJZlpqVUtRdWM0V1RuQXJaMVgxOHMtQ1phZE5xRHNEWXZxbzNuQlJyTDVnLXFqZHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3ce74899",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Grok claims Jensen Huang resigned as Nvidia CEO amid chip-export probes - Digg",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQ3lYdFNtTUhtNUx5cWo4VDlZY1EtRGJsMkdoTnE5ME1sYzRoY1l4QUNBbi1jMFFyanlKbzlsNGdxTV83?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "nvidia"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
