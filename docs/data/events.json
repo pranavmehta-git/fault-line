@@ -40240,6 +40240,470 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-71504dbf",
+      "date": "2026-11-23",
+      "lab": "anthropic",
+      "dimension": "talent_governance",
+      "summary": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source_name": "MIT Technology Review",
+      "impact": 1,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8a5db4a8",
+      "date": "2026-11-23",
+      "lab": "openai",
+      "dimension": "societal_impact",
+      "summary": "Richpanel helps companies automate 50% of support in 30 days",
+      "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source_name": "OpenAI Blog",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
+      "tags": [],
+      "source_type": "lab_blog",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f1911643",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Jay Jones - Office of the Attorney General of Virginia",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOS3JBbDY3ZlhpdElvME9wVDdIQzBzMXowOFJ3YmNEenBNNUx2OVZnejRlTlc5WTVLRlhyZ1ZWUjQ4T29CZnV1V3lsV29YQXN3MTFVWVVMLXo4UXpLZDRLWk9lMjY1M00zVGozSFNMRVpmZE1KdUVqVDgxZ2ZhY050T2dxYUJ0UXY3N2FIb3R3dUZpeE5HZ3pLSmhtNEpnMHA0c1lpN25aOVdFLThIbWZ1U21QT1gtSUpkTEhCNy05SG4xUThDdmZDMnZtd3owQ0tIdlhRYWdWVGRDcHJrMnJnNTJYUmRGenRLYmdQZHZ5a0hRdGozOTdYRVFwdVRhZDd5NVVLUlBxcGhsWFROaXVLVmNlZ1ZzUVc0Y25mR0xsN0FES3dRQWV2dHRfeUQySGR0SkdGdTRMZGM3SEpIcEN0UWw3ckFRN2p6YjZ0ZGFWejJoVVF2UWJHM1hhTXdZYVNFRjlKSEhYWUJPeHRR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-e040690a",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Virginia, Oregon hit SpaceX with fresh lawsuits over Grok-created CSAM - CyberScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VYkN2emttNkV2dEhFcnNDY0hBNWtBZVhHSm04S3VqVmgwT3VmWVNxRlNmb05vbl9kdGJ6MTFzZzYzZFZmQ2NTcHJ5U0xweVU0X2pHU1ptY0NSTWhRNlNWazMyM0V0TGI3c1h2ZVFrM3FPZEk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-dd19902d",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon and Virginia sue SpaceX over Grok\u2019s porn deepfakes - The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDJOOGVyWjd2czYzOWNYVVVfWUlwTnBTRGVLa2FNN2NqSFZXbkttVGRpWGwxT0wxWmFpMWJpMGVLTmJ1LVRNa1VzT0tKTXpFOVZZeDhPQzhCemxUSG1UVXEzUFBOSjEwTjRyekY0QWU3ZWdEeC12aWlnOEsxWnBkc1p4SktPOTN1c0pZRFBVWGNfX18yRzBad05WZjczTEdILThWZXB3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8dc64bd3",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Musk\u2019s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims - Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2JjWThXWVJfZlNSbUEta1A1UGdPVm10RVJ2Y19hVjlLYklsalJlWVVpLUZtSHdkaTg4Y2lPeGZrMTduNjVmRXpKdmZKSnFFR1p6ekxfeUFkN3BraWVPczlDaGRRTVdja1NTY3dmVzIzS1Q2SF9mOW1jUWFlcDJScW9kTGZUMXVWWGwycGNNTmdSbmxEMUFzREViNzljYlZxcWk1aFR4UUJub0ItSWEteWV0QWM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-5e18814b",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia, Oregon sue Elon Musk's SpaceX over Grok AI 'spicy mode' that churned out sexualized deepfakes of kids - New York Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ2k3bFI3U1pkN0VlZTQ1MjBDYzBvbDFrbHA2WkgxUUlNRW9iT044SDFUcHE3YUt3X1l6MElOT0hhUkdxUl9LcDB4UUlfTXlOdWZJQ1lpanRxdnVlLW5oT1J3OE5Zc0xkbE83MTdxVzVrbERWYjFCTzU0QlJSTjY5Vld6NkdZVndMdEYzNl84cWxmR0NWRU0xT0YwQlU0dVV2WVdJVVFLOVcyRUNvWW0yYWpGMnY3d2JXeldYbENSX1N5RHZoQXJnS1JnSEUyVTZQVEJ3dG85TUFZMXVlUlBZTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f10b6aca",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Virginia, Oregon attorneys general file lawsuits against SpaceX over Grok-generated images - WDBJ7",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmktLWpXTWk3WE1WWHJSVGlXQnJEUS1mbC1icElZMGU3ZFJnM0I0VTZtUnE0aDc0aUVSdlgtNS1BbHdPWnA5VUp0bHZiTHV6Sjd4Q3JGbjNyd3hKUUV6b0pxQVR1aGRUWDdKaXRVUWlJenk1TDBDWGRzMlJSaHBSQmxWdWVoM3locld6V1YtZWxGY0taRVpxamJ4dzVjZktUS2tXYnNUQ0I5WktBenF0Rm1jYWYySlhYRHRaTFlnN1nSAdQBQVVfeXFMTXhWNnhiU0RLWlhNZWlSZU9lS29UNm55ZHdaeG0wdDMtMkpDTUlGLUc0TjdkNjBIYTVZRzhfdXV0R2gweUZLSjhNdVFKSmxCbWJfcVI1djcxVEwySUxkSXBGUnRTR09ERFZTZVdpZ05MQ3VMUF90V09OemhxR2FjV1Y3ZUloMUl0WGxnTVgwMHRnYmp6SFRzN1FJcU5uRXljVkRIcHlkWGdwcTJHSHRiQTBWVTlnRy1rQjN1bjVreEVDYk9abTRreUNjWmZLYjhMLUhKNGM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-fb8437a0",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon, Virginia sue SpaceX over Grok deepfakes - The American Bazaar",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGxlRDBwTE15c0NpdGEwanI4T3hQWEp4RThZMFIyeUZUX1gwRkg0MGdSVGx1aVpqSGU3SUY4N3NlQXV5RENDci1RaF9aZHdwU0FiZzE2YjlaYlFzSmZjY2pER1R4amZsTlk0d2RyVHhnN0NoVEc1OFZKWG8xdS1sUWVVUjdfdFFzMjI3ZWZ3M1lVcWtQaG9aZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a9336f23",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Two States File Lawsuits Against X and SpaceX Over Sexualized Images on Grok - SFist",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVlQMmhmZWx2dTcxS1J0aXdYOVFwQzdkYmQxOFZuYzAtY1l2TkE2Q1psMGdjVng0enJhNWdPbk8xeUFkU1VDaTVXdVRNMzJOazZSUm9pT0twXzdKVFh4dmpCaW0ydGJVTGU2YmVRZUtDbklORUtON1hmYXYyb2JNYzYzTFdaYjJBUkM1ckpIRU9ubW9mdEhYeHRqVzRlUnNVeEdKVkhwbXZEQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a1a6cc13",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX Hit With Lawsuits Challenging Grok\u2019s AI Safeguards - Security Boulevard",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFdQSjc1ck5Ka25uUzhUT3BHWEtQa3dFZzJOWDVVMkpPRjZtazRkSS1VeE9wY08yRWoybGtiRWxpcDJGaTl0ajljSnNXTjNkSDR5cjRaMlJTTmsxNHdPdUdTS0FlTDJLVVdmQ0wwMGNld0Rzc204MjcyM2lxaUJuTTh5aVRoNUFqUDhzbnlIMGh2N3lqNGMyN1pUZw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1a786dc8",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Virginia\u2019s Attorney General files lawsuit against Grok over child exploitation - WWBT",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTk5ZLUh1dlBPV3RKeV9MaUxRaEdLZXJMeFZoeFlWMkl1bmNISUtOeVhwZEkwUUUwa2F3cUZXNHFVbDUyTHRyS0c5a3RQbXE3WHRYenM1RExOUTdLZng0TXZyd1FleVkwMjZZaEdBUXFYSXhMdVNKUk5BSlJ4V0hWZmRuWVJzZFBZWkJDN0VfRkZkcl9vRzhtX2p4YWtQekdwSW5OWUctZTN0UmFTZmM3dzNFYUp4ZlUzN2fSAc4BQVVfeXFMUDVwYTlzMXlzekxBTDN5ZzJXdmkyaGlZVzY2blJzRjBzSnhkV2pfNmM2QjJOcnloaGxjOWVtUWJUSDNsdldZYmdXNW5rTno5c0RRN2NYQ0pPdFpjVGs2bS1DbW4wczNBZVRMNWwwTmREQnFSa0NZVThlUHRGcFdaWVFaektldmFnajMtb0x0RVdvblpjNWExSVc3X214SEhBVjVETzI2MkliZkNxRzQ2SWFrLUhBcGVQY19HY3FEMVcwd181MUxjdzNsVU5CSkE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-887ff51f",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok Deepfake Lawsuits Put AI Safeguards Under Pressure - WeRSM",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQzRSQmhyYW9TRWpCZFNPbmEtQlFzUGdwSkpLMVAtbW9aUjE4bkd5X1BQSmNYOE90ZzFiSUc3NXdFZGpkM1VhQ09RZk02YzdBMXdEb2EtTHBPdEYtWWhHS0FnaEVGNXBNWFdr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-b6cf25f0",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok lawsuits: Virginia and Oregon sue SpaceX over alleged safety failures - finchannel",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXBVYm13X0VwSVF3Vk5SbjlrRGFuQWZIcHp3cjdmM2RHd01XUTJOV050cTJiQ0o2dlVvRDJ0UDhodUNLekNIU1dqVkJmbmlzOXY2YWlkcXpTZHV6bnh0LUp0ZHgydkpReXJXUlZLZFlDVEZtYlAtRGJJWFU2T2tVUi02YnBWLVZsamdrLU83SUZaMzgwYU8zM21QYXppUE5GNnJOYWZ2SkVTZnAwV2c3UFhEOE43b1JGVzhr?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1157044a",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Virginia Sues SpaceX Over Grok AI Images of Children and Adults, Alleging False Safety Claims - Royal Examiner",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjhNWTJYWkR0dkJxa2N3N3ZOcHFyQnlWWDI0VFd3QWFQRU9uTF8zVGxPUW04MjVMVDBuWWxlVEI4aV9XazNsUURTUk9VUjEwbzdkNmdiV3p5MU9DUXYzSmlzQnFzSFQxVVpWdGVKcms1VThLRTdLdE5tQlZQeGdrUmFqbXFhSlFHTU1CSUk2d2tPZXdHME1PT2tqenRsM2FyX1UyUWs5X0JFU1ExelB0SXZTTGw2cnE5WUE4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3d5be08b",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "xAI Grok Deepfake Lawsuit Claims Muslim Woman Was Targeted With Sexually Explicit Images on X - AboutLawsuits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakhUSE01Zm51SzByeThqVEx3VjFUSmZfczFBTU14X1NPZkU2NEg1X1Z2RFNKam44c2t3bExqSmZsLV9rbklvZVAyWnFRdmFRVDFQbks2OG1pM24zQWRaRGpQVXUtYV9YYUhNRkpVeWVHNHJGWEk4aFV6WGVsNlZpVlo3dlVEZy1qOEdzRmQ2RGVKR3hXdHZkV1BUdVM?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-a8f8285c",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Oregon lawsuit alleges X's AI tool Grok generated sexual images of children | Full news conference - KGW",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQzFWR1BZOTI5SnV4T1g3ODVHZXY2STBoU3dVTjUzOWE0bGVlZUVMQVRtUnNQWDdCNVdKd25UM1VkZlFBTjlicWlTT1FxdDIyeUY2YmpWb09iUGZMTUxzQkFrRUo2NjJlNmFLQkdpTTNkT1lmc0xMcXY1d3NCWWpZaUgydmt2Umh4dFJXSzBfSWc2YzdfR0ZyMUJ5d28wZHB0YjZzZjBjZTRMSkpJakc1RXA4ZmhBS3dpZS1OdWRVTTFmZDBmeXNGUFp2eDJXVEN5ZGpIZUxNcFRzenNuWW9zQ0UwM0N5UDZzOTZXZ1JycGNvaVd0MmNnU0NQbTVtQnB3akRJ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-16c1a741",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Elon Musk's SpaceX Sued After Virginia Investigators Find Grok Safety Loopholes: AG - DailyVoice.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlhhYzRUZmhLcDd0LTFfWEFsazVNRjB3M0lqdUxDSjRjSDhpUnBTNXdFd0ZRYmF4NUNmOWhLQnpZMjJpZW9rTmlUWmN2aTNjRlJ6MGVqY1ZXNUcwZWw0dVdXSFp4eDJ5NmVxWFhLVVYxZ20tN28ycWZna3R4X2ZvS2Zwc2hUaFJlWjVF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-646d6c1f",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Elon Musk's SpaceX Hit With Lawsuits In Two States. Grok Accused Of Generating 23,000 Sexualized Images Of Children. - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXBmOUNmaFJOX1ZKS3NOQndLdnpweDQzelJIQnA3XzhQN2Nua01iaU1KckFSaGQtemV0WEZjbVhLWHdnZEdlRFdQZHNsbVMxeEFxT0VLSnREaVZrUHMzY1VXeVluQjM2NnAzMHZMZFRhTE5MR1AtYnFydzV4LTBhMTJPd2U2ZEJsdTRIRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0d3d089c",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon, Virginia sue Grok for allowing sexualized deepfake images - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnFuT2I3bEpNSFdfTmlqUmtxNUR6YmJUeXB1eFJxSHVVbExEbGVRb293M3pQdU9BS0dadnRjTElHdWRXdTNGNlh3Ul8xZ1pYZXlZeF9iT2ZKY2xDVmJqeVdtdlhEMUVPbTFaUkItemxzN3djclFSMkNlOFFFelJiYzVIS0xKcTQwb3NWTzBsdE4?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-448b0d14",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Elon Musk's xAI sued by Oregon, Virginia over Grok safety claims - KDRV",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ1JocktGWlZuTmRLOGtOaGhIZDNqQWdLS3ZjRzVNWGJQcUxaUVFLaWhvZ3kyZUxQN3lUUzNBRVdHQjFESktya0pDbDBEeWIzcXgyOWdVWFZSNFplNVZvSHFnSko1RklSZXo4UHhoeTgwZGdXcVV1cWVkcTREY0ZkTmkycWxUdHk1MlRTR1VpcHJsdEFzdjBqYnQ1ZmxYbXJEZzFOT0lQTzFlQVZsUGpCRi14QTFPeXNKWWMweEpNTk5IU2t4b0R4U3lVYWhWeVpEY1JkdWIzTHVrNXJkdHV1RQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-3cd39d5e",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Oregon AG announces lawsuit against SpaceX's AI product Grok - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWpkY2x3YzdSS3k4aXljVWZfSkRWSm5BY1hYd3NfMlJlVlVYb1dQMnpwZ1BXNTNpMUdWZnNEWkJyRjB1WHhhN1lCcnlQTjl5WG5fS1BoelR3d2NialRqN2IzcFRieDlYYVJLeEhLSHBseXdzdXlaSXdhY3NVNE9LTXl1bUd0VVFWWDhtZQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-92fe2fa8",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Virginia attorney general joins Oregon in lawsuit over Grok AI images - WCYB",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHRLRDBJRzNGaFhtRlYwUE9zZ2VycTdRNmhxY3JlNmRnM19DS1JVY1BXa3p3MWVuSEltaFNOVUQ0eGhYODJWeVpUYXFvTGktLTE2T2U2cEV2VmplVThDbzYxT3UtSUUyOG9xVkRnaVpxZVpVcnNBTUM0eUw4Znpjb0ROWVhGcnNLX19jeGJPYmJ6Ui13b2xCNU1fWkwtUQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-6c9ceb96",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit: Grok allowed AI-generated CSAM images - WAVY.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYlZiSzFPcFM4bTZDTWtQSlVUMHlOampxcVNrdGlzRXlGSnRzZ2dtTjh4VFlBeE9pMGxxQ3k0elB0NUdrOXZhdVNyWEFJcGRNZmUwTDJ6TmZIdHVlS29ya3NVcWpOM0l1V2ZNWjQyZmFwd2VHVzRoNlNoTm4zRFhFNUtSaFdmRW1VX0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
