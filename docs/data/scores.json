@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T03:40:46Z",
+  "last_updated": "2026-11-24T16:48:12Z",
   "scoring_version": "3.0.0",
   "methodology": {
     "half_life_days": 90,
@@ -485,8 +485,8 @@
           ],
           "items": {
             "A1": {
-              "intensity": 0.495,
-              "evidence": 0.982,
+              "intensity": 0.497,
+              "evidence": 0.987,
               "corroborating_sources": 3
             },
             "A2": {
@@ -615,7 +615,7 @@
           }
         }
       },
-      "events_count": 909,
+      "events_count": 920,
       "last_event_date": "2026-11-24",
       "top_drivers": [
         {
@@ -633,7 +633,7 @@
         {
           "item": "A1",
           "dimension": "compute_chips",
-          "intensity": 0.495,
+          "intensity": 0.497,
           "corroborating_sources": 3
         }
       ],

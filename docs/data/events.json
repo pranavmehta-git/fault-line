@@ -40666,6 +40666,61 @@
       "historical": false
     },
     {
+      "id": "evt-84280e2c",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon sues Musk\u2019s X, claiming Grok lacks safeguards for explicit deepfakes - OregonLive.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXNKV1RrX2UxNUdhV3lJOFRTc2cyWlNjb3BXVG55c1huX3g5aTNRTW42VHJpY0NHM2p3MVZ2aHdtbWs1UzZHM3RKTnBudnhtTUFwTHVfYW1Cb09HcVRsTG44RTVqSVJQNFYxNTJRX0ZfWS15RUNDV045Y0ZLcEZYRG5IMzdoQmFQdF9QUENwM21SMmotQ2tUZGVkbGREdXFRQWVjSmJpSmlzZE9SSXZ6MTV30gHGAUFVX3lxTE5Nb3ZBTmFrLUgyNXFaXzdKaHRyZEU4ZzZ3TXZETDFhU19pTXBLTm1yTUNKU21rOFp3cmV2R1JXMG1PY0FRYl9DUXNkbkJDR19PaTE3bHIxRWtvcjJRb2FvaVNEdjN6cnZpbEI2ajFpZUNrQUhQYVBVUXdaYmNnVGNPZ0Y3Tnk2ZDJkOVVMQWg5VzRSYldoM3RTTWh1YTlwV3NESk01UU94UXdWV2plajNmUXhCRk9ZVWhURUlLVU10RV9fVl8yQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-d960489a",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia sues SpaceX, X and xAI over explicit, child exploitation deepfakes made by Grok - FOX 5 DC",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGk3NDRPMmxIaWZHcEttQktCVVRSYkV6bmhKMVJfTDMxcXZmOUxvTkk5azN3Yl93MGtjQjZZSDkxQjZOVDh5TWpPVFhWVF9LQ21DYm83a0M1YlFvdkNiekVjYkYxSHByZGFKWWl1dVBvWFh3X0x4TFRpV2lHR0xTRHRqNmItVXlfYV9uRjhlbEZ0QXJtSXlJVFhORQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-469f2d50",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon And Virginia Sue SpaceX, Alleging Grok\u2019s \u2018Spicy Mode\u2019 Allowed Pornographic Deepfakes - Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHNVTGFEdjl3dnh2NkRyRGJ1ektNdkVtWHpYM0hiVXMydjBCbElRc2Q4NERMTnN3dVFiTjFvcnJiQWxLOG1oUkhCc1Q2MzJJbFk1a2M4TF9JWHNwVjNmZ1VfMi1tb3kxUEladFI3MUhRSlN5WTFTY3owTmNnRHFQeEpHNUpERUlTcXJ0bWRmSWZ1em1oT2ZTTzcybElBbGhhRW13eE1IckRiblc5dzR2dFQwQlEyMEJudGFxdDhxM0lBVWp2aU1EYkQ2SVFaMlZzUDR3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-92fe2fa8",
       "date": "2026-11-24",
       "lab": "xai",
@@ -40692,6 +40747,164 @@
       "dimension": "cloud",
       "summary": "Lawsuit: Grok allowed AI-generated CSAM images - WAVY.com",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYlZiSzFPcFM4bTZDTWtQSlVUMHlOampxcVNrdGlzRXlGSnRzZ2dtTjh4VFlBeE9pMGxxQ3k0elB0NUdrOXZhdVNyWEFJcGRNZmUwTDJ6TmZIdHVlS29ya3NVcWpOM0l1V2ZNWjQyZmFwd2VHVzRoNlNoTm4zRFhFNUtSaFdmRW1VX0E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-4bc1171f",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX Face 2 Lawsuits Over Grok\u2019s \u2018Spicy Mode\u2019 That Sexualized Women and Children - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjdoa3dNMVRuV19YaHRtc3dkUGJTU29wSkdvcF9BWmQzcElfTTU0NTRjZnQ5Q2JrYV9hdHdPVC1JUF9SQkduQnFuNjNyZHplMERDR2F0NHctdnlpdE1PWmM4elhvbExWbThNZHVBS1NLQlBSS1ltS1Z5MlNYV0ticlhmNGZSajlTLUVIZW1JdUQ4NDUybzNucVB3ZEZQWnFEWndLb3JReTFVUEh5cnpoNkVSdkdWYkdDOGVCQXloUmFicDNHMnpKRUJR?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-91bc4752",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuits target SpaceX over Grok deepfake capabilities - SC Media",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVI4VnZPZXhCLVc5OHlTY2hTdWxDSWZ0WFo0V3owbXpMUUppVGFyN2E3UXB1ZlBZNVQ0VThUbVRoZmtWaFYzYmJBRmF2d3NTdlgtcEJwVXhIU3o2OXU2dFBOeGdocVZnMzB6cWtqaURBUHdmX19Oc3RpZmZTbGdtd0lRcnlndW9oS3Zfag?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-cc97a184",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok AI Lawsuits: States Allege Image Abuse, Safety Failures - IndiaWest",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVThuc1lwd2JKVExUR0FFQ2Fwa1BSN2hOeXAzMENmcE9ZbUU0T25zOGZnOVh3WDRaX0t1WEN6M0F4NkROa3F3alRQSjZhWDdQN0F3MnpEQXJQc1RUUURGSUNFdlJ1N0MwX3B6Y21veVREZlRsSzM1R0p3MlBRdjJFZWlmbTNhb2o1bnRYS2FBZ3Q?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws",
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-502276f7",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Virginia, Oregon Sue SpaceX Over Grok Sexual Images, Allege Safety Claims Were False - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUVVNGk4b2ttZV9IY25zdElVUzhOeS0xRS1UeTgzWXMtSE5oSE1wZ0NtaUszR0p4ZGFGNWFneUktcDgxeVVKNkc2MW9UM2pXb0tOM2syaU1fSmFsVFJNZGVYYmRFWGgxby16WDVoQUdrc1UtLVY2SGJkUDl0WjFENGl4WlNLT3RfTG5DRktweF9mLVFpQzRRTFNlZUs1UGlCWGFyelNEY3VsZjI0aHczZGRtNUM5Tm1nSHFRcHZGdnJZZllhV2Z1V05tVUFxdkhrWUpF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-1e1cafe3",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "SpaceX Compute Rentals Outearn Grok as Musk Ranks Revenue Per GPU Above Benchmarks, NYT Says - Tech Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU01pcDBEeVBoNUlocTNQb3FXUVhqWHliaGdZbjR3RURWbV9XVEpDZ0ZUQ25ZNzBISzRJZGVOM0ZWdXphcThnTERRZ25MSmRrUXhXUHJ5aGVKX2F5RkxvRUg3eFpSaUlLTFhYSGFRUmRkb0tueWdsSGZONEEyYVFyQTltRnpJaFBiZG9FZld3WDI3bTZxb21hU192TWJXT2NKdGotZVNsLVkweUtWVzFUYVdGNjJXV3NFSDRFdmI3QUMxcjFtMkRUSU1EQlNDNlVsYVVSV0dzRUZibTA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "gpu",
+        "revenue"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-408803cc",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "SpaceX Faces Consumer Protection Lawsuits Over Grok\u2019s Sexual Deepfakes - Lawyer Monthly",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOV8wcGhWaS1qNE9yUkdpR2U4VWxUQVpSYkR1WjhUZERHcjdWQ1Rqa2FKZ0g4dl8tWi1iZ0Y1TEcxVzVSUHd5dmdpNEVCZTJncnJyT2NkTVB2NndZZ2FoOG5YTWQzQi1oTDAwVDdBWUE4bXZyaEJVc0dNWFBtYXhkV0FNbDZwV09iNW5EMElPSGQwMGh5RU9qWHc4ZDJfU1Q2cnJ0czFxMFE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-0c9cfb1f",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "More details emerge in dispute between Labour MP and xAI over Grok deepfakes (via Passle) - Slaughter and May",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRncwMXV1c1o2amM0bmR4M1lFMDA1eG5aUnhFaE53dzhFTll6cWNBc0htSi1IdjFiWnViVTRYRl9mNlkzaDBudmJNVXB4dlZaWDBSVnNEaEgxanV0ZU1fZ2twY2Y1ZmlGTHFCRDQ1Z0NIWjA0Si1aWUlRdG1RNU1sYVdmdHRMdERmMjF2MS1WZjcwaExlajd4cC15SjJkVFo5WVZYNTdrQlkwRTRVaFVDRUUxM2hUcDNyRE5qaDhuN3M2LUU?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-714c26e6",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok faces US lawsuits over alleged non-consensual AI images - YourStory.com",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82WDItRmU5ejZhZ0w0bGhBVFhfam1RR0tLeDBqZW5qcjdnTnB5S21UajA3LWdRQ29HZnhCd1pVRzFBWlNhREZlOUpsNTVBVjVwZGViZGZWM0RRQXFpVmMxS0p0MnhRb2FjU1dvS2MtbUxfbWQyVlhRMw?oc=5",
       "source_name": "Google News - xAI",
       "impact": 0,
       "checklist_items_affected": [
