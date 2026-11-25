@@ -40721,6 +40721,46 @@
       "historical": false
     },
     {
+      "id": "evt-a745f868",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuit: Companies behind Grok allowed AI tool to create non-consensual sexual images, CSAM - WRIC ABC 8News",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1ZRanJzMGZ0ZTdYbmI4MlZCbVRxZmxwTF9uT2h5VVhoZExNSDZsRDBubVN4VHgxdjA5czhsV211ZGRJMldoLXBkeFg2SWpDNWJ0WkNkai1qV3JEMUMxV1pLV19GVGdBcWo0Qm5ycFp0TVQyeHJ0cjRxMmxOXzd3VFl6SDgtWDZFZVJ5b0NwYU0yY2RXLS1qMmdUczhHUVVxUGpzeVB2eHVJLWZHZUhpNUNLY0ZUM3fSAbwBQVVfeXFMTUN4OFd4Wkl0SXROQlBDQ3hXOXV0Qm9qLUFDaTNzdjF2eF80SmtIOTFYd2w1a0ZuSXB4eEFUU3B6YThSZjdDcWQxWWxrZFdtaURaWU1hX2dsUnJOeldVSWZ5cFgzc1JwMlJWWVpRU3QxbzlfRU9wTkZ0RV9CRU5GYjgwVUw5VTlOazc3cGd5Z3JkSkw3Zjl5dWZwOUlfTjQtakVPSnY3SndBRURmREtTSDlDLV9kNDN3S2FrcXk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f6512453",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Lawsuits allege Musk\u2019s Grok AI had 'spicy mode' built to produce nudity - Scripps News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3Nsd0w4SmxDV1VCOWVXWnNUeGh5bTlOajcyMnp5S2REWldJVG1CT18xZG1vRnhRQzMyWG00YUg1aEZHcks3SGxRVzJMWF93N3BZQzhHNm5oMkh4ZVhhbHRtY1Bobi10RG1ZdkpHTnlWOGJsVnJfRUdZRXQ1cnhKelE1anlwaTlsYm9hUVZWRWh3MTJlWUc3RTZ3anNrenRWOHh3MkpxTDhGcFFmMkd1S19FSUdyWkQ5eUFISE1pZlFsenJ2NWlvSGtBZldCQVpvb1VZ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-92fe2fa8",
       "date": "2026-11-24",
       "lab": "xai",
@@ -40913,6 +40953,82 @@
       "confidence": "low",
       "tags": [
         "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-69d81d0f",
+      "date": "2026-11-24",
+      "lab": "anthropic",
+      "dimension": "demand",
+      "summary": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "D2"
+      ],
+      "confidence": "medium",
+      "tags": [
+        "valuation"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c5c9970e",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Users Digitally Removed My Hijab and Made Sexual Deepfakes of Me. Now I\u2019m Suing Elon Musk\u2019s xAI - Cosmopolitan",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFR2xHUzJQTkg4NTh0aDlaM2pNV1hXeFVOb00wWVhQdXgwcTNnQnB2ZjFMZGZZckN5MnhpZXdrZ00wX3dJeVhwRE9LaG94QUdCNWFZMk11VTFJbmVaNFZ2bGRydzJMQkZJbXBSMFltbE1kREc5SVVSRHI4UQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-c320eed3",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Democratic attorneys general sue over Grok AI safety measures - cbs19.tv",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTG5ZNXRNS0E3dldlZHdZNUdmdVA5N3ZkSk9tRHFlMmgyRGNuWkFHSmJJVzJ5NEtoUGtjQmJfenliWWJwR2pQTjF6d1VrQm5WOVNZeEhFdlpseEF0U29vWFRMSlp1aFItSTlLZXN0dml5Vjg4VkVMbHdnUlRUNjdmUElmbTdOVDJpNk85ZG1NS2FreGF3M09lcjBWSmhhYzlGdWN5T013Mml5enUyNG41NVFVQmMtSE9lUm5YZElMaTRzSklQTFVfSWw1dWlmbEVhTGRjUWNmTQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-499c0198",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "compute_chips",
+      "summary": "Jensen Huang is Back and Grok AI Predicts a Huge Nvidia Rally - Tokenist",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzl3azA0OTlFbktJUG9MUGhBZVQ3OTFfWU9rLUw4cXhrMjd3S3hINUNoSVZTSlZzV0FZZzZpRk9seGtIMUJvREItSlRfQ0VqVUdKYW1xTFVHOGlnSUoxYW9mYjMzazNMOThudlRHanNXdUpMSHBMN2t5UUFheWh2OVFSSWNRcU0zcGxnZ1ZvSDlfclhCNkd0eHM4OVpfQlE4Vk9IMG5HWk9IYTRVeVl3?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "A1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "nvidia"
       ],
       "source_type": "news",
       "auto_classified": true,
