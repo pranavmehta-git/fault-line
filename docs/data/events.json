@@ -41033,6 +41033,82 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-f1f3532a",
+      "date": "2026-11-25",
+      "lab": "xai",
+      "dimension": "policy",
+      "summary": "Grok Explained How to Bypass Safety Filters, States Say. Are Your Pictures Safe? - All About Cookies",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3RHd3QVRsbFRtS1FOVm5iMnpjS0xUMTQ0cGRxNk1qRTkyenBvMFhVYmcxRzBaY1JHUGVuaV9ONEpZalFHTUw1aEc0MS1iUEVxeVdiSjI3UXpqS2ZRN2lqNXJWOXkxUzNPNGlfUA?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [],
+      "confidence": "low",
+      "tags": [
+        "safety"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-861f5e13",
+      "date": "2026-11-25",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok deepfake lawsuits: What Oregon and Virginia seek - NeoTeo",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjA1V3NCbVlVcHhtVkJWN3VKeHJKck1PeDROMDVMa0JfdENWbG1VSWF6RmNLRVVzeUxkYUhQZjRSR1ZJUGpMTEJmRlFOSFMzYWs3Y3ZaNmJrVkZuTjdSbHBucE1Lem1WbzI1LVFrVVVESm5aVnVmOWlnV2VVWDN1YnJNdjk?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-8597f180",
+      "date": "2026-11-25",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok's 'bags of meat' comment draws Ultron comparisons on X, Elon Musk responds - Industry Odisha",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEJrZUV1TVNydWtMc2VFSkVlWWNtZnJxaWJMYlc3U2t0NjhPUWptakM5VUNjS0VrbnVJblR6amNyMUF6Q2I2UGtBZjAwb2pNOEViak4tRFNGdUxzcTFxZTB5M0hsWmN3QkhnalhXX2xvZTRCbHVfZlZ3OFdxZXZlY2lmalp0RTMtTlBNTHh5c2RWTjRBUGJBTWQ5Z3dkRGF2SmhWWG1mUjZpWS1xbkN1OVdReGNsQ1hpWVE?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-593671df",
+      "date": "2026-11-25",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Virginia and Oregon Sue SpaceX Companies Over Alleged Grok Sexual Deepfakes - WABC Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWU1Z1RQRkRERHBFYm1iMVJ3VC1Wbk9KVkFpSEFiZ280ZWRsUUhUNmtBM2FpUFdpLWJnck1zSXhSbXh2VFZMdVpoSFBwaWZfUW5odGVZYS1oSGxCM254VTc3eVRwYzM5aEFCdjZVbVB5bEJxV3VESkw0SDNEWkVqcUR0Zk10cVNtdUVEeGpfZ3poYkJldHRtSzNVTFNrWTdxcHZWYkh3RlRtU1BGRHc?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
