@@ -41145,6 +41145,26 @@
       "source_type": "news",
       "auto_classified": true,
       "historical": false
+    },
+    {
+      "id": "evt-33ec1e3c",
+      "date": "2026-11-26",
+      "lab": "openai",
+      "dimension": "policy",
+      "summary": "OpenAI Hires Epic Games Lawyer For Musk Antitrust Trial - Dataconomy",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDBRdjVpMW1QOEV3bzhXb25fdjJQbHp2UlRDWV9HeUJweXRUdTU2Zi1pMnZ2VEU5YlB0SVEweFc1TWtJamNoaW9mUk9pLXZDalBSdElSVXpoNE11cmxOczIzUl9pakNfdEhBQmJ3TFM2SENPYUtRNXJycEdBUzZKQ2tsMnhoZ3hGTTFFcEY4bFJwLVIw?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "C2"
+      ],
+      "confidence": "low",
+      "tags": [
+        "antitrust"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
     }
   ]
 }
