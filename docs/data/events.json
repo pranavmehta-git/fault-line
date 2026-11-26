@@ -41035,6 +41035,24 @@
       "historical": false
     },
     {
+      "id": "evt-9cd276d6",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Grok Users Digitally Removed My Hijab and Made Sexual Deepfakes of Me. Now I\u2019m Suing Elon Musk\u2019s xAI - Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHFNZkk5MVhOMTNfVF9TaUd2WFJ2RHlkSUFrU09VMDZROS1ZcGJCWm1aX1lfdkIteFBSMlpaVTZ2dnhJSzNuaVc0WmhGMVNJd1RNS0x5anBwU3dESl9TV0RHQUF2UTM2bEFpblV2YlkwSkxrUWctcW9ZM05DQzJicjR1cHJuMjJITkdtVWJZYnFIQQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f1f3532a",
       "date": "2026-11-25",
       "lab": "xai",
@@ -41105,6 +41123,24 @@
         "F1"
       ],
       "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-2efbefd5",
+      "date": "2026-11-25",
+      "lab": "anthropic",
+      "dimension": "societal_impact",
+      "summary": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source_name": "TechCrunch AI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "medium",
       "tags": [],
       "source_type": "news",
       "auto_classified": true,
