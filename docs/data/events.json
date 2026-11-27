@@ -41053,6 +41053,26 @@
       "historical": false
     },
     {
+      "id": "evt-a8bd055f",
+      "date": "2026-11-24",
+      "lab": "xai",
+      "dimension": "cloud",
+      "summary": "Grok child sexual abuse scandal: Musks companies face twin lawsuits over AI-generated explicit images - A News",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb0E4c2RGME8xcGttYVpseGpuTXlJQW1FZDEwV0d6SVFPelpKSWNIelg3b0txUVo1N3dTeTVmQVRaV0RQWmduczl4QmpvbXFHWlR2dl9RU0JPREZwTGVFRktDTjZna0RvS0d6VHU5R3dnRHBRWll1RHlQY2pqdGdKZjV1b2VraDliTkRCV3FjZVZwUVkxQkdIRzhjVFphWjVLRGlvTkNKWENyaDV4UjNDaTRwVjRfTEFLcy1pMjFfS1c0TkZYd2FDRDFyWlpjdTJ3N0ZJaVBCN2E?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "B1"
+      ],
+      "confidence": "low",
+      "tags": [
+        "aws"
+      ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-f1f3532a",
       "date": "2026-11-25",
       "lab": "xai",
