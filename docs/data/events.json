@@ -40761,6 +40761,24 @@
       "historical": false
     },
     {
+      "id": "evt-acc6f15e",
+      "date": "2026-11-23",
+      "lab": "xai",
+      "dimension": "societal_impact",
+      "summary": "Oregon, Virginia sue Grok for allowing sexualized deepfake images - upi",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHZWZ6YUlCbTY1WmZWUksta01lYjVhMG14NnMwM0Zya1d1M2RTMlhNVTNORG1aZlBvUnQ3cnVnUHB0Nzlpa0o3WFFmUFcxbk5zN3hLYWVTZ3JkVnlDRXFtVG9ZMGFFWkRrSGNNd2F0V1Q2TW1QZHBMaDBB0gF_QVVfeXFMUEwwVFJwdjAtdm1ZU3pSUEJ4M1hIU3F0ZGRmd0lKbmhpYk91bDNyQUN0YmdZUEUyRUhEcjVNdkx6OGtMUVNVMURranRBUkJMYzRiVklQUjVxMkI3ZmZPODhsbmFnbnl1TFVhZWZjY0hrV3AwVFExeVduZU1KYmNqRQ?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "F1"
+      ],
+      "confidence": "low",
+      "tags": [],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
       "id": "evt-92fe2fa8",
       "date": "2026-11-24",
       "lab": "xai",
@@ -41182,6 +41200,24 @@
       "tags": [
         "antitrust"
       ],
+      "source_type": "news",
+      "auto_classified": true,
+      "historical": false
+    },
+    {
+      "id": "evt-f51ea8f9",
+      "date": "2026-11-27",
+      "lab": "xai",
+      "dimension": "talent_governance",
+      "summary": "Grok Bot adds travel bookings through Sabre, plus higher limits and new connectors - Crypto Briefing",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOX05aeWRCbU85TmZFLVUyU25VdG9WeEd3ZWg4b25EUmJQZW5Zem9MdnU2akM1OFhCNVNmM0JHZkhYVjllQ0RhMjVrdVNSc1RhSEtIQ0VlV09EVHVpWk5sbWhRbHRmQlJFWmFVZTNMWUU2YUp1Y2xF?oc=5",
+      "source_name": "Google News - xAI",
+      "impact": 0,
+      "checklist_items_affected": [
+        "G1"
+      ],
+      "confidence": "low",
+      "tags": [],
       "source_type": "news",
       "auto_classified": true,
       "historical": false
